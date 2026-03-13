@@ -1,0 +1,44 @@
+[project]
+name = "ContentMigrator"
+version = "0.1.0"
+description = "Content Migrator script to migrate the data."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "azure-cosmos>=4.9.0",
+    "black>=25.1.0",
+    "flake8>=7.3.0",
+    "isort>=6.0.1",
+    "pydantic>=2.12.0",
+    "requests>=2.32.4",
+    "python-dotenv>=1.0.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+]
+
+[project.scripts]
+lint = "flake8 ."
+format = "isort . && black ."
+
+[tool.uv]
+package = false
+
+
+[tool.black]
+line-length = 88  # Default line length in black (matches the flake8 config)
+target-version = ['py310']  # Adjust for your Python version (e.g., py39, py38)
+exclude = '''
+/(
+    \.git              # Exclude .git folder
+    | \.tox             # Exclude .tox folder
+    | \.venv            # Exclude .venv folder
+    | build             # Exclude build folder
+    | dist              # Exclude dist folder
+    | migrations        # Exclude migrations folder
+    | tests             # Exclude tests folder (optional)
+    | library_name      # Exclude a specific library
+)/
+'''

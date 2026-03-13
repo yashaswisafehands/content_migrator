@@ -1,0 +1,7 @@
+.DS_Store
+temp_data
+media_storage
+venv
+.venv
+__pycache__
+__pycache__/
