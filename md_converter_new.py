@@ -764,6 +764,9 @@ def convert_action_card_to_markdown_files(
 
     for chapter in chapters:
         chap_title = chapter.get("description")
+        if chap_title:
+            for v in versions.values():
+                v.append(f"## {chap_title}")
         
         cards = chapter.get("cards", [])
         if not cards and ("content" in chapter or "adapted" in chapter or "translated" in chapter):
@@ -786,6 +789,9 @@ def convert_action_card_to_markdown_files(
                 translated_card = adapted_card if adapted_card["md_text"] else content_card
             if translated_card["md_text"]:
                 versions["translated"].append(translated_card["md_text"])
+
+        for v in versions.values():
+            v.append("---")
 
     out_paths: Dict[str, str] = {}
     allowed_set = set(allowed_versions) if allowed_versions else None
