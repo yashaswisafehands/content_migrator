@@ -793,7 +793,7 @@ def convert_action_card_to_markdown_files(
     for version_name, parts in versions.items():
         if allowed_set and version_name not in allowed_set:
             continue
-        if not parts or len(parts) <= 1:  # Only header, skip
+        if not parts:
             continue
         
         translated_suffix = language_slug or "unknown"

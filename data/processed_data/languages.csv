@@ -1,3 +1,3 @@
 cosmos_id,language_name,autonym_script,learning_platform,country_code,country,region,latitude,longitude,created_by,icon,image_prefix,video_prefix
-6a146956-9f21-206a-98cf-55db7b0a8301,French,fran�ais,TRUE,WHO,WHO,africa,0,0,juliemollar@maternity.dk,,africa,french
-6a146956-9f21-206a-98cf-55db7b0a8301,French,French,True,WHO,WHO,africa,africa,,0,0,nanna@maternity.dk,
+7ec65d25-3edc-dde4-c066-dfe92c798404,India - English,India - English,TRUE,IN,IN,india,20.593684,78.96288,sonel@afidigitalservices.com,,india,India english
+7ec65d25-3edc-dde4-c066-dfe92c798404,India - English,India - English,True,IN,IN,india,india,,20.593684,78.96288,sonel@afidigitalservices.com,

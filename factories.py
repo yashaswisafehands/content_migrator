@@ -821,12 +821,16 @@ class DataFactory:
 
             q_type = q.get("quizzType", "singleCorrect")
             
+            raw_link = q.get("link") or ""
+            link_type = raw_link.split(":", 1)[0] if ":" in raw_link else None
+
             questions_payload.append({
                 "question_id": q.get("key", str(uuid.uuid4())),
                 "question": q_content,
                 "quizz_type": q_type,
                 "icon": icon_asset_id,
-                "link": q.get("link", ""),
+                "link": raw_link,
+                "link_type": link_type,
                 "show_toggle": q.get("showToggle", False),
                 "essential": False,
                 "description": q_desc,
@@ -1115,7 +1119,7 @@ class DataFactory:
         resources = []
 
         # Extract basic info from GLOBAL (identity + original content)
-        # Use global_doc for title/description, action_card_doc for markdown
+        # Use global_doc for title/description if explicitly passed, else action_card_doc
         identity_doc = global_doc if global_doc else action_card_doc
         description = identity_doc.get("description") or identity_doc.get("title") or "Untitled Resource"
         

@@ -45,6 +45,8 @@ class ResourceMigrator:
         
         # slug -> resource_id
         self.resource_slug_mapping: Dict[str, str] = {}
+        # cosmos_key -> slug (for linking resources to modules after queuing)
+        self.cosmos_key_to_slug: Dict[str, str] = {}
         self._resource_mapping_path = get_mappings_file("resource_slug_mapping.csv")
         ensure_parent_dir(self._resource_mapping_path)
         # Queue file for resource POST payloads (sanitization step)
@@ -459,38 +461,35 @@ class ResourceMigrator:
             if not key:
                 continue
                 
-            # 1. Fetch GLOBAL Doc (Identity)
-            global_doc = self._fetch_table_doc("procedures", key, "")
-
             # ──────────────────────────────────────────────────────────
-            # STANDALONE DETECTION: If this is a localized module and
-            # no global doc exists, this procedure is standalone.
+            # LOCALIZED ENFORCEMENT DOCTRINE
             # ──────────────────────────────────────────────────────────
-            is_standalone = bool(cosmos_lang_id and not global_doc)
-            if is_standalone:
-                print(f"  → STANDALONE procedure detected: '{key}' (no global original)")
-            
-            # 2. Fetch LOCAL Doc (Content)
             if cosmos_lang_id:
                 proc_doc = self._fetch_table_doc("procedures", key, cosmos_lang_id)
-            else:
-                proc_doc = global_doc
-                
-            if not proc_doc:
-                if cosmos_lang_id:
-                    print(f"Skipping procedure '{key}' — no version found for language {cosmos_lang_id}.")
+                if not proc_doc:
+                    print(f"  ⚠ SKIP: Localized procedure '{key}' not found in {cosmos_lang_id}.")
                     continue
-                proc_doc = global_doc
-            
-            if not proc_doc:
-                print(f"Warning: procedure '{key}' not found.")
-                continue
-
-            identity_doc = global_doc if global_doc else proc_doc
+                # For localized docs, identity comes from global parent, but we do NOT fallback content
+                global_doc = self._fetch_table_doc("procedures", key, "")
+                if not global_doc:
+                    print(f"  ⚠ STRUCTURAL VIOLATION: Global parent missing for localized procedure '{key}'. Skipping.")
+                    continue
+                identity_doc = global_doc
+                content_doc = proc_doc
+                is_standalone = False # Standalone concept is abolished under strict invariant
+            else:
+                # Global Module Parsing
+                global_doc = self._fetch_table_doc("procedures", key, "")
+                if not global_doc:
+                    print(f"  ⚠ SKIP: Global procedure '{key}' not found in Cosmos.")
+                    continue
+                identity_doc = global_doc
+                content_doc = global_doc
+                is_standalone = False
 
             # 3. Generate markdown from cards
             resources = DataFactory.create_action_card_resources(
-                proc_doc,
+                content_doc,
                 global_doc=identity_doc,
                 language_id=cosmos_lang_id, 
                 resource_type="procedure"
@@ -499,7 +498,7 @@ class ResourceMigrator:
             best_resource = self._select_best_resource_version(resources, cosmos_lang_id)
             
             if not best_resource:
-                print(f"Warning: No resource created for procedure '{key}'")
+                print(f"  ⚠ Warning: No valid Markdown payload created for procedure '{key}'")
                 continue
 
             # 4. SLUG SOURCE - From Global TITLE (not description)
@@ -567,39 +566,40 @@ class ResourceMigrator:
             if not key:
                 continue
                 
-            # 1. Fetch GLOBAL Document (Identity - for slug and original title)
-            global_doc = self._fetch_table_doc("drugs", key, "") 
-            if not global_doc:
-                global_doc = self._fetch_table_doc("Drugs", key, "")
-            
             # ──────────────────────────────────────────────────────────
-            # STANDALONE DETECTION: If this is a localized module and
-            # no global doc exists, this drug is standalone.
-            # For global modules with no doc, we must still skip.
+            # LOCALIZED ENFORCEMENT DOCTRINE
             # ──────────────────────────────────────────────────────────
-            is_standalone = bool(cosmos_lang_id and not global_doc)
-            if is_standalone:
-                print(f"  → STANDALONE drug detected: '{key}' (no global original)")
-            elif not global_doc and not cosmos_lang_id:
-                print(f"Warning: Global drug '{key}' not found. Skipping.")
-                continue
-
-            # 2. Fetch LOCALIZED Document (Content - for markdown from cards)
             if cosmos_lang_id:
                 content_doc = self._fetch_table_doc("drugs", key, cosmos_lang_id)
                 if not content_doc:
                     content_doc = self._fetch_table_doc("Drugs", key, cosmos_lang_id)
-            else:
-                content_doc = global_doc
-            
-            if not content_doc:
-                if cosmos_lang_id:
-                    print(f"Skipping drug '{key}' — no version found for language {cosmos_lang_id}.")
+                
+                if not content_doc:
+                    print(f"  ⚠ SKIP: Localized drug '{key}' not found in {cosmos_lang_id}.")
                     continue
+                    
+                global_doc = self._fetch_table_doc("drugs", key, "")
+                if not global_doc:
+                    global_doc = self._fetch_table_doc("Drugs", key, "")
+                    
+                if not global_doc:
+                    print(f"  ⚠ STRUCTURAL VIOLATION: Global parent missing for localized drug '{key}'. Skipping.")
+                    continue
+                    
+                identity_doc = global_doc
+                is_standalone = False
+            else:
+                global_doc = self._fetch_table_doc("drugs", key, "")
+                if not global_doc:
+                    global_doc = self._fetch_table_doc("Drugs", key, "")
+                
+                if not global_doc:
+                    print(f"  ⚠ SKIP: Global drug '{key}' not found in Cosmos.")
+                    continue
+                    
+                identity_doc = global_doc
                 content_doc = global_doc
-
-            # For standalone drugs, use content_doc as identity source
-            identity_doc = global_doc if global_doc else content_doc
+                is_standalone = False
 
             # 3. Generate Markdown from content_doc's cards[].translated structure
             # DataFactory.create_action_card_resources handles this correctly
@@ -811,31 +811,38 @@ class ResourceMigrator:
             if not key:
                 continue
             
-            # 1. Fetch GLOBAL Doc (Identity Source)
-            global_doc = self._fetch_table_doc("key-learning-points", key, "")
-            if not global_doc:
-                global_doc = self._fetch_table_doc("keyLearningPoints", key, "")
-
-            # 2. Fetch LOCAL Doc (Content Source)
+            # ──────────────────────────────────────────────────────────
+            # LOCALIZED ENFORCEMENT DOCTRINE
+            # ──────────────────────────────────────────────────────────
             if cosmos_lang_id:
                 klp_doc = self._fetch_table_doc("key-learning-points", key, cosmos_lang_id)
                 if not klp_doc:
                     klp_doc = self._fetch_table_doc("keyLearningPoints", key, cosmos_lang_id)
-            else:
-                klp_doc = global_doc
-            
-            if not klp_doc:
-                if cosmos_lang_id:
-                    print(f"Skipping KLP '{key}' — no version found for language {cosmos_lang_id}.")
+                
+                if not klp_doc:
+                    print(f"  ⚠ SKIP: Localized KLP '{key}' not found in {cosmos_lang_id}.")
                     continue
+                    
+                global_doc = self._fetch_table_doc("key-learning-points", key, "")
+                if not global_doc:
+                    global_doc = self._fetch_table_doc("keyLearningPoints", key, "")
+                    
+                if not global_doc:
+                    print(f"  ⚠ STRUCTURAL VIOLATION: Global parent missing for localized KLP '{key}'. Skipping.")
+                    continue
+                    
+                identity_doc = global_doc
+            else:
+                global_doc = self._fetch_table_doc("key-learning-points", key, "")
+                if not global_doc:
+                    global_doc = self._fetch_table_doc("keyLearningPoints", key, "")
+                    
+                if not global_doc:
+                    print(f"  ⚠ SKIP: Global KLP '{key}' not found in Cosmos.")
+                    continue
+                    
+                identity_doc = global_doc
                 klp_doc = global_doc
-                
-            if not klp_doc:
-                print(f"Warning: key learning point '{key}' not found.")
-                continue
-                
-            # Identity doc is global, fallback to local if missing
-            identity_doc = global_doc if global_doc else klp_doc
             
             # 3. Extract Data & Predict Slug from IDENTITY (Global)
             # Legacy logic uses level in slug: backend_build_slug(level, title)
@@ -895,6 +902,8 @@ class ResourceMigrator:
                     else:
                         # Remove unrecognized links
                         del q["link"]
+                        q["link_type"] = None   # ← null both together
+
             
 
             
@@ -955,7 +964,7 @@ class ResourceMigrator:
             # language manifests to include resources that don't belong to that language
             # with wrong-language content in 'translated' fields.
             if lang_id:
-                print(f"  ℹ️  No {table} document found for key '{key}' with langId='{lang_id}'. Skipping (no global fallback).")
+                print(f"  ℹ️  No {table} document found for key '{key}' with langId='{lang_id}'.")
 
             return None
         except Exception as exc:
@@ -1098,21 +1107,9 @@ class ResourceMigrator:
             if not action_card_key:
                 continue
                 
-            # 1. Fetch GLOBAL Doc (Identity Source)
-            global_doc = self._fetch_table_doc("action-cards", action_card_key, "")
-            if not global_doc:
-                global_doc = self._fetch_table_doc("actionCards", action_card_key, "")
-
             # ──────────────────────────────────────────────────────────
-            # STANDALONE DETECTION: If this is a localized module and
-            # no global doc exists, this action card is standalone —
-            # it only exists for this language/module combination.
+            # LOCALIZED ENFORCEMENT DOCTRINE
             # ──────────────────────────────────────────────────────────
-            is_standalone = bool(module_language_id and not global_doc)
-            if is_standalone:
-                print(f"  → STANDALONE action card detected: '{action_card_key}' (no global original)")
-
-            # 2. Fetch LOCAL Doc (Content Source)
             if module_language_id:
                 # Use DataFactory.get_action_card_data which exists in factories.py
                 action_card_doc = DataFactory.get_action_card_data(
@@ -1121,17 +1118,32 @@ class ResourceMigrator:
                     action_card_key, 
                     module_language_id
                 )
-            else:
-                action_card_doc = global_doc
-                
-            if not action_card_doc:
-                if module_language_id:
-                    print(f"Skipping action card '{action_card_key}' — no version found for language {module_language_id}.")
+                if not action_card_doc:
+                    print(f"  ⚠ SKIP: Localized action card '{action_card_key}' not found in {module_language_id}.")
                     continue
+                    
+                global_doc = self._fetch_table_doc("action-cards", action_card_key, "")
+                if not global_doc:
+                    global_doc = self._fetch_table_doc("actionCards", action_card_key, "")
+                    
+                if not global_doc:
+                    print(f"  ⚠ STRUCTURAL VIOLATION: Global parent missing for localized action card '{action_card_key}'. Skipping.")
+                    continue
+                    
+                identity_doc = global_doc
+                is_standalone = False
+            else:
+                global_doc = self._fetch_table_doc("action-cards", action_card_key, "")
+                if not global_doc:
+                    global_doc = self._fetch_table_doc("actionCards", action_card_key, "")
+                    
+                if not global_doc:
+                    print(f"  ⚠ SKIP: Global action card '{action_card_key}' not found in Cosmos.")
+                    continue
+                    
+                identity_doc = global_doc
                 action_card_doc = global_doc
-            
-            # Identity doc for safety
-            identity_doc = global_doc if global_doc else action_card_doc
+                is_standalone = False
 
             if action_card_doc:
                 cosmos_lang_id = action_card_doc.get("langId", "")
@@ -1392,6 +1404,10 @@ class ResourceMigrator:
         title_slug = slugify(cleaned_title)
         slug = build_slug("res", tag, title_slug)
 
+        # Track cosmos_key -> slug for module resource population
+        if key:
+            self.cosmos_key_to_slug[key] = slug
+
         if standalone:
             print(f"Queuing STANDALONE {tag}: {slug} (Source: '{source_title}') — no global original")
         else:
@@ -1568,66 +1584,8 @@ class ResourceMigrator:
         print(f"Queued KLP to klps.csv: {slug}")
 
     def _ensure_linked_resources_exist(self, default_region: str = "africa") -> None:
-        """Pre-process KLPs to create placeholder resources for unresolved links.
-        
-        Scans all KLP questions for video/drug/procedure links and creates
-        placeholder resources for any that don't already exist in the mapping.
-        """
-        path = self._klp_queue_path
-        if not path.exists():
-            return
-        
-        with path.open("r", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            rows = list(reader)
-        
-        if not rows:
-            return
-        
-        # Collect all unique unresolved links
-        unresolved_links = set()
-        language_id = None
-        
-        for row in rows:
-            # Capture language context from the first available row
-            if not language_id and row.get("cosmos_language_id"):
-                language_id = row.get("cosmos_language_id")
-                
-            questions_str = row.get("questions", "")
-            if not questions_str:
-                continue
-            try:
-                questions = json.loads(questions_str)
-                for q in questions:
-                    link = q.get("link", "")
-                    if link and self._resolve_link_ref(link, default_region) is None:
-                        unresolved_links.add(link)
-            except Exception:
-                continue
-        
-        if not unresolved_links:
-            print("All linked resources already exist.")
-            return
-        
-        # Resolve LME Language ID from mapping
-        lme_language_id = None
-        if language_id:
-            try:
-                mapping_path = get_mappings_file("language_mapping.csv")
-                if mapping_path.exists():
-                    with mapping_path.open("r", encoding="utf-8") as f:
-                        reader = csv.DictReader(f)
-                        for row in reader:
-                            if row.get("cosmos_id") == language_id:
-                                lme_language_id = row.get("lme_language_id")
-                                break
-            except Exception as e:
-                print(f"Warning: Failed to resolve LME language ID: {e}")
-
-        print(f"Found {len(unresolved_links)} unresolved links (Cosmos Language: {language_id}, LME ID: {lme_language_id}). Creating placeholder resources...")
-        
-        for link in unresolved_links:
-            self._create_resource_from_link(link, default_region, language_id, lme_language_id)
+        """Pre-process KLPs to create placeholder resources for unresolved links. (FORBIDDEN)"""
+        pass
     
     def _create_resource_from_link(self, link: str, default_region: str = "africa", cosmos_language_id: str = None, lme_language_id: str = None) -> Optional[str]:
         """Create a placeholder resource from a link and return the resource ID."""
@@ -1891,6 +1849,8 @@ class ResourceMigrator:
                         # Resource not found - remove link to avoid API error
                         print(f"  Warning: Link slug '{link_slug}' not in mapping, removing from question")
                         del q["link"]
+                        q["link_type"] = None   # ← null both together
+
             
             # Build KLP payload matching KeyLearningPointCreateRequest schema
             payload = {

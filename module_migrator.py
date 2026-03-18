@@ -1,6 +1,7 @@
 """Module migration functionality for Cosmos DB to LME migration."""
 
 import csv
+import os
 from typing import Any, Dict, List
 
 import requests
@@ -8,11 +9,13 @@ from azure.cosmos import CosmosClient
 
 from configs import PATCH_MODULE, POST_MODULE, JWT_TOKEN, ACTIVATE_MODULE_VERSION
 import time
+from csv_resource_map import load_module_resource_map
 from data_models import ModuleData
 from factories import DataFactory
 from path_utils import ensure_parent_dir, get_mappings_file, get_processed_file
 from resource_migrator import ResourceMigrator
 from slug_utils import slugify
+from bundle_loader import _download_content_bundle
 
 
 class ModuleMigrator:
@@ -23,6 +26,7 @@ class ModuleMigrator:
         cosmos_client: CosmosClient,
         container,
         language_mapping: Dict[str, Dict[str, str]],
+        module_resource_map: Dict[str, Dict[str, list]] = None,
     ):
         self.cosmos_client = cosmos_client
         self.container = container
@@ -30,14 +34,15 @@ class ModuleMigrator:
         self.resource_migrator = ResourceMigrator(
             cosmos_client, container, language_mapping
         )
-        # slug -> module_id
+        if module_resource_map is not None:
+            self.module_resource_map = module_resource_map
+        else:
+            csv_path = os.path.join(os.path.dirname(__file__), "module_resource_summary.csv")
+            self.module_resource_map = load_module_resource_map(csv_path)
         self.module_slug_mapping: Dict[str, str] = {}
-        # Queue file for module POST payloads (sanitization)
-        # Requirements: modules.csv in processed_data
         self._module_queue_path = get_processed_file("modules.csv")
         ensure_parent_dir(self._module_queue_path)
         self.queued_slugs = set()
-        # Store existing module data for merging (slug -> row dict)
         self._queued_module_data: Dict[str, Dict[str, str]] = {}
         self._load_queued_slugs()
 
@@ -58,7 +63,6 @@ class ModuleMigrator:
         except Exception as e:
             print(f"Warning: Could not load queued module slugs: {e}")
 
-    # Legacy staging method removed; replaced by queuing approach below.
     def migrate_all_modules(self, language_filter: str = None) -> None:
         """Queue module payloads only (no API calls).
 
@@ -81,29 +85,110 @@ class ModuleMigrator:
         print(f"Processing languages: {target_ids}")
         queued = 0
         for cid in target_ids:
-            modules = self._get_modules_for_language(cid)
             label = "global" if cid == "global" else cid
-            print("Found %d modules for %s" % (len(modules), label))
-            for module_doc in modules:
+            
+            if cid == "global" or cid == "en":
+                # For global/English modules, use Cosmos DB and module_resource_summary.csv
+                modules = self._get_modules_for_language(cid)
+                print("Found %d modules from Cosmos for %s" % (len(modules), label))
+                for module_doc in modules:
+                    try:
+                        self._migrate_single_module(module_doc)
+                        queued += 1
+                    except Exception as exc:
+                        name = module_doc.get("description") or module_doc.get(
+                            "id", "unknown"
+                        )
+                        print(
+                            "❌ Error preparing module %s (%s): %s"
+                            % (name, label, exc)
+                        )
+            else:
+                # For translated languages, download content-bundle.json and bypass Cosmos DB
+                print(f"Downloading content-bundle.json for translated language '{cid}'...")
                 try:
-                    self._migrate_single_module(module_doc)
-                    queued += 1
-                except Exception as exc:
-                    name = module_doc.get("description") or module_doc.get(
-                        "id", "unknown"
-                    )
-                    print(
-                        "❌ Error preparing module %s (%s): %s"
-                        % (name, label, exc)
-                    )
+                    bundle = _download_content_bundle(cid)
+                    bundle_modules = bundle.get("modules", [])
+                    print(f"Found {len(bundle_modules)} modules from content-bundle.json for {label}")
+                    
+                    global_module_keys = list(self.module_resource_map.keys())
+                    
+                    # Create the translated summary CSV
+                    translated_dir = os.path.join(os.path.dirname(__file__), "data", "translated_module_data")
+                    os.makedirs(translated_dir, exist_ok=True)
+                    csv_path = os.path.join(translated_dir, f"translated_module_resource_summary_{cid}.csv")
+                    
+                    print(f"Writing translated module summary to {csv_path}...")
+                    try:
+                        with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+                            writer = csv.writer(f)
+                            writer.writerow(["module_name", "module_key", "actionCards", "procedures", "videos", "drugs", "keyLearningPoints", "total_resources"])
+                            for b_mod in bundle_modules:
+                                mod_id = b_mod.get("id")
+                                if mod_id not in global_module_keys:
+                                    continue
+                                ac = ", ".join(b_mod.get("actionCards", []))
+                                proc = ", ".join(b_mod.get("procedures", []))
+                                vid = ", ".join(b_mod.get("videos", []))
+                                drugs = ", ".join(b_mod.get("drugs", []))
+                                klp = ", ".join(b_mod.get("keyLearningPoints", []))
+                                total_res = len(b_mod.get("actionCards", [])) + len(b_mod.get("procedures", [])) + len(b_mod.get("videos", [])) + len(b_mod.get("drugs", [])) + len(b_mod.get("keyLearningPoints", []))
+                                writer.writerow([b_mod.get("description", ""), mod_id, ac, proc, vid, drugs, klp, total_res])
+                    except Exception as e:
+                        print(f"  ⚠️ Could not write translated module CSV: {e}")
+
+                    for b_mod in bundle_modules:
+                        mod_id = b_mod.get("id")
+                        if mod_id not in global_module_keys:
+                            print(f"  ⚠️ Skipping module '{mod_id}' as it is not in the global module_resource_summary.csv")
+                            continue
+
+                        # Query Cosmos DB for the localized module document to get its English title
+                        # The module key in the bundle includes a timestamp (e.g., "low-birth-weight_1536047907931")
+                        # We try the full key first, then the clean key without timestamp
+                        english_title = "Unknown"
+                        for try_key in [mod_id, mod_id.split("_")[0]]:
+                            query = f"SELECT TOP 1 c.description, c.title FROM c WHERE c._table='modules' AND c.key='{try_key}' AND c.langId='{cid}'"
+                            results = list(self.container.query_items(query=query, enable_cross_partition_query=True))
+                            if results and (results[0].get("description") or results[0].get("title")):
+                                english_title = results[0].get("description") or results[0].get("title")
+                                print(f"  → Found English title from Cosmos (key='{try_key}'): '{english_title}'")
+                                break
+                            
+                        # Construct a synthetic module doc that _migrate_single_module expects
+                        module_doc = {
+                            "id": mod_id,
+                            "key": mod_id, # Usually id acts as key in the bundle
+                            "langId": cid,
+                            "language_id": cid,
+                            "bundle_desc": b_mod.get("description"), # Save the bundle description as a fallback for translation
+                            # The bundle's icon is full URL, but drug migrator looks at icon or iconPath
+                            "icon": b_mod.get("icon"), 
+                            "iconPath": b_mod.get("icon"),
+                            # Direct full resource arrays
+                            "actionCards": b_mod.get("actionCards", []),
+                            "procedures": b_mod.get("procedures", []),
+                            "drugs": b_mod.get("drugs", []),
+                            "keyLearningPoints": b_mod.get("keyLearningPoints", []),
+                            "videos": b_mod.get("videos", []),
+                            # Provide the English title as description so DataFactory sets title = english_title
+                            "description": english_title,
+                            "LastUpdatedBy": "System",
+                        }
+                        try:
+                            self._migrate_single_module(module_doc)
+                            queued += 1
+                        except Exception as exc:
+                            print(f"❌ Error preparing module from bundle {mod_id} ({label}): {exc}")
+                except Exception as e:
+                    print(f"❌ Failed to process content-bundle.json for {cid}: {e}")
+                    
         print("Queued module payloads: %d" % queued)
 
     def _get_all_modules(self, is_global: bool) -> List[Dict]:
         """Retrieve module documents from Cosmos DB using static module key list."""
-        import json, os
-        module_list_path = os.path.join(os.path.dirname(__file__), "module_list.json")
-        with open(module_list_path, "r") as f:
-            module_keys = json.load(f)
+        # Enforce module_resource_summary.csv as the single authoritative source of global module identity
+        module_keys = list(self.module_resource_map.keys())
         
         if is_global:
             lang_clause = "AND (NOT IS_DEFINED(c.langId) OR c.langId = '')"
@@ -122,7 +207,6 @@ class ModuleMigrator:
             modules.extend(results)
         
         return modules
-
     def _migrate_single_module(self, module_doc: Dict) -> None:
         """Queue a single module's payload and related resource slugs."""
         description = module_doc.get("description", "Unknown")
@@ -131,33 +215,36 @@ class ModuleMigrator:
         cosmos_lang_id = module_doc.get("langId") or module_doc.get("language_id") or ""
         module_key = module_doc.get("key") or module_doc.get("id")  # Get module key
         
-        resource_source_doc = module_doc.copy() 
-        
-        # for global modules, use resource lists from a localized version
-        # Prefer English WHO (most complete) as the canonical source
-        PREFERRED_LANG_ID = "7cf6efab-a9d7-54d2-2cbd-ec82efe4a7da"
-        if not cosmos_lang_id and module_key:
-            # Try English WHO first
-            query = f"SELECT * FROM c WHERE c._table='modules' AND c.key='{module_key}' AND c.langId='{PREFERRED_LANG_ID}'"
-            results = list(self.container.query_items(query=query, enable_cross_partition_query=True))
+        resource_source_doc = module_doc.copy()
+
+        # ──────────────────────────────────────────────────────────────
+        # RESOURCE RESOLUTION
+        # ──────────────────────────────────────────────────────────────
+        if not cosmos_lang_id:
+            # GLOBAL module: Use module_resource_summary.csv as the authoritative source
+            # for payload creation, per invariant doctrine.
+            # Global modules must NOT contain videos.
+            print(f"[ModuleMigrator] Overriding Cosmos structure for GLOBAL module '{module_key}' using CSV.")
+            resource_source_doc["videos"] = []
             
-            # Fallback: any other localized version
-            if not results:
-                query = f"SELECT * FROM c WHERE c._table='modules' AND c.key='{module_key}' AND IS_DEFINED(c.langId) AND c.langId != ''"
-                results = list(self.container.query_items(query=query, enable_cross_partition_query=True))
-            
-            if results:
-                local_doc = results[0]
-                print(f"  → Using localized module lists from: {local_doc.get('langId')}")
-                
-                # Overlay resource lists onto the Global Doc copy
-                resource_source_doc["videos"] = local_doc.get("videos", [])
-                resource_source_doc["actionCards"] = local_doc.get("actionCards", [])
-                resource_source_doc["procedures"] = local_doc.get("procedures", [])
-                resource_source_doc["drugs"] = local_doc.get("drugs", [])
-                resource_source_doc["keyLearningPoints"] = local_doc.get("keyLearningPoints", []) or local_doc.get("key_learning_points", [])
+            if module_key in self.module_resource_map:
+                csv_resources = self.module_resource_map[module_key]
+                for rtype, rlist in csv_resources.items():
+                    if rtype != "videos":
+                        resource_source_doc[rtype] = rlist
+                    print(f"  {rtype}: {len(rlist)} keys overridden from CSV")
             else:
-                print(f"  ⚠️ No localized module found for key '{module_key}' - resources will be empty")
+                 print(f"  ⚠️ GLOBAL module '{module_key}' not found in CSV. Using Cosmos fallback.")
+        else:
+            # TRANSLATED module: Cosmos document already has the correct
+            # resource lists for this language. No CSV override needed.
+            print(f"[ModuleMigrator] Using Cosmos doc resource lists for TRANSLATED module '{module_key}' (lang: {cosmos_lang_id})")
+            for rtype in ["actionCards", "procedures", "drugs", "keyLearningPoints", "videos"]:
+                items = resource_source_doc.get(rtype) or []
+                if rtype == "keyLearningPoints" and not items:
+                    items = resource_source_doc.get("key_learning_points") or []
+                    resource_source_doc["keyLearningPoints"] = items
+                print(f"  {rtype}: {len(items)} keys")
 
         # IDENTITY RESOLUTION (Global vs Local) — needed BEFORE resource migration
         # so that video naming uses the English module title, not a translated one.
@@ -165,17 +252,22 @@ class ModuleMigrator:
         if cosmos_lang_id:
             module_key_for_lookup = module_doc.get("key")
             if module_key_for_lookup:
-                query = f"SELECT * FROM c WHERE c._table='modules' AND c.key='{module_key_for_lookup}' AND (NOT IS_DEFINED(c.langId) OR c.langId = '')"
+                # Strip the timestamp from the bundle key to get the clean global key
+                clean_key = module_key_for_lookup.split("_")[0]
+                query = f"SELECT TOP 1 * FROM c WHERE c._table='modules' AND c.key='{clean_key}' AND (NOT IS_DEFINED(c.langId) OR c.langId = '')"
                 results = list(self.container.query_items(query=query, enable_cross_partition_query=True))
-                if results:
+                if results and (results[0].get("title") or results[0].get("description")):
                     global_module_doc = results[0]
-                    slug_source_title = global_module_doc.get("title")
+                    slug_source_title = global_module_doc.get("title") or global_module_doc.get("description")
                     print(f"  → Resolved Global Identity: '{slug_source_title}'")
+                elif clean_key in self.module_resource_map:
+                    slug_source_title = clean_key.replace("-", " ").title()
+                    print(f"  → Resolved Global Identity (fallback from clean key): '{slug_source_title}'")
                 else:
-                    print(f"Warning: Global identity (module with key='{module_key_for_lookup}') not found for localized module '{cosmos_id}'. Skipping translation.")
-                    return
+                    slug_source_title = clean_key.replace("-", " ").title()
+                    print(f"  ⚠ STRUCTURAL VIOLATION: Global identity document not found in Cosmos for localized module '{clean_key}'. Proceeding with placeholder title: {slug_source_title}")
         else:
-            slug_source_title = module_doc.get("title")
+            slug_source_title = module_doc.get("title") or module_doc.get("description") or module_key.replace("-", " ").title()
 
         # Step 1: Queue all resources within this module first
         print("  Step 1: Preparing module resources (queue)...")
@@ -212,6 +304,12 @@ class ModuleMigrator:
             if found_trans:
                 # Replace description with translation
                 module_data.description = found_trans
+            else:
+                # Fallback to bundle description if screens table doesn't have it
+                bundle_desc = module_doc.get("bundle_desc")
+                if bundle_desc:
+                    print(f"  → Using bundle description fallback for translated module")
+                    module_data.description = bundle_desc
 
         # Reset media lists to use resource slugs (videos/procedures/drugs TBD)
         module_data.videos = resource_slugs.get("videos", [])
@@ -390,11 +488,9 @@ class ModuleMigrator:
         return ordered
 
     def _get_modules_for_language(self, cosmos_lang_id: str) -> List[Dict]:
-        """Look up modules for a specific language (or global) using static module key list."""
-        import json, os
-        module_list_path = os.path.join(os.path.dirname(__file__), "module_list.json")
-        with open(module_list_path, "r") as f:
-            module_keys = json.load(f)
+        """Look up modules for a specific language (or global) using CSV authoritative list."""
+        # Enforce module_resource_summary.csv as the single authoritative source of global module identity
+        module_keys = list(self.module_resource_map.keys())
         
         if cosmos_lang_id == "global":
             lang_clause = "AND (NOT IS_DEFINED(c.langId) OR c.langId = '')"
@@ -403,6 +499,8 @@ class ModuleMigrator:
         
         modules = []
         for module_key in module_keys:
+            if not module_key:
+                continue
             query = (
                 f"SELECT TOP 1 * FROM c WHERE c._table='modules' "
                 f"AND c.key='{module_key}' {lang_clause}"
@@ -412,6 +510,18 @@ class ModuleMigrator:
             )
             if results:
                 modules.append(results[0])
+            elif cosmos_lang_id == "global":
+                # Ensure the migration processes all modules, even if the global document is missing
+                print(f"  ⚠️ Global document for '{module_key}' is missing in Cosmos DB. Proceeding with placeholder.")
+                fallback_title = module_key.replace("-", " ").title()
+                modules.append({
+                    "id": module_key,
+                    "key": module_key,
+                    "title": fallback_title,
+                    "description": fallback_title,
+                    "icon": "",
+                    "_table": "modules"
+                })
         
         return modules
 
@@ -432,6 +542,11 @@ class ModuleMigrator:
         # Use explicit slug source if provided (Global Title), otherwise fallback to module data title
         title_for_slug = slug_source_title if slug_source_title else module_data.title
         slug = f"mod-{slugify(title_for_slug)}"
+
+        # Fail-safe: if the localized Cosmos query failed to find the English title,
+        # fallback to the Global Cosmos title which we just successfully resolved
+        if slug_source_title and (not module_data.title or module_data.title == "Unknown"):
+            module_data.title = slug_source_title
 
         # Serialize list fields as comma-separated slugs
         def _join(items: List[str]) -> str:

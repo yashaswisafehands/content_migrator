@@ -1,10 +1,12 @@
 """Main entry point for Cosmos DB to LME content migration."""
 
 import argparse
+import os
 
 from azure.cosmos import CosmosClient
 
 from configs import CONTAINER_NAME, COSMOS_ENDPOINT, COSMOS_KEY, DATABASE_NAME
+from csv_resource_map import load_module_resource_map
 from language_migrator import LanguageMigrator
 from module_migrator import ModuleMigrator
 
@@ -14,7 +16,6 @@ from certificate_migrator import CertificateMigrator
 from settings_screen_migrator import SettingsScreenMigrator
 import configs
 import sys
-import os
 import datetime
 
 # Logger setup to capture output to logs
@@ -57,9 +58,10 @@ class MigrationOrchestrator:
         self.cosmos_client = cosmos_client
         self.container = container
 
-        # Initialize migrators
+        csv_path = os.path.join(os.path.dirname(__file__), "module_resource_summary.csv")
+        self.module_resource_map = load_module_resource_map(csv_path)
+
         self.language_migrator = LanguageMigrator(cosmos_client, container)
-        # Module migrator will be initialized after language migration
         self.module_migrator = None
         self.module_migrator = None
         self.category_migrator = None
@@ -106,6 +108,7 @@ class MigrationOrchestrator:
                 self.cosmos_client,
                 self.container,
                 stage_one_language_mapping,
+                module_resource_map=self.module_resource_map,
             )
             self.module_migrator.migrate_all_modules(language_filter=language_id)
 
@@ -126,7 +129,8 @@ class MigrationOrchestrator:
         self.language_migrator.load_language_mapping()
         language_mapping = self.language_migrator.get_language_mapping()
         self.module_migrator = ModuleMigrator(
-            self.cosmos_client, self.container, language_mapping
+            self.cosmos_client, self.container, language_mapping,
+            module_resource_map=self.module_resource_map,
         )
 
         if start_index <= 0:
