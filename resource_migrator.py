@@ -685,30 +685,51 @@ class ResourceMigrator:
         if link.startswith("video:/"):
             path = link[len("video:/"):]
             
-            # Calculate base slug tail from path - MUST match _create_or_update_resource logic
-            # 1. Extract title (which might strip parts like 'who')
-            raw_title = self._extract_title_from_video_path(path)
-            title_slug = slugify(raw_title)
+            # Video slugs are created as: res-video-{lang_name}-{module_name}-{video_name}
+            # e.g., res-video-india-english-post-partum-hemorrage-tone
+            # The link path gives us "{module}/{video}" (e.g., "Post partum hemorrage/tone")
+            # We need to construct a suffix from all path segments and do suffix matching.
             
-            # 2. Get filename slug variants
-            filename = path.split("/")[-1]
-            filename_slugs = [slugify(filename)]
-
-            filename_clean = re.sub(r"[_\s]+[A-Za-z]+(?:\.\w+)?$", "", filename)
-            if filename_clean and filename_clean != filename:
-                filename_slugs.append(slugify(filename_clean))
+            parts = [p for p in path.split("/") if p.strip()]
+            
+            # Build slug suffix from full path: module-name + video-name
+            # e.g., "Post partum hemorrage/tone" -> "post-partum-hemorrage-tone"
+            full_path_slug = "-".join(slugify(p) for p in parts if slugify(p))
+            
+            # Also get just the video filename slug for narrow matching
+            filename = parts[-1] if parts else path
+            filename_slug = slugify(filename)
             
             candidates = []
-            for f_slug in filename_slugs:
-                slug_tail = merge_slug_parts(title_slug, f_slug)
-                
-                if default_region:
-                    candidates.append(f"res-video-{default_region}-{slug_tail}")
-                candidates.append(f"res-video-{slug_tail}")
+            
+            # Strategy 1: Exact slug candidates using full path
+            if default_region:
+                candidates.append(f"res-video-{default_region}-{full_path_slug}")
+            candidates.append(f"res-video-{full_path_slug}")
             
             for slug in candidates:
                 if slug in self.resource_slug_mapping:
                     return self.resource_slug_mapping[slug]
+            
+            # Strategy 2: Suffix match — find slugs ending with -{full_path_slug}
+            # This handles the lang_name prefix we can't know from the link alone
+            suffix = f"-{full_path_slug}"
+            suffix_matches = [s for s in self.resource_slug_mapping if s.endswith(suffix)]
+            if suffix_matches:
+                # Prefer regional match
+                if default_region:
+                    regional = [s for s in suffix_matches if f"-{default_region}-" in s]
+                    if regional:
+                        return self.resource_slug_mapping[regional[0]]
+                return self.resource_slug_mapping[suffix_matches[0]]
+            
+            # Strategy 3: Suffix match with just filename (narrowest fallback)
+            filename_suffix = f"-{filename_slug}"
+            filename_matches = [s for s in self.resource_slug_mapping 
+                              if s.endswith(filename_suffix) and "res-video" in s]
+            if len(filename_matches) == 1:
+                # Unambiguous single match
+                return self.resource_slug_mapping[filename_matches[0]]
             
             print(f"Warning: Could not resolve video link '{link}'. Candidates: {candidates}")
             return None # Return None to avoid 500 error on backend with invalid ID format
@@ -891,16 +912,12 @@ class ResourceMigrator:
             # Extract questions from resource_data
             questions = resource_data.questions if hasattr(resource_data, 'questions') and resource_data.questions else []
             
-            # Convert path-style links to slugs for direct lookup during POST
-            # Note: Icons are already processed in factories._extract_questions_for_klp()
+            # We no longer pre-convert links to slugs here. Save raw links (e.g., 'video:/path') to CSV.
+            # They will be resolved during the POST step using _resolve_link_ref, which handles candidates.
             for q in questions:
-                # Handle links
-                if "link" in q and q["link"]:
-                    slug_link = self._convert_link_to_slug(q["link"])
-                    if slug_link:
-                        q["link"] = slug_link
-                    else:
-                        # Remove unrecognized links
+                # Basic validation: ensure link is a string, otherwise clear it/link_type.
+                if "link" in q:
+                    if not q["link"] or not isinstance(q["link"], str):
                         del q["link"]
                         q["link_type"] = None   # ← null both together
 
@@ -1837,19 +1854,19 @@ class ResourceMigrator:
                 except Exception as e:
                     print(f"Error parsing questions for {slug}: {e}")
             
-            # Resolve slug-based links to resource IDs
-            # Links are stored as slugs (e.g., 'res-video-eastern_europe-hypertension-definitions')
+            # Resolve raw links (or pre-computed slugs) to resource IDs
             for q in questions:
                 if "link" in q and q["link"]:
-                    link_slug = q["link"]
-                    resource_id = self.resource_slug_mapping.get(link_slug)
+                    raw_link = q["link"]
+                    resource_id = self._resolve_link_ref(raw_link, default_region=final_region)
                     if resource_id:
                         q["link"] = resource_id
                     else:
                         # Resource not found - remove link to avoid API error
-                        print(f"  Warning: Link slug '{link_slug}' not in mapping, removing from question")
+                        print(f"  Warning: Link '{raw_link}' not in mapping or could not be resolved, removing from question")
                         del q["link"]
-                        q["link_type"] = None   # ← null both together
+                        if "link_type" in q:
+                            q["link_type"] = None   # ← null both together
 
             
             # Build KLP payload matching KeyLearningPointCreateRequest schema
