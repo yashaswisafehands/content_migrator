@@ -685,54 +685,97 @@ class ResourceMigrator:
         if link.startswith("video:/"):
             path = link[len("video:/"):]
             
-            # Video slugs are created as: res-video-{lang_name}-{module_name}-{video_name}
-            # e.g., res-video-india-english-post-partum-hemorrage-tone
-            # The link path gives us "{module}/{video}" (e.g., "Post partum hemorrage/tone")
-            # We need to construct a suffix from all path segments and do suffix matching.
+            # Path format: "{lang_or_module}/{...}/{video_name}"
+            # e.g., "french/Post partum hemorrage/intro" or "Post partum hemorrage/intro"
+            # Video slugs (created by _migrate_video_resources) are:
+            #   res-video-{lang_name}-{global_module_title}-{video_name}
+            # The module segment in the CMS path may have typos vs the Cosmos doc title,
+            # so we must NOT rely on the module segment for exact matching.
             
             parts = [p for p in path.split("/") if p.strip()]
+            if not parts:
+                return None
             
-            # Build slug suffix from full path: module-name + video-name
-            # e.g., "Post partum hemorrage/tone" -> "post-partum-hemorrage-tone"
+            # Determine lang_slug and filename_slug from path segments
+            filename_slug = slugify(parts[-1]) if parts else ""
+            
+            # The first segment might be a language name (e.g., "french") or a module name
+            first_slug = slugify(parts[0]) if parts else ""
+            
+            # Middle segments (between first and last) — used for fuzzy scoring
+            middle_slugs = [slugify(p) for p in parts[1:-1] if slugify(p)] if len(parts) > 2 else []
+            
+            # Build the old-style full_path_slug for backward-compatible exact match
             full_path_slug = "-".join(slugify(p) for p in parts if slugify(p))
             
-            # Also get just the video filename slug for narrow matching
-            filename = parts[-1] if parts else path
-            filename_slug = slugify(filename)
+            # ── Strategy 1: Exact match (backward compat) ──
+            # Try res-video-{full_path_slug} — works when CMS path spelling == Cosmos doc title
+            exact_candidate = f"res-video-{full_path_slug}"
+            if exact_candidate in self.resource_slug_mapping:
+                return self.resource_slug_mapping[exact_candidate]
             
-            candidates = []
+            # ── Strategy 2: Anchor both ends (handles typos in module name) ──
+            # Match: startswith("res-video-{lang_slug}-") AND endswith("-{filename_slug}")
+            # This skips the module name portion entirely, resolving spelling mismatches.
+            prefix = f"res-video-{first_slug}-"
+            suffix = f"-{filename_slug}"
+            anchored = [s for s in self.resource_slug_mapping
+                        if s.startswith(prefix) and s.endswith(suffix)]
             
-            # Strategy 1: Exact slug candidates using full path
-            if default_region:
-                candidates.append(f"res-video-{default_region}-{full_path_slug}")
-            candidates.append(f"res-video-{full_path_slug}")
+            if len(anchored) == 1:
+                return self.resource_slug_mapping[anchored[0]]
+            elif len(anchored) > 1:
+                # Multiple matches (e.g., two modules both have "intro" video for same lang).
+                # Score by how many middle path segments appear in the slug body.
+                def score(slug_candidate):
+                    body = slug_candidate[len(prefix):-len(suffix)] if len(suffix) > 1 else slug_candidate[len(prefix):]
+                    tokens = [t for seg in middle_slugs for t in seg.split("-") if t]
+                    return sum(1 for t in tokens if t and t in body)
+                
+                anchored.sort(key=score, reverse=True)
+                top_score = score(anchored[0])
+                second_score = score(anchored[1]) if len(anchored) > 1 else -1
+                if top_score > 0 and top_score > second_score:
+                    return self.resource_slug_mapping[anchored[0]]
+                # If tied, try the old suffix match with full_path_slug as tiebreaker
+                full_suffix = f"-{full_path_slug}"
+                for s in anchored:
+                    if s.endswith(full_suffix):
+                        return self.resource_slug_mapping[s]
+                # Give up gracefully — take the first
+                return self.resource_slug_mapping[anchored[0]]
             
-            for slug in candidates:
-                if slug in self.resource_slug_mapping:
-                    return self.resource_slug_mapping[slug]
-            
-            # Strategy 2: Suffix match — find slugs ending with -{full_path_slug}
-            # This handles the lang_name prefix we can't know from the link alone
-            suffix = f"-{full_path_slug}"
-            suffix_matches = [s for s in self.resource_slug_mapping if s.endswith(suffix)]
-            if suffix_matches:
-                # Prefer regional match
-                if default_region:
-                    regional = [s for s in suffix_matches if f"-{default_region}-" in s]
-                    if regional:
-                        return self.resource_slug_mapping[regional[0]]
-                return self.resource_slug_mapping[suffix_matches[0]]
-            
-            # Strategy 3: Suffix match with just filename (narrowest fallback)
+            # ── Strategy 3: Filename-only suffix fallback ──
+            # Broader search across all languages — used when first segment wasn't a lang name
             filename_suffix = f"-{filename_slug}"
             filename_matches = [s for s in self.resource_slug_mapping 
-                              if s.endswith(filename_suffix) and "res-video" in s]
-            if len(filename_matches) == 1:
-                # Unambiguous single match
-                return self.resource_slug_mapping[filename_matches[0]]
+                              if s.endswith(filename_suffix) and s.startswith("res-video-")]
             
-            print(f"Warning: Could not resolve video link '{link}'. Candidates: {candidates}")
-            return None # Return None to avoid 500 error on backend with invalid ID format
+            if filename_matches:
+                # Narrow by region if available
+                if default_region:
+                    regional = [s for s in filename_matches if f"-{default_region}-" in s]
+                    if len(regional) == 1:
+                        return self.resource_slug_mapping[regional[0]]
+                    if regional:
+                        filename_matches = regional
+                
+                if len(filename_matches) == 1:
+                    return self.resource_slug_mapping[filename_matches[0]]
+                
+                # Score by middle segments as a last resort
+                def score_fallback(slug_candidate):
+                    all_segs = [slugify(p) for p in parts if slugify(p)]
+                    tokens = [t for seg in all_segs for t in seg.split("-") if t]
+                    return sum(1 for t in tokens if t and t in slug_candidate)
+                
+                filename_matches.sort(key=score_fallback, reverse=True)
+                if score_fallback(filename_matches[0]) > 0:
+                    return self.resource_slug_mapping[filename_matches[0]]
+            
+            print(f"Warning: Could not resolve video link '{link}'. "
+                  f"Path segments: {parts}, tried prefix='{prefix}', suffix='{suffix}'")
+            return None
 
         # Handle specific types: drug, procedure, action-card
         # Pattern: type:identifier (identifier might have timestamp suffix like _123456789)
