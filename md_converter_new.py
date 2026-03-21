@@ -754,25 +754,48 @@ def convert_action_card_to_markdown_files(
 
     # For translated: use translated_title if found, otherwise skip header
     # (the first header card will naturally be processed and included)
+    has_chapters_init = bool(chapters)
     versions: Dict[str, List[str]] = {
-        "original": [f"# {title}"],  # CRITICAL: Header first!
-        "adapted": [f"# {title}"],
-        "translated": [f"# {translated_title}"] if translated_title else [],  # Use translated or empty
+        "original": [f"# {title}"] if (title and not has_chapters_init) else [],
+        "adapted": [f"# {title}"] if (title and not has_chapters_init) else [],
+        "translated": ([f"# {translated_title}"] if (translated_title and not has_chapters_init) else []),
     }
 
     asset_version = region or ""
 
     for chapter in chapters:
-        chap_title = chapter.get("description")
-        if chap_title:
-            for v in versions.values():
-                v.append(f"## {chap_title}")
-        
         cards = chapter.get("cards", [])
         if not cards and ("content" in chapter or "adapted" in chapter or "translated" in chapter):
             cards = [chapter]
-            
-        for card in cards:
+
+        # ── Bug 2.1/2.2/2.3 fix: Extract chapter title from first header card
+        # per version (localised), use '# Chapter:' heading, and skip header
+        # card from the card loop to avoid rendering it twice. ──
+        cards_to_process = cards
+        if cards:
+            first_card = cards[0]
+            if first_card.get("type") == "header":
+                version_key_map = {
+                    "original": "content",
+                    "adapted": "adapted",
+                    "translated": "translated",
+                }
+                for v_name, vk in version_key_map.items():
+                    header_block = first_card.get(vk) or first_card.get("content")
+                    header_text = parse_rich_text_block(header_block) if isinstance(header_block, dict) else ""
+                    if not header_text:
+                        header_text = chapter.get("description", "")
+                    if header_text:
+                        versions[v_name].append(f"# Chapter: {header_text}")
+                cards_to_process = cards[1:]  # skip first header card
+            else:
+                # No header card — fall back to description (English) for all versions
+                chap_title = chapter.get("description")
+                if chap_title:
+                    for v in versions.values():
+                        v.append(f"# Chapter: {chap_title}")
+
+        for card in cards_to_process:
             # Process each version
             content_card = process_card(card, "content", asset_version)
             if content_card["md_text"]:
@@ -819,9 +842,16 @@ def convert_action_card_to_markdown_files(
         effective_title = title
         if version_name == "translated" and translated_title:
             effective_title = translated_title
-            
-        formatted_text = format_mobile_markdown(effective_title, final_text)
-        
+
+        # Bug 2.4 fix: Skip format_mobile_markdown for multi-chapter docs
+        # — they already have '# Chapter:' structure and wrapping would
+        # insert a redundant outer title header.
+        has_chapters = bool(chapters and len(chapters) > 0)
+        if has_chapters:
+            formatted_text = final_text
+        else:
+            formatted_text = format_mobile_markdown(effective_title, final_text)
+
         save_markdown_file(path, [formatted_text])
         out_paths[version_name] = path
 
