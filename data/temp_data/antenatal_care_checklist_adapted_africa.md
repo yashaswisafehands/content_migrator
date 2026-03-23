@@ -1,0 +1,237 @@
+# Chapter: Overview
+
+### Overview
+
+Regular antenatal care throughout the antenatal period improves health outcomes for both women and newborns.
+
+![Image](4c5efcad555a48f9b5f8dc106dbaeae9)
+
+A minimum of 8 antenatal care contacts are recommended to prevent and identify complications and take appropriate action.
+
+Women, who have not given birth by their expected due date, should return for antenatal care at 41 and 42 weeks, or sooner if they experience danger signs.
+
+---
+
+# Chapter: 1st Trimester: Contact 1 (above 12 weeks)
+
+### 1st Trimester: Contact 1 (<12 weeks)
+
+**Take her history**
+
+- Confirm pregnancy and calculate EDD
+- Assess for significant symptoms
+- Take full medical, obstetric, psychosocial, family history- Number and details of previous pregnancies/live births/miscarriages/abortions, previous obstetric complications (pre-eclampsia, haemorrhage etc) and other diseases (diabetes, chronic hypertension, kidney, autoimmune disease)
+- Ask about vaccination status and recent medications
+- Ask about exposure to tobacco, second-hand smoke, use of alcohol or other substances
+- Risk assessments as per local guidelines (e.g., for GDM, venous thrombosis embolism and depression)
+- In privacy, ask if the woman has experienced gender-based violence or intimate partner violence. (See Action Card on Violence against women)
+
+![Image](eb7f8f65bd6748b3b0d090afda1a93f5)
+
+**Examine**
+
+- Blood pressure
+- Weight and height
+
+**Screen or Test**
+
+<color style="blue">Urine for</color>
+
+- Proteinuria
+- Glucosuria
+- Bacteriuria
+
+![Image](a17056b04323435993ee3fd3643ae73d)
+
+<color style="blue">Blood for</color>
+
+- Haemoglobin
+- Blood group and Rh status
+- HIV
+- Syphilis 
+- Tuberculosis (if relevant)
+
+![Image](dbda5e0346bd42dea13a0dc00aca6794)
+
+**Treat/Refer**
+Follow local guidelines for referral and management of any abnormal findings.
+
+**Preventative measures**
+
+- Iron and folic acid   
+- Antibiotics for women with asymptomatic bacteriuria
+- Covid-19 vaccination 
+- Tetanus toxoid vaccination
+
+![Image](d7bba3117b714fca839db5810bffe79b)
+
+<color style="blue">Context specific:</color>
+
+- Vitamin A
+- Calcium  
+- Limit caffeine to <300mg p/d.
+- Malaria prevention (at 13 weeks) 
+- HIV prevention
+
+**Counselling**
+
+- Birth and emergency plan 
+- Healthy eating and being physically active
+- Self-care, safe sex, rest, sleeping under insecticide-treated nets
+- Avoid using tobacco, alcohol or other substances 
+- Interventions for common physiological symptoms
+
+### Summary
+
+- Classify the woman’s obstetric risk
+- Revisit her birth plan, emergency signs and symptoms
+- Confirm her contact details
+- Give health facility contact and next appointment details (at week 20)
+- Update the woman's antenatal records and give them to her
+
+See 'Normal Labour & Birth' practical procedures for calculation of EDD and gestational age.
+
+---
+
+# Chapter: 2nd Trimester: Contacts 2 and 3 (weeks 20 and 26)
+
+### 2nd Trimester: Contact 2 and 3 (week 20 and 26)
+
+## Take her history
+
+- Previous complications and treatments during pregnancy
+- Exposure to tobacco, second-hand smoke, and use of alcohol and other substances
+- Ask if the woman has experienced gender-based violence or intimate partner violence. (See Action Card 'Violence against women' for further information)
+
+![Image](eb7f8f65bd6748b3b0d090afda1a93f5)
+
+## Examine
+
+- Blood pressure
+- Weight
+
+<color style="blue">Assess for signs of: </color>
+
+- Anaemia
+- Pre-eclampsia
+- Urinary tract/other infections
+- Threatened preterm labour
+- Antepartum haemorrhage
+- Miscarriage/Stillbirth
+- Gestational diabetes
+
+![Image](1f6489f4e67a4dbdad5fadcf4ff03aff)
+
+<color style="blue">Foetal examination:</color>
+
+- Check Foetal heart rate
+- Measure symphysial-fundal height (week 26)
+- Check Foetal heart rate
+- Ask about foetal movements (week 26)
+
+![Image](d7c974aca5654f0b9b81ba0379376624)
+
+## Screen or Test
+
+<color style="blue">Urine </color>
+
+- Proteinuria
+- Glucosuria
+- Bacteriuria
+
+![Image](a17056b04323435993ee3fd3643ae73d)
+
+<color style="blue">Blood </color>
+
+- Haemoglobin (week 26)
+
+![Image](dbda5e0346bd42dea13a0dc00aca6794)
+
+---
+
+# Chapter: 3rd Trimester: Contacts 4, 5, 6, 7 and 8 (weeks 30, 34, 36, 38 and 40)
+
+### 3rd Trimester: Contact 4, 5, 6, 7 and 8 (week 30, 34, 36, 38 and 40)
+
+## Take history
+
+- Previous complications and treatments during pregnancy
+- Exposure to tobacco, second-hand smoke, and use of alcohol and other substances
+- Ask if the woman has experienced gender-based violence or intimate partner violence. (See Action Card 'Violence against women' for further information)
+
+![Image](7d58093244ec47acbf5c2098c2b37bce)
+
+## Examine
+
+- Blood pressure 
+- Weight
+
+<color style="blue">Assess for significant symptoms of: </color>
+
+- Anaemia
+- Pre-eclampsia
+- Urinary tract/other infections
+- Threatened preterm labour
+- Antepartum haemorrhage
+- Foetal compromise /death
+- Gestational diabetes
+
+**Foetal examination**
+
+- Listen and count foetal heart rate
+- Measure symphysial-fundal height
+- Ask about foetal movements
+- Palpate for multiple pregnancy 
+- Palpate for malposition (from week 34)
+
+![Image](290471b9cb404336980d8f9d4b8242cf)
+
+![Image](b797a8cf42c24157a93c102a3bf4b4b8)
+
+## Screen/Test
+
+<color style="blue">Urine </color>
+
+- Proteinuria 
+- Glucosuria
+- Bacteriuria (week 34)
+
+<color style="blue">Blood </color>
+
+- Haemoglobin (week 36)
+
+**Treat/Refer**
+Follow local guidelines for referral and management of any abnormal findings
+
+## Preventative measures
+
+- Iron and folic acid 
+- Antibiotics for women with asymptomatic bacteriuria (week 34)
+
+<color style="blue">Context specific</color>
+
+- Vitamin A 
+- Calcium 
+- Limit caffeine to <300mg p/d
+- Malaria prevention
+- Anti-D prophylaxis for Rh-negative women (week 34)
+
+## Health education, advice, and counselling (reinforce previous advice)
+
+- Birth and emergency plan
+- Infant feeding
+- Postpartum/postnatal care (from week 34)
+- Birth spacing and contraception (from week 34)
+- Healthy eating and keeping physically active
+- Tobacco usage and exposure, and use of alcohol and other substances
+- Interventions for common physiological symptoms
+
+### Summary
+
+- Re-classify the woman’s obstetric risk
+- Revisit her birth plan, emergency signs and symptoms
+- Confirm her contact details
+- Give health facility contact and next appointment details (at 34, 36, 38, 40 or 41 weeks)
+- Update the woman's antenatal records and give them to her
+
+---
