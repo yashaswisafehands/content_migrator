@@ -1,0 +1,959 @@
+🌍 MODE: Global Data Migration
+Loaded 386 queued resource slugs
+Loaded 386 existing resource mappings
+Loaded 885 queued KLP slugs
+Loaded 203 existing KLP mappings
+Loaded 386 queued resource slugs
+Loaded 386 existing resource mappings
+Loaded 885 queued KLP slugs
+Loaded 203 existing KLP mappings
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+Loaded 21 queued module slugs
+  🔄 Fetching all existing certificates from LME for caching...
+  ✅ Cached 0 existing certificates from API.
+🌍 Global Stage 2: Posting from 'klps' onwards...
+Posting global resources... (SKIPPED)
+Posting global KLPs...
+Fetching existing KLPs from API...
+Fetched 203 existing KLPs from API
+Posting 1762 KLPs from klps.csv...
+Warning: Could not resolve video link 'video:/Infection prevention/hand_hygiene_WHO'. Path segments: ['Infection prevention', 'hand_hygiene_WHO'], tried prefix='res-video-infection-prevention-', suffix='-hand-hygiene-who'
+Loaded 647 asset mappings from file
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hand_hygiene_WHO.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hand_hygiene_WHO.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hand_hygiene_WHO.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hand_hygiene_WHO.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hand_hygiene_WHO.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hand_hygiene_WHO.png
+  ⚠ Could not upload video asset for 'Infection prevention/hand_hygiene_WHO', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-hand-hygiene-who' -> c0f028a92624412bb705a8d349047e8a
+  ✓ Activated version: 8de51e769c1f417d8f31c9368615e9fc
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-2-15-towel-1' -> 6fd8184b6d9f45a796159c37344b2d80
+  ✓ Activated version: 5d72561f73184a05b04d7e4128d93e38
+Warning: Could not resolve video link 'video:/Infection prevention/intro_WHO'. Path segments: ['Infection prevention', 'intro_WHO'], tried prefix='res-video-infection-prevention-', suffix='-intro-who'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro_WHO.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro_WHO.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro_WHO.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro_WHO.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro_WHO.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro_WHO.png
+  ⚠ Could not upload video asset for 'Infection prevention/intro_WHO', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-intro-who' -> 27d854e15023409f9ba24e7a57394c64
+  ✓ Activated version: df16f18269f548319339b33acf5f100c
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+Updated KLP 'klp-1-5-prevent-infections-1' -> bc394fac6f8c4d0281195c70917085b6
+  ✓ Activated version: 4c8102e460974a819aed29224aaabad4
+Warning: Could not resolve video link 'video:/Infection prevention/hiv_hepatitis_b_prevention_WHO'. Path segments: ['Infection prevention', 'hiv_hepatitis_b_prevention_WHO'], tried prefix='res-video-infection-prevention-', suffix='-hiv-hepatitis-b-prevention-who'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hiv_hepatitis_b_prevention_WHO.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hiv_hepatitis_b_prevention_WHO.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hiv_hepatitis_b_prevention_WHO.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hiv_hepatitis_b_prevention_WHO.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hiv_hepatitis_b_prevention_WHO.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/hiv_hepatitis_b_prevention_WHO.png
+  ⚠ Could not upload video asset for 'Infection prevention/hiv_hepatitis_b_prevention_WHO', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-hiv-hepatitis-b-prevention-who' -> d0c167037c07409ba4eed7b968ad1899
+  ✓ Activated version: 64a5621d5fdb423fadb2b0d2ae229b7f
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/hiv_hepatitis_b_prevention_WHO' → d0c167037c07409ba4eed7b968ad1899
+Updated KLP 'klp-3-action-if-exposed' -> f1e862d3d12c45bca21d51dfbe9c0fd0
+  ✓ Activated version: a096801df3e54c159d9ee73a2cc5b442
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-1-air-dry-hands' -> e5be09e259e8446da7523e5575649303
+  ✓ Activated version: 839cf3823f204615abf635d452e032c1
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-2-alcohol-most-effective' -> 08fb584fedad43df88bf9328b698efd8
+  ✓ Activated version: cd2cce4f953b4f7aada6a25ddf6f3c63
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-3-amount-of-handrub' -> a4943912ae264bd08b8bfa04f856ac9b
+  ✓ Activated version: 276b53e950674e19907b7a39836709e9
+  ✓ Resolved KLP link 'action-card:antibiotic-prophylaxis-_1728909100025' → dedd7ae6683449b292e12960a89e5c3c
+Updated KLP 'klp-3-antibiotic-prophylaxis' -> 56983a2e3cf14e3e9f207f60f4fb6ad8
+  ✓ Activated version: 47c815c882f54f05b85fd5c84c6b465b
+Warning: Could not resolve video link 'video:/Infection Prevention/hand_hygiene'. Path segments: ['Infection Prevention', 'hand_hygiene'], tried prefix='res-video-infection-prevention-', suffix='-hand-hygiene'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hand_hygiene.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hand_hygiene.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hand_hygiene.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hand_hygiene.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hand_hygiene.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hand_hygiene.png
+  ⚠ Could not upload video asset for 'Infection Prevention/hand_hygiene', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-hand-hygiene' -> e64726ebe3a94c42bdb67141db595ca3
+  ✓ Activated version: 56be4a4f24c64535a4cb3f6f9df57597
+  ✓ Created & linked KLP resource for 'video:/Infection Prevention/hand_hygiene' → e64726ebe3a94c42bdb67141db595ca3
+Updated KLP 'klp-3-best-soap-for-handwashing' -> 2f1115524afd4c4a9ad1ee20d93dd8e2
+  ✓ Activated version: fd105af9894c4a3990522e8bf00af89c
+  ✓ Resolved KLP link 'procedure:sterilization_1757685337059' → 43c71d50f0a640a392dab9e5a201c817
+Updated KLP 'klp-2-chemical-sterilization' -> a0f4ab67c5f54cfb802ddbc2d7adb915
+  ✓ Activated version: 8a264a1565ab4f889cb767dc0a267ae6
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-1-cleaning-and-delivery-bed' -> 88d50783ce3945529829082cc628ed5f
+  ✓ Activated version: d1d3d301792c454589abc56522ada440
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-1-cleaning-and-delivery-bed-ind' -> 40495bb11921492e99cc82293321a79d
+  ✓ Activated version: 8f49572e714d4d8daa222667f545a0c1
+Warning: Could not resolve video link 'video:/Infection prevention/safe_reuse_of_instruments'. Path segments: ['Infection prevention', 'safe_reuse_of_instruments'], tried prefix='res-video-infection-prevention-', suffix='-safe-reuse-of-instruments'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/safe_reuse_of_instruments.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/safe_reuse_of_instruments.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/safe_reuse_of_instruments.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/safe_reuse_of_instruments.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/safe_reuse_of_instruments.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/safe_reuse_of_instruments.png
+  ⚠ Could not upload video asset for 'Infection prevention/safe_reuse_of_instruments', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-safe-reuse-of-instruments' -> 0fb151a2e9144ec0934c11ecfd1a91f3
+  ✓ Activated version: 0b3bb64806b647799e1fe3311011e737
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/safe_reuse_of_instruments' → 0fb151a2e9144ec0934c11ecfd1a91f3
+Updated KLP 'klp-1-decontamination-of-instruments' -> bcfdef423cd04ffd8752b9721db26e01
+  ✓ Activated version: 06f2012882ac492b8bbe8aa17b5d396b
+  ✓ Resolved KLP link 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+Updated KLP 'klp-1-direct-pregnancy-related-infections' -> 20c323a5a2a244538cb04926e31a3790
+  ✓ Activated version: f3f6d7447a904277b68904ffbc2212c8
+  ✓ Resolved KLP link 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+Updated KLP 'klp-2-disability-caused-by-infections' -> ceea7b43a1c24f1d9cee41e10206b95b
+  ✓ Activated version: 6bf6648c3c26437aabdfb216d00ef5ca
+Warning: Could not resolve video link 'video:/Infection prevention/housekeeping'. Path segments: ['Infection prevention', 'housekeeping'], tried prefix='res-video-infection-prevention-', suffix='-housekeeping'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/housekeeping.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/housekeeping.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/housekeeping.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/housekeeping.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/housekeeping.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/housekeeping.png
+  ⚠ Could not upload video asset for 'Infection prevention/housekeeping', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-housekeeping' -> ea94fd63b39f42a0833036db387717f4
+  ✓ Activated version: 487f0836fca046c68ee4b23cd880a7ce
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/housekeeping' → ea94fd63b39f42a0833036db387717f4
+Updated KLP 'klp-2-disinfection-solution' -> 16a99e4c573c481ea845b7d5be4754ce
+  ✓ Activated version: ecc121fbdd0b45bca02d3c1ba49be43a
+  ✓ Resolved KLP link 'action-card:-respiratory-infections-_1728912040153' → d4ed2ee3513140859c71f53c1f9ec4c8
+Updated KLP 'klp-2-five-steps-to-infection-prevention' -> bef809dde6a14d18b224113a118e28ee
+  ✓ Activated version: b1917dece1054453a3f58b52f0b1afb1
+Warning: Could not resolve video link 'video:/Infection prevention/personal_protective_equipment_WHO'. Path segments: ['Infection prevention', 'personal_protective_equipment_WHO'], tried prefix='res-video-infection-prevention-', suffix='-personal-protective-equipment-who'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment_WHO.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment_WHO.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment_WHO.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment_WHO.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment_WHO.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment_WHO.png
+  ⚠ Could not upload video asset for 'Infection prevention/personal_protective_equipment_WHO', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-personal-protective-equipment-who' -> a680edf2f36b4394baee55f554a69ca9
+  ✓ Activated version: e69ff8afd42e43a9aa60cea036a2caee
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/personal_protective_equipment_WHO' → a680edf2f36b4394baee55f554a69ca9
+Updated KLP 'klp-3-gloves-for-birth' -> 6ec92b2113dd49ceb6626f167e2bfde8
+  ✓ Activated version: de91612924fb416587cb925ca3443a52
+Warning: Could not resolve video link 'video:/Infection prevention/personal_protective_equipment'. Path segments: ['Infection prevention', 'personal_protective_equipment'], tried prefix='res-video-infection-prevention-', suffix='-personal-protective-equipment'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/personal_protective_equipment.png
+  ⚠ Could not upload video asset for 'Infection prevention/personal_protective_equipment', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-personal-protective-equipment' -> 5ccda0523ac141e69ac8c74948fdbdcf
+  ✓ Activated version: aa14706f4ce845e9b87c6b67f46f2cb8
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/personal_protective_equipment' → 5ccda0523ac141e69ac8c74948fdbdcf
+Updated KLP 'klp-1-gloves-for-different-patients' -> 8ef3256983064717aefca7891a761c04
+  ✓ Activated version: e85d1c4a4a1c4b58a906c553efa93689
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene' → e64726ebe3a94c42bdb67141db595ca3
+Updated KLP 'klp-1-hand-hygiene-wash-and-alcohol' -> 2521249bec964bc09e84ce8bb9bf903d
+  ✓ Activated version: 6028388f077a48eb86fa37e1c6b958e3
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-2-handling-sterilized-items' -> 8b2ad8a9f78a4039ade606f38ec0aa55
+  ✓ Activated version: 045abf1ee1c04f07aafe7398e7e7b94f
+  ✓ Resolved KLP link 'video:/Infection Prevention/hand_hygiene' → e64726ebe3a94c42bdb67141db595ca3
+Updated KLP 'klp-2-handrub' -> 38eee96c0239406f9252609002a67be7
+  ✓ Activated version: b3afb1148ebb432d9f7fe2cc72bc1f6d
+  ✓ Resolved KLP link 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+Updated KLP 'klp-2-healthcare-professionals-hands' -> e7b48966116a49a6a6364f5223ad50cf
+  ✓ Activated version: 8acafe04a6d843919d47832f5962d400
+Warning: Could not resolve video link 'video:/Infection Prevention/hiv_hepatitis_b_prevention'. Path segments: ['Infection Prevention', 'hiv_hepatitis_b_prevention'], tried prefix='res-video-infection-prevention-', suffix='-hiv-hepatitis-b-prevention'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hiv_hepatitis_b_prevention.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hiv_hepatitis_b_prevention.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hiv_hepatitis_b_prevention.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hiv_hepatitis_b_prevention.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hiv_hepatitis_b_prevention.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20Prevention/hiv_hepatitis_b_prevention.png
+  ⚠ Could not upload video asset for 'Infection Prevention/hiv_hepatitis_b_prevention', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-hiv-hepatitis-b-prevention' -> b9dc2ee0c5614c2da58d878d9be99c32
+  ✓ Activated version: 5bb5d1fe06cf433ea2ed0cd5f58f3c55
+  ✓ Created & linked KLP resource for 'video:/Infection Prevention/hiv_hepatitis_b_prevention' → b9dc2ee0c5614c2da58d878d9be99c32
+Updated KLP 'klp-3-hepatitis-b-prophylaxis' -> e1a4ff91e79741ceb24e155da82669dc
+  ✓ Activated version: a2f8afbd574d4e8faf303918f535464c
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-3-high-risk-area' -> 7242fa45f8b441688081f475bb9fd01f
+  ✓ Activated version: 759f72a759ae4b07af8d04e798050f51
+  ✓ Resolved KLP link 'video:/Infection prevention/hiv_hepatitis_b_prevention_WHO' → d0c167037c07409ba4eed7b968ad1899
+Updated KLP 'klp-3-hiv-and-hep-b-exposure' -> 038740515c39447dadffd26b086e8316
+  ✓ Activated version: 83148e10f65b4cfe835bf283301e4096
+Warning: Could not resolve video link 'video:/Infection prevention/intro'. Path segments: ['Infection prevention', 'intro'], tried prefix='res-video-infection-prevention-', suffix='-intro'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/intro.png
+  ⚠ Could not upload video asset for 'Infection prevention/intro', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-intro' -> 898e2cdd18164775824675e4752838db
+  ✓ Activated version: fecf4b731a6b4294ab46642596685648
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/intro' → 898e2cdd18164775824675e4752838db
+Updated KLP 'klp-2-infection-and-germs' -> ddfb22cac2cb48e6bb50e3ec305e47e8
+  ✓ Activated version: 776ff6bd8ad54ad68ce2b43ce3d890b4
+  ✓ Resolved KLP link 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+Updated KLP 'klp-2-infection-and-neonatal-death' -> 79beda9723bc436da980998bbd25efa9
+  ✓ Activated version: 51be62837dc84c2b8396d0a1587865f7
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-2-infection-and-maternal-death' -> 8dd06e04e21944c497048620a010275b
+  ✓ Activated version: 69300ccaa39746a4a160a2c78f80d04a
+Warning: Could not resolve video link 'video:/Infection prevention/injection_safety_WHO'. Path segments: ['Infection prevention', 'injection_safety_WHO'], tried prefix='res-video-infection-prevention-', suffix='-injection-safety-who'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/injection_safety_WHO.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/injection_safety_WHO.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/injection_safety_WHO.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/injection_safety_WHO.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/injection_safety_WHO.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/injection_safety_WHO.png
+  ⚠ Could not upload video asset for 'Infection prevention/injection_safety_WHO', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-injection-safety-who' -> 505d3d0d7ec647f2bcb9feb5783fcec2
+  ✓ Activated version: d366d65e3a5846f5a3b0e4d6c0d093c9
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/injection_safety_WHO' → 505d3d0d7ec647f2bcb9feb5783fcec2
+Updated KLP 'klp-3-injection-safety' -> 52f7408c32704ad8a7d7cabb6f0bf22c
+  ✓ Activated version: 35310d41d10341afbddf90278d9f122f
+  ✓ Resolved KLP link 'procedure:mixing-alcohol-based-handrub_1487245431108' → 434dd160477147c49ba4f3dca921bd51
+Updated KLP 'klp-3-label-of-alcohol-based-handrub' -> 2ea7e3be6dcc463a8536e5e1bfe442d1
+  ✓ Activated version: 6dc27b5503e74c539b3295d05d13384a
+  ✓ Resolved KLP link 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+Updated KLP 'klp-2-labor-and-birth-infections' -> 856fd39e5f694bcca6ae2aca31ad099f
+  ✓ Activated version: 791c3863e12c4dea8294084b42aed873
+  ✓ Resolved KLP link 'video:/Infection Prevention/hiv_hepatitis_b_prevention' → b9dc2ee0c5614c2da58d878d9be99c32
+Updated KLP 'klp-1-nevirapine-prophylaxis' -> e158bb1badb24408ab8d8617e32f187d
+  ✓ Activated version: 32e06b544d43415eae70f3bec565b67b
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-2-no-jewellery-on-hands' -> 25658d3d10ff443abeadfea1aa1eb639
+  ✓ Activated version: 787ea1b7b4aa427b9802a4a9f1a84085
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-2-order-of-cleaning-and-storage' -> 23ab2d96292d44c18ea098bea1982cbf
+  ✓ Activated version: a7c80653fa4a441a969f3d8e7410a2d8
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-1-package-of-sterile-items' -> 27fbcc258623447db61b9b25d3683ac9
+  ✓ Activated version: 53d84579803c42f181df5add0ed79777
+  ✓ Resolved KLP link 'video:/Infection prevention/personal_protective_equipment_WHO' → a680edf2f36b4394baee55f554a69ca9
+Updated KLP 'klp-1-personal-protective-equipment' -> 9b34776d07e945d0a04e04b6ee1b9719
+  ✓ Activated version: 1f5c23b7b83a497ea084ae491e9989f6
+  ✓ Resolved KLP link 'video:/Infection Prevention/hiv_hepatitis_b_prevention' → b9dc2ee0c5614c2da58d878d9be99c32
+Updated KLP 'klp-2-post-exposure-prophylaxis' -> b008ea020deb432187c830cf7d0387d1
+  ✓ Activated version: 7a9c908743ed42098e0653512c3a4687
+  ✓ Resolved KLP link 'procedure:personal-protective-equipment-ppe-_1730102846148' → 7f86f05d9b6f44c7af2934bd0a83aed6
+Updated KLP 'klp-3-ppe' -> 9a017697aaf748c9b4c8273c097b0360
+  ✓ Activated version: e1ffea23f150434cb4b95db226767966
+  ✓ Resolved KLP link 'procedure:preparation-of-hypochlorite-solution-_1757917797061' → 450269ecbc9c40d5aa727bd5c2eb959d
+Updated KLP 'klp-3-preparation-of-0-5-sodium-hypochlorite-solution' -> d52634ba145c498db6ff6b833928f164
+  ✓ Activated version: bdb09d65f54d423fa6342556a7cde39b
+  ✓ Resolved KLP link 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+  ✓ Resolved KLP link 'video:/Infection prevention/intro_WHO' → 27d854e15023409f9ba24e7a57394c64
+Updated KLP 'klp-1-prevent-infections' -> fde175233e6548679342f32a7df8e659
+  ✓ Activated version: 2462a81f6c4f4f43abfb6e250647162c
+Warning: Could not resolve video link 'video:/Infection prevention/prevention_of_respiratory_infections'. Path segments: ['Infection prevention', 'prevention_of_respiratory_infections'], tried prefix='res-video-infection-prevention-', suffix='-prevention-of-respiratory-infections'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/prevention_of_respiratory_infections.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/prevention_of_respiratory_infections.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/prevention_of_respiratory_infections.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/prevention_of_respiratory_infections.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/prevention_of_respiratory_infections.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/prevention_of_respiratory_infections.png
+  ⚠ Could not upload video asset for 'Infection prevention/prevention_of_respiratory_infections', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-prevention-of-respiratory-infections' -> 640f6ea140f540dba841476c0089f97b
+  ✓ Activated version: a69369e42e7c435a82a9e246ac740748
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/prevention_of_respiratory_infections' → 640f6ea140f540dba841476c0089f97b
+Updated KLP 'klp-2-prevention-of-respiratory-infections-in-waiting-areas' -> da9cbcb55dc649d5b363e85f4f844b9f
+  ✓ Activated version: ff2f4f47c7fb44b38898126d60328096
+  ✓ Resolved KLP link 'video:/Infection prevention/prevention_of_respiratory_infections' → 640f6ea140f540dba841476c0089f97b
+Updated KLP 'klp-3-prevention-of-respiratory-infections-while-coughing' -> 4fbfcefa4fd14a2aa85a56bf758e6d6f
+  ✓ Activated version: 93273e91095a474c8b02ea9e537c803f
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene' → e64726ebe3a94c42bdb67141db595ca3
+Updated KLP 'klp-3-procedure-for-handwashing' -> 2985ed82927d48098a70f9f5a9a77b1d
+  ✓ Activated version: 918691e323d8486faa7ce8e609c0dbd2
+  ✓ Resolved KLP link 'procedure:mixing-alcohol-based-handrub_1487245431108' → 434dd160477147c49ba4f3dca921bd51
+Updated KLP 'klp-2-product-in-alcohol-based-handrub-2' -> 82b73a38f5de4681b31b808f7f9d6145
+  ✓ Activated version: 8f189999e49143cea59bab52f11394d6
+  ✓ Resolved KLP link 'procedure:mixing-alcohol-based-handrub_1487245431108' → 434dd160477147c49ba4f3dca921bd51
+Updated KLP 'klp-3-product-in-alcohol-based-handrub' -> bc9190937c444cfca7a312a7758fb477
+  ✓ Activated version: 9798ecdb3b384ac0b45e8af4e9056492
+  ✓ Resolved KLP link 'video:/Infection prevention/hiv_hepatitis_b_prevention_WHO' → d0c167037c07409ba4eed7b968ad1899
+Updated KLP 'klp-1-recommended-vaccination' -> af7ee2690d134e408c05865d5426ac75
+  ✓ Activated version: 449beb7c69e048959d0c0184b6da0aa1
+  ✓ Resolved KLP link 'video:/Infection prevention/personal_protective_equipment_WHO' → a680edf2f36b4394baee55f554a69ca9
+Updated KLP 'klp-3-removing-gloves' -> db595dc33a3349e0bab68176f88def27
+  ✓ Activated version: d94e18731ee141f0bcd6d4dd1ea388d6
+  ✓ Resolved KLP link 'action-card:-respiratory-infections-_1728912040153' → d4ed2ee3513140859c71f53c1f9ec4c8
+Updated KLP 'klp-1-respiratory-infections' -> 0be0ee0a165c4bc7b8794ba251dcc689
+  ✓ Activated version: 27defe6602684a4b9c5ae31442c96e6c
+  ✓ Resolved KLP link 'action-card:biomedical-waste-management_1757679891060' → 7b512df10ec548409ac72dcedec8a530
+Updated KLP 'klp-1-segregation-of-bio-medical-waste-sharps' -> 2f9c449e9a7c416792765e420e2973cb
+  ✓ Activated version: 48932c2cb47444acaad34079d26eea3a
+  ✓ Resolved KLP link 'action-card:biomedical-waste-management_1757679891060' → 7b512df10ec548409ac72dcedec8a530
+Updated KLP 'klp-1-segregation-of-bio-medical-waste-yellow' -> f368afbde07745c1b24a50860c5d2e0a
+  ✓ Activated version: 10e74e5b2c1e4665925d1db989cca9ff
+Warning: Could not resolve video link 'video:/Infection prevention/procedure_for_handwash'. Path segments: ['Infection prevention', 'procedure_for_handwash'], tried prefix='res-video-infection-prevention-', suffix='-procedure-for-handwash'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/procedure_for_handwash.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/procedure_for_handwash.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/procedure_for_handwash.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/procedure_for_handwash.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/procedure_for_handwash.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Infection%20prevention/procedure_for_handwash.png
+  ⚠ Could not upload video asset for 'Infection prevention/procedure_for_handwash', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-procedure-for-handwash' -> 38c740536e1f41959488b646ffe2373d
+  ✓ Activated version: e6ee0b1f72014eedb36519ac567f5157
+  ✓ Created & linked KLP resource for 'video:/Infection prevention/procedure_for_handwash' → 38c740536e1f41959488b646ffe2373d
+Updated KLP 'klp-3-soap-for-handwashing' -> bb1b431c974947eeb115f2eb632ab6af
+  ✓ Activated version: 1e98d2df78674583b9976b92ab68c36c
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-1-soap-solution' -> 90883370855f48f1bba74db574f66444
+  ✓ Activated version: 57779abf2dd84059aabbb6333cf19526
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-1-soap-wet-container' -> ee9a15d7440341f5a6a7ffd92776c2c7
+  ✓ Activated version: 73c30596c7a343b6bb8659925c247ffd
+  ✓ Resolved KLP link 'procedure:spill-management_1757684242284' → 3d0078aef5ba42ceb6c101fce076a0a6
+Updated KLP 'klp-2-spill-management' -> 229c218daccf4aca82e9a867cf1abab9
+  ✓ Activated version: 290d6a0d17684534810965220b4f63fd
+  ✓ Resolved KLP link 'video:/Infection prevention/hiv_hepatitis_b_prevention_WHO' → d0c167037c07409ba4eed7b968ad1899
+Updated KLP 'klp-2-spread-of-hiv-and-hep-b' -> 9a888cc4f3b348978b9f600df3c785a8
+  ✓ Activated version: 1ecfff753bf84334ba3a290c9ddf9c26
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-3-sterilization' -> 428045801f91437f8e886bc455fdcb88
+  ✓ Activated version: ee51d577f5264a54903c6ac0d88acb42
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a5c1c30e141b4a24aaa74a1e2c70b82f
+Updated KLP 'klp-1-storage-of-sterile-items' -> a0e914b65279421f83ca98565e291272
+  ✓ Activated version: 168e50f5886e4e9b943dbf3c658b9d68
+  ✓ Resolved KLP link 'procedure:sterilization_1757685337059' → 43c71d50f0a640a392dab9e5a201c817
+Updated KLP 'klp-1-time-for-sterilization' -> 36421cd876d843cb85c1886ec336928f
+  ✓ Activated version: 28de49e458af42e5af374f61faddada1
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-2-towel' -> 75f95a2460a64661ae7a99f27415821b
+  ✓ Activated version: 38d8c9c2642b4d9b8b3226353f1fc39d
+  ✓ Resolved KLP link 'video:/Infection prevention/hiv_hepatitis_b_prevention_WHO' → d0c167037c07409ba4eed7b968ad1899
+Updated KLP 'klp-3-transmission-most-likely' -> ec3cbc17af6b48b0957d8790b995bbe0
+  ✓ Activated version: 047b8c951b524d149087b127c907f8f9
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-1-use-alcohol-based-handrub' -> b92670a1dff148f6bb1bef82314d1b77
+  ✓ Activated version: 8ee1e06ba16642309c2f783ffa5a1398
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-3-wash-hands' -> aa12ad5168c744798c3a52c55982cb57
+  ✓ Activated version: ec33ecdd4c7c470c9a75bf1149ecc013
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-2-when-hand-hygiene1' -> 52fcf8bb34e346c2a0558b2df44672cb
+  ✓ Activated version: 9295f71c0f5a462c83f0d6898446d2f8
+  ✓ Resolved KLP link 'video:/Infection prevention/hand_hygiene_WHO' → c0f028a92624412bb705a8d349047e8a
+Updated KLP 'klp-3-when-hand-hygiene2' -> c3d62525ba934d87ab0eb5442948824e
+  ✓ Activated version: adfb3f37660741608bf5e42db2739a8e
+Warning: Could not resolve video link 'video:/Post abortion care/manual_vacuum_aspiration'. Path segments: ['Post abortion care', 'manual_vacuum_aspiration'], tried prefix='res-video-post-abortion-care-', suffix='-manual-vacuum-aspiration'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/manual_vacuum_aspiration.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/manual_vacuum_aspiration.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/manual_vacuum_aspiration.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/manual_vacuum_aspiration.png
+  ⚠ Could not upload video asset for 'Post abortion care/manual_vacuum_aspiration', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-manual-vacuum-aspiration' -> e091e7b5ae4f4f8dbabe47a48938c4ab
+  ✓ Activated version: 8befa8d12efe4855acde4a0110456cb0
+  ✓ Created & linked KLP resource for 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-3-ab-after-mva' -> 6f5d04b72fa74aa388c91733af35244e
+  ✓ Activated version: 3a0683a02f3c4105b23d82bb02b690f6
+Warning: Could not resolve video link 'video:/Post abortion care/how_to_manage'. Path segments: ['Post abortion care', 'how_to_manage'], tried prefix='res-video-post-abortion-care-', suffix='-how-to-manage'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_manage.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_manage.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_manage.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_manage.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_manage.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_manage.png
+  ⚠ Could not upload video asset for 'Post abortion care/how_to_manage', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-how-to-manage' -> f345f25e2d484f9eba690424f7580f3e
+  ✓ Activated version: cd6c7c2d1129447eafdd97bf1439e880
+  ✓ Created & linked KLP resource for 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-3-ab-and-evacuation-of-the-uterus' -> 88dc349f3ec04d70ab4329035f26e3e1
+  ✓ Activated version: 6355664543e14e0282c725468dbeb422
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-1-action-at-septic-abortion' -> a0792d8cf9aa47e1aa572fdf124496be
+  ✓ Activated version: bdc487a6dab149209a4ab965db2f2237
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-1-advise-before-dismission' -> 6eb5b74ffaec4d83ad5b24645eb651cf
+  ✓ Activated version: 3ab9af98089b47b8922b5171678b0d2f
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-3-analgesic-for-mva' -> 0701ec789b0d45168ad65a6eaa888592
+  ✓ Activated version: 091da3123c044575b22278b68535bae8
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-attachment-of-the-syringe' -> daab4f69cf6845b1affbda52f72891c7
+  ✓ Activated version: 2bb6c66f814a4d178715f54eefddaeb5
+Warning: Could not resolve video link 'video:/Post abortion care/how_to_diagnose'. Path segments: ['Post abortion care', 'how_to_diagnose'], tried prefix='res-video-post-abortion-care-', suffix='-how-to-diagnose'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_diagnose.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_diagnose.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_diagnose.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_diagnose.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_diagnose.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/how_to_diagnose.png
+  ⚠ Could not upload video asset for 'Post abortion care/how_to_diagnose', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-how-to-diagnose' -> 7e456dd8bc8e4c94b9b791a0f2036eea
+  ✓ Activated version: 27aa8632059b48bc8d31f2435ff0e6b4
+  ✓ Created & linked KLP resource for 'video:/Post abortion care/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-2-complication-to-abortion' -> 31c1f10b9db5400fb8f02ff23114ee7b
+  ✓ Activated version: fddac3824a0b4a17975bd00641d5eefa
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-1-complication-to-unsafe-abortion' -> 803a7ca989674b68af2551b2c485b1b0
+  ✓ Activated version: 51f632d1715045c5bacefeec435b1e21
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-3-correct-order-of-actions' -> ff5f2e5310d546358d873909fc0f9323
+  ✓ Activated version: 6627b82eb5c3485594c80b82edd50ada
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-3-counselling' -> 7b703aabfd3141aa99d347ca16d890ba
+  ✓ Activated version: 18e8966c9e25455c89a17d80b8b43650
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-dilate-the-cervix' -> a5a0fb0d273f4a51851daa9de44944f2
+  ✓ Activated version: cc21664d439748e2bee8ec50ae35728a
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-1-end-of-suctioning' -> 012f43233ebe4e90b32acccbe2d7fddc
+  ✓ Activated version: b42f24827cb748b381a5e60e1e5717d0
+Warning: Could not resolve video link 'video:/Post abortion care/evacuation_of_the_uterus'. Path segments: ['Post abortion care', 'evacuation_of_the_uterus'], tried prefix='res-video-post-abortion-care-', suffix='-evacuation-of-the-uterus'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/evacuation_of_the_uterus.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/evacuation_of_the_uterus.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/evacuation_of_the_uterus.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/evacuation_of_the_uterus.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/evacuation_of_the_uterus.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Post%20abortion%20care/evacuation_of_the_uterus.png
+  ⚠ Could not upload video asset for 'Post abortion care/evacuation_of_the_uterus', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-evacuation-of-the-uterus' -> ef827cad72664201b3b576c3b5dba60e
+  ✓ Activated version: 1f84ce940fca4207ab48a05f7206c78a
+  ✓ Created & linked KLP resource for 'video:/Post abortion care/evacuation_of_the_uterus' → ef827cad72664201b3b576c3b5dba60e
+Updated KLP 'klp-1-evacuation-of-the-uterus' -> 0da6989a5e9b49139bb78a352e63e632
+  ✓ Activated version: 11dd58a33e614b8090c0c687dc6f589a
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-1-fever-and-septic-abortion' -> 92ffa9e4f54b4d6e8af0c47efb265b29
+  ✓ Activated version: 735d6a79dc5f408f900496126b0b9b77
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-insert-of-the-cannula' -> 616ee245e3dd4a7789fcde3177fd7768
+  ✓ Activated version: 3f1edbf40faf41fbba08beedd0607803
+  ✓ Resolved KLP link 'video:/Post abortion care/evacuation_of_the_uterus' → ef827cad72664201b3b576c3b5dba60e
+Updated KLP 'klp-3-manual-vacuum-aspiration' -> 1c9197aaba4b4d95bb2ce012a84b5456
+  ✓ Activated version: 18f5835c08284fe583cb48f0bd0d318b
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-3-monitoring-after-mva' -> 3471681c83ca45d4abd21c6afa0e0d5a
+  ✓ Activated version: 1260d33971b94f84bd7af1ed2def947a
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-2-most-important-action-at-septic-abortion' -> da55179e27984cfd94b5a47fa24ad690
+  ✓ Activated version: 8beba918e0744ed7b93614edc9424e1c
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-no-touch-technique' -> 8ef6b007de6e46c2a6be4c9a0ae1af15
+  ✓ Activated version: 15dba22fba4349b0b193a24859ea382c
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-1-peritonitis' -> d6c5c282e8bb4e89b96697fcbbe6e25e
+  ✓ Activated version: 5577c831c95e47fbbcc6ebdfacba16c9
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-3-preparation-for-mva' -> 853ec8a1d3bb406492a8eb9b5e8b3f62
+  ✓ Activated version: 7bf3f699caf7467abba1ee3bc76d6c6c
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-rotate-and-move-cannula-back-and-forth' -> 5d642a69781a4ebabddd7136b56494ca
+  ✓ Activated version: 9489f65146d64c349a732c696102d02e
+  ✓ Resolved KLP link 'video:/Post abortion care/intro' → 898e2cdd18164775824675e4752838db
+Updated KLP 'klp-1-septic-abortion' -> 9954c417d0c648a49a8ccc868f06ac01
+  ✓ Activated version: 39d25e825d524a29ba248454a5133500
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-1-septic-abortion-can-be-fatal' -> 76ffc3415d1743a8a2df266b05915d35
+  ✓ Activated version: 37a229416fa14649a3b7e939241ea908
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-1-signs-of-septic-abortion' -> 40e702ff63494527abb34bea76085162
+  ✓ Activated version: 9b3a91026b6b4cebb09346df22f17e55
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-3-size-of-cannula-for-mva' -> b31cff5129434326b7a5205ba661d58e
+  ✓ Activated version: 38d2474467954eed9a72f78780c786ff
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-3-suspect-lower-abdominal-tenderness' -> 477bd8703ade4d3eaa92505e2d49a2d4
+  ✓ Activated version: cdaa8e53d8ff4ca09684f18b59ee1c59
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-tenaculum' -> 73ec2df0f1c84d14a99cc5fe4d9e400a
+  ✓ Activated version: 4e6b50a0d1cf4cafb8bba03dfd541a13
+  ✓ Resolved KLP link 'video:/Post abortion care/intro' → 898e2cdd18164775824675e4752838db
+Updated KLP 'klp-2-unsafe-abortion-globally' -> 53562539e99e486eac86b2457e20a420
+  ✓ Activated version: 00ca85480e174441a683ff6615ad701b
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-1-urgent-management' -> 41e09d1f463b4f7c83572ec9ad17ca00
+  ✓ Activated version: b90388eb4d16438c98a123420dd56322
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-1-urine-test' -> ee614736b2bb4fe889afb33c4348c44e
+  ✓ Activated version: 7c3f7b93fcce412a8e05131c0c78749f
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-use-the-cannula-again' -> 693fcfdff30d4ad09c26a28c63152dcc
+  ✓ Activated version: be77468edcb14bd98c9db41cbf3cde62
+  ✓ Resolved KLP link 'video:/Post abortion care/evacuation_of_the_uterus' → ef827cad72664201b3b576c3b5dba60e
+Updated KLP 'klp-3-uterus-size-in-week-12' -> 7fbff0dd30844cc782d3e9230ff3f8ca
+  ✓ Activated version: 41767adebe364240a178bf4a7b74492b
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-2-vacuum-to-mva-syringe' -> a4d8db8c87cd434e93e0d6e8efb310ac
+  ✓ Activated version: 958a4727be974e9bb0e090855c5edd61
+  ✓ Resolved KLP link 'video:/Post abortion care/manual_vacuum_aspiration' → e091e7b5ae4f4f8dbabe47a48938c4ab
+Updated KLP 'klp-3-valves-closed' -> 3ee53bda0dfd4e6eb17410af2ced0370
+  ✓ Activated version: e542a430838743c98dcc9902211ef771
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-2-what-to-measure' -> f684e7afe0d945838c5cab7e85f97f3b
+  ✓ Activated version: cf144a3c63c8456dadb9583c329a6372
+  ✓ Resolved KLP link 'video:/Post abortion care/how_to_manage' → f345f25e2d484f9eba690424f7580f3e
+Updated KLP 'klp-3-which-ab-to-give' -> 52214972b4e64a5f96f079bcc7889313
+  ✓ Activated version: 15f5222b01fd44cf9caa87286c6b20aa
+Warning: Could not resolve video link 'video:/Hypertension/severe_preeclampsia_eclampsia'. Path segments: ['Hypertension', 'severe_preeclampsia_eclampsia'], tried prefix='res-video-hypertension-', suffix='-severe-preeclampsia-eclampsia'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/severe_preeclampsia_eclampsia.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/severe_preeclampsia_eclampsia.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/severe_preeclampsia_eclampsia.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/severe_preeclampsia_eclampsia.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/severe_preeclampsia_eclampsia.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/severe_preeclampsia_eclampsia.png
+  ⚠ Could not upload video asset for 'Hypertension/severe_preeclampsia_eclampsia', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-severe-preeclampsia-eclampsia' -> ab5b77a74b7543388ed0fb7e0be92306
+  ✓ Activated version: b7335504c9e946ada2c2a1a6c5c4b0be
+  ✓ Created & linked KLP resource for 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-3-action-eclampsia' -> 6c35d2e70f17411d9d2cf53c549efbbf
+  ✓ Activated version: d690925794d343a8bf4b0879ca728027
+  ✓ Resolved KLP link 'video:/Hypertension/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+  ✓ Resolved KLP link 'video:/Hypertension/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-3-anc-blood-pressure' -> 5654081e2ead4854bfa1d7bbb345a919
+  ✓ Activated version: c534518b9af54d9da724edfba17262b2
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-1-antidote-administration' -> b18523baa43145cf8d6f1b727bd92c40
+  ✓ Activated version: d9700ab2fb764182853daa8bf17690af
+Warning: Could not resolve video link 'video:/Hypertension/management_of_hypertension'. Path segments: ['Hypertension', 'management_of_hypertension'], tried prefix='res-video-hypertension-', suffix='-management-of-hypertension'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/management_of_hypertension.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/management_of_hypertension.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/management_of_hypertension.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/management_of_hypertension.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/management_of_hypertension.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/management_of_hypertension.png
+  ⚠ Could not upload video asset for 'Hypertension/management_of_hypertension', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-management-of-hypertension' -> 411d99e32a564806a9b1cd4edbbcce9b
+  ✓ Activated version: 87ba626c850d4bee8dba55ddf0392a8b
+  ✓ Created & linked KLP resource for 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+Updated KLP 'klp-1-calcium-gluconate' -> 875fe8b1c06f456f9078feed20611693
+  ✓ Activated version: 8370c77e23ae42db85290d4106d28f8a
+Warning: Could not resolve video link 'video:/Hypertension/causes'. Path segments: ['Hypertension', 'causes'], tried prefix='res-video-hypertension-', suffix='-causes'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/causes.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/causes.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/causes.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/causes.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/causes.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/causes.png
+  ⚠ Could not upload video asset for 'Hypertension/causes', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-causes' -> 35fc18b3b50647f9ae2b5fa6ad48e952
+  ✓ Activated version: 4352b9644e72473a8715a71606008c47
+  ✓ Created & linked KLP resource for 'video:/Hypertension/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-1-causes-of-pre-eclampsia' -> f06eb3c9d6b44a7e81b59ec1a65f101a
+  ✓ Activated version: 9db5042155094ade84fdb152b1e1d231
+  ✓ Resolved KLP link 'video:/Hypertension/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+  ✓ Resolved KLP link 'video:/Hypertension/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-3-confirm-bp' -> f76a2008c0d3450aa148276a1447e2f7
+  ✓ Activated version: ef893d74428f49a4a60da8deb5f8d014
+  ✓ Resolved KLP link 'video:/Hypertension/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-3-confirmed-elevated-bp' -> 431c75aa1f3b465790adb9d4011d68ee
+  ✓ Activated version: 5dd7cb016e1e451ba29adc7268b477f4
+  ✓ Resolved KLP link 'video:/Hypertension/how_to_diagnose' → 7e456dd8bc8e4c94b9b791a0f2036eea
+Updated KLP 'klp-2-confirmed-elevated-bp' -> 5043102bb25c46d8b95df9b040687a92
+  ✓ Activated version: 204540cae4fb44b0b5e6f751b65ac126
+  ✓ Resolved KLP link 'video:/Hypertension/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+  ✓ Resolved KLP link 'video:/Hypertension/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-2-cure-of-pre-eclampsia' -> 4c57f2f345fa4fc1b5765c273f6bde71
+  ✓ Activated version: 8c18c43aeb50408a8660280cdd044348
+Warning: Could not resolve video link 'video:/Hypertension/definitions'. Path segments: ['Hypertension', 'definitions'], tried prefix='res-video-hypertension-', suffix='-definitions'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/definitions.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/definitions.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/definitions.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/definitions.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/definitions.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Hypertension/definitions.png
+  ⚠ Could not upload video asset for 'Hypertension/definitions', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-definitions' -> 0fd4dac901c649d09f5173ca29e8f2b7
+  ✓ Activated version: e28896eee47c4986a008749046e8d867
+  ✓ Created & linked KLP resource for 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-3-differential-diagnosis' -> 41a3522b768f48b5ac5c742e2f12f393
+  ✓ Activated version: a4214afcac614618824465558a806948
+  ✓ Resolved KLP link 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+Updated KLP 'klp-3-dose-of-inj-labetalol' -> be02a191a09a4ec7ae3b3e832c940b2e
+  ✓ Activated version: 3174c5928e114d4bbeb94ea597d7dfbe
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-1-eclampsia-monitor-1-2-hour' -> 235d0275b9754ad18315848a2bd83004
+  ✓ Activated version: e0af200e6aa243f9aee9110e7e41e453
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-2-eclampsia-normal-blood-pressure' -> 14669539efab4f2797bda54acaaae12f
+  ✓ Activated version: 9d47599e4c0d4e9683cf9593cc6a24e4
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-2-eclampsia-seizures' -> 70c5f84286af48c085775408cb3f5622
+  ✓ Activated version: a977718fe33048db9af5180c77de78e9
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-2-eclampsia' -> e3bbf3f50642476f9686ad7eb78d7809
+  ✓ Activated version: 8d83ccaeb4e94805a1a301854058447f
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-3-fluid-overload' -> 6e12f5f7fefb44eba82eb3b54474aa70
+  ✓ Activated version: 6565b5bc930b4439bb412bc77db2eb13
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-2-gestational-hypertension' -> 05f98ebe770f4ac18dd66157409ee195
+  ✓ Activated version: 8fa248b67c884ed9b7fc326b3350d5a8
+  ✓ Resolved KLP link 'drug:magnesium-sulphate_1487111473832' → c2284d8ced16411d9f77d9d3b18d7988
+Updated KLP 'klp-2-give-magnesium-sulphate' -> e3a5dbd263c04cd9a3ea1c94db6b4e56
+  ✓ Activated version: 6b57527c908f421691b599ee8cec45c0
+  ✓ Resolved KLP link 'drug:hydralazine_1487109388353' → 467e9ae50ba14b20b896f4a7bd495950
+Updated KLP 'klp-3-hydralazine' -> 1eb15589cb034f599c46beaec3771706
+  ✓ Activated version: f7c0bdf631db4ccf989bee1a5c424623
+  ✓ Resolved KLP link 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+Updated KLP 'klp-1-iv-medication' -> 21ffb959ab4e47d8ac7c62e559570f4d
+  ✓ Activated version: 86617660007943ea83eace9a9d3d47a9
+  ✓ Resolved KLP link 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+Updated KLP 'klp-2-keep-diastolic-bp-above-80' -> 1bde514a088d4f059bfe2835b3188ef8
+  ✓ Activated version: 8c2958b14155468db5ee1e97a0affbcb
+  ✓ Resolved KLP link 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+Updated KLP 'klp-1-keep-systolic-bp-below-160' -> 70f037b964ee465f87538cfb0866e2c3
+  ✓ Activated version: c3b9e44e61b3490a9bc78ef4de50be3b
+  ✓ Resolved KLP link 'drug:labetalol_1490625535572' → 8c61835f65844c84b0b2e49588a1db82
+Updated KLP 'klp-3-labetalol' -> 50c7d0eec8c94026ad0b9c29d6f59e49
+  ✓ Activated version: cfec528796154f1abad2591fd5126f68
+  ✓ Resolved KLP link 'drug:betamethasone_1487080183154' → b9a71663196749938184325c68ccfaa4
+Updated KLP 'klp-3-lung-maturity' -> b6b8673236b0492f821e8b553ae722da
+  ✓ Activated version: 8c4a1dcac558453f9b8cef618fcbb6e2
+  ✓ Resolved KLP link 'drug:magnesium-sulphate_1487111473832' → c2284d8ced16411d9f77d9d3b18d7988
+Updated KLP 'klp-2-maintain-dose-magnesium-sulphate' -> 3bfbb57cbed34af0a298545e2d897fb1
+  ✓ Activated version: 69a0f5a6518a46e6b1b3468597895ff3
+  ✓ Resolved KLP link 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+  ✓ Resolved KLP link 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+Updated KLP 'klp-3-maternal-death-and-pre-eclampsia' -> 099037dd90a64b5a91423bde71dd6de6
+  ✓ Activated version: eb2b5b5b8ad44400a65704da48c271dd
+  ✓ Resolved KLP link 'drug:methyldopa_1487111904464' → 691b50accd6746179ceadbf87dcf862b
+Updated KLP 'klp-3-methyldopa' -> b094403f158b458493d0462c337cbf48
+  ✓ Activated version: 51a4758913004815a00f87b99e1649ae
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-3-cause-of-oliguria' -> 6ae3c85daf4b47e792302b6e395e4452
+  ✓ Activated version: 2ab3da9ccce8497787fae3b065143654
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-2-preeclampsia' -> c05b3e49ad694a1abc0d243e7924efe8
+  ✓ Activated version: d883b7918e09434995db991c0021668d
+  ✓ Resolved KLP link 'drug:calcium-supplementation_1699431482391' → 6890a6295d364bac8d1c25aa5da94658
+Updated KLP 'klp-1-prevention-of-htn-during-pregnancy' -> a957e863641a43d1a3ce0db784874e98
+  ✓ Activated version: 294c2f9d99a54314856d645a9bf4ff60
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-2-proteinuria' -> 45271990c1aa41d789a760312b25fbd1
+  ✓ Activated version: 71ec8269e8bc417cbe67fa63f4bdab8a
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-3-refer-and-eclampsia' -> b626e159e8184a8ebd2df0c3c9139585
+  ✓ Activated version: 655ad60882db4024b124ca98618b3960
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-1-respiratory-distress' -> 756a1142dfd84d2fa476da3928e5040f
+  ✓ Activated version: a1f73c42a97b4d1c8de0d0df9d6d2fba
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-1-severe-headache-and-visual-disturbance' -> c10ad97d903b4808a8ae32fd4176cb73
+  ✓ Activated version: c44471061ab3450fab42944abda66723
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-1-severe-pre-eclampsia-or-eclampsia' -> ef11585de681493486af02576e7ab88d
+  ✓ Activated version: 90fd6089039249e78adab78ec1645407
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-1-severe-preeclampsia' -> f753d894a522410f98068083a12a24ef
+  ✓ Activated version: 5a0790652c61432eb8140662fde4f9f9
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-1-severely-elevated-blood-pressure' -> eb5410c8f5554d39875f2f27145ee890
+  ✓ Activated version: 7a368ac48c624a9b9a6165a2b8b0269f
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+  ✓ Resolved KLP link 'video:/Hypertension/severe_preeclampsia_eclampsia' → ab5b77a74b7543388ed0fb7e0be92306
+Updated KLP 'klp-2-toxicity' -> 6896e7bae17a42849081367afdd56515
+  ✓ Activated version: 01d25d2b94e14a348fc5a98cddf77089
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-1-upper-abdominal-pain-from-the-liver' -> 63f0d72977be4df5b29a95785b2d689b
+  ✓ Activated version: 4a062f32b1014040b9848943dfd4b246
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+  ✓ Resolved KLP link 'video:/Hypertension/definitions' → 0fd4dac901c649d09f5173ca29e8f2b7
+Updated KLP 'klp-1-visual-disturbances-like-silver-lights-or-blurry-vision-eyes' -> 821b3a6887c9497bb39c4bbc246395d5
+  ✓ Activated version: 5566940b06984066ab02654ff518a2c4
+  ✓ Resolved KLP link 'video:/Hypertension/management_of_hypertension' → 411d99e32a564806a9b1cd4edbbcce9b
+Updated KLP 'klp-2-we-start-antihypertensive-drugs' -> a98cb77dbe4f41649f6ca895f10746c2
+  ✓ Activated version: 8e6da0811f4e4beabbfdd3ac04a22432
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/intro' → 898e2cdd18164775824675e4752838db
+Updated KLP 'klp-2-active-management' -> 369a9c43dc5046e2823a165a3ea028ba
+  ✓ Activated version: 12e4fa62db70449e9e9707b96ed37768
+  ✓ Resolved KLP link 'drug:carbetocin_1551691910153' → ea956ed8dc834e5a8eb848beaa506bfe
+Updated KLP 'klp-1-heat-stable-carbetocin' -> 939f0e5600494160908b07bfad17db94
+  ✓ Activated version: 0eeb2d6ad20743288c35e069eb4d17de
+Warning: Could not resolve video link 'video:/Active management of third stage labour/monitoring'. Path segments: ['Active management of third stage labour', 'monitoring'], tried prefix='res-video-active-management-of-third-stage-labour-', suffix='-monitoring'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/monitoring.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/monitoring.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/monitoring.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/monitoring.png
+  ⚠ Could not upload video asset for 'Active management of third stage labour/monitoring', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-monitoring' -> 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+  ✓ Activated version: b754730f50e34e65b1da6e312d2bd337
+  ✓ Created & linked KLP resource for 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-1-check-mother-after-birth' -> 409b673f38cb4bb28fa490d45ba2103a
+  ✓ Activated version: ae7d518532e648e5811c92ce6342cfef
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-2-check-the-newborn-after-birth' -> 9d4b8642ff39428da4d46ed71ec782ff
+  ✓ Activated version: dbf41cb125a2445ba58f35b62c22bfa5
+Warning: Could not resolve video link 'video:/Active management of third stage labour/controlled_cord_traction'. Path segments: ['Active management of third stage labour', 'controlled_cord_traction'], tried prefix='res-video-active-management-of-third-stage-labour-', suffix='-controlled-cord-traction'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.png
+  ⚠ Could not upload video asset for 'Active management of third stage labour/controlled_cord_traction', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-controlled-cord-traction' -> c449af09259345e6a2f6e73ab03f8283
+  ✓ Activated version: 105e1de69f3c4c899d7b28fef442e66f
+  ✓ Created & linked KLP resource for 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-1-check-uterus' -> 0a0c034400214e5da12865aeb61f3d89
+  ✓ Activated version: e915d0adfc3a490bb0225a4cdeaaabe6
+Warning: Could not resolve video link 'video:/Active management of third stage labour/clamp_and_cut_the_umbilical_cord'. Path segments: ['Active management of third stage labour', 'clamp_and_cut_the_umbilical_cord'], tried prefix='res-video-active-management-of-third-stage-labour-', suffix='-clamp-and-cut-the-umbilical-cord'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/clamp_and_cut_the_umbilical_cord.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/clamp_and_cut_the_umbilical_cord.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/clamp_and_cut_the_umbilical_cord.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/clamp_and_cut_the_umbilical_cord.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/clamp_and_cut_the_umbilical_cord.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/clamp_and_cut_the_umbilical_cord.png
+  ⚠ Could not upload video asset for 'Active management of third stage labour/clamp_and_cut_the_umbilical_cord', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-clamp-and-cut-the-umbilical-cord' -> aac4c58fb7c24f12a65edd42f3ea329e
+  ✓ Activated version: 4954934561934315b95d6e27064f458a
+  ✓ Created & linked KLP resource for 'video:/Active management of third stage labour/clamp_and_cut_the_umbilical_cord' → aac4c58fb7c24f12a65edd42f3ea329e
+Updated KLP 'klp-3-clamp-umbilical-cord' -> 7342ef1f06a94e019429304c1916cba4
+  ✓ Activated version: 4e9168bbf4414d8a890a25630291605d
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-3-cord-monitor' -> 8264fb88a56d49daa4f62e1eedeec3e4
+  ✓ Activated version: 343aaa50c17543e6ab7714b7fe41f263
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-2-cord-traction' -> 506e16fcd8674e0da7deedb8c1edf522
+  ✓ Activated version: 8088c0c83a1f4b579f32dfce8e5fa45c
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-3-counter-pressure-pubic-bone' -> 00cf6e3bbd8748839f815290aa3aba1a
+  ✓ Activated version: ef222cd2f7574d7fab4a9173c2cce865
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-3-delivery-of-membranes' -> 169fbef76e9c4696887b109032a27d27
+  ✓ Activated version: 6dfef750633d43a8b2ee565be87734d6
+  ✓ Resolved KLP link 'drug:oxytocin_1487156988152' → 02847432ed34465894266987df1aa2ad
+Updated KLP 'klp-1-dose-of-oxytocin' -> 05737780f89d4fe5944aad6ee5248635
+  ✓ Activated version: 25d2c9c1a518484f956d20ec9f153e74
+Warning: Could not resolve video link 'video:/Active management of third stage labour/assess_the_newborn'. Path segments: ['Active management of third stage labour', 'assess_the_newborn'], tried prefix='res-video-active-management-of-third-stage-labour-', suffix='-assess-the-newborn'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.png
+  ⚠ Could not upload video asset for 'Active management of third stage labour/assess_the_newborn', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-assess-the-newborn' -> 52fae31db18e41fbaf32bc2b75694768
+  ✓ Activated version: de5d855be97e49968691a1e8eefb0912
+  ✓ Created & linked KLP resource for 'video:/Active management of third stage labour/assess_the_newborn' → 52fae31db18e41fbaf32bc2b75694768
+Updated KLP 'klp-2-dry-of-the-baby' -> 8050a92b8ce94797aaa7f25b982fc5fe
+  ✓ Activated version: 9593c9a58cb34af0882056d50be79d95
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-3-early-breastfeeding-mother' -> fbbfe07a8f7a4565b291ffa779d67f67
+  ✓ Activated version: 4f82a65fc0a548e18ed213263a18275e
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-2-early-breastfeeding-newborn' -> 8d9be0eff3b54f1291c30563fa99321f
+  ✓ Activated version: b6ba814b6ed142059894e197d68dfb7e
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-2-estimation-of-blood-loss' -> b3560e2a28094918bf7138a1e1d0765b
+  ✓ Activated version: 6c3b6541371d4c77a5fc2f1616d44c49
+Warning: Could not resolve video link 'video:/Active management of third stage labour/examine_the_placenta'. Path segments: ['Active management of third stage labour', 'examine_the_placenta'], tried prefix='res-video-active-management-of-third-stage-labour-', suffix='-examine-the-placenta'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.png
+  ⚠ Could not upload video asset for 'Active management of third stage labour/examine_the_placenta', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-examine-the-placenta' -> 0af504d9d1824df4a508eef1a28c97c0
+  ✓ Activated version: 50f2a1d42e6e4766bc11b516643f89d7
+  ✓ Created & linked KLP resource for 'video:/Active management of third stage labour/examine_the_placenta' → 0af504d9d1824df4a508eef1a28c97c0
+Updated KLP 'klp-1-examine-the-placenta' -> 93261a239877481e9ce256523dcce58f
+  ✓ Activated version: 3331a818c66a491992c893ac56b2dace
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-2-apgar-score-and-vit-k' -> b03c37b752d64733a9737dcfc6c739a3
+  ✓ Activated version: 6baa6d2b33534b828a509602c7f270e3
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-3-how-often-check-mother' -> 61174cbc8dc34434addcb790e1c9afc5
+  ✓ Activated version: 0f4acb04b1e345e6998dc7cf84a8c758
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-3-how-often-check-newborn' -> dd51270a61ab4bd7a9e90fed2575a81f
+  ✓ Activated version: b6606f839f5b4dcfa0c1fe7cd54dd804
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/examine_the_placenta' → 0af504d9d1824df4a508eef1a28c97c0
+Updated KLP 'klp-2-maternal-surface-of-placenta' -> 15d1b5a8fb19441587a5846aed65d16b
+  ✓ Activated version: 93fbc9cb626a4543906bfd8731d81f8b
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-2-measure-blood-loss' -> 2f5bcd39ec014028a94ad03c69ddd38b
+  ✓ Activated version: b290d4da7a944ea39db392534d1f83ca
+  ✓ Resolved KLP link 'drug:oxytocin_1487156988152' → 02847432ed34465894266987df1aa2ad
+Updated KLP 'klp-1-misoprostol' -> 657de6099f1d4d4ea91c8f2a771c94cf
+  ✓ Activated version: fa0d4a8a14b8472aa41c97ee4f0439a9
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/assess_the_newborn' → 52fae31db18e41fbaf32bc2b75694768
+Updated KLP 'klp-1-newborn-not-breathing-well' -> 537952a278644f4eb9877f73e5ec4e20
+  ✓ Activated version: 270a31c16ee943d48991695d787ab3fa
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-2-no-unattended-mother-and-newborn' -> 8101d1f0a7a247c9b0eb20cada975b97
+  ✓ Activated version: bc9ac8a441304c5e9907139a64e232f6
+Warning: Could not resolve video link 'video:/Active management of third stage labour/give_a_uterotonic_drug'. Path segments: ['Active management of third stage labour', 'give_a_uterotonic_drug'], tried prefix='res-video-active-management-of-third-stage-labour-', suffix='-give-a-uterotonic-drug'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.png
+  ⚠ Could not upload video asset for 'Active management of third stage labour/give_a_uterotonic_drug', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-give-a-uterotonic-drug' -> df73dcaabadf40219822c301a7ea7b8b
+  ✓ Activated version: 07eb13f786114515935be0e2aa09f637
+  ✓ Created & linked KLP resource for 'video:/Active management of third stage labour/give_a_uterotonic_drug' → df73dcaabadf40219822c301a7ea7b8b
+Updated KLP 'klp-1-oxytocin' -> 09524f4132ec4271baf290694b3e79b9
+  ✓ Activated version: 85528f78f9c947f2bc10ef7b47f8408c
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-3-push-for-the-placenta' -> 13fcbd537a1042448618c4fb9594a61d
+  ✓ Activated version: f4714ad90e8b4ee595f03d74bda0538e
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/controlled_cord_traction' → c449af09259345e6a2f6e73ab03f8283
+Updated KLP 'klp-3-rounded-uterus' -> f4c80a9805be4e04962ed8a9440c64aa
+  ✓ Activated version: af30c42141244f9a96bfd6cd7fe88299
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/monitoring' → 6f4ede7268bd4c10aa7e75ac1f2a5b7a
+Updated KLP 'klp-3-skin-to-skin-contact' -> e2b9ef0197f743abb8c5c1b2ed8c87ad
+  ✓ Activated version: d8fa366f388c4d979e4f59461b2847d4
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/assess_the_newborn' → 52fae31db18e41fbaf32bc2b75694768
+Updated KLP 'klp-2-stable-newborn' -> 4c2324f9412e4441bd5dc988f263610b
+  ✓ Activated version: 141bc2e8acfb47569a7648914020460e
+  ✓ Resolved KLP link 'drug:oxytocin_1487156988152' → 02847432ed34465894266987df1aa2ad
+Updated KLP 'klp-3-storage-of-oxytocin' -> 66eb259336364f51b7f7e1c2840d50ea
+  ✓ Activated version: fcec7f0972414914a4d0fe476aacebbf
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/assess_the_newborn' → 52fae31db18e41fbaf32bc2b75694768
+Updated KLP 'klp-1-suction-thick-meconium' -> 5abb2540bf804ff489522bd93ebf1647
+  ✓ Activated version: 88517bc8b7474176b79674fcdd255bf0
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/assess_the_newborn' → 52fae31db18e41fbaf32bc2b75694768
+Updated KLP 'klp-2-thick-meconium' -> 2e4244dd8c064b97b240120e45ead780
+  ✓ Activated version: 21ed0c13eba344c0a6983e0410dd4451
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/give_a_uterotonic_drug' → df73dcaabadf40219822c301a7ea7b8b
+Updated KLP 'klp-1-uterotonic-drug' -> 14d3436fa2e0487e960388f8556531ea
+  ✓ Activated version: e423d3a6dced46f18f2750a80d630611
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/assess_the_newborn' → 52fae31db18e41fbaf32bc2b75694768
+Updated KLP 'klp-3-warm-baby' -> 4caf22d60bdc4795bea0ffa3d95fae44
+  ✓ Activated version: 4a8542a8d91541028cd7b8fc64ce7e52
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/assess_the_newborn' → 52fae31db18e41fbaf32bc2b75694768
+Updated KLP 'klp-1-when-to-assess-the-newborn' -> 605e635f64ab41fc90968d0d91a402b8
+  ✓ Activated version: dff3b027056d4309b21385378d2b9653
+  ✓ Resolved KLP link 'video:/Active management of third stage labour/give_a_uterotonic_drug' → df73dcaabadf40219822c301a7ea7b8b
+Updated KLP 'klp-1-when-to-give-oxytocin' -> bae3c7f704764005870ac7a11c42cb96
+  ✓ Activated version: 72058f7cc85b4de7b2ede3d0a3d56c3c
+Warning: Could not resolve video link 'video:/Prolonged labour/2nd_stage_vacuum_extraction'. Path segments: ['Prolonged labour', '2nd_stage_vacuum_extraction'], tried prefix='res-video-prolonged-labour-', suffix='-2nd-stage-vacuum-extraction'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/2nd_stage_vacuum_extraction.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/2nd_stage_vacuum_extraction.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/2nd_stage_vacuum_extraction.png
+  ⚠ Could not upload video asset for 'Prolonged labour/2nd_stage_vacuum_extraction', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-2nd-stage-vacuum-extraction' -> e8890cdd4d91484eab8ef2498cac4c65
+  ✓ Activated version: 38790da34a544e2a9c302b50a11967bf
+  ✓ Created & linked KLP resource for 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-1-fhr' -> 54cd078ecb144a04ada3f3285a084a93
+  ✓ Activated version: f25b668278e840d0903bff4d92f68e6f
+  ✓ Resolved KLP link 'video:/Prolonged labour/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-2-cephalic-occiput-posterior' -> baf3e7975511488da386d978e84db541
+  ✓ Activated version: 2f59dae5c3d94f8caf2ca6c59439da44
+Warning: Could not resolve video link 'video:/Prolonged labour/1st_stage_active_phase'. Path segments: ['Prolonged labour', '1st_stage_active_phase'], tried prefix='res-video-prolonged-labour-', suffix='-1st-stage-active-phase'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_active_phase.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_active_phase.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_active_phase.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_active_phase.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_active_phase.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_active_phase.png
+  ⚠ Could not upload video asset for 'Prolonged labour/1st_stage_active_phase', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-1st-stage-active-phase' -> 9e10fe7f22ff4aceaa6c33d3ea8743d0
+  ✓ Activated version: 370b7fd2361f413b853fd04672d0876b
+  ✓ Created & linked KLP resource for 'video:/Prolonged labour/1st_stage_active_phase' → 9e10fe7f22ff4aceaa6c33d3ea8743d0
+Updated KLP 'klp-2-cervical-dilatation' -> 2a4656b3112a45dd82533f9bb3a7b579
+  ✓ Activated version: 24d798c2ef62407195b256a09e95cc20
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-1-check-for-maternal-tissue' -> 96e9ab2c30744dfeada7dadca6ee1432
+  ✓ Activated version: 4e1114ba9af44bb698efec05c4466866
+  ✓ Resolved KLP link 'video:/Prolonged labour/intro' → 898e2cdd18164775824675e4752838db
+Updated KLP 'klp-1-complication-prolonged-infant' -> 9b87d178aa4e4f95a72201c024a962cf
+  ✓ Activated version: e23fd252f17b42aa901d80376ebc0229
+  ✓ Resolved KLP link 'video:/Prolonged labour/intro' → 898e2cdd18164775824675e4752838db
+Updated KLP 'klp-1-complication-prolonged-mother' -> 32a290e36f334947bdb24116ba37c046
+  ✓ Activated version: 8927775ae68d41658272db3fe9b641a5
+  ✓ Resolved KLP link 'procedure:vacuum-extractor_1487245649303' → abd3b5fb15594a16a4a84b4eb76b1e07
+Updated KLP 'klp-3-prerequisites-for-vacuum' -> 46650566dc614cf9bceebdd438369209
+  ✓ Activated version: cb0088d59b8f4984a678b216a7d57d9f
+Warning: Could not resolve video link 'video:/Prolonged labour/1st_stage_latent_phase'. Path segments: ['Prolonged labour', '1st_stage_latent_phase'], tried prefix='res-video-prolonged-labour-', suffix='-1st-stage-latent-phase'
+Downloading video asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_latent_phase.mp4
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_latent_phase.mp4: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_latent_phase.mp4
+Downloading video_icon asset from https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_latent_phase.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading video_icon asset https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_latent_phase.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/videos/english%20WHO/Prolonged%20labour/1st_stage_latent_phase.png
+  ⚠ Could not upload video asset for 'Prolonged labour/1st_stage_latent_phase', creating placeholder without content
+  ✓ Created placeholder 'res-video-africa-1st-stage-latent-phase' -> 79e445d51843481a971479d3e95a97ea
+  ✓ Activated version: 9533c9e1a61c41868f94fa5e632bac4e
+  ✓ Created & linked KLP resource for 'video:/Prolonged labour/1st_stage_latent_phase' → 79e445d51843481a971479d3e95a97ea
+Updated KLP 'klp-3-contractions-causes-if-not-prolonged-latent-phase' -> 1c037c8c77a24276ada441e9784e727a
+  ✓ Activated version: 48b28cc461da4e3dbcdba53f75c54b5d
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-2-fhr-and-contractions' -> 8bc01aa86a224374b55a013aec2d3566
+  ✓ Activated version: ad46b697a89e4306827a2d1e2bbdba16
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-3-flexion-point' -> de885c21cfd440159b4c2de68f77a947
+  ✓ Activated version: d28d1f959b724ca2b5cdf03d4b163e83
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-1-give-up-vacuum' -> 19a7259901e24ff5b33a09a71f6bf65e
+  ✓ Activated version: 6eca8548f81042cdaf3faabccea2e554
+  ✓ Resolved KLP link 'procedure:vacuum-extractor_1487245649303' → abd3b5fb15594a16a4a84b4eb76b1e07
+Updated KLP 'klp-1-head-above-the-pubic-bone' -> 5cda79db3b61488cb108b9aaee3bd890
+  ✓ Activated version: 3ccdbe7ed39d49759fcb09eab692cd81
+  ✓ Resolved KLP link 'procedure:foetal-heart-rate_1487245616159' → eaf8dcc27daf43f29c17f7804d54ef02
+Updated KLP 'klp-1-immediate-delivery' -> 1670e93b7dbc450f87cfdd71b0a4377b
+  ✓ Activated version: 63a1ea22f0694620925f3b5516d0afae
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-3-incision' -> 7c9272d8ce654b4eb93465c9211f8213
+  ✓ Activated version: 6643101a8e374392ae05a6b817491c69
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-1-indication-for-vacuum' -> 42b05998189a419ca0604ccd7c81deb1
+  ✓ Activated version: ab1e7920dcc54f01a8956d36987c4313
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-3-intact-perineum' -> d8c210055f1a4459839cb7d000f2cb62
+  ✓ Activated version: 338497c1e1a84cffa30fe43f7c13e768
+  ✓ Resolved KLP link 'video:/Prolonged labour/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-2-causes' -> 51025065709f4cba85443e4c5a1ca584
+  ✓ Activated version: 7179bf0f71714a6891722694c723c986
+  ✓ Resolved KLP link 'video:/Prolonged labour/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-3-more-comfortable' -> d74b3684cd3449368ff0cd4737e50735
+  ✓ Activated version: 9530b01562f94d88851139b79ed702df
+  ✓ Resolved KLP link 'video:/Prolonged labour/1st_stage_active_phase' → 9e10fe7f22ff4aceaa6c33d3ea8743d0
+Updated KLP 'klp-1-partograph-with-dilatation-between-alert-and-action-line' -> bd4c4b45259b46338107fd6c33e3c8ac
+  ✓ Activated version: 03270d22abfe460eaebd8ad95ca42d11
+  ✓ Resolved KLP link 'video:/Prolonged labour/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-2-passenger' -> 7a10a4d36e9c4f04940947172d9987e5
+  ✓ Activated version: 2c177fb5b7b740bc9b10cdd5b3da50dc
+  ✓ Resolved KLP link 'video:/Prolonged labour/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-3-pelvis-passage' -> ac177a64afdb4bb28cd64aeb536e1750
+  ✓ Activated version: e72b358c49cd45a9ab240c3418fcd8ca
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-1-placing-the-cup' -> 7f604cf09b7d4567a6a517775e069482
+  ✓ Activated version: eb362c2536d64a178bd1f786a08e074e
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-3-posterior-fontanelle-where' -> dc7a9f9f184d44739fb77b97b710aebf
+  ✓ Activated version: 722a3449ff0244b1a309ee79a6bf3129
+  ✓ Resolved KLP link 'video:/Prolonged labour/2nd_stage_vacuum_extraction' → e8890cdd4d91484eab8ef2498cac4c65
+Updated KLP 'klp-2-posterior-fontanelle' -> 22d42cdf93b8443893270cbd31832661
+  ✓ Activated version: b462f2fa8612420f81eb5d6b2bd0080d
+  ✓ Resolved KLP link 'video:/Prolonged labour/causes' → 35fc18b3b50647f9ae2b5fa6ad48e952
+Updated KLP 'klp-2-power' -> a5d6673bcceb42ca887bacb4730ad30e
+  ✓ Activated version: 8e930e677e5348dcb8afc78d402be08b
+Warning: Could not resolve action-card link 'action-card:procedures-by-also_1486848037447'. Candidates: ['res-action-card-africa-procedures-by-also', 'res-action-card-procedures-by-also']
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/main.py", line 331, in <module>
+    main()
+  File "/home/azureuser/test/content_migrator/main.py", line 318, in main
+    global_migrator.post_global_content(start_from=args.start_from)
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 357, in post_global_content
+    self.resource_migrator.post_klps_from_csv()
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1971, in post_klps_from_csv
+    created_id = self._create_resource_from_link(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1782, in _create_resource_from_link
+    resource_data = DataFactory.create_resource_data(source_doc, allowed_versions=allowed_versions)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DataFactory.create_resource_data() got an unexpected keyword argument 'allowed_versions'
