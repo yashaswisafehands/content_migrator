@@ -1,16 +1,16 @@
-# Chapter: Indications and Usage
+# Chapter: इन्डिकेशन्ज़ और उपयोग
 
-Metronidazole is a 5-nitroimidazole antibiotic used on obligate anaerobe bacteria and protozoa.
+मेट्रोनिडाज़ोल एक 5-नाइट्रोइमिडाज़ोल एंटीबायोटिक है, जो ऑब्लिगेट एनारोब बैक्टीरिया और प्रोटोज़ोआ* पर प्रभावी होता है।
 
-Treatment of anaerobic bacterial infections and Trichomonas vaginalis, intestinal amoebae and giardiasis.
+इसका उपयोग एनारोबिक बैक्टीरियल संक्रमण, ट्राइकोमोनास वैजाइनलिस, आंतों की अमीबायसिस और जियार्डियासिस के इलाज में किया जाता है।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-## Adults
+##
 
-Metronidazole 500 mg IV every 8 hours for 7 days or until 48 hours after the patient is fever free.
+400 मिलीग्राम ओरली या 500 मिलीग्राम इंट्रावेनसली प्रत्येक 8 घंटे पर दी जाती है।
 
-## Antibiotic Prophylaxis
+##
 
 **Before surgical abortion:**
 
@@ -20,7 +20,7 @@ Metronidazole 500 mg orally.
 
 Metronidazol 500 mg IV.
 
-## Newborns
+##
 
 **Weight < 1.2 kg:**
 
@@ -44,20 +44,20 @@ Metronidazol 15 mg/kg IV every 12 hours*
 
 *Administer over 30-60 minutes.
 
-# Contraindications
+# कॉन्ट्राइंडिकेशन्स
 
-Allergy to metronidazole.
+मेट्रोनिडाज़ोल से एलर्जी।
 
-Alcohol must not be taken during or in the three days after treatment with metronidazole, as it can cause a severe adverse reaction.
+मेट्रोनिडाज़ोल उपचार के दौरान और उसके बाद कम से कम तीन दिनों तक अल्कोहल का सेवन नहीं करना चाहिए, क्योंकि इससे गंभीर रिएक्शन हो सकता है।
 
-# Adverse Reactions
+# एडवर्स रिएक्शन्स
 
-Common adverse reactions are a sensation of tasting metal, nausea, vomiting, abdominal pain, diarrhoea, and transient liver affection.
+समानय एडवर्स रिएक्शन में : मुँह में मेटल जैसा स्वाद, नौजिया, उल्टी, पेट दर्द, दस्त और अस्थायी लिवर प्रभावित होना।
 
-Uncommon reactions are joint- and muscle pain, headache and visual disturbances.
+असमानय एडवर्स रिएक्शन में : जोड़ों या मांसपेशियों में दर्द, सिरदर्द और दृष्टि में परेशानी।
 
-Rare reactions are pancreatitis, lowered platelets, dizziness, sensitivity disturbances, confusion and skin rash.
+रेयर एडवर्स रिएक्शन में : पैंक्रियाटाइटिस, प्लेटलेट्स में कमी, चक्कर आना, संवेदनशीलता में बदलाव, भ्रम और त्वचा पर दाने।
 
-Anaphylactic shock is very rare.
+एनाफिलैक्टिक शॉक बहुत ही रेयर होता है।
 
 ---

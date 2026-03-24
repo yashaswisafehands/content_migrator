@@ -5,19 +5,21 @@ Intravenous access is used to administer fluids and drugs.
 Equipment for intravenous access should be available in the delivery room, and at all health facilities for adults as well as newborns. 
 
 **Equipment includes:**
-Antiseptic solution, syringes, intravenous cannulas, tourniquet, tape, gauze and scalp vein cannulas.
+Antiseptic solution, syringes, intravenous cannulas, a tourniquet, tape, gauze and cannulas.
 
 ---
 
 # Chapter: Practical information
 
-##
+## Adults:
+
+The grey (gauge 16) and green (gauge 18) cannulas have a large diameter. They help to administer fluids into the veins quickly.
 
 ## Newborns:
 
 When inserting an intravenous cannula in the neonate, locate a suitable vein to insert a 21 or 23 gauge cannula or butterfly needle.
 
-![Image](9ce6ef56ce384fd0bf8f2a29ca0beb6a)
+![Image](24a9da7a96ee4cddaf1326f5abfcaace)
 
 ## Peripheral vein:
 
@@ -25,7 +27,7 @@ When inserting an intravenous cannula in the neonate, locate a suitable vein to 
 - An assistant should hold the limb steady and act as a tourniquet by obstructing the venous return with their fingers lightly closed around the limb. Alternatively, use a tourniquet above the insertion site.
 - Clean the surrounding skin with an antiseptic solution (such as spirit, iodine, isopropyl alcohol or 70 % alcohol solution), then insert and advance the cannula into the vein. Fix the cannula securely with tape. Apply a splint, ensuring the limb is in an appropriate position (e.g. elbow extended, wrist slightly flexed).
 
-![Image](2e9d7dbca0434eca8498898f08298880)
+![Image](e7f3d120c4a84f46b5588c6c63c5873b)
 
 ## Scalp vein:
 

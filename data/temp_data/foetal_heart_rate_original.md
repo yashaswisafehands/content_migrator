@@ -2,13 +2,14 @@
 
 ### Foetal heart rate (FHR) - usage
 
-![Image](7a33eb1991cc4e19ba29e8cce330f316)
+![Image](59080d8da55f4a5d80e56cbb7d9a119b)
 
 Measurement of the FHR during labour is indicated:
 
-**1)**On admission.
+**1)**On admission
 
-**2)** During the 1st stage of active labour: Every 30 minutes for low-risk pregnancies, and every 15 minutes if any risk is identified for the mother or foetus, AND
+**2)** During the 1st stage of active labour: Low-risk pregnancies: every **30 minutes**. 
+Hight-risk pregnancies: every **15 minutes**.
 
 **3)** During 2nd stage of labour: Immediately after every contraction and at least every **5 minutes.**
 
@@ -20,11 +21,11 @@ Measurement of the FHR during labour is indicated:
 
 The lower limit for a normal FHR is defined as 110 beats per minute (bpm).
 
-A heart rate below 100 bpm indicates foetal asphyxia and immediate delivery is necessary.
+FHR <100 bpm indicates foetal asphyxia and immediate delivery is necessary.
 
 The upper limit for a normal FHR is 160 bpm.
 
-A heart rate above 180 bpm indicates foetal asphyxia and immediate delivery is necessary.
+FHR >180 bpm indicates foetal asphyxia and immediate delivery is necessary.
 
 ---
 
@@ -32,12 +33,12 @@ A heart rate above 180 bpm indicates foetal asphyxia and immediate delivery is n
 
 ### Foetal Heart Rate (FHR) - practical information
 
-The foetal heart is best heard by placing the fetoscope over the back of the foetus. Therefore, establish foetal lie and position before assessing FHR.
+FHR is best heard by placing the foetoscope over the back of the foetus.
 
-![Image](1db76d9672b040c38b56e68e2f8ee332)
+![Image](c8351fccef79404c8ad7fe5407615a56)
 
-Always auscultate the foetal heart rate for at least one minute starting during a contraction and continuing for at least 30 seconds after (you will need a watch).
+Always measure the FHR for 1 minute immediately after a contraction (use a watch).
 
-Measuring the maternal pulse and the FHR at the same time ensures that the foetal heart is not confused with the woman’s.
+Feeling the maternal pulse while you listen to the FHR can avoid mixing them up.
 
 ---

@@ -1,11 +1,10 @@
 # Chapter: Indications and Usage
 
-Prevents bleeding complications in newborns.
+Prevents bleeding complications in the newborn.
 
 # Dosage and Administration
 
-For all newborns after birth: 
-Vitamin K 1 mg IM
+All newborns should be given 1 mg of vitamin K intramuscularly (IM) after birth.
 
 # Contraindications
 

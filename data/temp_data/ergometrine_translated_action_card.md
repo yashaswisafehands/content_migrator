@@ -1,38 +1,37 @@
-# Chapter: Indications and Usage
+# Chapter: इंडिकेशन्स और उपयोग
 
-Ergometrine is a semisynthetic ergot alkaloid used to treat postpartum haemorrhage.
+एर्गोमेट्रिन एक सेमीसिंथेटिक एर्गोट एल्कलॉइड है।
 
-# Dosage and Administration
+एर्गोमेट्रिन का उपयोग प्रसवोत्तर रक्तस्राव के उपचार में किया जाता है।
+
+# डोज़ और देने की विधि
 
 **Treatment of PPH:**
 
-Ergometrine 0.2 mg slow IV (best)/IM
+0.2 मि.ग्रा. इंट्रावीनस रूप से (सबसे विश्वसनीय और तेज़) या इंट्रामस्क्युलर रूप से।
 
-This dose can be repeated after 15 minutes if heavy bleeding persists.
+यदि अधिक रक्तस्राव जारी रहे तो उसी डोज़ को हर 15 मिनट में दोहराया जा सकता है।
 
-**Maximum dose:**
+**अघिकतम डोज़:**
 
-Do not exceed: 
+पाँच से अधिक डोज़ न दें और एर्गोमेट्रिन की अधिकतम डोज़ 1 मि.ग्रा. है।
 
-Ergometrine 0.2 mg x 5, OR
-Ergometrine 0.5 mg x 2
+# कॉन्ट्राइंडिकेशन्स
 
-# Contraindications
+हाईपरटेंशन (140/90 एमएमएचजी से अधिक), जिसमें प्री-एक्लैम्प्सिया शामिल है।
 
-High blood pressure (above 140/90 mmHg), including preeclampsia.
+हृदय रोग
 
-Heart disease.
+सीवियर एनीमिया
 
-Retained placenta.
+एर्गोट एल्कलॉइड्स से एलर्जी
 
-Allergy to ergotalkaloids.
+# एडवर्स रिएक्शन्स
 
-# Adverse Reactions
+सामान्य एडवर्स रिएक्शन में : हाईपरटेंशन, सिरदर्द, गैर-एलर्जिक त्वचा पर चकत्ते और निचले पेट में दर्द।
 
-Common adverse reactions are hypertension, headaches, non-allergic skin rash and lower abdominal pain.
+असामान्य एडवर्स रिएक्शन में : नौजिया और उल्टी, चक्कर, सीने में दर्द और पसीने का बढ़ना।
 
-Less common are nausea and vomiting, dizziness, chest pains and increased sweating.
-
-Rare adverse reactions are bradycardia, tachycardia, myocardial infarction, hallucinations and tinnitus.
+कभी- कभी एडवर्स रिएक्शन में : ब्रैडीकार्डिया, टैकीकार्डिया, मायोकार्डियल इंफार्क्शन, हैलुसिनेशन्स और टिनिटस।
 
 ---

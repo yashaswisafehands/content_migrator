@@ -1,20 +1,22 @@
-# Chapter: Indications and Usage
+# Chapter: इंडिकेशन्स और उपयोग
 
-- Live attenuated bacterial vaccine
-- Primary prevention against Tuberculosis and leprosy
+- यह एक लाइव एटेन्यूएटेड बैक्टीरियल वैक्सीन है।
+- ट्यूबरक्युलोसिस और कुष्ठ रोग (लेप्रोसी) की प्राथमिक रोकथाम के लिए दी जाती है।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-- Administered to all newborns at birth (for infants less than 1 year): 0.05 ml intradermally in the upper arm
+- सभी नवजात शिशुओं को जन्म के समय 0.1 ml दिया जाता है
+- 1 वर्ष तक के शिशुओं को 0.05 ml दिया जाता है
+- यह बाएँ ऊपरी बाजू में इंट्राडर्मल रूप से लगाया जाता है
 
-# Consideration
+# कन्सिडरेशन
 
-- Do not expose the vaccine to direct sunlight. Store at 2-8°C 
-- Vaccination leaves a scar in 90% of cases.
+- वैक्सीन को सीधे सनलाइट से बचाएँ और 2 से 8 डिग्री सेल्सियस तापमान पर सुरक्षित रखें।
+- टीकाकरण के बाद आमतौर पर एक निशान बनता है, लेकिन लगभग 10% बच्चों में यह निशान नहीं बनता।
 
-# Contraindication
+# कॉन्ट्राइंडिकेशन्स
 
-- Immunosuppression (weakened immune system) 
-- Newborns who are mildly ill can receive the vaccine. Newborns who are moderately or severely ill should wait until they recover unless the risks outweigh the benefits.
+- इम्यूनोसप्रेशन (कमजोर इम्यून सिस्टम)
+- हल्की बीमारी वाले नवजात शिशु वैक्सीन ले सकते हैं।मध्यम या गंभीर रूप से बीमार नवजात शिशुओं को ठीक होने तक इंतज़ार करना चाहिए, जब तक कि बीमारी का जोखिम वैक्सीन से मिलने वाले लाभ से अधिक हो।
 
 ---

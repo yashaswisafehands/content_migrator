@@ -1,11 +1,11 @@
-# Chapter: Indications and Usage
+# Chapter: इन्डिकेशन्ज़ और उपयोग
 
-Chloramphenicol is used to treat bacterial infections that are sensitive to the drug.
+क्लोरेमफेनिकाॅल का प्रयोग उन बैक्टीरियल इन्फ़ेक्शन के इलाज में होता है जो इस दवा को सेन्सिटिव हैं।
 
-Chloramphenicol crosses the placenta and is excreted in breast milk.
+यह प्लेसेंटा को पार करती है और माँ के दूध में इसका उत्सर्जन होता है।
 
-Harm to the foetus has not been systematically reported, however the data is limited. If administered in later gestations, it may cause “grey baby syndrome”. It is therefore contraindicated in late pregnancy and for breastfeeding women.
+अभी तक फीट्स में कोई भी ज्ञात नुकसान नहीं पाया गया है, लेकिन यह जानकारी अभी सीमित है और गर्भावस्था में अंत के समय में देने से बच्चे में "ग्रे बेबी सिन्ड्रोम" हो सकता है।  इसलिए यह गर्भावस्था में और स्तनपान करवाती हुई महिलाओं में काॅन्ट्राइन्डिकेट्ड है।
 
-**Avoid use of chloramphenicol for pregnant and lactating women, alternative antibiotics are recommended.**
+इसलिए गर्भावस्था में और स्तनपान करवाती महिलाओं में इसका प्रयोग नहीं करना चाहिए और अन्य एन्टीबायोटिक्स का प्रयोग करना चाहिए।
 
 ---

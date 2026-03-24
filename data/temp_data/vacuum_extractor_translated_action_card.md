@@ -1,92 +1,94 @@
 # Chapter: Usage
 
-### Vacuum Extractor - Usage
+### वैक्यूम एक्सट्रैक्टर -उपयोग
 
-Vacuum delivery is a "single function" of basic emergency obstetric care and must therefore be mastered by all skilled birth attendants.
+वैक्यूम डिलीवरी बेसिक इमरजेंसी ऑब्स्टेट्रिक केयर (बिमोंक) का सिग्नल फंक्शन है।
 
-### Indications
+जब माँ के प्रयास (पुशिंग) विफल हों या फीटस डिस्ट्रेस  दूसरे स्टेज में दिखाई दे और सिर अच्छी तरह इंगेज्ड हो, तब असिस्टेड वेजाइनल डिलीवरी सुझाई जाती है।
 
-1. Foetal heart rate remaining <100 or >180 bpm. 
-2. Maternal exhaustion.
-3. Pushing for more than 1 hour with effective contractions. 
-4. Maternal heart disease or hypertension (these patients should deliver in a referral facility).
+### इंडिकेशन्स:
 
-### Prerequisites
+1. फीटस डिस्ट्रेस: एफएचआर <120 या >160 बीट्स/मिनट
+2. माँ का अत्यधिक थकान
+3. दो घंटे से अधिक एक्टिव पुशिंग
+4. मैटरनल हृदय रोग या हाईपरटेंशन (ऐसी महिलाओं को रेफरल केंद्र में ही प्रसव कराना चाहिए)
 
-1. Cephalic presentation, where the foetal head is no more than 1/5 palpable above the pubic bone. 
-2. Cervix fully dilated.
-3. Membranes ruptured.
-4. Bladder empty. 
-5. Gestational age at least 36 weeks. 
-6. Relevant expertise.
-7. You must be willing to stop.
+### वैक्यूम एक्सट्रैक्टर के पूर्व शर्तें:
+
+1. सिफैलिक प्रेजेंटेशन: प्यूबिक बोन से 1/5 से अधिक ऊपर न हो
+2. सर्विक्स पूरी तरह से डाइलेटेड
+3. मेम्ब्रेन फटे हुए हो
+4. ब्लैडर खाली हो
+5. गर्भायु  ≥36 सप्ताह
+6. संबंधित विशेषज्ञता
+7. प्रक्रिया रोकने की सहमति
 
 ---
 
 # Chapter: Practical information
 
-### Vacuum extractor - practical information
+### वैक्यूम एक्सट्रैक्टर - प्रैक्टिकल जानकारी
 
-Different types of vacuum extractors exist.
+कई अलग-अलग तरह के वैक्यूम एक्स्ट्रेक्टर होते हैं।
 
-The most common types are those with metal or silicone cups that get connected to a separate suction device, and those where a vacuum pump and a plastic cup are combined into a single, hand-held unit.
+अधिकतर मेटल या सिलिकाॅन कप और प्लास्टिक कप के साथ हैंड - पंप सक्शन वाले एक्स्ट्रेक्टर प्रयोग में आते हैं।
 
-Both can be used safely. The benefit of the hand-held pumps is that they allow the partitioner to control both vacuum and traction. In comparison, an assistant is required to operate the free-standing pump for the other cups.
+दोनों ही तरह वाले एक्स्ट्रेक्टर सुरक्षित तरह से प्रयोग किए जा सकते हैं। हैंडपंप वाली विधि का फायदा यह है कि वैक्युम बनाना चिकित्सक के हाथ में होता है, जबकि दूसरी विधि में पंप चलाने के लिए एक सहायक की आवश्यकता होती है।
 
-Metal and plastic cups are half as likely to “pop off” when compared to soft silicone cups.
+सिलिकाॅन कप की तुलना में मेटल और प्लास्टिक कप का फायदा यह है कि उनके स्लिप होने की संभावना कम होती है। इसलिए उनके विफल होने का खतरा भी आधा हो जाता है।
 
-### Procedure
+### प्रक्रिया:
 
-Before applying suction, center the cup on the foetal head's "flexion point", which is 3 cm anterior to the posterior fontanelle and aligned with the sagittal suture.
+सक्शन बंद रखते हुए, कप का सेंटर पोस्टेरियर फ़ॉन्टानेल से लगभग 3 सेमी एंटीरियर, सैजिटल स्यूचर की मिडलाइन पर इस प्रकार लगाया जाना चाहिए कि वह फ्लेक्शन पॉइंट पर स्थित हो।
 
-![Image](ffc9add53eef48e0a225c7dbad5bcb79)
+![Image](f258f1f3488846b4a29d24999b9db681)
 
-The flexion point enables maximizes traction and minimizes "pop-offs".
+फ्लेक्शन पॉइंट इसलिए महत्वपूर्ण है क्योंकि यह ट्रैक्शन को अधिकतम करता है और कप के डिटैच होने (पॉप-ऑफ) की संभावना को कम करता है।
 
-Most cups have a diameter of 5 to 7 cm, so the edge of the cup will reach the posterior fontanel.
+अधिकांश कप का डायमीटर 5–7 सेमी होता है, इसलिए कप का किनारा सामान्यतः पोस्टेरियर फ़ॉन्टानेल के ऊपर आता है।
 
-No maternal tissue, such as the cervix, vaginal walls or labia, should be caught under the cup.
+कप के नीचे किसी भी प्रकार का मैटरनल टिश्यू (जैसे वेजाइना) नहीं आना चाहिए।
 
-The risk of subgaleal haemorrhage  increases if the cup's edge is placed on the sagittal suture.
+यदि कप का किनारा सेजीटल सूचर पर आता है, तो सबगेलियल हैमरेज होने का खतरा बढ़ जाता हैं।
 
-Improper application appears to be common with attempted vacuum assisted delivery and is thought to be a primary factor in unsuccessful attempts.
+गलत स्थान पर लगाने से वैक्यूम असिस्टेड डिलीवरी में असफलता की संभावना बढ़ जाती है, और यह असफल प्रयासों का एक प्रमुख कारण माना जाता है।
 
-Wipe the vertex clean of blood and fluid.
+प्रक्रिया शुरू करने से पहले शिशु के सिर (वर्टेक्स) से  रक्त और लिकर को साफ किया जाता है।
 
-Spread the labia, and gently insert the cup.
+लेबिया को फैलाते हुए, कप को आराम से अंदर ले जाएं।
 
-Sweep a finger around the cup to ensure that no maternal tissue is trapped beneath the cup.
+फिर एक उंगली को कप के चारों ओर घुमाकर यह सुनिश्चित करें कि कहीं भी मैटरनल टिश्यू कप के नीचे फंसा हुआ न हो।
 
-Apply the vacuum.
+इसके बाद वैक्यूम लगाएं।
 
-For the complete procedure, use the A-J Mnemonic: Action Card > Vacuum Extraction
+पूरी प्रक्रिया के दौरान <color style="blue">**ए–जे  न्यूमोनिक**</color>: एक्शन कार्ड → वैक्यूम एक्सट्रैक्शन का पालन करें।
 
-### Complications
+### जटिलताएँ
 
-Vacuum extraction carries risks. Therefore, it should only be used when indicated and the prerequisites are fulfilled.
+वैक्यूम असिस्टेड डिलीवरी एक ऐसी प्रक्रिया है जिसमें कुछ जोखिम मौजूद होते हैं। इसलिए इसे केवल तब ही किया जाना चाहिए जब स्पष्ट इंडिकेशन्स और आवश्यक शर्तें पूरी हों।
 
-Proper application of the vacuum equipment is essential.
+वैक्यूम कप को सही तरीके से लगाना बहुत आवश्यक है।
 
-Both mother and newborn should be examined for trauma after use.
+प्रक्रिया के बाद  माँ और नवजात दोनों की बर्थ ट्रोमा  के लिए जाँच की जानी चाहिए।
 
-Traction can speed up birth in an emergency. But the woman must also be cooperating by actively pushing.
+आपातकालीन स्थिति में वैक्यूम ट्रैक्शन प्रसव को तेज कर सकता है, लेकिन केवल तभी जब महिला कॉन्ट्रैक्टशन के दौरान एक्टिव रूप से पुशिंग करें।
 
-Proper traction at right angles to the plane of the vacuum cup, and in the axis of traction, is necessary to avoid losing the vacuum.
+वैक्यूम कप स्लिप न हो और वैक्यूम न घटे, इसके लिए ज़रूरी है कि ट्रेक्शन के एक्सिस में, वैक्युम कप के प्लेन को समकोण (90 डिग्री) में रख कर ट्रेक्शन लगाया जाए।
 
-Subgaleal haematoma of the newborn is a potentiel complication of vacuum extraction that can be life-threatening.
+सबगेलियल हीमेटोमा, वैक्यूम डिलिवरी की एक जटिलता है और कभी-कभी यह जानलेवा भी हो सकती है।
 
-Subgaleal haematoma occurs when emissary veins - that connect tissues in the skalp to vessels within the skull - become damaged and blood accumulates in the space between the skalp tissues (galea aponeurotica) and the periosteum of the skull bone.
+यह तब होता है जब एमिसरी वेनज़ को नुकसान पहुंचे और गेलिया एपोन्यूरोटिका और स्कल की पेरिओस्टियम के बीच खून जमा हो जाए।
 
-One of the signs of a subgaleal haematoma is diffuse swelling of the head that may shift dependently with the newborns position.
+सब-गेलियल हीमेटोमा में सिर पर एक विस्तृत सूजन हो जाती है जो बच्चे के सिर की स्थिति बदलने पर, बदलती रहती है।
 
-This swelling indents easily on palpation and can contain a significant enough amount of blood to result in hypovolemic shock.
+दबाव से इस सूजन में गड्डा पड़ जाता है और कई बार यह सूजन हाइपोवोल्यूमिक शाॅक कराने के लिए भी काफी होती है।
 
-It is treated with a pressure bandage and, if necessary, replacing the volume with IV fluids.
+प्रेशर पट्टी से इसका इलाज किया जाता है और ज़रूरत पड़ने पर वाॅल्यूम रिपलेसमेंट करना पड़ता है।
 
-Subgaleal haematoma varies from cephalohematoma, which is a collection of blood that accumulates under the periosteum of one bone of the skull (usually the perietal). As a cephalohematoma is confined to a cranial bone the amount of bleeding will not become dangerous.
+सबगेलियल हीमेटोमा,  सिफेलोहेमैटोमा से अलग होता है, जिसमें स्कल की पेरिओस्टियम  (ज़्यादातर पैराइटल बोन) के नीचे खून जमा हो जाता है। यह खासकर स्कल बोन की सीमा के अंदर ही रहता है और इसलिए रक्तस्राव की मात्रा खतरनाक नहीं होती है।
 
-Intracranial haemorrhage is a rare complication of vacuum extraction that could be life threatening. The risk is higher for severely premature newborns, therefore vacuum extraction should not be applied before 36 weeks gestation.
+कपाल के अंदर हैमरेज (इंट्राक्रेनियल), कभी-कभी होने वाली जटिलता है। यह जानलेवा भी हो सकती है। सिवियर प्रीटर्म बच्चे में इसके होने का खतरा अधिक होता है। इसलिए 34 हफ्तों से पहले के बच्चों में, आर्दशतः वैक्युम एक्सट्रेक्शन नहीं करना चाहिए।
 
-Vacuum extraction also increases the risk of maternal trauma. So, to minimise harm, the procedure should only be performed when indicated, followed by a careful assessment of trauma to the birth canal. Pay close attention to the anal sphincter by performing a digital rectal exploration.
+वैक्युम डिलिवरी से मां को चोट लगने का खतरा भी बढ़ जाता है। इसलिए यह प्रक्रिया, प्रमाणित इंडिकेशन्स में ही करनी चाहिए और प्रक्रिया के बाद बर्थ केनाल, खासकर एनल स्फिंक्टर का रेक्टल डिजिटल एक्ज़ेमिनेशन करके सावधानीपूर्वक आकलन कर लेना चाहिए।
 
 ---

@@ -6,6 +6,10 @@
 - Select carbohydrate foods which do not increase the blood glucose level instantly. 
 - A mixed meal consisting of carbohydrates, protein, fat, fiber eaten together results in a slow blood sugar rise.
 
+![Image](c1778a4b26584b62a8fa254bf929cf32)
+
+![Image](39f90367754c46f9a7a513b65a7cf6fd)
+
 ## Tips for planning meals for
 
 - Follow discipline regarding meal timings.
@@ -27,6 +31,8 @@
 - Add 1 serving of fruits like guava, apple, berries, or any citrus fruits.
 - Vegetables provide fiber which helps in controlling post prandial sugar level.
 
+![Image](c57332fc9cf4432cbc007f116b6a5388)
+
 ## Mid-day snack
 
 - Maintain a 2-3-hour gap with major meal. 
@@ -42,5 +48,7 @@
 - Drink water, buttermilk, home-made soups, soya milk, sattu and other unsweetened healthy beverages instead of soda or fruit juices.
 
 ## 2200 Calories sample meal plan for GDM (provides 85 g protein, 70 g fat and 300 g carbohydrate)
+
+![Image](5f267e58818a4578b11c90008282312f)
 
 ---

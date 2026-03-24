@@ -1,19 +1,30 @@
-# Chapter: Indications and Usage
+# Chapter: संकेत और उपयोग
 
-Corticosteroids are administered to the mother to support foetal lung development and reduce the risk of breathing problems and brain bleeding in the newborn when the mother is at risk of preterm labour between 24 and 34 weeks of gestation.
+24 से 34 सप्ताह के गर्भ के बीच समय से पहले प्रसव के दौरान नवजात शिशु के फेफड़ों की परिपक्वता और रेस्पिरेटरी डिस्ट्रेस की रोकथाम के लिए।
 
-# Dosage and Administration
+उन स्थितियों के लिए जो समय से पहले प्रसव की ओर ले जाती हैं:
 
-Dexamethasone 6 mg IM x 4, given 12 hours apart
+•	प्रसवपूर्व रक्तस्राव
+•	प्रीटर्म प्रीमैच्योर मेंब्रेन रप्चर
+•	सीवियर प्री-एक्लैम्प्सिया / एक्लैम्प्सिया
 
-# Contraindications
+# डोज़ और देने की विधि
 
-Active untreated infections.
+6 मि.ग्रा. इंट्रामस्कुलर, चार खुराकें, 12 घंटे के अंतराल पर।
 
-# Adverse Reactions
+# कॉन्ट्राइंडिकेशन्स
 
-Vision changes, swelling, rapid weight gain, sleep problems (insomnia), mood changes, acne, dry skin, thinning skin, bruising or discoloration, slow wound healing, increased sweating, headache, dizziness, spinning sensation, nausea, stomach pain, bloating, muscle weakness, or changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist).
+फ्रैंक कोरियोएम्नियोनाइटिस
 
-Rare instances of severe allergic reactions (anaphylaxis) have occurred in patients receiving corticosteroid therapy such as dexamethasone.
+महिला में निम्नलिखित लक्षण फ्रैंक कोरियोएम्नियोनाइटिस का संकेत देते हैं:
+•	बुखार और निचले पेट में दर्द का इतिहास
+•	बदबूदार योनि स्राव, तेज़ हृदय गति, और गर्भाशय में टेंडरनेस
+•	फीटल टैकीकार्डिया
+
+# एडवर्स रिएक्शन्स
+
+दृष्टि में बदलाव, सूजन, तेजी से वजन बढ़ना, नींद की समस्या (अनिद्रा), मूड में बदलाव, मुंहासे, सूखी त्वचा, त्वचा का पतला होना, चोट लगना या रंग बदलना, घाव भरने में धीमापन, अधिक पसीना आना, सिरदर्द, चक्कर, घूमने जैसा महसूस होना, मतली, पेट दर्द, पेट फूलना, मांसपेशियों में कमजोरी, या शरीर की वसा के आकार या स्थान में बदलाव (विशेषकर बाहों, पैरों, चेहरे, गर्दन, स्तनों और कमर में)।
+
+कभी - कभी होने वाले एडवर्स रिएक्शन्स :  तीव्र एलर्जिक प्रतिक्रिया (एनाफिलेक्सिस) हो सकती है, जो कॉर्टिकोस्टेरॉइड थेरेपी जैसे डेक्सामेथासोन लेने वाले रोगियों में देखी गई है।
 
 ---

@@ -18,16 +18,16 @@ Or
 
 - **Misoprostol**600 microgram orally.
 
-![Image](e9538ae4a4c7410c981a91a114d2b061)
+![Image](652a5a0e658e4e29a7c4ec5890e9d2d6)
 
 AMTSL may also include:
 
 Delivery of the placenta using controlled cord traction with counter-traction above the pubic bone ONLY if a skilled birth attendant is present.
 
-![Image](b7c4c4a84e8942efb984af2f40ac4e2a)
+![Image](e9276c90919f4893b0dcbcf4a6d0b6f0)
 
 Palpation of the uterus after delivery of the placenta to assess firmness. If soft, massage the uterus.
 
-![Image](65e94ab1be3442c29df560bba5609c76)
+![Image](bf1dbd8dfc6c4df69363d90a4fdb5eed)
 
 ---

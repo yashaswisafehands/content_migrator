@@ -1,69 +1,70 @@
-# Chapter: The Edinburgh Postnatal Depression Scale(EPDS)
+# Chapter: एडिनबर्ग पोस्टनैटल डिप्रेशन स्केल (ईपीडीएस)
 
-- This is a simple, effective tool used to screen for perinatal depression and anxiety. Despite its name, it is also used as a screening tool in the antenatal period.
+- यह एक सरल और प्रभावी टूल है, जिसका उपयोग पेरिनेटल डिप्रेशन और एंग्ज़ायटी की स्क्रीनिंग के लिए किया जाता है। इसके नाम में “पोस्टनेटल” होने के बावजूद, इसे गर्भावस्था के दौरान (एंटीनैटल अवधि) में भी स्क्रीनिंग टूल के रूप में इस्तेमाल किया जाता है।
 
-- It is a 10 item self-reported questionnaire that should be collected at the first point of contact in the maternity care setting.
+- यह 10 प्रश्नों वाली सेल्फ-रिपोर्टेड प्रश्नावली है, जिसे मैटरनिटी देखभाल की शुरुआत में ही भरवाया जाना चाहिए।
 
-- Women are asked to report on how they have been feeling in the last 7 days and are scored on each item. A total score is calculated based on the scoring system. The score will indicate the woman’s level of psychological distress.
+- महिलाओं से पिछले 7 दिनों में अपनी भावनाओं के बारे में बताने को कहा जाता है और हर प्रश्न के लिए एक स्कोर दिया जाता है। कुल स्कोर स्कोरिंग प्रणाली के अनुसार निकाला जाता है, जो महिला की मनोवैज्ञानिक परेशानी के स्तर को दर्शाता है।
 
-- Reassure the woman that the information will be kept private and confidential.
+- महिला को यह भरोसा दिलाएँ कि दी गई सारी जानकारी गोपनीय और निजी रखी जाएगी।
 
-- **A** **score of 13 and over warrants further attention.**
+- **13 या उससे अधिक का स्कोर आगे की जाँच या ध्यान की आवश्यकता को दर्शाता है।**
 
-- If the score is not much higher than 13, you should conduct a repeat screen at the next visit.
+- यदि स्कोर 13 से थोड़ा ही अधिक है, तो अगली विज़िट पर पुनः स्क्रीनिंग की जानी चाहिए।
 
-- If the score is significant, or higher signs or risk factors for perinatal mental health conditions are present, this indicates the need for referral to specialist care.
+- यदि स्कोर अधिक है या पेरिनेटल मानसिक स्वास्थ्य समस्याओं के स्पष्ट लक्षण या रिस्क फैक्टर मौजूद हैं, तो यह स्पेशलिस्ट केयर के लिए रेफरल की आवश्यकता को इंगित करता है।
 
-- Many women under-report their stress levels. It is therefore important to use screening tools together with history taking and clinical judgment.
+- कई महिलाएँ अपने तनाव स्तर को कम आँकती हैं, इसलिए स्क्रीनिंग टूल्स का उपयोग, रोग इतिहास और क्लिनिकल निर्णय के साथ मिलाकर करना ज़रूरी है।
 
-![Image](38826dd1e7d9492589f6e7e76c6e2a61)
+![Image](7b5527fd301843f09b7927f7a9c8862d)
 
 ---
 
 # Chapter: Generalized Anxiety Disorder 2–item (GAD-2)
 
-## Generalized Anxiety Disorder 2–item (GAD-2)
+## जनरलाइज़्ड एंग्ज़ायटी डिसऑर्डर – 2 आइटम स्केल (जीएडी-2)
 
-The GAD-2 is an ultra brief and easy to perform initial screening tool for Generalized Anxiety Disorder (GAD).
+यह दो प्रश्नों वाला एक इनिशियल स्क्रीनिंग टूल है, जिसका उपयोग एंग्ज़ायटी  के शुरुआती लक्षणों की पहचान के लिए किया जाता है।
 
-A score of 3 points is preferred cut-off for identifying possible cases and in which further diagnostic evaluation for generalized anxiety disorder is warranted.
+3 अंक या उससे अधिक का स्कोर संभावित मामलों की पहचान के लिए मानक सीमा (कट-ऑफ) माना जाता है, और ऐसे मामलों में जीएडी के लिए आगे का डायग्नोस्टिक इवैल्यूएशन आवश्यक होता है।
 
-![Image](03e16b3f5503411c87228ae86cc7d298)
+![Image](c10dd745b5a4469c8da17458d6dad0ee)
 
 ---
 
-# Chapter: Generalized Anxiety Disorder 7-item (GAD-7)
+# Chapter: जनरलाइज़्ड एंग्ज़ायटी डिसऑर्डर – 7 आइटम स्केल (जीएडी-7)
 
-It is a self-administered, seven-item questionnaire that helps diagnose potential symptoms of general anxiety disorder (GAD) and assesses the severity of anxiety disorder. It can also be used as a screening tool for PTSD, social anxiety, and panic attacks.
+यह सेल्फ- ऐडमिनिस्टर्ड सात प्रश्नों वाली प्रश्नावली है, जो जनरलाइज़्ड एंग्ज़ायटी डिसऑर्डर (जीएडी) के संभावित लक्षणों का निदान करने में मदद करती है और एंग्ज़ायटी की गंभीरता का मूल्यांकन करती है। इसे पीटीएसडी, सोशल एंग्ज़ायटी और पैनिक अटैक के लिए भी स्क्रीनिंग टूल के रूप में इस्तेमाल किया जा सकता है।
 
-The GAD-7 score is calculated by assessing scores of 0, 1, 2, and 3, to response categories of “not at all”, “several days”, “more than half of the day”, and “nearly every day” respectively, and then adding together the scores for the seven questions.
+GAD-7 स्कोर की गणना इस प्रकार की जाती है:
+प्रत्येक उत्तर को 0, 1, 2, और 3 अंक दिए जाते हैं, जो क्रमशः “बिल्कुल नहीं”, “कुछ दिन”, “आधे से अधिक दिनों के लिए”, और “लगभग हर दिन” को दर्शाते हैं। सातों प्रश्नों के अंकों को जोड़कर कुल स्कोर प्राप्त किया जाता है।
 
-Scores of 5, 10, and 15 represent cut-points for mild, moderate, and severe anxiety, respectively.
+स्कोर 5, 10 और 15 हल्की, मध्यम और गंभीर एंग्ज़ायटी को दर्शाते हैं।
 
-When used as a screening tool, further evaluation is recommended when the score is 10 or greater.
+स्क्रीनिंग टूल के रूप में, स्कोर 10 या अधिक होने पर आगे का मूल्यांकन रेकमेंडेड है।
 
-![Image](3d181b93808544d5893beacc2c4211e2)
+![Image](81058e26564845599cea3e164c898ea6)
 
 ---
 
 # Chapter: The Patient Health Questionnaire (PHQ 9)
 
-## The Patient Health Questionnaire (PHQ 9)
+## पैशेंट हेल्थ क्वेश्चनेयर (पीएचक्यू-9)
 
-The Patient Health Questionnaire (PHQ) is an instrument used for making criteria based diagnoses of depression and other mental disorders commonly encountered in primary care settings.
+पैशेंट हेल्थ क्वेश्चनेयर (पीएचक्यू-9) एक टूल है, जिसका उपयोग डिप्रेशन और अन्य मानसिक विकारों के क्राइटेरिया- बेस्ड निदान के लिए किया जाता है, जो सामान्यतः प्राथमिक देखभाल सेटिंग्स में देखे जाते हैं।
 
-The tool has 9 items and each of them corresponds to one of the criteria for depression and asks how often the patient has been bothered by each symptom over the past two weeks.
+इस टूल में 9 प्रश्न हैं, और प्रत्येक प्रश्न डिप्रेशन के एक क्राइटेरिया से संबंधित है। इसमें पूछा जाता है कि पिछले दो हफ्तों में मरीज को प्रत्येक लक्षण से कितनी बार परेशानी हुई।
 
-- Each item is scored from 0 to 3:
-- 0 – Not at all 
-- 1 – Several days 
-- 2 – More than half the days 
-- 3 – Nearly every day
+- प्रत्येक प्रश्न का स्कोर 0 से 3 के बीच दिया जाता है:
+- 0 – बिल्कुल नहीं
+- 1 – कुछ दिनों के लिए
+- 2 – आधे से अधिक दिनों के लिए
+- 3 – लगभग हर दिन
 
-- A score ≥10 is commonly used as a threshold to consider clinical depression (but clinical interview is needed for confirmation).
-- **Monitoring:** Repeated use over time can track treatment response or symptom progression.
-- **Suicidality:** Item 9 is critical—any score >0 on this item requires follow-up for suicidal ideation risk.
+- 10 या उससे अधिक का स्कोर सामान्यतः क्लिनिकल डिप्रेशन पर विचार करने के लिए सीमा के रूप में उपयोग किया जाता है, लेकिन पुष्टि के लिए क्लिनिकल इंटरव्यू आवश्यक है।
+- निगरानी : समय-समय पर दोबारा उपयोग करने से उपचार की प्रतिक्रिया या लक्षणों की प्रगति को ट्रैक किया जा सकता है।
+- आत्महत्या का जोखिम: प्रश्न 9 महत्वपूर्ण है—इस प्रश्न पर यदि कोई भी स्कोर >0 आता है, तो आत्महत्या की सोच के जोखिम के लिए फॉलो-अप आवश्यक है।
 
-![Image](9e7d9613f915448aaf391c3c3082a3f0)
+![Image](670fe59f49684c49bc71080938def04d)
 
 ---

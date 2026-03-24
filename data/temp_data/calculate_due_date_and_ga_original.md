@@ -1,12 +1,11 @@
 # Chapter: Calculate due date and GA
 
-Ask the woman for the first day of her last menstrual period (LMP) and if possible, confirm with the antenatal care record.
+Ask the woman for the first day of her last menstrual period (LMP) and if possible, confirm with the antenatak care record.
 
 **Calculate her expected date of delivery (EDD):**
 
-- First day of LMP + 7 days - 3 months OR First day of LMP + 7 days + 9 months. 
-- Example: Last menstrual period started on March 1 + 7 days is March 8. 
-- Then if you subtract 3 months OR add 9 months it gives a due date of December 8.
+- First day of LMP + 7 days - 3 months OR First day of LMP + 7 days + 9 months 
+- Example: Last menstrual period started on March 1 + 7 days is March 8. Then if you subtract 3 months OR add 9 months it gives a due date of December 8.
 
 **Calculate her gestational age (GA):**
 
@@ -14,6 +13,6 @@ Ask the woman for the first day of her last menstrual period (LMP) and if possib
 - Count how many weeks there are from today to the due date, and subtract this from 40.
 - Example: Today is 17th November. Her estimated due date is 8th December. There are 3 weeks between today and the estimated due date. 40 - 3 = 37. Her gestational age is 37+0.
 
-![Image](d883fb41f8ab435496945db41b2ad1f0)
+![Image](5ba447b8a57643269d5134c521ba5fba)
 
 ---

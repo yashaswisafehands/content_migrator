@@ -1,35 +1,49 @@
 # Chapter: Administration of Insulin
 
-## Equipment and supplies
+## उपकरण और आपूर्ति
 
-- Spirit and water swabs
-- Insulin syringe with a needle
-- Insulin vial
+- स्पिरिट और पानी से बने स्वैब। 
+- इंसुलिन सिरिंज और सुई के साथ 
+- इंसुलिन वायल
 
-## Site of Insulin Injection
+![Image](454a56f71c0f492ab9bb050a20ab6be9)
 
-- Upper arm, anterolateral aspects of the thigh and hip.
-- Abdomen – excluding a circle of 2- inch radius around the navel. 
-- For each dose, rotate the site of injection.
+## इंसुलिन इंजेक्शन का स्थान
 
-## Route
+- ऊपरी बांह, जांघ और कूल्हे के एंटेरोलेटरल पहलू। 
+-  पेट - नैवेल के चारों ओर 2-इंच के त्रिज्या को बाहर रखकर 
+-  प्रत्येक खुराक के लिए, इंजेक्शन के स्थान को घूमाएं
 
-Subcutaneous injection
+![Image](d7ee7959bc3e4abba66f5d4b83bb8def)
 
-## Injection Preparation
+## मार्ग
 
-- Wash hands with soap and water
-- Clean the vial top with an alcohol swab and roll the vial gently between both palms horizontally without shaking it. 
-- Load the syringe with the prescribed dose of insulin.
-- Check and remove air bubbles if any. 
-- Clean the injection site with a cotton swab soaked in water and allow the place to dry.
+सबक्यूटेनियस इंजेक्शन
 
-## Injection technique
+## इंजेक्शन की तैयारी
 
-- Lightly grasp a fold of the skin at the chosen site, and inject the needle subcutaneously at a 90 degree angle or (45 degree angle only in thin woman) 
-- Inject the insulin, making sure the plunger of the syringe is fully pressed down and count to 10 before removing the needle from the injection site. 
-- Pull out the needle at the same angle of insertion. 
-- Press injection site for a few seconds without rubbing.
-- Discard the needle and syringe in puncture proof container for proper disposal.
+- हाथों को साबुन और पानी से धोएं 
+- वायल की चोटी को एक एल्कोहल स्वैब से साफ करें और वायल को दोनों हथेलियों के बीच सीधे सुपारीत करें (इसे हिलाएं नहीं)।
+-  निर्धारित खुराक के साथ सिरिंज में भरें 
+-  यदि कोई हवा की बुबुलें हैं तो उन्हें देखें और हटाएं 
+-  एक गीले स्वैब में भिगोकर इंजेक्शन स्थान को साफ करें और जगह को सुखने दें
+
+![Image](9160ad78e9f14017a1ed9be421b24d44)
+
+![Image](d040e9ed7645437ab6847e0bebd9c578)
+
+## इंजेक्शन तकनीक
+
+- चुनी गयी स्थान पर त्वचा का एक फोल्ड हल्के से पकड़ें, और सुई को 90 डिग्री दिशा में सुबक्वीटेन्यस्ली या (पतली महिला में 45° डिग्री की दिशा में) चुभाएं
+-  इंसुलिन इंजेक्ट करें, सुनिश्चित करें कि सिरिंज का प्लंजर पूरी तरह से नीचे दबाया गया है और सुई को इंजेक्शन स्थान से निकालने से पहले 10 तक गिनें
+-   सुई को प्रवेश की एक ही दिशा में बाहर निकालें। 
+- बिना रगड़े कुछ सेकंड के लिए इंजेक्शन स्थान को दबाएं
+-   उचित निपटान के लिए सुई और सिरिंज को पंचर प्रूफ कंटेनर में डालें।
+
+![Image](8d392b8e0277467c91fd1746e0afee57)
+
+![Image](3c91322d11224a8e98614a7b90834e5c)
+
+![Image](417cc0449e4e4ad89793e1502345d32b)
 
 ---

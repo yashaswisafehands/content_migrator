@@ -1,106 +1,109 @@
 # Chapter: Anaemia
 
-## Anaemia
+## एनीमिया
 
-Anaemia in pregnancy is blood haemoglobin (Hb) concentration below 11gm/dL which increases the risk of preterm birth, intra and postpartum haemorrhage, low birth weight, still births and maternal deaths. 
+गर्भावस्था में एनीमिया के कारण रक्त में हीमोग्लोबिन (एचबी) की मात्रा 11 ग्राम/डीएल से कम हो जाती है, जिससे समय से पहले जन्म, इंट्रा पोस्टपार्टम रक्तस्राव, जन्म के समय कम वजन, मृत बच्चे का जन्म और मातृ मृत्यु का खतरा बढ़ जाता है
 
-Screen women at all Antenatal Visits (or when symptomatic).
+ प्रसव पूर्व सभी विजिट पर (या लक्षण दिखने पर) महिलाओं की जांच करें
 
-![Image](f4fceca0e7044948ace3d1fd0e358a22)
+![Image](3bfb35e8d79843359ec099a1f01743b0)
 
-**Ask**– tiredness and weakness, breathlessness, lack of concentration, loss of appetite, palpitations, easy fatiguability.
+**पूछें** - थकान और कमजोरी, सांस फूलना, एकाग्रता की कमी, भूख न लगना, घबराहट, आसानी से थक जाना
 
-**Look** – Pale face, palms, nails and conjunctiva. 
+**देखो** - पीला चेहरा, हथेलियाँ, नाखून और कोन्जंक्टाइवा ।  
 
-**Test**– Blood haemoglobin 
+**परीक्षण** – ब्लड हीमोग्लोबिन
 
-**Classification**:
+**वर्गीकरण:**
 
-- Mild – Haemoglobin 10-10.9 gm/dL
-- Moderate – Haemoglobin 7- 9.9 gm/dL
-- Severe - Haemoglobin <7 gm/dL
+- हल्का - हीमोग्लोबिन 10-10.9 ग्राम/डेसीलीटर
+- मध्यम - हीमोग्लोबिन 7- 9.9 ग्राम/डीएल
+- गंभीर - हीमोग्लोबिन <7 ग्राम/डेसीलीटर
 
-**Treatment**
+**इलाज**
 
-- If Hemoglobin is <7gm/dL or the woman has breathlessness and tachycardia, refer to higher centre immediately. 
-- If the hemoglobin is < 11 g/dL or there is pallor, give therapeutic dose ,two IFA tablets per day 
-- Estimate hemoglobin again after a month and if increased, continue with two tablets of IFA daily till it comes up to normal.
-- When hemoglobin returns to normal (>11gm/dL) continue prophylactic IFA dose (60 mg elemental iron_0.5 mg folic acid once a day)
+- यदि हीमोग्लोबिन <7 ग्राम/डेसीलीटर है या महिला को सांस फूलने और टैकीकार्डिया की समस्या है, तो तुरंत उच्च केंद्र पर जाएँ
+- यदि हीमोग्लोबिन <11 ग्राम/डेसीलीटर है या पीलापन है, तो तीन महीने तक प्रतिदिन दो आईएफए गोलियां दें।
+- एक महीने के बाद फिर से हीमोग्लोबिन का आकलन  करें और यदि बढ़ा हुआ है, तो सामान्य होने तक रोजाना आईएफए की दो गोलियां जारी रखें
+-  जब हीमोग्लोबिन सामान्य (>11 ग्राम/डेसीलीटर) पर आ जाए, तो रोगनिरोधी आईएफए खुराक (60 मिलीग्राम एलिमेंटल आयरन_0.5 मिलीग्राम फोलिक एसिड दिन में एक बार जारी रखें
 
-See Iron and Folic Acid Supplements in the Drug List.
+दवा सूची में आयरन और फोलिक एसिड की खुराक देखें
 
-**Counsel:**
+**काउंसल :**
 
-Adequate nutrition and balanced diet
+पर्याप्त पोषण एवं संतुलित आहार
 
-Sources of iron – whole grains, nuts, seeds, leafy greens, meat, fish, dates, jaggery, drumstick leaves etc. 
+आयरन के स्रोत - साबुत अनाज, मेवे, बीज, पत्तेदार सब्जियाँ, मांस, मछली, खजूर, गुड़, सहजन की पत्तियाँ आदि
 
-Take vitamin C rich food such as lemon, guava, orange and amla to increase the absorption of iron 
+आयरन के अवशोषण को बढ़ाने के लिए विटामिन सी युक्त भोजन जैसे नींबू, अमरूद, संतरा और आंवला लें
 
-Regular intake of iron supplement. Avoid taking it with calcium tablets or milk. 
+आयरन अनुपूरक का नियमित सेवन। इसे कैल्शियम की गोलियों या दूध के साथ लेने से बचें।
 
-Consult if the symptoms worsen.
+लक्षण बिगड़ने पर परामर्श लें।
 
 ---
 
 # Chapter: Urine Albumin and Sugar
 
-## Urine Albumin and Sugar
+## यूरिन एल्ब्यूमिन और शुगर
 
-In a pregnant woman, urine testing for albumin and sugar must be done during each visit.
+एक गर्भवती महिला में, प्रत्येक विजिट के दौरान एल्ब्यूमिन और शुगर के लिए यूरिन परीक्षण किया जाना चाहिए
 
-Testing the urine for presence of albumin and sugar is important for the detection of pre-eclampsia, and gestational diabetes mellitus.
+ प्री-एक्लेमप्सिया और जेस्टेशनल डायबिटीज  का पता लगाने के लिए एल्ब्यूमिन और शुगर की उपस्थिति के लिए यूरिन का परीक्षण करना महत्वपूर्ण है
 
-**Procedure**
+**प्रक्रिया**
 
-- Explain to the woman what the test is for and ask for a urine sample.
-- Check the expiry date on the kit and read instructions carefully.
-- Remove one strip and close container tightly. 
-- Completely immerse the reagent area of the strip in the urine sample and remove it immediately. 
-- While removing the strip run the edge against the rim of container to remove excess urine.
+- महिला को बताएं कि टेस्ट किस लिए है और यूरिन का सैंपल मांगें
+-  किट पर समाप्ति तिथि जांचें और निर्देशों को ध्यान से पढ़ें
+-  एक पट्टी हटा दें और कंटेनर को कसकर बंद कर दें
+- पट्टी के अभिकर्मक क्षेत्र को यूरिन के सैंपल में पूरी तरह डुबो दें और तुरंत हटा दें
+- पट्टी हटाते समय अतिरिक्त यूरिन निकालने के लिए किनारे को कंटेनर के किनारे पर चलाएं।
 
-Follow manufacture’s recommendations for when it is time to read the results.
+![Image](177c4881f98d416d979a228ce4aa1917)
 
-Compare the blue coloured sugar reagent part with the sugar chart on the bottle and record the findings.
+जब परिणाम पढ़ने का समय हो तो निर्माता की सिफारिशों का पालन करें
 
-Compare the yellow-coloured protein reagent part with the albumin results chart on the bottle and record the findings.Explain results to the woman and record on case sheet or MCP card.
+बोतल पर लगे शुगर चार्ट के साथ नीले रंग के चीनी अभिकर्मक भाग की तुलना करें और निष्कर्षों को रिकॉर्ड करें
+
+बोतल पर एल्बुमिन परिणाम चार्ट के साथ पीले रंग के प्रोटीन अभिकर्मक भाग की तुलना करें और निष्कर्षों को रिकॉर्ड करें। महिला को परिणाम समझाएं और केस शीट या एमसीपी कार्ड पर रिकॉर्ड करें
 
 ---
 
 # Chapter: Gestational Diabetes Mellitus
 
-## Gestational Diabetes Mellitus
+## जेस्टेशनल डायबिटीज मेलाइटस
 
-Gestational Diabetes Mellitus (GDM) is hyperglycaemia first detected in pregnancy and usually disappears after giving birth.
+जेस्टेशनल डायबिटीज मेलाइटस(जीडीएम) हाइपरग्लेसेमिया का पता सबसे पहले गर्भावस्था में चलता है और आमतौर पर बच्चे के जन्म के बाद गायब हो जाता है।
 
-Women with diabetes in pregnancy have more severe hyperglycaemia which does not resolve after pregnancy as it does with GDM.
+गर्भावस्था में डायबिटीज से पीड़ित महिलाओं में हाइपरग्लेसेमिया अधिक गंभीर होता है जो गर्भावस्था के बाद ठीक नहीं होता जैसा कि जीडीएम के साथ होता है
 
-**Diagnostic methods**
+![Image](7b247f58bc6944e2955d2fae8d143b30)
 
-All pregnant women should be tested twice during pregnancy using 75- gram oral glucose tolerance test (OGTT).
+**डायग्नोस्टिक के तरीके**
 
-Test urine glucose on every antenatal visit to identify glycosuria.
+सभी गर्भवती महिलाओं को गर्भावस्था के दौरान 75-ग्राम ओरल ग्लूकोज टॉलरेंस टेस्ट (ओजीटीटी) का उपयोग करके दो बार परीक्षण किया जाना चाहिए।
+ग्लाइकोसुरिया की पहचान करने के लिए प्रत्येक प्रसवपूर्व वीजिट पर यूरिन ग्लूकोज का परीक्षण करें।
 
-Refer GDM module and action card on OGTT.
+ओजीटीटी पर जीडीएम मॉड्यूल और एक्शन कार्ड देखें
 
 ---
 
 # Chapter: HIV, syphilis and HBsAg 
 
-## HIV, syphilis and HBsAg
+## एचआईवी , और सिफलिस और एचबीएसएजी
 
-![Image](a1d6c963955b4b3cb664185928858ea4)
+![Image](18eb4d56389b44c8b53cba65c3e4021c)
 
-All pregnant women should be tested for HIV, and syphilis during their first visit.
+सभी गर्भवती महिलाओं को उनकी पहली विजिट के दौरान एचआईवी, एचबीएसएजी और सिफलिस के लिए परीक्षण किया जाना चाहिए
 
-The ANC clinic should be linked with the nearest Integrated Counselling and Testing Centre (ICTC) or Prevention of Parent to Child Transmission Counselling Centre (PPTCT) for HIV counselling, screening, referral, and management positive cases.
+एचआईवी परामर्श, स्क्रीनिंग,  रेफरल और प्रबंधन सकारात्मक मामलों के लिए एएनसी क्लिनिक को निकटतम एकीकृत परामर्श और परीक्षण केंद्र (आईसीटीसी) या माता-पिता से बच्चे में संचरण रोकथाम परामर्श केंद्र (पीपीटीसीटी) से जोड़ा जाना चाहिए 
 
-Rapid Diagnostic Test should be carried out for Syphilis and HBsAg.
+सिफलिस  और एचबीएसएजी के लिए रैपिड डायग्नोस्टिक टेस्ट किया जाना चाहिए।
 
-HBsAg is an optional investigation.
+एचबीएसएजी एक वैकल्पिक जांच है
 
-![Image](6721438ff83244b89df9f473ae7879d4)
+![Image](8de456639a2a44ab873dce49f70b8169)
 
-Refer women who test positive to the higher centre for further management.
+सकारात्मक परीक्षण  वाली महिलाओं को आगे के प्रबंधन के लिए उच्च केंद्र पर रेफर करें
 
 ---

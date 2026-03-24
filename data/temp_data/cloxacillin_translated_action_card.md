@@ -1,42 +1,39 @@
-# Chapter: Indication and Usage
+स्टैफिलोकोकल संक्रमणों के कारण होने वाले संक्रमणों के लिए, जो आमतौर पर त्वचा, संयोजी ऊतक, हड्डियों से उत्पन्न होते हैं, और मैस्टिटिस के इलाज के लिए प्रयोग किया जाता है।
 
-For staphylococcal infections (usually originating in the skin, connective tissue and bones) and treatment of mastitis.
+# डोज़ और देने की विधि
 
-# Dosage and Administration
+## एडल्ट्स:
 
-## Adults:
+**स्टैफिलोकोकल संक्रमण:** 1 ग्राम हर 4 घंटे आईवी या ओरल
 
-**For staphylococcal infections**: cloxacillin
-1 g IV or orally every 4 hours. 
+**मैस्टिटिस:** 500 मिलीग्राम हर 6 घंटे ओरल
 
-**For mastitis**: cloxacillin 500 mg orally every 6 hours.
+## नवजात शिशु:
 
-## Newborns:
+7 दिन से कम:
 
-**Under 7 days:**
+50 मिलीग्राम/ किलोग्राम हर 12 घंटे, आईवी, 7–10 दिन
 
-Cloxacillin 50 mg/kg IM or IV every 12 hours.
+7 दिन से अधिक:
 
-**Above 7 days:**
+50 मिलीग्राम/ किलोग्राम हर 8 घंटे,  आईवी, 7–10 दिन
 
-Cloxacillin 50 mg/kg IM or IV every 8 hours.
+# कॉन्ट्राइंडिकेशन्स
 
-# Contraindications
+पेनिसिलिन से एलर्जिक मरीजों को न दें।
 
-Do not administer to patients with a penicillin-allergy.
+सेफालोस्पोरिन्स से एलर्जी वाले मरीजों में सावधानी से दें (क्रॉस-सेंसिटिविटी हो सकती है)।
 
-Administer with caution to patients with a cephalosporin allergy (cross-sensitivity may occur).
+नवजात शिशुओं को सावधानीपूर्वक दें (हाइपरबिलीरुबिनेमिया का खतरा)।
 
-Administer with caution to neonates (risk of hyperbilirubinemia).
+किडनी इम्पेयरमेंट वाले मरीजों में डोज़ आधी करें।
 
-Reduce the dose by half in patients with renal impairment.
+# एडवर्स रिएक्शन्स
 
-# Adverse reaction
+सामान्य एडवर्स रिएक्शन्स: उल्टी, नौजिया, हार्टबर्न, दस्त, त्वचा पर रैश।
 
-Common adverse reactions are nausea, vomiting, heartburn, diarrhoea, and skin rash.
+असामान्य एडवर्स रिएक्शन्स: अर्तिकारिया, खुजली, हीमचुरिया, किडनी फेल्योर।
 
-Uncommon adverse reactions are urticaria, itching, haematuria, and renal failure.
-
-Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collapse, anaemia, lethargy, and convulsions.
+कभी - कभी होने वाले एडवर्स रिएक्शन्स :  बुखार, स्यूडोमेब्रेनस कॉलाइटिस, हेपाटाइटिस, ब्रॉन्कोस्पाज़्म, हाइपोटेंशन, सर्क्युलेटरी कोलैप्स, एनीमिया, सुस्ती, दौरे।
 
 ---

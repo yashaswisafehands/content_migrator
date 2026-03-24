@@ -1,58 +1,45 @@
-# Chapter: Indication and usage
+# Chapter: इंडिकेशन्स और उपयोग
 
-Lidocaine is a local analgesia used to relieve pain during deep IM injections (e.g. with magnesium sulphate) and prior to suturing or deinfibulation.
+लिडोकेन / लिग्नोकेन एक लोकल एनाल्जेसिया है, जिसका उपयोग डीप आईएम इंजेक्शन (जैसे मैग्नीशियम सल्फेट) के समय दर्द कम करने और टांके लगाने या किसी इनवेसिव प्रोसीजर से पहले दर्द से राहत देने के लिए किया जाता है।
 
-Inject lidocaine in the tissues that will be sutured/deinfibulated.
+जहाँ टांके लगाने हैं, उस क्षेत्र में या उसके आस-पास लिडोकेन इंजेक्ट करें ताकि प्रक्रिया शुरू करने से पहले पर्याप्त लोकल एनेस्थीसिया सुनिश्चित हो सके।
 
-# Dosage and administration
+# डोज़ और देने की विधि
 
-## Infiltration
+## इंफिल्ट्रेशन
 
-Lidocaine 0.5% or 1% with/without adrenaline subcutaneously/IM. 
+0.5% या 1% लिडोकेन को सबक्यूटेनियस और/या इंट्रामस्क्युलर रूप में दें। अधिकतम डोज़ 5 मि.ग्रा प्रति किलोग्राम है।
 
-Maximum dose: Lidocaine 5 mg/kg
+1% लिडोकेन की 20 एमएल की एक बोतल में 200 मि.ग्रा। लिडोकेन होता है, जो पेरिनियल टियर की सिलाई या अन्य छोटे इनवेसिव प्रोसीजर के लिए पर्याप्त होता है।
 
-A 20 ml bottle of lidocaine 1% contains 200 mg, which should be enough for suturing a perineal tear and deinfibulation.
-
-## Deinfibulation
+##
 
 Lidocaine 0.5% or 1% with/without adrenaline percutaneously. 
 
 Maximum dose: Lidocaine 5 mg/kg
 
-## IM Injection
+## आईएम इंजेक्शन
 
-Add lidocaine 2% 1 ml to the drug that will be given IM (e.g. magnesium sulphate).
+दिए जाने वाली दवा (जैसे मैग्नीशियम सल्फेट) में 2% लिडोकेन के 1 एमएल  को मिलाएँ।
 
-Ensure to use aseptic technique to prevent infections, and to aspirate prior to giving the injection to avoid accidental intravascular injection.
+संक्रमण से बचाव के लिए एसेप्टिक तकनीक का पालन करें और इंजेक्शन देने से पहले एस्पिरेट करें ताकि यह सुनिश्चित हो सके कि दवा सीधे किसी ब्लड वेसल में नहीं जा रही है।
 
-# Duration of analgesia
+# एनेल्ज़ीसिया की अवधि
 
-The analgesia is efficient 5 minutes after injection
+इंजेक्शन देने के लगभग 5 मिनट बाद एनेल्ज़ीसिया का प्रभाव शुरू हो जाता है।
 
-The duration of analgesia is 2 hours.
+इसका प्रभाव लगभग 2 घंटे तक रहता है।
 
-# Contraindications
+# कॉन्ट्राइंडिकेशन्स
 
-Known history of hypersensitivity to local analgesics.
+लिग्नोकेन उन मरीजों को नहीं देना चाहिए जिन्हें लोकल एनेल्ज़ेसिक्स से हाइपरसेंसिटिविटी की ज्ञात समस्या हो।
 
-# Adverse reactions
+# एडवर्स रिएक्शन्स
 
-Side effects with an overdose of lidocaine without adrenaline are:
-•	Numbness in and around the mouth
-•	Swishing sound in the ears
-•	Tremors with convulsions
-•	Hypotension
+सामान्य एडवर्स रिएक्शन है: इंजेक्शन वाली जगह पर हल्का दर्द या सूजन, चक्कर आना, नींद जैसा महसूस होना, झनझनाहट या सुन्नपन, नौजिया और मुंह में अजीब या मेटल जैसा स्वाद महसूस होना।
 
-Side effects with overdose of lidocaine with adrenaline are based on the side effects from adrenaline:
-•	Palpitations
-•	Headache 
-•	Dizziness
-•	Drowsiness 
-•	Chest pain
-•	Hypertension
-•	Worst case cardiac arrest
+कभी - कभी होने वाले एडवर्स रिएक्शन्स : लर्जिक रिएक्शन, दौरे, कोमा, कार्डियक एरिद्मिया, नसों को नुकसान और रेस्पिरेटरी डिप्रेशन शामिल हैं।
 
-At symptoms of overdose, stop treatment, call for help, monitor closely and treat symptoms.
+ओवरडोज़ के लक्षण दिखाई देने पर तुरंत दवा देना बंद करें, मदद के लिए बुलाएँ, महिला की स्थिति पर नजदीकी निगरानी करें और लक्षणों के अनुसार उपचार करें।
 
 ---

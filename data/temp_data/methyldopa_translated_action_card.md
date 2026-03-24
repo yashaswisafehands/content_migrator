@@ -1,36 +1,37 @@
-# Chapter: Indications and Usage
+# Chapter: इन्डिकेशन्ज़ और उपयोग
 
-For hypertension when blood pressure (BP) persistently remains ≥ 140 mmHg systolic OR ≥ 90 mmHg diastolic
+हाईपरटेंशन: लगातार सिस्टोलिक  ब्लड प्रेशर 150 एमएमएचजी या उससे अधिक और डायस्टोलिक ब्लड प्रेशर 110 एमएमएचजी या उससे अधिक।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-**Non-severe hypertension (BP systolic ≥150 mmHg /  diastolic ≥100 mmHg**
+**नॉन-सीवियर हाईपरटेंशन**
 
-Methyldopa 250 mg orally every 6-8 hours.
+सिस्टोलिक बी.पी. ≥ 150 एमएमएचजी या डायस्टोलिक बी.पी. ≥ 100 एमएमएचजी
 
-Dosage can be gradually increased up to:
-Methyldopa 500 mg every 6 hours.
+250 मि.ग्रा. ओरल हर 6-8 घंटे में दें।
 
-Maximum dose: methyldopa 2 g/ 24 hours.
+इसे बढ़ाकर हर 6 घंटे में 500 मि.ग्रा. तक किया जा सकता है।
 
-**Important:**Methyldopa works slowly and is not suitable for rapid control of the blood pressure.
+अधिकतम डोज़ : 24 घंटे में 2 ग्राम
 
-If fast control is needed, give methyldopa alongside a quick-acting drug like labetalol or hydralazine.
+ब्लड प्रेशर को तेजी से नियंत्रित करने के लिए यह दवा उपयुक्त नहीं है क्योंकि यह धीरे काम करती है।
+
+इसलिए मिथाइलडोपा के साथ ही कोई तेज़ असर करने वाली दवा जैसे लैबेटालॉल या हाइड्रालाज़िन भी दें।
 
 **In case of severe preeclampsia:**
 
 Plan delivery within 24 hours (48 hours if the condition is stable and there is a need to await lung maturation of a foetus GA: 24-34).
 
-# Contraindications
+# कॉन्ट्राइंडिकेशन्स
 
-Active hepatic disease, such as acute hepatitis and active cirrhosis.
+लिवर की कोई एक्टिव बीमारी जैसे एक्यूट हेपेटाइटिस और एक्टिव सिरोसिस।
 
-# Adverse Reactions
+# एडवर्स रिएक्शन्स
 
-Common adverse reactions are; swelling of feet or lower legs, drowsiness, mouth dryness, and headaches.
+सामान्य एडवर्स रिएक्शन्स: पैर या पैरों के निचले हिस्से में सूजन, नींद आना, मुँह का सुखना, और सिरदर्द।
 
-Uncommon adverse reactions are; mental depression or anxiety, nightmares or unusually vivid dreams, numbness, tingling, pain, or weakness in hands or feet, slow heartbeat, and stuffy nose.
+असामान्य एडवर्स रिएक्शन्स: मानसिक डिप्रेशन या एंग्जायटी, बुरे सपने या असामान्य स्पष्ट सपने, हाथ या पैरों में सुन्नपन, झनझनाहट, दर्द या कमजोरी, धीमी धड़कन, और नाक बंद होना।
 
-Rare adverse reactions are; dark or amber urine, diarrhoea or stomach cramps (severe or continuous), fever, chills, troubled breathing, and fast heartbeat, general feeling of discomfort or illness or weakness, joint pain, pale stools, skin rash or itching, yellow eyes or skin.
+कभी - कभी होने वाले एडवर्स रिएक्शन्स : गहरा या एम्बर रंग का यूरिन, दस्त या पेट में दर्द (तीव्र या लगातार), बुखार, ठंड लगना, साँस लेने में कठिनाई, तेज़ धड़कन, सामान्य अस्वस्थता या कमजोरी, जोड़ों में दर्द, फीके मल, त्वचा पर चकत्ते या खुजली, आँखों या त्वचा का पीला पड़ना।
 
 ---

@@ -1,45 +1,48 @@
-# Chapter: Preamble
+# Chapter: प्रिएम्बल
 
-Post-Exposure Prophylaxis (PEP) means taking antiretroviral medicines (ART) after being potentially exposed to HIV to prevent infection.
+पीईपी का अर्थ है पोस्ट-एक्सपोज़र प्रोफिलैक्सिस।
 
-# Indications and Usage
+इसका मतलब है कि संभावित एचआईवी संपर्क के बाद एंटीरिट्रोवायरल दवाएँ (एआरटी) लेना, ताकि संक्रमण होने से रोका जा सके।
 
-PEP should be considered if you have had a recent possible exposure to HIV at work.
+# इंडिकेशन्स और उपयोग
 
-Report the exposure to your supervisor, and seek medical attention immediately.
+यदि हाल ही में आपके काम के दौरान एचआईवी के संभावित संपर्क हुआ है, तो पीईपी  पर विचार किया जाना चाहिए।
 
-Occupational transmission of HIV to health care workers is extremely rare, and the proper use of safety devices and barriers can help minimize the risk of exposure while caring for patients with HIV.
+अपने संपर्क की जानकारी तुरंत सुपरवाइज़र को दें और चिकित्सीय सहायता लें।
 
-# Dosage and Administration
+स्वास्थ्य कर्मियों में एचआईवी का ऑक्यूपेशनल संक्रमण अत्यंत रेयर है, और सुरक्षा उपकरणों और बैरियर्स का सही उपयोग रोगियों की देखभाल करते समय जोखिम को कम करने में मदद करता है।
 
-PEP must be started within 72 hours after a recent possible exposure to HIV, but the sooner you start the PEP, the better.
+# डोज़ और देने की विधि
 
-Every hour counts.
+पीईपी को हाल ही में एचआईवी के संभावित संपर्क के 72 घंटे के भीतर शुरू करना चाहिए, लेकिन इसका सबसे अधिक प्रभाव तब होता है जब इसे संपर्क के 2 घंटे के भीतर शुरू किया जाए।
+हर घंटा महत्वपूर्ण है।
 
-Once prescribed PEP, take it once or twice daily for 28 days.
+हर घंटा इसमें महत्वपूर्ण है।
 
-PEP is effective in preventing HIV when administered correctly, but in rare cases are unsuccessful.
+यदि आपको पीईपी प्रिस्क्राइब की जाती है, तो इसे 28 दिन तक रोज़ाना एक या दो बार लेना होगा।
 
-PEP normally consists of 3 anti-HIV drugs, from 2 of the different classes of ART drugs.
+पीईपी सही ढंग से लेने पर एचआईवी को रोकने में प्रभावी है, लेकिन यह 100% सुरक्षित नहीं है।
 
-(A PEP regimen for HIV with only 2 ARV drugs is effective, but three 3 drugs are preferred).
+पीईपी सामान्यतः तीन एंटी- एचआईवी दवाओं से मिलकर बनती है, जो दो अलग-अलग वर्गों की होती हैं।
 
-**TDF + 3TC (or FTC) + EFV** as a fixed-dose combination is the recommended as option to initiate ART for adults and adolescents.
+(एचआईवी के लिए पोस्ट-एक्सपोज़र प्रोफिलैक्सिस (पीईपी) की रेजिमेन में दो एआरवी दवाएं प्रभावी होती हैं, लेकिन तीन दवाओं को प्राथमिकता दी जाती है।)
 
-Take an HIV test 3 months after exposure.
+टेनोफोविर (टीडीएफ) + लैमिवुडिन (3टीसी) + इफाविरेन्ज़ (ईएफवी) को फिक्स्ड-डोज़ कॉम्बिनेशन के रूप में वयस्कों और किशोरों में एआरटी शुरू करने के लिए प्राथमिक विकल्प के रूप में अनुशंसित किया जाता है।
 
-Pregnant and breastfeeding women can be treated with PEP.
+पीईपी शुरू करने के बाद 7 दिन, 14 दिन, 28 दिन और 12 सप्ताह पर फॉलो-अप करें। एचआईवी की जांच 4 सप्ताह पर करें, अगर परिणाम नेगेटिव हो, तो एक्सपोज़र के 12 सप्ताह बाद दोबारा जांच करें।
 
-# Contraindications
+गर्भवती और स्तनपान कराने वाली महिलाओं को पीईपी दिया जा सकता है।
 
-Do not treat pregnant women with efavirenz or nevirapine.
+# कॉन्ट्राइंडिकेशन्स
 
-# Adverse Reactions
+उच्च सीडी4 काउंट वाली गर्भवती महिलाओं को नेविरापीन नहीं देनी चाहिए, क्योंकि इससे जीवन-घातक हेपाटोटॉक्सिसिटी का जोखिम रहता है।
 
-HIV treatment can cause side-effects which tend to be worse at the beginning of treatment.
+# एडवर्स रिएक्शन्स
 
-If you are taking PEP you may experience some unpleasant side-effects such as nausea, vomiting, diarrhoea, headaches and fatigue.
+एचआईवी उपचार के दुष्प्रभाव हो सकते हैं, जो आमतौर पर दवा शुरू करते समय सबसे अधिक महसूस होते हैं।
 
-Modern PEP drugs cause fewer side-effects than those used in the past.
+यदि आप पीईपी ले रहे हैं, तो आपको कुछ असुविधाजनक दुष्प्रभाव महसूस हो सकते हैं, जैसे नौजिया, उल्टी, दस्त, सिरदर्द और थकान।
+
+आज कल प्रयोग की जाने वाली पीईपी दवाएं पहले प्रयोग की जाने वाली दवाओं से कम दुष्प्रभाव करती हैं।
 
 ---

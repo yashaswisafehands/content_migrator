@@ -15,7 +15,7 @@ Emptying the bladder with a urinary catheter is indicated:
 
 # Chapter: Indwelling Urinary Catheter
 
-![Image](e4324260c9a84f6d8104a8cfdff5bd5a)
+![Image](2c315129f64749aab433ca28aec27ec7)
 
 ## Practical information
 
@@ -61,7 +61,7 @@ If the urinary output is less than 30 ml/hour, treat the underlying cause and co
 
 ## Practical Information
 
-Intermittent urinary catheter is inserted at regular intervals or when urination is required but the woman is not able to empty her bladder herself.
+An intermittent urinary catheter is inserted at regular intervals or when a woman is not able to empty her bladder herself, despite needing to.
 
 ## Procedure
 

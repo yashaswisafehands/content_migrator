@@ -1,17 +1,27 @@
-## Indications and Usage
+## इंडिकेशन्स और उपयोग
 
-- Reduces the risk of pre-eclampsia.
+- प्री-एक्लेम्प्सिया और प्री-टर्म बर्थ के जोखिम को कम करता है।
 
-All pregnant women should take calcium supplements, particularly those at higher risk of gestational hypertension, and in areas with low calcium intake.
+गर्भावस्था और स्तनपान के दौरान गर्भवती महिलाओं को दिया जाता है।
 
-## Dosage and Administration
+## डोज़ और देने की विधि
 
-Elemental calcium 1.5–2.0 g daily, divided into 3 doses.
+प्रत्येक टैबलेट में 500 मि.ग्रा एलिमेंटल कैल्शियम और 250 आई यू विटामिन D3, दिन में दो बार।
 
-Start at the first ANC visit and continue until delivery.
+14 सप्ताह से शुरू करें और प्रसव के 6 महीने तक जारी रखें।
 
-## Contraindications
+भोजन के बीच लेना पसंद करें।
 
-Iron and calcium supplements should preferably be administered several hours apart to avoid negative interactions.
+बेहतर अबसॉर्प्शन के लिए आयरन और कैल्शियम सप्लीमेंट के बीच 2 घंटे का अंतर रखें।
+
+## कॉन्ट्राइंडिकेशन्स
+
+निर्धारित सीमा (1 ग्राम/दिन) के भीतर लेने पर कोई दुष्प्रभाव नहीं होते।
+
+## एडवर्स रिएक्शन्स
+
+कुछ महिलाओं में हल्की गैस्ट्राइटिस हो सकती है, इसलिए कैल्शियम टैबलेट भोजन के साथ लेना चाहिए।
+
+अत्यधिक मात्रा (>3 ग्राम/दिन) लेने से यूरिनरी स्टोन और यूरिनरी ट्रैक्ट इन्फेक्शन (यूटीआई) का खतरा बढ़ सकता है और आवश्यक माइक्रो- न्यूट्रिएंट्स का अबसॉर्प्शन कम हो सकता है।
 
 ---

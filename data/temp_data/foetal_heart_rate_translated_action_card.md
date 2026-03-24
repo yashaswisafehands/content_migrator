@@ -1,43 +1,43 @@
 # Chapter: Usage
 
-### Foetal heart rate (FHR) - usage
+### फीटल हार्ट रेट - उपयोग
 
-![Image](7a33eb1991cc4e19ba29e8cce330f316)
+![Image](abd3eaf5b96240f7902c33a1e99cc924)
 
-Measurement of the FHR during labour is indicated:
+प्रसव के दौरान फीटल हार्ट रेट की जाँच निम्न समयों पर करें:
 
-**1)**On admission.
+**1)**भर्ती के समय
 
-**2)** During the 1st stage of active labour: Every 30 minutes for low-risk pregnancies, and every 15 minutes if any risk is identified for the mother or foetus, AND
+**2)** प्रसव के 1st स्टेज में: लेटेंट फेज़ में हर 1 घंटे पर और एक्टिव फेज़ में हर 30 मिनट पर फीटल हार्ट रेट की जाँच करें।
 
-**3)** During 2nd stage of labour: Immediately after every contraction and at least every **5 minutes.**
+**3)** प्रसव के 2nd स्टेज में : हर संकुचन के तुरंत बाद और कम-से-कम हर 5 मिनट में एफएचआर  जाँचें।
 
 ---
 
 # Chapter: Normal Values
 
-### Foetal heart rate (FHR) - normal values
+### फीटल हार्ट रेट- नॉर्मल वैल्यू
 
-The lower limit for a normal FHR is defined as 110 beats per minute (bpm).
+फीटल हार्ट रेट की निचली सीमा 120 बीट्स प्रति मिनट (बी.पी.एम.) है।
 
-A heart rate below 100 bpm indicates foetal asphyxia and immediate delivery is necessary.
+अगर हार्ट रेट 120 बीट्स/मिनट से कम है, तो ये फीटस डिस्ट्रेस इंडीकेट करता है।
 
-The upper limit for a normal FHR is 160 bpm.
+सामान्य हार्ट रेट की ऊपरी सीमा 160 बीट प्रति मिनट है।
 
-A heart rate above 180 bpm indicates foetal asphyxia and immediate delivery is necessary.
+अगर हार्ट रेट 160 बीट्स/मिनट से अधिक है, तो ये फीटस डिस्ट्रेस इंडीकेट करता है।
 
 ---
 
 # Chapter: Practical information
 
-### Foetal Heart Rate (FHR) - practical information
+### फीटल हार्ट रेट- प्रैक्टिकल जानकारी
 
-The foetal heart is best heard by placing the fetoscope over the back of the foetus. Therefore, establish foetal lie and position before assessing FHR.
+फीटल हार्ट सबसे अच्छे से सुनने के लिए फीटोस्कोप को माँ के पेट पर रखें, जहाँ बच्चे की पीठ महसूस हो।
 
-![Image](1db76d9672b040c38b56e68e2f8ee332)
+![Image](aa1d9d3fcc2f4946b1161e49d73e9b1b)
 
-Always auscultate the foetal heart rate for at least one minute starting during a contraction and continuing for at least 30 seconds after (you will need a watch).
+हर कॉन्ट्रैक्टशन के तुरंत बाद 1 मिनट तक फीटल हार्ट रेट मापें (घड़ी की जरूरत होगी)।
 
-Measuring the maternal pulse and the FHR at the same time ensures that the foetal heart is not confused with the woman’s.
+मैटरनल पल्स और फीटल हार्ट रेट को साथ में नापने से ये सुनिश्चित होता है कि दोनों की वैल्यू में मिक्स-अप न हो।
 
 ---

@@ -1,14 +1,17 @@
-# Chapter: Indications and Usage
+# Chapter: इन्डिकेशन्ज़ और उपयोग
 
-Prevents bleeding complications in newborns.
+नवजात शिशुओं में ब्लीडिंग जटिलताओं से बचाव करता है।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-For all newborns after birth: 
-Vitamin K 1 mg IM
+1000 ग्राम या उससे अधिक वजन वाले नवजात शिशुओं को 1 मि.ग्रा. विटामिन K1 दें।
 
-# Contraindications
+1000 ग्राम से कम वजन वाले नवजात शिशुओं को 0.5 मि.ग्रा. विटामिन K1 दें।
 
-None.
+विटामिन K1 को जन्म के तुरंत बाद, लेकिन 24 घंटों के भीतर, इंट्रामस्क्युलर रूप से दें।
+
+# काॅन्ट्राइन्डिकेशन्ज़
+
+कोई नहीं।
 
 ---

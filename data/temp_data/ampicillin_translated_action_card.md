@@ -1,54 +1,52 @@
-# Chapter: Indications and Usage
+# Chapter: संकेत और उपयोग
 
-Ampicillin is β-lactam antibiotic effective for gram-positive and gram-negative bacterial infections.
+एम्पिसिलिन ग्राम पाॅज़िटिव और ग्राम नेगेटिव बैक्टीरियल संक्रमण पर प्रभावी एक बी-लेक्टम एन्टीबाॅयोटिक है।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-## Adults:
+## एडल्ट:
 
-**In general, administer:**
-Ampicillin 1-2 g IV every 6 hours. 
+हर 6 घंटे में 1 ग्राम ओरल या इंट्रावेनसली।
 
-Continue IV antibiotics (ampicillin, gentamicin and metronidazole) for 48 hours after the woman is fever free.
+**मास्टाइटिस के लिए**– 500 मि.ग्रा. ओरल हर 8 घंटे पर, 10 दिनों तक।
 
-**Following, administer oral antibiotics:**
-
-Ampicillin 500 mg every 6 hours AND
+Ampicillin 500 mg every 6 hours and
 
 Metronidazole 500 mg every 8 hours for 5-7 days.
 
 **Treatment of the mother:** 
-If there are warning signs for the mother and/or foetus, treat the mother with ampicillin 2 g IV every 6 hours.
+When danger signs for mother and/or foetus treat the mother with Ampicillin 2 g IV every 6 hours.
 
-**Manual Removal of Placenta**: ampicillin 2 g  IV once.
+**Manual Removal of Placenta**: Give 2 g IV Ampicillin once.
 
-**Maternal Sepsis**: ampicillin 2 g IV every 6 hours in combination with gentamicin and metronidazole.
+**Maternal Sepsis**: 2 g IV every 6 hours in combination with Gentamicin and Metronidazole.
 
-**Septic abortion**: ampicillin 2 g IV once, hereafter ampicillin 1 g IV every 6 hours in combination with gentamicin and metronidazole.
+**Septic abortion**: Give 2 g IV once, hereafter 1 g IV every 6 hours in combination with Gentamicin and Metronidazole.
 
-**GBS prophylaxis:**ampicillin 2 g IV followed by ampicillin 1 g IV every 4 hours until birth **OR** 
-ampicillin 500 mg IV every 6 hours until birth.
+**GBS prophylaxis:**
+2 g ampicillin IV followed by 1 g IV every 4 hours until birth OR 
+500 mg ampicillin IV every 6 hours until birth.
 
-## Newborns:
+## नवजात शिशु:
 
-**Under 7 days:**
+7 दिनों से कम आयु:
 
-Ampicillin 50 mg/kg IV or IM every 12 hours.
+50 मिलीग्राम/ किलोग्राम डोज़ हर घंटे में इंट्रावेनसली द्वारा।
 
-**Above 7 days:**
+7 दिनों  से अधिक आयु:
 
-Ampicillin 50 mg/kg IV or IM every 8 hours.
+50 मिलीग्राम/ किलोग्राम डोज़ हर 8 घंटे में इंट्रावेनसली द्वारा।
 
-# Contraindications
+# कॉन्ट्राइंडिकेशन्स
 
-Allergy to penicillin.
+पेनिसिलिन से एलर्जी।
 
-# Adverse Reactions
+# एडवर्स रिएक्शन्स
 
-Common adverse reactions are diarrhoea and skin rash.
+सामान्य  एडवर्स रिएक्शन्स: दस्त और त्वचा पर लाल चकत्ते हैं।
 
-Uncommon reactions are nausea, vomiting, stomatitis, glossitis, pseudomembranous colitis, lowered platelets, anaemia and urticaria.
+असामान्य  एडवर्स रिएक्शन्स: नौजिया, उल्टी,  मुँह में सूजन (स्टोमेटाइटिस), जीभ की सूजन (ग्लॉसाइटिस), स्यूडोमेम्ब्रानस कोलाइटिस, कम प्लेटलेट्स, एनीमिया और  अर्टिकेरिया।
 
-Anaphylactic shock is rare.
+कभी-कभी होने वाली  एडवर्स रिएक्शन्स: ऐनाफाइलैक्टिक शॉक।
 
 ---

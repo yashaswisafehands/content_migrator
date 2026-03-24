@@ -1,17 +1,17 @@
-## Indication and Usage
+## संकेत एवं उपयोग
 
-Recommended for all pregnant women to reduce the risk of neural tube defects.
+न्यूरल ट्यूब दोष के जोखिम को कम करने के लिए सभी गर्भवती महिलाओं के लिए अनुशंसित।
 
-## Dosage and Administration
+## खुराक और एडमिनिस्ट्रेशन
 
-One tablet of Folic Acid 400 microgram orally daily starting from conception to 12 weeks of gestation
+गर्भाधान से लेकर गर्भावस्था के 12 सप्ताह तक प्रतिदिन ओरल रूप से फोलिक एसिड 500/400 माइक्रोग्राम की एक गोली
 
-## Contraindications
+## कॉन्ट्रइंडिकेशन
 
-None
+कोई नहीं
 
-## Adverse Reactions
+## प्रतिकूल प्रतिक्रियाएं
 
-None
+कोई नहीं
 
 ---

@@ -1,6 +1,6 @@
 # Chapter: Routine postnatal assessments (up to 6 weeks)
 
-![Image](d4f78724fffb4f719dad0e9d58cbd88a)
+![Image](09c85b445a694a7b89cb24186806c9dd)
 
 ## Ask the mother
 
@@ -61,13 +61,13 @@ Prior to birth facility discharge, and at each postnatal contact, provide counse
 - **Immunization**: recommend and administer immunization as per the local guidelines.  
 - **Danger signs**: teach the parents about the identification of danger signs and when to seek help. 
 - **Breastfeeding**: See Breastfeeding Counselling - practical procedure.
-- **Keep the newborn warm and skin-to-skin**: If the newborn is not laying skin-to-skin, dress and cover its head and keep the room warm.   
+- **Keep the newborn warm and skin to** **skin**: If the newborn is not laying skin-to-skin, dress and cover its head and keep the room warm.   
 - **Cord care**: Keep the cord clean and dry, if soiled wash it with clean water and soap. Apply 4% chlorhexidine for the 1st week in settings where harmful practices are done.
 - **Safe sleep**: Let the newborn sleep on their back under an insecticide treated bed net. Keep the newborn away from smoke and sick people. 
 - **Hygiene**: Do not bath the newborn in the first 24 hours and do not remove vernix. Bathe in a warm room with warm water, then dry thoroughly, dress, and cover.  
 - **Infant growth and development**: Support parents to give responsive care and be aware of the newborn’s signals.
 
-![Image](db6a2dde6fa54f3091afd08deeb0333d)
+![Image](3f25967b27e74960af6e51809eb9b5bd)
 
 ---
 
@@ -81,10 +81,10 @@ Prior to birth facility discharge, and at each postnatal contact, provide counse
 
 ## Weigh the small newborn (<2.5 kg)
 
-- Every day until 3 consecutive times of gaining weight (15 g/day) is observed.
+- Every day until 3 consecutive times of gaining weight (15 g/day) is observed
 - Weekly until 4-6 weeks of age or until term is reached (in the case of preterm birth).
 
-![Image](ae30c6331f914493bf9108fdd02eccbf)
+![Image](a63947434c59449a9b1e6e91f34cc3bf)
 
 ## Assessing weight loss/gain in the first month of life:
 
@@ -92,7 +92,7 @@ For more information on management of newborns with low birth weight, go to the 
 
 **Assessing weight loss/gain in the first month of life:**
 
-![Image](3617d95c87a046b8a2944496a3d20ebb)
+![Image](aee2477656fd4983b430b3a31866d0a9)
 
 Daily/weekly weighing requires precise and accurate scales (10g increment).
 
@@ -130,7 +130,7 @@ Tell her to return to the clinic if the umbilical infection worsens or pustules 
 
 If the infection worsens, refer to a higher-level facility and treat with antibiotics according to national guidelines.
 
-![Image](4d8755d5bba94dd2af0ea83e62c9eb76)
+![Image](1e65a9a482d2448b8236ac6f27028458)
 
 ## Eye infection
 
@@ -145,7 +145,7 @@ Tell the mother to return to the clinic if the infection worsens. Reassess after
 
 If the infection worsens, refer to higher-level facility.
 
-![Image](349e3dc4f8fd4b0eab7f79fac8f5022a)
+![Image](e4c3b82fede747cc8e515027e54bcd83)
 
 ---
 
@@ -153,7 +153,7 @@ If the infection worsens, refer to higher-level facility.
 
 All newborns should be immunized based on the national immunization schedule.
 
-![Image](a2d447f5aef245eeaffa824c1c987ab7)
+![Image](3abb5efa5e7f4a7f892dfb70dac8f6a0)
 
 **At birth**(within 24 hours or preferably before discharge):
 

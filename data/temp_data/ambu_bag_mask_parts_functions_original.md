@@ -9,7 +9,7 @@
 - Valve assembly
 - Oxygen reservoir
 
-![Image](fe418be376b24bfda99a04862feb072f)
+![Image](d1bcbcb6d96d4926b7291fd7b084f4cc)
 
 ## Bag:
 

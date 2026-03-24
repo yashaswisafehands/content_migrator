@@ -1,5 +1,3 @@
-# Chapter: Preamble
-
 This is a suggestion for malaria treatment
 
 However, the patterns of resistance to antimalarial drugs vary across countries,
@@ -7,39 +5,33 @@ therefore a universal malaria treatment regime is not possible.
 
 Follow your national guidelines.
 
-# Indications and usage
+# इंडिकेशन्स और उपयोग
 
-Treatment of severe and cerebral malaria if artemisinin-based therapy is unavailable.
+सिवियर एवं सेरेब्रल मलेरिया का उपचार
 
-# Dosage and administration
+जटिलता-रहित प्लाज़्मोडियम फाल्सीपेरम मलेरिया के उपचार में उपयोग किया जाता है।
 
-**Loading dose:**
-Quinine 20 mg salt/kg IV diluted in 5% dextrose IV, infused over 4 hours. This provides therapeutic plasma concentrations within approximately 4 hours.
+# डोज़ और देने की विधि
 
-**Maintenance dose:** 
-Quinine 10 mg salt/kg diluted in 5% dextrose IV, administered every 8 hours, starting 8 hours after the loading dose.
+लोडिंग डोज़: 20 मि.ग्रा./किलोग्राम सॉल्ट आईवी इन्फ्यूज़न या डिवाइडेड आईएम डोज़ में दें।
+इन्फ्यूज़न की दर 5 मि.ग्रा./किलोग्राम प्रति घंटे से अधिक नहीं होनी चाहिए।
 
-# Contraindications
+मेंटेनेंस डोज़: 10 मि.ग्रा./किलोग्राम हर 8 घंटे पर दें।
 
-None.
+कम से कम 48 घंटे तक पैरेंट्रल थेरेपी जारी रखें, इसके बाद ओरल क्वाइनिन 10 मि.ग्रा./किलोग्राम हर 8 घंटे पर देकर कुल 7 दिनों का कोर्स पूरा करें (जिसमें पैरेंट्रल रूप से दिए हुए दिन को शामिल किया जाए)।
 
-**Precautions:** 
-Avoid rapid IV administration. 
+# कॉन्ट्राइंडिकेशन्स
 
-Each dose must be given as a slow, rate-controlled IV infusion, usually diluted in 5% dextrose and infused over 4 hours.
+कोई नहीं ।
 
-The infusion rate must not exceed 5 mg salt/kg bw per hour.
+# एडवर्स रिएक्शन्स
 
-Hypoglycaemia risk is significantly higher in pregnancy, especially in the 2nd and 3rd trimester.
+क्वाइनिन गर्भावस्था में सुरक्षित है, लेकिन अक्सर मैटेलिक स्वाद, नौजिया और कानों में घंटी बजने जैसी टिनिटस जैसे दुष्प्रभाव हो सकते हैं।
 
-Pregnant women require close glucose monitoring during IV quinine infusion.
+हाइपोग्लाइसीमिया सामान्यतः देखा जाता है, इसलिए ब्लड शुगर लेवल बार-बार जांचना चाहिए। यदि यह कम मिले, तो 10% ग्लूकोज़ का 1 लीटर आईवी दें।
 
-# Adverse reactions
+असामान्य एडवर्स रिएक्शन्स :   निगलने में कठिनाई, उल्टी, पेट दर्द, हेपेटाइटिस, डिलीरियम, उत्साह, और दृष्टि में विकार शामिल हैं।
 
-Hypoglycaemia is common, blood sugar level should be measured frequently, and if low, 1 litre L of 10% glucose should be given IV.
-
-Uncommon adverse reactions are swallowing difficulties, nausea, vomiting, abdominal pain, hepatitis, delirium, exaltation, and visual disturbances.
-
-Rare adverse reactions are cardiac arrhythmia, or even heart arrest, respiratory depression, confusion, and renal toxicity.
+कभी - कभी होने वाले एडवर्स रिएक्शन्स :  कार्डियक एरिद्मिया या हृदय रुकना, श्वसन अवसाद, भ्रम, और गुर्दे की टोक्सिसिटी शामिल हो सकती है।
 
 ---

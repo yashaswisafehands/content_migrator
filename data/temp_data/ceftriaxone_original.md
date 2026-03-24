@@ -1,40 +1,33 @@
 # Chapter: Indications and usage
 
-Treatment of bacterial infections. Alternative to penicillin with allergy to penicillin.
+Treatment of bacterial infections. Alternative to penicillin at allergy to penicillin.
 
 # Dosage and administration
 
 ## Adults:
 
-**Initial dose:**
-Ceftriaxone 4 g IV (max 4g/day)
-
-**Following doses:**
-Ceftriaxone 1-2 g IV/IM once daily
+4 grams IV first dose (max: 4 g/day) 
+2 grams IV or IM once daily.
 
 ## Newborns:
 
-**For meningitis:**
+For meningitis:
 
-Ceftriaxone 50mg/kg IV every 12 hours, 
+50 mg/kg per dose every 12 hours IV or 100 mg/kg per dose once every day IV or IM
 
-OR
+For pus draining from the eye:
 
-Ceftriaxone 100mg/kg IV/IM once daily
-
-**For pus draining from the eye:**
-
-Ceftriaxone 50 mg/kg IM (single dose, max 125 mg)
+50 mg/kg/dose once IM (max 125 mg)
 
 # Contraindications
 
 Allergy to cephalosporins. Severe reactions to penicillin (anaphylactic reactions)
 
-Neonates ≤28 days, those with hyperbilirubinemia, and those who are premature should not be treated with ceftriaxone.
+Neonates ( ≤ 28 days), hyperbilirubinaemic neonates, especially prematures, should not be treated with ceftriaxone.
 
-Ceftriaxone can displace bilirubin from its binding to serum albumin, possibly leading to a risk of bilirubin encephalopathy in these patients.
+In vitro studies have shown that ceftriaxone can displace bilirubin from its binding to serum albumin, leading to a possible risk of bilirubin encephalopathy in these patients.
 
-**Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions (such as parenteral nutrition), because of the risk of precipitation of ceftriaxone-calcium.**
+**Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium.**
 
 # Adverse reactions
 

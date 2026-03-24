@@ -1,22 +1,24 @@
-# Chapter: Indications and Usage
+# Chapter: इंडिकेशन्स और उपयोग
 
-Prevention against pneumococcal infection (streptococcus pneumoniae) which can lead to serious diseases such as meningitis, septicaemia and pneumonia and mild common illness such as sinusitis and otitis media.
+न्यूमोकोकल संक्रमण (स्ट्रेप्टोकॉकस न्यूमोनिया) से सुरक्षा, जो गंभीर बीमारियों जैसे मेंनिन्जाइटिस, सेप्टीसीमिया और निमोनिया तथा हल्की सामान्य बीमारियों जैसे साइनसाइटिस और ओटिटिस मिडिया का कारण बन सकता है।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-- Pneumococcal conjugate 0.5 ml IM
-- 1st dose at 6 weeks 
-- 2nd dose at 10 weeks 
-- 3rd dose at 14 weeks (can be given in combination with DTP, Hib and IPV vaccines)
+- 0.5 मिलीलीटर इंट्रामस्कुलर
+- पहली खुराक: 6 सप्ताह
+- दूसरी खुराक: 14 सप्ताह
+- बूस्टर खुराक: 9 महीने
+- पेंटावैलेन्ट, रोता और आईपीवी वैक्सीन के साथ संयोजन में दिया जा सकता है।
 
-# Consideration
+# कन्सिडरेशन
 
-Vaccines should be stored at 2-8°C. They should not be frozen. Vaccines come with vaccine vial monitor.
+वैक्सीन को 2-8°C पर स्टोर करें। फ्रीज न करें। वैक्सीन में वैक्सीन वायल मॉनिटर शामिल होता है।
 
-# Contraindication
+# कॉन्ट्राइंडिकेशन्स
 
-- A severe allergic reaction (life-threatening) after a previous dose or to any vaccine containing diphtheria toxoid. 
-- A severe (life threatening) allergy to any component of the PCV vaccines. 
-- Newborns who are mildly ill can receive the vaccine. Newborns who are moderately or severely ill should wait until they recover unless the risk outweighs the benefits.
+- पीसीवी 1 वर्ष से कम उम्र में दिया जाना चाहिए। यदि देरी हो, तो केवल तब दिया जा सकता है जब बच्चे ने अपनी पहली सालगिरह से पहले कम से कम एक खुराक ली हो।
+- पिछली खुराक के बाद या किसी भी डिप्थीरिया टॉक्सॉइड वाली वैक्सीन के प्रति गंभीर एलर्जी (जानलेवा)
+- पीसीवी वैक्सीन के किसी भी घटक के प्रति गंभीर (जानलेवा) एलर्जी
+- हल्के बीमार नवजात शिशु वैक्सीन ले सकते हैं। मध्यम या गंभीर रूप से बीमार नवजात शिशुओं को तब तक प्रतीक्षा करनी चाहिए जब तक वे ठीक न हो जाएँ या जब जोखिम लाभ से अधिक न हो।
 
 ---

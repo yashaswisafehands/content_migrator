@@ -1,6 +1,6 @@
 # Chapter: Screening
 
-![Image](9f03a62c2fce4005a4b5a5697b27dba0)
+![Image](ab83d298ab6f40b3a4973dc6055b372a)
 
 ## During the first contact in pregnancy and the postnatal period you should:
 
@@ -17,7 +17,7 @@ Consider asking the following **depression identification questions** as part of
 
 If a woman responds positively to any of the depression identification questions, you should consider:
 
-- Using the **Edinburgh Postnatal Depression Scale.**
+- using the **Edinburgh Postnatal Depression Scale.**
 - or refer the woman to specialist care.
 
 Also consider asking about anxiety using the 2-item **Generalized Anxiety Disorder Scale** (GAD-2). See Practical Procedure “Screening tools”.
@@ -29,7 +29,7 @@ If a woman scores 3 or more on the GAD-2 Scale, consider:
 
 Refer to specialist care for assessment and treatment, all women who have or are suspected to have:
 
-- Severe mental illness (such as schizophrenia, bipolar disorder, PTSD, and major depression).
-- Any history of severe mental illness.
+- severe mental illness (such as schizophrenia, bipolar disorder, PTSD, and major depression)
+- any history of severe mental illness
 
 ---

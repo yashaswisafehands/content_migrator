@@ -1,98 +1,112 @@
 # Chapter: Before performing abdominal examinations 
 
-### Before performing abdominal examinations
+### पेट की जांच करने से पहले
 
-![Image](a50f2d54779c4d879d02d4efc030f9e3)
+![Image](f9f54c104f7b4d7e9c76559891d0493f)
 
-- Gain verbal consent
-- Allow the woman to empty her bladder
-- She lies woman comfortably in a semi-elevated position
-- Wash your hands and warm them
-- Look for scars
-- Ensure uterus is not contracted
+- प्रक्रिया स्पष्ट करें और मौखिक सहमति प्राप्त करें 
+- निजता  सुनिश्चित करें
+- महिला को मूत्राशय खाली करने के लिए कहें 
+- महिला को सहारा देकर सूपाइन स्थिति में आराम से लेटने में मदद करें, जंग्हें आंशुकित होने तक
+- जांच करते समय महिला के दाहिनी ओर खड़े हो जाएं
+- हाथ धोएं और गर्म करें 
+- पेट पर निशान देखें 
+- सुनिश्चित करें कि गर्भाशय सिकुड़ा हुआ नहीं है
 
 ---
 
 # Chapter: Listen to foetal heart rate (FHR) (from 20 weeks)
 
-### Listen to foetal heart rate (FHR) (from 20 weeks)
+### भ्रूण की हृदय गति (एफएचआर) सुनें (24 सप्ताह से)
 
-![Image](0bd3d4a0b64647dbb689d2dbe8d726dd)
+![Image](aa1d9d3fcc2f4946b1161e49d73e9b1b)
 
-**Count the FHR for 1 full minute:**
-
-- **110-160 bpm:** Normal
-- **<100 bpm or > 180 bpm:** Indicates asphyxia, refer immediately
+- भ्रूण के हृदय की ध्वनि स्टेथोस्कोप या फेटोस्कोप का उपयोग करके भ्रूण की पीठ पर सबसे अच्छी तरह से सुनी जाती है
+- पूरे 1 मिनट के लिए एफएचआर की गणना करें
+- सामान्य एफएचआर 120-160 बीपीएम है
+-  एफएचआर <120 या > 160 बीपीएम भ्रूण संकट को संकेत करता है, तुरंत देखें।
 
 ---
 
 # Chapter: Foetal movements (FM) (from 28 weeks)
 
-### Foetal movements (FM) (from 28 weeks)
+### भ्रूण की हलचल (28 सप्ताह से)
 
-![Image](f370cef4ea4d44c9aa68ab8fbcac747e)
+![Image](d8051fffbdd74de7b5a448862b2b09ab)
 
-- Ask about maternal perception of FM at each contact after 28 weeks
-- FM can indicate foetal wellbeing
-- Women with reduced or no FMs require additional monitoring
+- पूछें कि क्या वह भ्रूण की गतिविधियों को महसूस कर सकती है क्योंकि यह भ्रूण की भलाई का संकेत देता है
+- सामान्यतः  एक दिन में 10-12 हलचलें महसूस होनी चाहिए
+- भ्रूण की कम हलचल भ्रूण संकट का संकेत दे सकती है
+- जिन महिलाओं में भ्रूण की हलचल कम या बिल्कुल नहीं होती, उन्हें अतिरिक्त निगरानी और उच्च केंद्र में रेफर करने की आवश्यकता होती है।
 
 ---
 
 # Chapter: Feel for number of foetuses (from 30 weeks)
 
-### Feel for number of foetuses (from 30 weeks)
+### भ्रूणों का लाई और प्रेजेंटेशन (32 सप्ताह से)
 
-![Image](83c0f382044c4d168dee75647135bc10)
+![Image](ff78acd2919b43f7a4913b1b8099dd85)
 
-- Gently palpate the abdomen to identify multiple pregnancies.
-- Consider a multiple pregnancy if:
+- पेट को धीरे से पेलपेट करें
+- भ्रूण की संख्या को महसूस करे और एक से अधिक गर्भावस्था की पहचान करें
+- एक से अधिक गर्भावस्था पर विचार करें यदि :
 
-- 3 or more foetal poles palpable.
-         - 3 or more foetal poles palpable
-         - Multiple limb clusters palpable.
+- फंडल हाइट उम्मीद से ज़्यादा है 
+-तीन या अधिक भ्रूण ध्रुव  पेल्पेबल  होते हैं
+-अनेक अंगों के गुच्छे पेल्पेबल
+
+भ्रूण की पहचान करें:
+
+- लाई- लोंगिट्यूडिनल, आडा या तिरछा 
+- प्रेजेंटेशन- मस्तक, ब्रीच या कंधा 
+- स्थिति -  जिस दिशा में भ्रूण का मुख हो
+- एन्गेज्मन्ट - पेल्विस मे स्थिर या मुक्त भाग प्रस्तुत करना,आप इसका कितना हिस्सा महसूस कर सकते हैं?
 
 ---
 
 # Chapter: Feel for malpresentation (from 34 weeks)
 
-### Feel for malpresentation (from 34 weeks)
+### मालप्रेजेंटेशन का एहसास (34 सप्ताह से)
 
-![Image](8091840a7d0f4f5e8632c8338aa858fa)
+![Image](76eee60e606c416d87b08a4f27fbd260)
 
-![Image](7c3f41a972ce47119e708b902eec16be)
+![Image](28bb91c53d904969bc31ff5637c16913)
 
 **Identify foetal:**
 
-- **Lie:** longitudinal, transverse or oblique.
-- **Position:** direction the foetus is facing.
-- **Presentation:** cephalic, breech or shoulder.
+- **Lie:** longitudinal, transverse or oblique
+- **Position:** direction the foetus is facing
+- **Presentation:** cephalic, breech or shoulder
 - **Engagement:** presenting part fixed in the pelvis or free. How much of it can you feel?
 
-If the foetus is not cephalic, consult referral hospital for management, inform the woman and prepare an emergency birth plan.
+यदि भ्रूण मस्तक नहीं है, तो प्रबंधन के लिए रेफरल अस्पताल से परामर्श लें, महिला को सूचित करें और एक आपातकालीन जन्म योजना तैयार करें
 
-![Image](f79479bf3bb743e1a0359b2c135f4cb5)
+![Image](2001a38096a2486882c6680a2b440861)
 
-If the foetus is cephalic and not engaged, inform the woman on the risk of cord prolapse, encourage to attend/contact hospital immediately in the event of ruptured membranes or signs of labour.
+यदि भ्रूण मस्तक पर है और संलग्न नहीं है, तो झिल्ली फटने या प्रसव के लक्षण दिखाई देने पर तुरंत अस्पताल से संपर्क करने के लिए प्रोत्साहित करें .
 
-**See 'Normal Labour and Birth' module's practical procedures for further information on abdominal examination.**
+**भ्रूण की हृदय गति और पेट की जांच के विवरण के लिए सामान्य प्रसव और जन्म मॉड्यूल प्रैक्टिकल प्रक्रियाओं का संदर्भ लें .**
 
 ---
 
-# Chapter: Measure symphysial-fundal height (SFH) (from 24 weeks)
+# Chapter: फंडल ऊंचाई मापें (24 सप्ताह से)
 
-![Image](f8f610d2de114667adcd6f3bf15a9b66)
+![Image](a209dfbd8b64416ab7f03268f740f844)
 
-- Use both hands to determine the location of the fundus and stabilize it with one hand.
-- Measure the distance in cm between the symphysis pubis and the top of the fundus using a measuring tape.
+- महिला के पैर सीधे रखने चाहिए
+-  मापने वाले टेप का उपयोग करके सिम्फिसिस प्यूबिस की ऊपरी सीमा और फंडस के शीर्ष के बीच की दूरी को सेंटीमीटर में मापें
 
-Normal SFH measurements = pregnancy week (+/- 2cm):
+गर्भकालीन आयु (सप्ताहों में) गर्भधारण के 24 सप्ताह के बाद मूल  फंडल ऊंचाई (सेमी में) से मेल खाती है - 1 से 2 सेमी के विचलन के साथ
 
-- **29cm at 28 weeks:**normal
-- **29 cm at 26 weeks:** too big/large for date/multiple pregnancies?
-- **29 cm at 33 weeks:** too small/small for gestational age/growth restriction/ oligohydramnios?
+- यदि फंडल ऊंचाई गर्भावस्था के सप्ताह से ≥ 3 सेमी है, तो यह एकाधिक गर्भावस्था, बड़े बच्चे या पॉलीहाइड्रेमनिओस हो सकता है
+- यदि गर्भावस्था के सप्ताह की तुलना में फंडल ऊंचाई ≤ 3 सेमी है, तो यह विकास प्रतिबंध, लोंगिट्यूडिनल लाई, ओलिगोहाइड्रामनिओस हो सकता है
 
-You may also use a foetal growth monitoring chart to assess growth:
+पेट को काल्पनिक रेखाओं द्वारा भागों में विभाजित करके और फंडल ऊंचाई का पता लगाकर, गर्भकालीन आयु का भी अनुमान लगाया जा सकता है ।
 
-![Image](515f18ba614a44acbbecded58715aa3e)
+नाभि से गुजरने वाली क्षैतिज रेखा को केंद्र के रूप में रखें और निचले और ऊपरी पेट को दो काल्पनिक समान दूरी वाली रेखाओं के साथ तीन भागों में विभाजित करें
+
+इन काल्पनिक रेखाओं पर फंडस की स्थिति गर्भ के सप्ताह से मेल खाती है, नाभि के स्तर पर 24 सप्ताह से मेल खाती है.
+
+![Image](1820c30f25d94ac18b28c5b6ba006444)
 
 ---

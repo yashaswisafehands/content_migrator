@@ -1,17 +1,16 @@
 ###
 
-### Artesunate
+###
 
-# Indications and Usage
+# इंडिकेशन्स और उपयोग
 
-Treatment of malaria.
+मलेरिया के उपचार में प्रयोग किया जाता है।
 
-Can be used for all types of malaria but is particularly used for plasmodium falciparum.
+गर्भावस्था के सभी ट्राइमेस्टर में गंभीर मलेरिया के लिए फर्स्ट-लाइन दवा है।मलेरिया के सभी प्रकारों के उपचार में उपयोगी।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-At diagnosis, initiate a 7-day regimen:
-Artesunate 2.4mg/kg IV or IM at 0, 12 and 24 hours.
+पहली खुराक के बाद 12 घंटे और 24 घंटे पर दोहराएँ।उसके बाद दिन में एक बार तब तक दें जब तक रोगी 2 मि.ग्रा./किग्रा. की ओरल आर्टीसुनेट ले सके, जिससे 7 दिनों का पूरा कोर्स पूरा हो जाए। उपचार 7 दिनों से अधिक नहीं होना चाहिए।
 
 Thereafter, repeat the dose every 24 hours until oral therapy can be started:
 
@@ -19,18 +18,20 @@ Artesunate 2 mg/kg orally once daily until the 7-day regimen is complete.
 
 Treatment should not exceed 7 days.
 
-# Contraindications
+# कॉन्ट्राइंडिकेशन्स
 
-None. Caution should be taken in cases of severe liver insufficiency.
+कोई विशिष्ट कांट्राइंडिकेशन नहीं है, लेकिन गर्भावस्था के पहले ट्राइमेस्टर में सावधानी बरतें — यदि लाभ जोखिम से अधिक हो, तो उपयोग किया जा सकता है।
 
-# Adverse Reactions
+गंभीर लिवर विकार वाले रोगियों में सावधानी रखें।
 
-Common adverse reactions are gastrointestinal reactions, skin itching and rash, headaches and dizziness.
+# एडवर्स रिएक्शन्स
 
-Haemolytic anaemia requiring blood transfusion is seen in up to 20% of patients treated with intravenous artesunate up to 30 days after the treatment.
+सामान्य दुष्प्रभावों में गैस्ट्रो-इंटेस्टाइनल समस्याएँ, त्वचा में खुजली या रैश, सिरदर्द और चक्कर शामिल हैं।
 
-Therefore, weekly haemoglobin level assessments are recommended up to 4 weeks after treatment.
+हेमोलाइटिक एनीमिया (रक्त कोशिकाओं के टूटने से होने वाला एनीमिया) 20% तक रोगियों में देखा गया है, जिन्हें इंट्रावेनस आर्टीसुनेट दिया गया हो। इस स्थिति में ब्लड ट्रांसफ्यूज़न की आवश्यकता पड़ सकती है।
 
-Allergic reactions are rare.
+इसलिए उपचार के बाद 4 सप्ताह तक प्रत्येक सप्ताह हीमोग्लोबिन स्तर की जाँच की अनुशंसा की जाती है।
+
+एलर्जिक रिएक्शन रेयर हैं।
 
 ---

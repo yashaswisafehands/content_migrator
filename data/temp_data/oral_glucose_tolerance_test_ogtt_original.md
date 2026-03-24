@@ -26,9 +26,13 @@ The Oral Glucose Tolerance Test (OGTT) measures the body’s response to glucose
 - Ask the woman to wait for 2 hours.
 - Evaluate the blood sugar level after 2 hours using a glucometer.
 
+![Image](37ae7b8aae0d40428d46cba5227a7eec)
+
 ## Diagnosis
 
 Blood sugar level of ≥140 mg/dL is taken as the cut off for the diagnosis of GDM.
+
+![Image](79671e2a8e2a40198e968db74d279331)
 
 ## Considerations
 

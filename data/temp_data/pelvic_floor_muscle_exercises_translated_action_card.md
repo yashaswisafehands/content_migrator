@@ -1,9 +1,15 @@
-# Chapter: Pelvic floor muscle exercises
+# Chapter: पेल्विक फ्लोर मसल एक्सरसाइजेस
 
-## Urinary stress incontinence:
+## यूरिनरी स्ट्रेस इन्कॉन्टिनेंस
 
-If the woman is experiencing urinary stress incontinence after childbirth, inform the woman about the benefit of pelvic floor muscle exercises (PFMEs) to strengthen the muscles around the bladder, vagina and anus. It can stop incontinence and improve prolapse.
+यदि किसी महिला को प्रसव के बाद यूरिनरी स्ट्रेस इन्कॉन्टिनेंस की समस्या हो रही है, तो उसे पेल्विक फ्लोर मसल एक्सरसाइज़ (पीएफएमइ) या किगल एक्सरसाइज़  के लाभ के बारे में बताएं। ये व्यायाम ब्लैडर, योनि और गुदा के आसपास की मांसपेशियों को मज़बूत बनाते हैं। इससे यूरिनरी स्ट्रेस इन्कॉन्टिनेंस को रोका जा सकता है और प्रोलैप्स (अंगों के नीचे खिसकने) में सुधार होता है।
 
-Instruct the woman to do PFME while lying down, sitting or standing. Recommend that the woman does 20 squeezes 3 times a day.
+महिला को बताएं कि वह लेटकर, बैठकर या खड़े होकर किगल एक्सरसाइज़ कर सकती है।
+
+पेल्विक फ्लोर की मांसपेशियों को कसें, जैसे गैस या पेशाब रोकने की कोशिश कर रही हों। ध्यान रखें कि पेट, कूल्हों या जांघों की मांसपेशियों को न कसें।
+
+महिला को सलाह दें कि वह दिन में 3 बार, प्रत्येक बार 20 बार कसने का अभ्यास करें।
+
+नियमित दैनिक अभ्यास से समय के साथ अच्छे परिणाम मिलते हैं।
 
 ---

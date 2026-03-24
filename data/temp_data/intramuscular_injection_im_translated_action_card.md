@@ -1,69 +1,88 @@
-# Chapter: Intramuscular injection (IM)
+# Chapter: इंट्रामस्क्युलर इंजेक्शन (आई.एम.)
 
-## Usage
+## उपयोग
 
-Intramuscular injections are used to administer drugs deep into the muscle.
+इंट्रामस्क्युलर इंजेक्शन का उपयोग दवा को मांसपेशियों के अंदर गहराई तक पहुँचाने के लिए किया जाता है।
 
-Equipment for intramuscular injections should be available in the delivery room, and at all health facilities for adults as well as newborns.
+इससे दवा ब्लड स्ट्रीम में तेजी से अब्सॉर्ब हो जाती है।
 
-**Equipment includes:**
+इंट्रामस्क्युलर इंजेक्शन के लिए उपकरण डिलीवरी रूम में ही उपलब्ध होने चाहिए।
 
-- IM medication ampoule.
-- Syringes.
-- Large-bore needle for withdrawing medication from the ampoule.
-- Intramuscular needle.
-- 2 × cotton-wool balls: one soaked in 70 % alcohol for disinfection before injection, and one clean, dry ball for post-injection pressure.
+यह सभी स्वास्थ्य सुविधाओं में एडल्ट्स और नवजात शिशुओं दोनों के लिए उपलब्ध होना चाहिए।
 
-![Image](5b00aab39bc44ec1b690873e65e0e996)
+**उपकरण में शामिल हैं:**
+
+- आईएम मेडिकेशन ऐम्प्यूल/वायल
+- स्टेराइल सिरिंज और सुई (सिंगल यूज़)
+- दवा निकालने के लिए बड़ी सुई (लार्ज-बोर नीडल)
+- कॉटन बॉल्स/अल्कोहल स्वैब्स
+
+![Image](461a7b285c9d4b81a4aae62f14789820)
 
 ---
 
-# Chapter: Intramuscular injections
+# Chapter: इंट्रामस्क्युलर इंजेक्शन
 
-## Practical information
+## प्रैक्टिकल जानकारी
 
-**Adults:**
-The needle gauge recommended for intramuscular injection is 22–25-gauge needle (25-38mm).
+**एडल्ट:**
+इंट्रामस्क्युलर इंजेक्शन के लिए रिकमेंडेड नीडल 22–25 गेज़ (25–38 मिमी) है।
 
-Intramuscular injections should be administered at a 90-degree angle to the skin, preferably into the vastus lateralis muscle in the anterolateral thigh.
+इंट्रामस्क्युलर इंजेक्शन त्वचा के साथ 90-डिग्री एंगल पर  दिया जाता है।
 
-**How to:**
+इंट्रामस्क्युलर इंजेक्शन अक्सर निम्नलिखित क्षेत्रों में दिए जाते हैं:
 
-1. Inform the patient about the intervention.
-2. If surrounding skin is soiled, clean with soap and water or aseptic swab. 
-3. Check the correct drug, dose, and patient. 
-4. Draw the medication up into the syringe using a large bore needle.  
-5. Change to the 22–25-gauge needle, ensuring the correct length for an adult patient (25-38mm). 
-6. Provide pressure on skin around injection site with thumb and index finger. 
-7. Insert needle with a quick thrust. 
-8. Slowly inject the medication for even distribution and to minimize discomfort.
-9. Remove the needle. 
-10. If blood is seen, apply light pressure with cotton wool ball.
-11. Dispose the needle and syringe safely according to health facility requirements.
+1. डेल्टॉइड मांसपेशी
 
-![Image](e9538ae4a4c7410c981a91a114d2b061)
+2. जाँघ की वास्टस लेटरालिस मांसपेशी
 
-**Newborns:**
-The needle gauge recommended for intramuscular injection for newborns is 22-25-gauge needle (16-25 mm).
+3. कूल्हे की वेंट्रोग्लूटियल मांसपेशी
 
-Intramuscular injections should be administered at a 90-degree angle to the skin into the vastus lateralis muscle in the anterolateral thigh.
+4. नितंबों की डोर्सोग्लूटियल मांसपेशियां
 
-For K-vitamin and vaccines, a 1 mL or 3mL syringe is used to administer the medication.
+**प्रक्रिया:**
 
-**How to:**
+1. प्रक्रिया के बारे में क्लाइंट को समझाएँ।
+2. अपने हाथ धोएं।
+3. यदि आसपास की त्वचा गंदी हो, तो साबुन और पानी या अल्कोहल स्वैब से साफ करें।
+4. सही दवा, डोज और क्लाइंट की जाँच करें।
+5. दवा को लार्ज-बोर नीडल का उपयोग करके सिरिंज में खींचें।
+6. फिर सुई को 22–25 गेज़ की सुई से बदलें, और सुनिश्चित करें कि एडल्ट क्लाइंट के लिए सही लंबाई (25–38 मिमी) हो।
+7. यदि कोई एयर बबल्स हों तो उन्हें हटा दें।
+8. इंजेक्शन साइट के चारों ओर त्वचा पर अंगूठे और तर्जनी से दबाव डालें।
+9. सुई को लोकेटेड स्थान पर 90 डिग्री एंगल पर डालें और दवा पुश करने से पहले प्लंजर को पीछे खींचें, ताकि सही स्थान की पुष्टि हो और दवा सीधे ब्लड वेसल्स में न जाए।
+10. दवा को समान रूप से वितरित करने और असुविधा को कम करने के लिए प्लंजर को धीरे-धीरे दबाएँ।
+11. सुई निकालें और इंजेक्शन साइट पर कॉटन बॉल से दबाव डालें।
+12. सुई और सिरिंज को बायो-मेडिकल वेस्ट प्रबंधन प्रोटोकॉल के अनुसार उपयुक्त बिन में फेंकें।
+13. इंजेक्शन साइट पर रक्तस्राव, दर्द या संक्रमण के लक्षणों के लिए निगरानी करें।
+14. दवा देने की तारीख,डोज, रूट और समय को क्लाइंट की केस शीट में दर्ज करें।
 
-1. Inform the parents about the intervention. 
-2. If surrounding skin is soiled, clean with soap and water or aseptic swab.
-3. Check the correct drug, dose, and patient. 
-4. Draw the medication up into the syringe using a large bore needle.  
-5. Change to the 22-25-gauge needle, ensuring the correct length for a newborn patient (16-25mm). 
-6. Secure the thigh gently. 
-7. Insert needle with a quick thrust.
-8. Slowly inject the medication for even distribution and to minimize discomfort. 
-9. Remove the needle. 
-10. If blood is seen, apply light pressure with cotton wool ball.
-11. Dispose the needle and syringe safely according to health facility requirements.
+![Image](57e8571c6eac4e029448b3c4039411aa)
 
-If administering more than one IM injection, give one injection into each thigh.
+**नवजात शिशु:**
+नवजात शिशुओं में इंट्रामस्क्युलर इंजेक्शन के लिए रिकमेंडेड नीडल 22–25 गेज़ (16–25 मिमी) है।
+
+इंट्रामस्क्युलर इंजेक्शन को त्वचा के साथ 90-डिग्री एंगल पर जाँघ की एंटेरोलैटरल हिस्से में वास्टस लेटरालिस मांसपेशी में दिया जाता हैं।
+
+विटामिन K1और टीकों के लिए 1 मि.ली. या 0.5 मि.ली. सिरिंज का उपयोग किया जाता है।
+
+**प्रक्रिया:**
+
+1. पेरेंट्स को प्रक्रिया के बारे में सूचित करें।
+2. अपने हाथ धोएं।
+3. यदि आसपास की त्वचा गंदी हो, तो साबुन और पानी या अल्कोहल स्वैब से साफ करें।
+4. सही दवा, डोज और नवजात शिशु की जाँच करें।
+5. दवा को लार्ज-बोर नीडल का उपयोग करके सिरिंज में खींचें।
+6. फिर सुई को 22–25 गेज़ की सुई से बदलें, और सुनिश्चित करें कि नवजात शिशु के लिए सही लंबाई (16–25 मिमी) हो।
+7. यदि कोई एयर बबल्स हों तो उन्हें हटा दें।
+8. शिशु की जाँघ को हल्के हाथ से स्थिर करें।
+9. सुई को लोकेटेड स्थान पर 90 डिग्री एंगल पर डालें और दवा पुश करने से पहले प्लंजर को पीछे खींचें, ताकि सही स्थान की पुष्टि हो और दवा सीधे ब्लड वेसल्स में न जाए।
+10. दवा को समान रूप से वितरित करने और असुविधा को कम करने के लिए प्लंजर को धीरे-धीरे दबाएँ।
+11. सुई को निकालें।
+12. यदि ब्लड दिखाई दे, तो कॉटन बॉल से हल्का दबाव दें।
+13. सुई और सिरिंज को स्वास्थ्य केंद्र के निर्धारित नियमों के अनुसार सुरक्षित रूप से डिस्पोज़ करें।
+14. दवा देने की तारीख, डोज , रूट और समय को क्लाइंट की केस शीट / एम.सी.पी.  कार्ड में दर्ज करें।
+
+यदि नवजात शिशु को  एक से अधिक इंट्रामस्क्युलर इंजेक्शन देने हों, तो प्रत्येक जाँघ में एक-एक इंजेक्शन लगाएँ।
 
 ---

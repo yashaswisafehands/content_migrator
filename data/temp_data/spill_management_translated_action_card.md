@@ -1,23 +1,23 @@
-# Chapter: Spill management
+# Chapter: स्पिल मैनेजमेंट
 
-### Usage
+### उपयोग
 
-Hospital/community/primary health centre spills of hazardous substances, including blood, body fluids, drugs, and chemicals, pose significant health risks to staff, patients, and visitors due to potential exposure to infections.
+अस्पताल/कम्युनिटी/प्राथमिक स्वास्थ्य केन्द्र में खतरनाक पदार्थों के फैलाव जैसे ब्लड, शारीरिक फ्लुइड्स , दवाएँ तथा रासायनिक पदार्थों  से स्वास्थ्यकर्मियों, मरीजों और विजिटरस के लिए संक्रमण का गंभीर खतरा उत्पन्न होता है।
 
-### Practical information
+### प्रैक्टिकल  जानकारी
 
-Spill management of blood and body fluids should be managed immediately to reduce the risk of infection in following steps:
+ब्लड और शारीरिक फ्लुइड्स  के स्पिल का प्रबंधन तुरंत किया जाना चाहिए ताकि संक्रमण के जोखिम को कम किया जा सके। इसे निम्नलिखित चरणों में किया जाता है।
 
-1. Confine the contaminated area.
-2. Wear utility gloves and other appropriate PPE.
-3. **For sharps:** use forceps to pick them up and discard in a puncture-proof container.
-4. Cover the spill with newspaper or appropriate absorbent material to prevent from spreading.
-5. Clean spills using 1% hypochlorite for small drops and 10% for large (>10 ml), leave 5 min.
-6. Remove and discard the paper as infected waste.
-7. Collect the soiled materials and paper with a plastic scoop and put it in a yellow bio-hazardous bag for disposal. 
-8. Repeat until all visible soiling is removed.
-9. Wet mop the area using 1% hypochlorite solution for small spills and 10% hypochlorite solution for large spills, and then allow it to dry naturally.
+1. संक्रमित क्षेत्र को सीमित करें।
+2. यूटिलिटी ग्लव्स और अन्य उपयुक्त पीपीई पहनें।
+3. यदि स्पिल में सुई या ब्लेड जैसे शार्प्स  हों, तो फोरसेप की सहायता से सावधानीपूर्वक उठाएँ और पंक्चर प्रूफ कंटेनर में डालें।
+4. स्पिल को फैलने से रोकने के लिए उस पर अख़बार  या कोई उपयुक्त सोखने वाली सामग्री रखें।
+5. छोटे स्पिल यानि कुछ ब्लड या फ्लुइड्स ड्रॉप्स के लिए 1% हाइपोक्लोराइट सॉल्यूशन का प्रयोग करें और बड़े स्पिल (10 मिलीलीटर से अधिक स्पील एरिया) के लिए 10% हाइपोक्लोराइट सॉल्यूशन का प्रयोग करें, इसे लगभग 5 मिनट तक छोड़ दें।
+6. प्रयोग किया गया कागज़ या सामग्री संक्रमित कचरे के रूप में दिस्कार्ड कर दें।
+7. सारे संक्रमित पदार्थ और कागज़ को प्लास्टिक के स्कूप से एकत्र करें और पीले रंग के बायोहैज़र्डबैग में डालकर डिस्पोस करें।
+8. यह प्रक्रिया तब तक दोहराएँ जब तक क्षेत्र पूरी तरह साफ़ न हो जाए।
+9. छोटे स्पिल के लिए 1% हाइपोक्लोराइट सॉल्यूशन से और  बड़े स्पिल के लिए 10% हाइपोक्लोराइट सॉल्यूशन का उपयोग करके क्षेत्र को गीले मोप से साफ़ करें, और फिर इसे प्राकृतिक रूप से सूखने दें।
 
-![Image](cf5cb82e629d44678301e4d220744632)
+![Image](6c7ed7a166ea4a85af5e0d92c5f32fb7)
 
 ---

@@ -1,56 +1,54 @@
-# Chapter: Initial assessment
+# Chapter: प्रारंभिक आकलन
 
-When a labouring woman arrives at your health facility, perform a quick initial assessment of the woman and the fetus. 
+जब  महिला लेबर में आपके  स्वास्थ्य केंद्र में  देखभाल के लिए आती है तो आपको महिला और फीटस दोनों का शीघ्र प्रारंभिक आकलन करना चाहिए।
 
-See separate Practical Procedures for guidance on abdominal and vaginal examinations and foetal heart rate assessment.
+## खतरे के संकेतों की जांच करें
 
-## Examine for danger signs
+निम्न संकेतों के लिए जाँच करें, जैसे:
 
-Examine for danger signs such as:
+- गंभीर सिरदर्द / धुंधली दृष्टि 
+- बुखार 
+- रक्तस्राव
+- गंभीर पेट दर्द
+- समय से पहले झिल्लियों का फटना
 
-- Severe headache/blurred vision
-- Fever 
-- Bleeding 
-- Severe abdominal pain 
-- Premature rupture of membranes
+![Image](432f5abaf7404f55adf941113a4beab9)
 
-![Image](10a602e6c3fc45ca9c3a77397bc57804)
+## वाइटल साइन  की जाँच करें
 
-## Check vital signs
+जांचें कि वाइटल साइन सामान्य सीमा के भीतर हैं:
 
-Check that vital signs are within normal range:
+- तापमान : ≤ 38° सेल्सियस 
+- मैटरनल पल्स : 60–110 बीट/मिनट
+- सिस्टोलिक बीपी: 90–139 एमएमएचजी
+- डायस्टोलिक बीपी: 60–89 एमएमएचजी
 
-- Temperature: ≤ 38 °C 
-- Maternal pulse: 60-110 bpm 
-- Systolic BP: 90-139 mmHg 
-- Diastolic BP: 60-89 mmHg
+![Image](4761a435e799421189898f10787543e7)
 
-![Image](4c743bf1b54745669b5c23466d942f9b)
+## एनीमिया और  डीहाइड्रेशन के लक्षण देखें:
 
-## Look for signs of anaemia and dehydration:
+**एनीमिया:**
 
-**Anaemia:**
+- कंजंक्टाइवा/पलकों और हथेलियों के अंदर पीलापन देखें।
 
-- Paleness inside the conjunctiva/eyelids and palms
+![Image](3bfb35e8d79843359ec099a1f01743b0)
 
-![Image](f4fceca0e7044948ace3d1fd0e358a22)
+**डीहाइड्रेशन:**
 
-**Dehydration:**
+- आँखों को देखे क्या वह धँसी हुई है?  मुँह को देखे , क्या वह सुखा है ?
+- बांह की त्वचा को चुटकी में उठाएँ और देखें कि त्वचा जल्दी सामान्य स्थिति में लौटती है या नहीं ?
 
-- Sunken eyes and dry mouth 
-- Pinch the skin on her forearm to see if it goes back quickly
+![Image](696eb84e0b094b7bb7d366b8a3d6bb17)
 
-![Image](c4c8b8341b6740d78b382ed0fc6a9e75)
+## मेडिकल रिकॉर्ड की समीक्षा करें
 
-## Review medical records
+हीमोग्लोबिन ,एचआईवी, सिफ़लिस, हेपेटाइटिस-बी की स्थिति, यौन संचारित संक्रमण (एसटीआई ), टीबी, जीडीएम, टीएसएच और अन्य स्थितियों का मूल्यांकन करें, जिनके लिए प्रसव और जन्म के दौरान विशेष ध्यान देने की आवश्यकता होती है।
 
-Check for conditions, which require special conditions during labour and birth, including HIV, Hepatitis B, sexually transmitted infections, tuberculosis, gestational diabetes, FGM, and other.
+## पूरी  हिस्ट्री  लें
 
-## Take a complete history
+- महिला से उसकी  मेडिकल हिस्ट्री  के बारे में पूछें
+- पिछली और वर्तमान प्रेगनेंसी के बारे में जानकारी लें
 
-- Ask about her medical history 
-- Ask about past and current pregnancies
-
-![Image](8707eb31c24246de8d3022d695c1e60d)
+![Image](91d6655242c540a59d9d10e6a3e39689)
 
 ---

@@ -8,7 +8,7 @@ Keep instruments in 0.5% hypochlorite solution for at least 10 minutes for decon
 
 Used it to clean and disinfect surfaces, instruments, and equipment.
 
-![Image](37393157d28042929277e3cd6a37b785)
+![Image](8c3112e096db45ef9f3f38934be7a87a)
 
 ---
 
@@ -26,6 +26,6 @@ Preparing 0.5 % hypochlorite solution from 5% stock hypochlorite solution:
 
 ## Quick reference-
 
-![Image](a481cf5ddf4b49b5bf5552044427927b)
+![Image](fc5f441a81404c84bf7d802ebc47c344)
 
 ---

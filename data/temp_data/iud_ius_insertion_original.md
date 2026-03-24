@@ -26,7 +26,7 @@ A consent form should be signed by the woman.
 - Bowl with antiseptic solution
 - IUD/IUS pack
 
-![Image](d3427a589d404f4e94cc433cd46ec9c3)
+![Image](464c0aa587864dca8099301f2d4a1066)
 
 ## Non-sterile equipment
 
@@ -34,47 +34,26 @@ A consent form should be signed by the woman.
 
 ## Insertion procedure
 
-An IUD/IUS can be inserted within 48 hours following birth (including caesarean section) or after4 weeks postpartum. It can also be inserted immediately after a surgical abortion, and after passage of products of conception following medical abortion has been confirmed.
-
-1. Check for any delivery related contraindications for IUD/IUS (e.g., prolonged rupture of membranes (>18 hours), continuing postpartum haemorrhage, and corioamnionitis.
-
-2. The IUD/IUS is inserted after removal of placenta. 
-
-3. Standard options for analgesia in labour and delivery can be used for the IUD insertion.
-
-4. Clean the perineal área.
-
-5. Palpate abdomen to assess the uterine height.
-
-6. Using a speculum, expose and visualise the anterior cervix.
-
-7. Clean the cervix and vagina with antiseptic solution.
-
-8. Gently grasp the anterior cervix with a ring forceps, do not lock it.
-
-9. Open the sterile package of IUD from bottom by pulling back plastic cover approximately 1/3 upwards and remove the plunger and insertion rod.
-
-10. Grasp the IUD/IUS with the long Kelly forceps at the T junction as so that the stem and the stings are parallel with the forceps – do not lock the forceps as this may damage the IUD/IUS.
-
-11. Some brands of IUD/IUS have applicators that are long enough to use in the immediate postnatal period, so forceps may not always be needed for insertion.
-
-12. Gently lift the anterior lip of cervix using ring forceps and apply gentle traction to steady the cervix.
-
-13. Insert the PPIUD insertion forceps holding IUD into lower uterine cavity up to the point of feeling slight resistance against back wall of the uterus.
-
+1. An IUD/IUS can be inserted within 48 hours following birth (including caesarean section)or after4 weeks postpartum. It can also be inserted immediately after a surgical abortion, and after passage of products of conception following medical abortion has been confirmed. 
+2. Check for any delivery related contraindications for IUD/IUS (e.g., prolonged rupture of membranes (>18 hours), continuing postpartum haemorrhage, and chorioamnionitis).
+3. The IUD/IUS is inserted after removal of placenta.
+4. Standard options for analgesia in labour and delivery can be used for the IUD insertion.
+5. Clean the perineal area.
+6. Palpate abdomen to assess the uterine height.
+7. Using a speculum, expose and visualise the anterior cervix.
+8. Clean the cervix and vagina with antiseptic solution.  
+9. Gently grasp the anterior cervix with a ring forceps, do not lock it.  
+10. Open the sterile package of IUD from bottom by pulling back plastic cover approximately 1/3 upwards and remove the plunger and insertion rod.
+11. Grasp the IUD/IUS with the long kelly forceps at the T junction as so that the stem and the stings are parallel with the forceps – do not lock the forceps as this may damage the IUD/IUS. Some brands of IUD/IUS have applicators that are long enough to use in the immediate postnatal period, so forceps may not always be needed for insertion. 
+12. Gently lift the anterior lip of cervix using ring forceps and apply gentle traction to steady the cervix. 
+13. Insert the PPIUD insertion forceps holding IUD into lower uterine cavity up to the point of feeling slight resistance against back wall of the uterus. 
 14. Gently remove ring forceps from the cervix and leave it on the sterile tray or drape area.
-
-15. Move the other hand to the lower part of abdomen and gently push the uterus upward in the abdomen to reduce the angle and curvature between the uterus and vagina.
-
-16. Advance the IUD/IUS to the uterine fundus. 
-
+15. Move the other hand to the lower part of abdomen and gently push the uterus upward in the abdomen to reduce the angle and curvature between the uterus and vagina.  
+16. Advance the IUD/IUS to the uterine fundus.
 17. Confirm fundal placement with both abdominal hand and the inserting hand.
-
-18. Release the IUD/IUS from the forceps, opening them as wide as possible and tilting it. 
-
-19. Withdraw the forceps along the right wall of the uterus keeping it open not to pull out the device.
-
-20.  Strings may or may not be visible at the cervical OS.
+18. Release the IUD/IUS from the forceps, opening them as wide as possible and tilting it.
+19. Withdraw the forceps along the right wall of the uterus keeping it open not to pull out the device. 
+20. Strings may or may not be visible at the cervical OS.
 
 ---
 
@@ -92,7 +71,7 @@ An IUD/IUS can be inserted within 48 hours following birth (including caesarean 
 - Bowl with cotton balls
 - IUD/IUS pack (including the device and inserter)
 
-![Image](16409022a996447896b94f79a3b98563)
+![Image](56fbd37238904e0ebdaa1b6dcfd34a98)
 
 ## Non-sterile equipment
 
@@ -117,9 +96,9 @@ An IUD/IUS can be inserted within 48 hours following birth (including caesarean 
 14. Withdraw the insertion tube to leave the IUD/IUS in the uterine cavity.
 15. Cut strings on the IUD/IUS, leaving about 3 cm hanging out of the cervix.
 
-![Image](a533c111b9314344b6f47f56157a5bcf)
+![Image](00c8ee9d11c5448c831a15478a4973b4)
 
-![Image](f08c99a7816e44d79d730ac6244dda7a)
+![Image](4d1c2624e9cc4d14ae77ea3fe5c89440)
 
 ---
 
@@ -127,11 +106,11 @@ An IUD/IUS can be inserted within 48 hours following birth (including caesarean 
 
 Ask the woman if she is satisfied with the method and if she has questions. Ask her if she has:
 
-- Bleeding changes.
-- Pain during sex/urination.
-- Unusual vaginal discharge.
-- Fever.
-- Signs/symptoms of pregnancy.
+- Bleeding changes
+- Pain during sex/urination
+- Unusual vaginal discharge
+- Fever
+- Signs/symptoms of pregnancy
 - Routine pelvic examination is not required at the follow up.
 
 Only conduct a pelvic examination if the woman describes signs of  infection or signs that the IUD has partially or completely come out.
@@ -142,7 +121,7 @@ Only conduct a pelvic examination if the woman describes signs of  infection or 
 
 ## IUD/IUS insertion
 
-During IUD/IUS insertion, a non-touch technique means not letting the loaded inserter or uterine sound touch any unsterile surface (hands, speculum, vagina, tabletop, etc.).
+During IUD/IUS insertion, a non-touch technique means not letting the loaded inserter or uterine sound touch any unsterile surface (hands, speculum, vagina, tabletop, etc.)
 
 - Non-touch technique involves:
 - Loading the IUD/IUS into the inserter while the device is still in the sterile package, to avoid direct contact. 
@@ -150,6 +129,6 @@ During IUD/IUS insertion, a non-touch technique means not letting the loaded ins
 - Being careful not to touch the vaginal wall or speculum blades with the uterine sound or loaded inserter.
 - Passing the uterine sound and loaded inserter only once each through the cervical canal.
 
-![Image](1e30dca4c9ea48268893eefed2230b45)
+![Image](1ec9377925fe42cbab4dcf3f1acd82eb)
 
 ---

@@ -1,30 +1,34 @@
-# Chapter: IUD/IUS removal
+# Chapter: आईयूसीडी निकलना
 
-The IUD/IUS is removed if its effectiveness expires or the woman requests its removal. It can be done any time in her menstrual cycle. The procedure is the same for all IUD/IUS types. 
+जब भी महिला आईयूसीडी निकलवाना चाहे, तो उसे तुरंत निकाल दें। इसमें मना ना करें और देरी भी ना करें। आईयूसीडी माहवारी के किसी भी समय निकाला जा सकता है। सभी प्रकार के आईयूसीडी निकालने की प्रक्रिया एक जैसी होती है।
 
-The woman’s fertility will return with no delay following removal.
+हटाने के बाद महिला की प्रजनन क्षमता बिना किसी देरी के वापस आ जाएगी।
 
-## Equipment
+## उपकरण और सामग्री:
 
-- Sterile surface 
-- Speculum
-- Sterile gloves
-- Straight forceps 
-- Bowl with cotton balls
-- Antiseptic solution  
-- Cotton tip swab
+- स्टेराइल ट्रे
+- सिम्स या कसकोस स्पेकुलम
+- स्पॉन्ज होल्डिंग या रिंग फोर्सेप्स
+- वल्सेलम
+- स्ट्रेट आर्टरी फोर्सेप्स
+- स्टेराइल दस्ताने 
+- कॉटन बॉल्स वाला बाउल 
+- एंटीसेप्टिक सलूशन
+- रौशनी का सोर्स
 
-## Procedure
+## प्रक्रिया
 
-1. Provide privacy.
-2. Inform the woman that she may experience cramps for a short while as it comes out.
-3. Assist her to lie flat on their back, in a clean environment. 
-4. Insert the speculum gently into the vagina to visualise the cervix and IUD/IUS strings (If the strings are not located, gently probe the cervical canal with cotton tip swap. If they cannot be found curled up in the canal, perform a pregnancy test and refer to a higher facility for further management).
-5. Carefully clean the cervix and vagina with antiseptic. 
-6. Ask the woman to take slow, deep breaths and relax. 
-7. Grasp the strings with ring forceps at the cervical os under direct vision. 
-8. Gently but steadily pull the strings until the IUD comes completely out of the cervix.
-9. Another IUD/IUS can be inserted immediately following removal if desired by the woman.
-10. (If significant resistance is felt during removal, stop the procedure and refer the woman to a higher facility for further management).
+1. यह सुनिश्चित करें कि महिला को काउसिलिंग दिया गया है, प्रक्रिया को समझाया गया है और उससे इन्फोर्मेड कंसेंट प्राप्त कर ली गई है। 
+2. महिला को बताएं कि जब आईयूसीडी बाहर आएगा तो उसे कुछ समय के लिए ऐंठन का अनुभव हो सकता है 
+3. महिला को पेशाब करके आने को कहें और पेरिनियल को धोने के लिए कहें और एकांत एवं स्वच्छ जगह में पीठ के बल लेटाएं।
+4. स्पेकुलम को धीरे से योनि में डालें ताकि सर्विक्स और आईयूसीडी स्ट्रिंग्स दिखाई दें।**(यदि स्ट्रिंग दिखाई ना दें, तो पहले प्रेग्नेंसी जांच करें। फिर स्टेराइल लॉन्ग आर्टरी फोर्सेप से सर्वाइकल कैनाल में धीरे-धीरे जांच कर स्ट्रिंग्स को पकड़ें और बाहर निकालें। यदि स्ट्रिंग नहीं मिलती हैं तो महिला को विशेषज्ञ के पास रेफर करें और आईयूसीडी की स्थिति, गलत पोजीशन या एक्सपल्शन जांचने के लिए अल्ट्रासाउंड या एक्स-रे करवाने की सलाह दें।)**
+5. सर्विक्स और योनि को एंटीसेप्टिक से सावधानीपूर्वक साफ करें।
+6. महिला से कहें कि वह गहरी और धीमी सांस ले और आराम करें। 
+7. वल्सेलम से सर्विक्स के एंटीरियर लिप को पकड़ें। 
+8. सर्वाइकल ओस पर आईयूसीडी की स्ट्रिंग्स को स्ट्रेट आर्टरी फोर्सेप्स से पकड़ें। 
+9. धीरे-धीरे से लेकिन स्थिरता से खींचें जब तक कि आईयूसीडी पूरी तरह से सर्विक्स से बाहर ना जाए।
+10. निकाली गई आईयूसीडी को महिला को दिखाएं।यदि महिला ने नया आईयूसीडी डलवाने का विकल्प चुना है, तो उसकी प्रकिया शुरू करें।
+11. वल्सेलम को धीरे से हटाएं और रक्तस्राव की जांच करें।
+12. रिकॉर्ड अपडेट करें और आईयूसीडी कार्ड भरें।
 
 ---

@@ -1,68 +1,65 @@
-# Chapter: Indications and Usage
+# Chapter: इंडिकेशन्स और उपयोग
 
 Phenobarbital is in a group of drugs called barbiturates.
 
 Phenobarbital slows the activity of the brain and nervous system.
 
-Phenobarbital is used to treat or prevent seizures.
+फ़ीनोबार्बिटोन का उपयोग दौरे को रोकने या नियंत्रित करने के लिए किया जाता है।
 
-Observe closely for apnoea and always have a bag-mask available to ventilate the child if necessary.
+अप्निया के लक्षणों को ध्यान से देखें और ज़रूरत पड़ने पर वेंटिलेशन के लिए बैग- मास्क उपलब्ध रखें।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-## Newborns:
+## बच्चों के लिए:
 
-For seizures:
+**लोडिंग डोज़:**
 
-**Loading dose:**
-Phenobarbital 20 mg/kg IV over 15 minutes (or as a single dose IM if IV access is not established).
+20 मिलीग्राम/ किलोग्राम , इंट्रावेनस या इंट्रामस्क्युलर
 
-If convulsions do not stop within 30 minutes: 
-Phenobarbital 10 mg/kg IV slow over 5 minutes (or IM).
+**अतिरिक्त डोज़:**
 
-Repeat if necessary after another 30 minutes.
+10 मिलीग्राम/ किलोग्राम और अधिकतम 40 मिलीग्राम/ किलोग्राम तक दोहराया जा सकता है।
 
-Maximum dose: phenobarbital 40 mg/kg body weight.
+**मेंटेनेंस डोज़:**
 
-Maintenance dose (if needed): 
-Phenobarbital 5 mg/kg IV/IM orally daily.
+5  मिलीग्राम/ किलोग्राम/दिन
 
-**CAUTION:**
+**सावधानी:**
 
-Diazepam given in addition to phenobarbital will increase the risk of circulatory collapse and respiratory failure.
+फ़ीनोबार्बिटोन के साथ डायाज़िपाम देने से सर्कुलेट्री कोलेप्स और रेस्पिरेटोरी फेलियर का खतरा बढ़ जाता है।
 
-# Contraindications
+# कॉन्ट्राइंडिकेशन्स
 
-Hypersensitivity to barbiturates, in patients with a history of manifest or latent porphyria, and in patients with marked impairment of liver function or respiratory disease in which dyspnoea or obstruction is evident.
+फ़ीनोबार्बिटोन उन मरीजों में कॉन्ट्रा-इंडिकेटेड है जिनमें बार्बिट्यूरेट्स से हाइपरसेंसिटिविटी हो, मैनिफेस्ट या लैटेंट पॉरफीरिया का इतिहास हो, या लिवर फंक्शन में गंभीर कमी हो। यह उन मरीजों में भी कॉन्ट्रा-इंडिकेटेड है जिनमें रेस्पिरेटरी डिज़ीज़ के साँस की तकलीफ़ हो या ऑब्स्ट्रक्शन दिखाई दे।
 
-# Adverse reactions
+# एडवर्स रिएक्शन्स
 
-**Common**:
+सामान्य एडवर्स रिएक्शन्स:
 
-1 to 3 patients in 100 will have disorders of the nervous system such as drowsiness or sleepiness.
+नर्वस सिस्टम से जुड़ी परेशानियाँ शामिल हैं, जैसे ड्रॉज़िनेस या स्लीपिनेस।
 
-**Less common:**
+असामान्य एडवर्स रिएक्शन्स:
 
-Adverse reactions estimated to occur at a rate of less than 1 in 100 patients are listed below, grouped by organ system and by decreasing order of occurrence:
+ये साइड इफेक्ट बहुत कम मरीजों में (100 में 1 से भी कम) देखे जाते हैं। इन्हें नीचे शरीर के अलग-अलग हिस्सों के अनुसार बताया गया है।
 
-**Nervous System:**
+नर्वस सिस्टम:
 
-Agitation, confusion, hyperkinesia, ataxia, CNS depression, nightmares, nervousness, psychiatric disturbance, hallucinations, insomnia, anxiety, dizziness, abnormality in thinking.
+बेचैनी, उलझन, ज़्यादा हरकत करना, चलने या संतुलन में दिक्कत, नींद या सुस्ती महसूस होना, डरावने सपने, घबराहट, मानसिक भ्रम, चीज़ें दिखाई देना जो असल में नहीं हैं, नींद न आना, चिंता, चक्कर आना, सोचने में कठिनाई।
 
-**Respiratory System:**
+रेस्पिरेटरी सिस्टम:
 
-Hypoventilation, apnoea.
+हाईपोवेन्टिलेशन, एप्निआ।
 
-**Cardiovascular System:**
+काॅर्डियोवेस्कुलर सिस्टम:
 
-Bradycardia, hypotension, syncope.
+बेर्डीकार्डीया, हाईपोटेन्शन, बेहोशी (सिन्कोप)।
 
-**Digestive System:**
+डाईजेस्टिव सिस्टम:
 
-Nausea, vomiting, constipation.
+नौजिया, उल्टी और कब्ज।
 
-**Other reported reactions:**
+अन्य सूचित प्रतिक्रियाएँ:
 
-Headaches, injection site reactions, hypersensitivity reactions (angioedema, skin rashes, exfoliative dermatitis), fever, liver damage, megaloblastic anaemia following chronic Phenobarbital use.
+सिरदर्द, इंजेक्शन की जगह पर दर्द या सूजन, एलर्जी (सूजन, त्वचा पर दाने या छिलना), बुखार, लिवर को नुकसान, और लंबे समय तक दवा लेने पर खून की कमी।
 
 ---

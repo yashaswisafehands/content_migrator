@@ -8,7 +8,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility:**Fertility generally cannot be reversed.** Reversal surgery is difficult, expensive, and not available in most areas.
 
-![Image](b2c698df29324219bfac0283b4593862)
+![Image](16c55fd4f46f483fb7fcb0be814fed8d)
 
 ## Most common surgical approaches
 
@@ -47,7 +47,7 @@ This involves inserting a long, thin tube containing lenses into the abdomen thr
 ## Surgery complications
 
 - Infection or abscess of the wound (uncommon).
-- Death, due to the procedure or anaesthesia (extremely rare).
+- Death, due to the procedure or anaesthesia (extremely rare)
 - Appropriate techniques, skills and setting minimise the risk of complications.
 
 ---
@@ -64,7 +64,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility: **Fertility generally cannot be reversed.** Reversal surgery is difficult, expensive, and not available in most areas. When performed, reversal surgery often does not lead to pregnancy.
 
-![Image](5e50c37acecb4d11a62244edf07bb362)
+![Image](e9233936036848b191f5c3375282e4da)
 
 ## Procedure
 

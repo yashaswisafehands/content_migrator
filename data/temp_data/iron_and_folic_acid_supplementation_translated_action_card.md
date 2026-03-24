@@ -1,24 +1,22 @@
-## Indications and Usage
+## संकेत और उपयोग
 
-Reduces the risk of low birth weight, puerperal sepsis, maternal anaemia, iron deficiency, and neural tube defects.
+कम जन्म वजन, प्रसव के बाद संक्रमण (प्यूपेरियल सेप्सिस), मातृ एनीमिया, आयरन की कमी और न्यूरल ट्यूब डिफेक्ट के जोखिम को कम करता है।
 
-All pregnant adolescents and adult women are recommended to take iron and folic acid supplements. Folic acid should be commenced as early as possible (ideally before conception) to prevent neural tube defects.
+सभी गर्भवती और प्रसवोत्तर महिलाओं के लिए रिकमेंडेड।
 
-## Dosage
+## डोज़ और देने की विधि
 
-**Routine antenatal supplementation:**
-1 x 30-60 mg elemental iron + 1 x 0.4 mg folic acid (orally) / day.
+**नियमित प्रसवपूर्व और प्रसव पश्चात सप्लीमेंटेशन:**
 
-**Poor toleration of daily iron and settings with antenatal anaemia prevalence of < 20%:**
-1 x 120mg elemental iron + 1 x 2.8 mg folic acid (orally) / week
+गर्भावस्था के 12 सप्ताह के बाद से प्रसवोत्तर 6 महीने तक प्रतिदिन 1 टैबलेट IFA (60 मि.ग्रा. आयरन और 500 माइक्रोग्राम फोलिक एसिड) ओरल रूप से लें।
 
-**Settings with antenatal anaemia prevalence of ≥ 40%:**<color style="blue"> </color>
-1 x 60 mg elemental iron + 1 x 0.4 mg folic acid (orally) / day
+**हल्के और मध्यम आयरन की कमी वाले एनीमिया का उपचार:**
 
-**Diagnosed antenatal anaemia (<110g/L):**<color style="blue"> </color>
-1 x 120 mg elemental iron + 1 x 0.4 folic acid (orally) / day until haemoglobin returns to normal (Hb 110 g/L or higher), then resume the standard antenatal dose.
+दो टैबलेट आईएफए (जिसमें 60 मि.ग्रा. एलेमेंटल आयरन और 500 माइक्रोग्राम फोलिक एसिड शामिल है) प्रतिदिन ओरल लेनी है।
 
-## Contraindications
+यदि हीमोग्लोबिन स्तर सामान्य हो गया है, तो प्रोफिलैक्टिक आईएफए खुराक जारी रखें।
+
+## कॉन्ट्राइंडिकेशन्स :
 
 **Folic acid:**
 
@@ -26,18 +24,13 @@ Doses above 0.4mg daily should not be given without concomitant administration o
 
 **Iron:**
 
-- Hypersensitivity
-- Iron metabolism disorders causing increased iron storage
-- Overload of iron in the blood
-- Haemolytic anaemia
-- Stomach ulcers and gastritis
+- हाइपरसेंसिटिविटी
+- हीमोसाइडेरोसिस – ऊतकों में आयरन का अत्यधिक संचय
+- हीमोक्रोमाटोसिस – शरीर में आयरन का अत्यधिक लोड
+- हीमोलिटिक एनीमिया
 
-## Considerations
+## एडवर्स रिएक्शन्स
 
-Iron and calcium supplements should preferably be administered several hours apart rather than concomitantly as negative interactions between these micronutrients may occur.
-
-The equivalent of 120 mg of elemental iron is 600 mg of ferrous sulfate heptahydrate, 360 mg of ferrous fumarate or 1000 mg of ferrous gluconate.
-
-In malaria-endemic areas, provision of IFA supplements should be implemented in conjunction with measures to prevent, diagnose and treat malaria.
+सामान्य एडवर्स रिएक्शन्स: जी मिचलाना, पेट दर्द, दस्त और कब्ज हैं। मल काला और धूलयुक्त हो जाता है।
 
 ---

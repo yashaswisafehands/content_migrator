@@ -1,31 +1,31 @@
 # Chapter: Usage
 
-### Hypochlorite solution - usage
+### हाइपोक्लोराइट सॉल्यूशन  - उपयोग
 
-Make the hypochlorite solution daily to keep it effective.
+हाइपोक्लोराइट सॉल्यूशन  को प्रभावी बनाए रखने के लिए इसे प्रतिदिन नया तैयार करें।
 
-Keep instruments in 0.5% hypochlorite solution for at least 10 minutes for decontamination.
+इंस्ट्रूमेंट्स को 0.5% हाइपोक्लोराइट सॉल्यूशन में लिए कम से कम 10 मिनट तक डुबोकर डीकंटैमिनेशन करें ।
 
-Used it to clean and disinfect surfaces, instruments, and equipment.
+इसे सतहों, इंस्ट्रूमेंट्स और इक्विपमेंट्स की सफाई व डिसइन्फेक्शन के लिए उपयोग करें।
 
-![Image](37393157d28042929277e3cd6a37b785)
+![Image](f33037f91e954fc3acc079f2cc8ad639)
 
 ---
 
 # Chapter: Practical information
 
-### Hypochlorite solution - Practical information
+### हाइपोक्लोराइट सॉल्यूशन  - प्रैक्टिकल जानकारी
 
-Make fresh solution in every shift and keep covered in a covered plastic container.
+हर शिफ्ट में ताज़ा सॉल्यूशन तैयार करें और इसे ढक्कन लगे प्लास्टिक कंटेनर में ढककर रखें।
 
-Preparing 0.5 % hypochlorite solution from 5% stock hypochlorite solution:
+5% स्टॉक हाइपोक्लोराइट सॉल्यूशन से 0.5% सॉल्यूशन तैयार करने की विधि:
 
-- Wear utility gloves and appropriate PPE.
-- If your stock bleach solution is **5% hypochlorite solution,** and you want to prepare **1 litre (1000 ml)** of **0.5% hypochlorite solution** add **100 ml of 5% bleach to 900 ml of clean water.**
-- Maintain same ratio for large volumes.
+- यूटिलिटी ग्लव्स और उपयुक्त पीपीई पहनें।
+- यदि आपका स्टॉक ब्लीच सॉल्यूशन 5% हाइपोक्लोराइट सॉल्यूशन है और आपको 1 लीटर (1000 मिलीलीटर) का  0.5% हाइपोक्लोराइट सॉल्यूशन बनाना है,तो 100 मिलीलीटर 5% ब्लीच सॉल्यूशन को 900 मिलीलीटर स्वच्छ पानी में मिलाएँ।
+- बड़ी मात्रा में सॉल्यूशन बनाने के लिए यही अनुपात बनाए रखें।
 
-## Quick reference-
+## संक्षिप्त रेफेरेंस-
 
-![Image](a481cf5ddf4b49b5bf5552044427927b)
+![Image](bdd12d37af494023a2f067d89de68132)
 
 ---

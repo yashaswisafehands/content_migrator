@@ -8,7 +8,7 @@ Vacuum delivery is a "single function" of basic emergency obstetric care and mus
 
 1. Foetal heart rate remaining <100 or >180 bpm. 
 2. Maternal exhaustion.
-3. Pushing for more than 1 hour with effective contractions. 
+3. Pushing for more than 1 hour with effective cotractions. 
 4. Maternal heart disease or hypertension (these patients should deliver in a referral facility).
 
 ### Prerequisites
@@ -29,17 +29,17 @@ Vacuum delivery is a "single function" of basic emergency obstetric care and mus
 
 Different types of vacuum extractors exist.
 
-The most common types are those with metal or silicone cups that get connected to a separate suction device, and those where a vacuum pump and a plastic cup are combined into a single, hand-held unit.
+The most common types are those with metal or silicone cups that get connected to a seperate suction device, and those where a vacuum pump and a plastic cup are combined into a single, hand-held unit.
 
 Both can be used safely. The benefit of the hand-held pumps is that they allow the partitioner to control both vacuum and traction. In comparison, an assistant is required to operate the free-standing pump for the other cups.
 
-Metal and plastic cups are half as likely to “pop off” when compared to soft silicone cups.
+Metal and plastis cups are half as likely to "pop off" when compared to soft silicone cups.
 
 ### Procedure
 
 Before applying suction, center the cup on the foetal head's "flexion point", which is 3 cm anterior to the posterior fontanelle and aligned with the sagittal suture.
 
-![Image](ffc9add53eef48e0a225c7dbad5bcb79)
+![Image](0b4aba8fb3ba44f6ac99c7c8aeac19ee)
 
 The flexion point enables maximizes traction and minimizes "pop-offs".
 

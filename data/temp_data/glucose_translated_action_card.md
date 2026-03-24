@@ -1,21 +1,21 @@
-# Chapter: Indication and Usage
+# Chapter: संकेत और उपयोग
 
-Glucose is used to treat very low blood sugar (hypoglycemia). It quickly increases the amount of glucose in the blood.
+ग्लूकोज का उपयोग बहुत कम ब्लडशुगर (हाइपोग्लाइसीमिया) के इलाज के लिए किया जाता है। यह खून में ग्लूकोज की मात्रा को तेजी से बढ़ाता है।
 
-Also used in OGTT (Oral Glucose Tolerance Test)
+ओजीटीटी (ओरल ग्लूकोज टॉलरेंस टेस्ट) में भी उपयोग किया जाता है
 
-# Dosage and Administration
+# खुराक और एडमिनिस्ट्रेशन
 
-For hypoglycemia: 3 teaspoon full (TSF) (15-20 grams)glucose powder  dissolved in a glass of water.
+हाइपोग्लाइकेमिया के लिए: 3 चम्मच पूर्ण (टीएसएफ) (15-20 ग्राम) ग्लूकोस पाउडर एक गिलास पानी में घोलें.
 
-For OGTT:  75 gm dissolved in approximately 300 ml water.
+ओजीटीटी के लिए: 75 ग्राम लगभग 300 मिलीलीटर पानी में घोलें।
 
-# Contraindications
+# कॉन्ट्रइंडिकेशन
 
-Hyperglycemia, heart disease, coronary artery disease, or history of stroke, asthma, kidney disease
+हाइपरग्लाइसीमिया, हृदय रोग, कोरोनरी धमनी रोग, या स्ट्रोक अस्थमा, गुर्दे की बीमारी का इतिहास.
 
-# Adverse Reactions
+# प्रतिकूल प्रतिक्रियाएँ
 
-Allergic reactions like skin rash, itching, swelling of the face, lips, or tongue, symptoms of hyperglycemia.
+स्किन रेश, खुजली. चेहरे, होंठ या जीभ की सूजन जैसी एलर्जी प्रतिक्रियाएं ,हाइपरग्लेसेमिया के लक्षण.
 
 ---

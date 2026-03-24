@@ -1,21 +1,20 @@
-## Introduction
+## परिचय
 
-Oral progesterone-only pills (POPs) prevent pregnancy by thickening the cervical mucus, and in some cases stopping ovulation.
+प्रोजेस्टिन-ओनली पिल्स जिन्हें “मिनिपिल्स” भी कहते है, बहुत कम मात्रा में सिंथेटिक हार्मोन होता है। यह ओव्यूलेशन को रोकती हैं, सर्वाइकल म्यूकस को गाढ़ा करती हैं, और एंडोमेट्रियल लाइनिंग को पतला करती हैं।
 
-## Medications
+## दवाइयाँ
 
-- **Levonorgestrel** (Norgeston) 
-- **Norethisterone**(Noriday) 
-- **Desogestrel** (Cerazette/Aizea/Cerelle/Feanolla)
+- **लेवोनॉरजेस्ट्रेल**(एलएनजी)
+- **डेसॉजेस्ट्रेल**
 
-## Common side-effects
+## सामान्य दुष्प्रभाव
 
-Some report experiencing: changes to bleeding patterns, acne, breast tenderness, breast enlargement, changes in sex drive, mood changes, headaches, nausea and vomiting.
+कुछ महिलाओं को ब्लीडिंग पैटर्न में बदलाव, मुहासें, स्तनों में टेंडरनेस, सेक्स ड्राइव में परिवर्तन, मूड स्विंग्स, सिरदर्द, चक्कर, मितली और उल्टी की शिकायत हो सकती है।
 
-Some may develop ovarian cysts on the ovaries (these are usually harmless and disappear without treatment).
+स्तनपान कराने वाली महिलाओं में पोस्टपार्टम अमेनोरिया अधिक समय तक रह सकता है।
 
-## More information
+## कॉन्ट्राइंडिकेशन्स
 
-See medication guidelines packed with medication for more specific guidance.
+वे महिलाएँ जिन्हें ब्रेस्ट कैंसर का इतिहास है, पेरों के  डीप वेन्स में एक्यूट ब्लड क्लॉट, सीवियर लिवर डिज़ीज, इन्फेक्शन या ट्यूमर, या जो दौरे की दवाइयाँ ले रही हैं, उन्हें यह विधि नहीं अपनानी चाहिए।
 
 ---

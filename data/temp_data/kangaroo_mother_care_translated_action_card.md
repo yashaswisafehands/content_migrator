@@ -1,54 +1,60 @@
 # Chapter: Kangaroo Mother Care - Practical Information
 
-## COMPONENTS OF KMC
+## कंगारू मदर केयर के कंपोनेंट्स
 
-- Skin to skin contact between mother and newborn
-- Exclusive breastfeeding
+- माँ और शिशु के बीच त्वचा से त्वचा का संपर्क 
+- एक्सक्लूसिव ब्रेस्टफीडिंग
 
-## BENEFITS OF KMC
+## कंगारू मदर केयर के लाभ
 
-- Temperature maintenance with a reduced risk of hypothermia 
-- Increased breastfeeding rates 
-- Less morbidities such as apnoea and infections 
-- Better weight gain 
-- Early discharge from the health facility 
-- Less stress (for both newborn and mother) 
-- Better mother infant bonding
+- शरीर का तापमान बनाए रखना और हाइपोथर्मिया का कम जोखिम
+- स्तनपान के रेट में वृद्धि
+- कम रोग-संबंधी समस्याएँ, जैसे एपनिया और संक्रमण
+- बेहतर वजन बढ़ना
+- स्वास्थ्य सुविधा से जल्दी डिस्चार्ज
+- कम तनाव (माँ और शिशु दोनों के लिए)
+- माँ और शिशु के बीच बेहतर संबंध
 
-## BEGINNING KMC
+![Image](ff019440f5524a2a9479f7335b8df6e1)
 
-- All stable LBW newborns are eligible for KMC. However, very sick newborns needing special care should be cared under radiant warmer initially
-- KMC can be started in the hospital as soon as the newborn’s condition permits (i.e. the new born is haemodynamically stable)
-- Counsel the mother and family
-- Ensure that mother has support from her family
+## कंगारू मदर केयर की शुरुआत
 
-**The ongoing medical support, like tube feeding are not contraindications to KMC.**
+- सभी हीमोडायनामिकली स्थिर लो – बर्थ वेट नवजात शिशु कंगारू मदर केयर के लिए योग्य होते हैं। लेकिन बहुत बीमार नवजात जिन्हें विशेष देखभाल की आवश्यकता हो, उन्हें शुरुआत में रेडिएंट वॉर्मर के नीचे रखा जाना चाहिए।
+- जैसे ही नवजात शिशु की स्थिति अनुमति दे (अर्थात् नवजात हीमोडायनामिकली स्थिर हो), कंगारू मदर केयर की शुरुआत अस्पताल में की जा सकती है।
+- माँ और परिवार को परामर्श दें।
+- सुनिश्चित करें कि माँ को उसके परिवार से समर्थन प्राप्त हो।
 
-## EQUIPMENT AND SUPPLIES
+**चल रही चिकित्सा सहायता, जैसे ट्यूब फीडिंग, के.एम.सी के लिए के लिए कॉन्ट्राइंडीकेशन नहीं हैं**
 
-- Reclining / KMC Chair
-- Mother’s clothing: KMC can be provided using any front-open, light dress as per the local culture (KMC works well with blouse and sari, gown or shawl).
-- Newborn’s clothing: Newborn is dressed with cap, socks, nappy/diaper, cloth for wrapping the newborn (jhabala)
+## उपकरण और सामग्री
 
-## FEEDING
+- रीक्लाइनिंग / केएमसी कुर्सी
+- माता के कपड़े: केएमसी किसी भी फ्रंट-ओपन, हल्के कपड़े में लोकल संस्कृति के अनुसार कराया जा सकता है (जैसे ब्लाउज-साड़ी, गाउन या शॉल के साथ)।
+- नवजात के कपड़े: नवजात को टोपी, मोज़े, नैपी/डायपर और फ्रंट-ओपन बिना आस्तीन की बनियान या ‘झबला’ पहनाया जाता है।
 
-- Mother should be explained how to breastfeed while the newborn is in KMC position
-- If the newborn cannot be breastfed, express milk while the newborn is still in KMC position and feed with paladai, spoon or tube, depending on the condition of the newborn.
+## फीडिंग
 
-## DURATION OF KMC
+- माँ को समझाएँ कि केएमसी की पोज़िशन में रहते हुए स्तनपान कैसे कराया जाए।
+- यदि नवजात स्तनपान नहीं कर पा रहा है, तो माँ नवजात को केएमसी पोज़िशन में रखते हुए दूध एक्सप्रेस कर सकती है और शिशु की स्थिति के अनुसार पलदाई, चम्मच या ट्यूब से फीड कर सकती है।
 
-- Skin-to-skin contact should start as soon as feasible. 
-- Sessions that last less than one hour should be avoided because frequent handling 
-- Length of skin-to-skin contacts should be gradually increased to as long as possible
+## केएमसी की अवधि
 
-## MONITORING THE NEWBORN’S CONDITION
+- स्किन-टू-स्किन संपर्क जितनी जल्दी हो सके, शुरू कर दें।
+- एक घंटे से कम का केएमसी सेशन न करें, क्योंकि बार-बार उठाने-रखने से नवजात को परेशानी हो सकती है।
+- त्वचा से त्वचा संपर्क की अवधि धीरे-धीरे बढ़ाई जानी चाहिए और जितना संभव हो उतना लंबे समय तक रखा जाना चाहिए।
 
-- Observe the newborn’s breathing, colour & temperature. 
-- Ensure that the newborn’s neck is not too flexed or too extended, breathing is normal, feet and hands are warm during KMC
+## नवजात की स्थिति की निगरानी
 
-## CAN THE MOTHER CONTINUE KMC DURING SLEEP AND RESTING?
+- नवजात की साँस, रंग और तापमान पर ध्यान दें।
+- सुनिश्चित करें कि केएमसी के दौरान शिशु की गर्दन अधिक झुकी या अधिक सीधी न हो, शिशु की साँस सामान्य हो, और पैरों व हाथों का तापमान गर्म रहे।
 
-- In KMC ward or at home, the mother can sleep with the newborn in kangaroo position in a reclined or semi-recumbent position. This position decreases the risk of apnoea in the newborn.
-- When mother is not available, other willing family member such as grandmother, father or any other relative can provide KMC.
+## क्या माँ सोते या आराम करते समय भी केएमसी जारी रख सकती है?
+
+- केएमसी वार्ड में या घर पर, माँ शिशु को कंगारू स्थिति में लिटाकर रिलेक्स या सेमी-रेकम्बेंट स्थिति में सो सकती है। यह स्थिति नवजात में एप्निया के जोखिम को कम करती है।
+- जब माँ उपलब्ध न हों, तो दादी, पिता या कोई अन्य परिवार का सदस्य कंगारू मदर केयर प्रदान कर सकता है।
+
+![Image](40fade61e5be4dd1a100d7bc191f0c8b)
+
+![Image](addd8ae6610448409ea18adc5cc03d16)
 
 ---

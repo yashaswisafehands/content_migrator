@@ -1,25 +1,26 @@
-# Chapter: Indications and Usage
+# Chapter: इंडिकेशन्स और उपयोग
 
-Antihypertensive drug which can be used for pre-eclampsia and pregnancy-induced hypertension.
+यह एंटी-हाईपरटेंसिव दवा सीवियर प्री-एक्लैम्पसिया और एक्यूट हाईपरटेंसिव के संकट में उपयोग की जाती है।
 
-**CAUTION:** Diastolic BP should not be reduced to < 80-90 mmHg to avoid affecting foetal circulation.
+**सावधान:**डायस्टोलिक ब्लड प्रेशर को 90 एमएमएचजी से नीचे नहीं गिरना चाहिए ताकि फीटल सर्कुलेशन पर असर न पड़े।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-Hydralazine 5 mg IV slow (3-4 minutes) every 20 minutes until BP is reduced to < 160/ 110 mmHg diastolic.
+5 मि.ग्रा. आईवी धीरे-धीरे (1–2 मिनट) दें।
+20 मिनट के बाद 2 मिनट में 5–10 मि.ग्रा. दोबारा दें।
 
-Maximum dose: hydralazine 20 mg/24 hours.
+अधिकतम खुराक: 24 घंटे में 20 मि.ग्रा।
 
-The aim is to reduce diastolic BP to around 90 mmHg.
+ये महत्वपूर्ण है कि प्रसव से पहले डायस्टोलिक ब्लड प्रेशर 90 एमएमएचजी से नीचे नहीं गिरना चाहिए, अन्यथा फ़ीटस  को ब्लड सप्लाई प्रभावित हो सकती है।
 
-# Contraindications
+# कॉन्ट्राइंडिकेशन्स
 
-Tachycardia, lupus erythematosus disseminatus, and rheumatoid arthritis.
+टैकीकार्डिया, ल्यूपस एरिथेमेटोसस डिसेमिनाटस, और रुमाटॉयड आर्थराइटिस।
 
-# Adverse Reactions
+# एडवर्स रिएक्शन्स
 
-Common adverse reactions are headaches, flushing, tachycardia, allergic reactions and abdominal pain.
+सामान्य एडवर्स रिएक्शन्स : सिरदर्द, चेहरा लाल होना (फ्लशिंग), टैकीकार्डिया, एलर्जिक प्रतिक्रिया और पेट दर्द।
 
-Uncommon adverse reactions are nose congestion, feeling disorders and tremor.
+असामान्य एडवर्स रिएक्शन्स : नाक बंद होना, संवेदनाओं में बदलाव, आँसुओं का अधिक बहना, और हाथ-पैर में कंपन (ट्रेमर)।
 
 ---

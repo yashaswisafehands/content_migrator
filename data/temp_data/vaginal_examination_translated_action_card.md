@@ -1,26 +1,27 @@
-# Chapter: Vaginal examination
+# Chapter: योनि की जांच
 
-A vaginal examination helps determine stage of labour, foetal presentation and position, and membrane status.
+योनि की जांच से प्रसव का चरण, फ़ीटस  की प्रेजेंटेशन, पोज़िशन और झिल्लियों की स्थिति का पता लगाने में मदद करता है।
 
-They should be done gently and respectfully, and always with the woman's prior consent. Good communication with the woman can reduce her anxiety and pain.
+जांच हमेशा सावधानीपूर्वक, सम्मान और महिला से लगातार संवाद रखते हुए करें, ताकि डर और दर्द कम हो।
 
-- Vaginal examinations should be performed every 4 hours
-- Frequent vaginal examinations increase the risk of infection 
-- Always gain consent, wash hands, and wear sterile gloves 
-- Do not perform a vaginal examination during a contraction 
-- Make sure her bladder is empty 
-- Ask her to relax her legs
-- Clean her vulva with clean water 
-- Check the colour and odour of any fluid (Is it clear or meconium stained?)
+- योनि की जांच हर 4 घंटे के अंतराल पर किया जाना चाहिए।
+- बार-बार योनि की जांच से संक्रमण का जोखिम बढ़ाता है।
+- हमेशा सहमति लें, हाथ धोएँ और स्टेराइल दस्ताने पहनें।
+- संकुचन के दौरान योनि की जांच न करें।
+- सुनिश्चित करें कि ब्लैडर खाली है।
+- महिला से कहें कि वह पैरों को ढीला छोड़कर रिलैक्स करे।
+- नॉन-एग्ज़ामिनिंग हाथ से पॉविडोन आयोडीन स्वैब्स का उपयोग करके वल्वा को साफ करें।
+- किसी भी फ्लूइड का रंग और गंध जाँचें—क्या फ्लूइड क्लियर है, मेकोनियम मिला है, या ब्लड-स्टेन्ड है?
 
-Gently insert two fingers into vagina to check:
+**धीरे-से दो उंगलियाँ योनि में डालकर जाँच करें। एक बार उंगलियाँ अंदर जाने के बाद जाँच पूरी होने तक उन्हें बाहर न निकालें।**
 
-- Cervix: Where is it? How soft, and dilated is it? Has the dilation changed since last vaginal examination? 
-- Presenting part and position: Is the head the presenting part and what is the position of the foetus? 
-- Bleeding: Is there any vaginal bleeding? How does it look?
+- **सर्विक्स:**सर्विक्स कहाँ है? कितना नरम है? कितनी डाइलेशन है? क्या पिछली योनि की जांचकी तुलना में डाइलेशन बढ़ा है?
+- **प्रेज़ेन्टिंग पार्ट और पोज़िशन:** क्या बेबी का सिर प्रेज़ेन्टिंग पार्ट है? बेबी की पोज़िशन क्या है?
+- **झिल्लियाँ:**क्या झिल्लियाँ इंटैक्ट है? इंटैक्ट झिल्लियाँ उभरे हुए गुब्बारे जैसे महसूस होते हैं। यदि झिल्लियाँ फटी हों, तो एम्नियोटिक फ्लूइड का रंग देखें—क्लियर है, मेकोनियम मिला है या ब्लड-स्टेन्ड?
+- **ब्लीडिंग:**क्या वेजाइना से कोई ब्लीडिंग हो रही है? ब्लीडिंग का स्वरूप कैसा है?
 
-Remove your gloves, wash your hands and note down your findings.
+दस्ताने उतारें, हाथ धोएँ और अपने सभी निष्कर्ष केस शीट/पार्टोग्राफ में दर्ज करें।
 
-![Image](a300cecd01e94447bf51c2b103fa2b40)
+![Image](b2b176591f26478f843c411925b7a398)
 
 ---

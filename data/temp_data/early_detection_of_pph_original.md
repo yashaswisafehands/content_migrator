@@ -6,13 +6,13 @@ To improve detection and treatment of postpartum haemorrhage, **ALL women giving
 
 Use a **calibrated drape,** if available:****
 
-![Image](34c08f7fa38b46c6862a12ac44a7679c)
+![Image](451b464f109343cfa4c82b47e7dd1919)
 
 Or by **weighing** the blood loss on a scale:
 
-![Image](154179bda3fe4845b84b3b9511f06040)
+![Image](046c6db59b86458b917d7cb1774a5631)
 
-Remember to subtract the weight of the material used to collect the blood.
+Remember to subtract the weight of the bloody material.
 
 Observe blood loss, blood flow, uterine tone every 15 minutes and blood pressure and pulse within the first hour after birth. Document the findings on a blood loss monitoring chart.
 

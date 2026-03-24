@@ -1,19 +1,19 @@
-# Chapter: Use of Condoms
+# Chapter: कंडोम का उपयोग
 
-Condom is a simple and effective method for men, which is made of latex must be used correctly and consistently during every act of sex.  
+कंडोम पुरुषों के लिए एक सरल और प्रभावी तरीका है। यह लेटेक्स से बना होता है और इसे हर बार सेक्स के समय सही तरीके से और नियमित रूप से इस्तेमाल करना ज़रूरी है।
 
-The provider should explain basic steps of using male condom by demonstrating on penile model. The steps are:
+स्वास्थ्य प्रदाता को पेनाइल मॉडल पर प्रदर्शित करके पुरुष कंडोम उपयोग की मूलभूत विधि समझानी चाहिए। इसके चरण इस प्रकार हैं:
 
-1. Use a new condom for each act of sex. Do not use a torn or damaged condom. Check for the expiry date before using a condom.
-2. Before any physical contact with partner, place the condom on the tip of erect penis with rolled side out.
-3. Unroll the condom all the way to the base of erect penis and then have sex 
-4. Immediately after ejaculation, hold the rim of the condom in place & withdraw from the penis while it is still erect 
-5. Dispose off the used condom safely, by wrapping it in a piece of paper and throwing it in a bin.
+1. हर बार सेक्स के लिए नया कंडोम इस्तेमाल करें। फटा या खराब कंडोम कभी न इस्तेमाल करें। उपयोग से पहले कंडोम की एक्सपायरी डेट ज़रूर जाँचें।
+2. किसी भी तरह का शारीरिक संपर्क (सेक्स) करने से पहले कंडोम को खड़े लिंग (इरेक्ट पेनिस) के सिरे पर इस तरह रखें कि उसकी रोलिंग बाहर की ओर हो।
+3. कंडोम को पूरी तरह खोलकर इरेक्ट पेनिस की जड़ तक पहनाएँ और फिर सेक्स करें। 
+4. इजैक्युलेशन के तुरंत बाद, कंडोम के किनारे (रिम) को पकड़कर लिंग को उसी अवस्था (इरेक्ट) में बाहर निकालें।
+5. उपयोग किए गए कंडोम को सुरक्षित तरीके से फेंकें, इसे कागज़ में लपेटकर डस्टबिन में डालें।
 
-![Image](eed273c5174743efae5c5e6fdb24b22d)
+![Image](414610168c3e45dfb62f0ae42c909cdb)
 
-In case there is any mistake in use of condom, or it slips off /breaks during intercourse, pregnancy can occur. In such case the female partner needs to take an ECP, as soon as possible after intercourse, within next 72 hours.
+यदि कंडोम के उपयोग में कोई गलती हो जाए या कंडोम फिसल जाए/फट जाए, तो गर्भधारण की संभावना रहती है। ऐसे में महिला साथी को सेक्स के बाद जल्द-से-जल्द, 72 घंटे के भीतर इमरजेंसी कॉन्ट्रासेप्टिव पिल (ईसीपी) लेना चाहिए।
 
-Condoms can also be used with other contraceptives for dual protection or as a backup method.
+कंडोम को अन्य कॉन्ट्रासेप्टिव्स के साथ भी प्रयोग किया जा सकता है, ताकि डुअल प्रोटेक्शन मिले या इसे बैकअप मेथड के रूप में उपयोग किया जा सके।
 
 ---

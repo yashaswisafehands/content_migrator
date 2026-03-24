@@ -15,6 +15,8 @@
 - Less stress (for both newborn and mother) 
 - Better mother infant bonding
 
+![Image](ff019440f5524a2a9479f7335b8df6e1)
+
 ## BEGINNING KMC
 
 - All stable LBW newborns are eligible for KMC. However, very sick newborns needing special care should be cared under radiant warmer initially
@@ -50,5 +52,9 @@
 
 - In KMC ward or at home, the mother can sleep with the newborn in kangaroo position in a reclined or semi-recumbent position. This position decreases the risk of apnoea in the newborn.
 - When mother is not available, other willing family member such as grandmother, father or any other relative can provide KMC.
+
+![Image](fc9ebd17963d45babf7b4517df3e922b)
+
+![Image](a702b8974b1046f6a2865440e6a20be4)
 
 ---

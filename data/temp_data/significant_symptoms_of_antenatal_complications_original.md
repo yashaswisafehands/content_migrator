@@ -6,11 +6,11 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Anaemia
 
-![Image](f4fceca0e7044948ace3d1fd0e358a22)
+![Image](33420553a2794832811b3253b9796314)
 
 - Paleness inside conjunctiva/eyelids and palms
 - Dizziness
-- Weakness 
+- Weakness, 
 - Tiredness 
 - Shortness of breath 
 - Heart palpitation
@@ -27,7 +27,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Antepartum Haemorrhage
 
-![Image](01e95fbbc0e3426899af7dde40baf2b5)
+![Image](5074822321a3413da5d7ba557fb612ea)
 
 - Vaginal bleeding 
 - Abdominal pain
@@ -46,7 +46,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Gestational Diabetes
 
-![Image](cb98d01822c24254978711b4677d396d)
+![Image](49ed334b74354db2befb76060a2e00b8)
 
 - Increased thirst 
 - Increased urination need 
@@ -63,15 +63,15 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Urinary Tract Infection
 
-![Image](7f16b726808144369bdd96559e35f3fb)
+![Image](287378e2f0a24b83b7cd859dee9d7b78)
 
 - Burning sensation when passing urine
 - Frequent urination
 - Cloudy dark or strong-smelling urine
-- Increased urgency to urinate 
+- Increased urgency to urinate, 
 - Blood in urine
 - Lower stomach or back pain just under the ribs
-- Hypo/hyperthermia
+- Hypo/hyperthermia.
 
 ---
 
@@ -83,11 +83,10 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Premature/Prolonged rupture of membranes
 
-![Image](9796aad962a34cd7aaac55ab6a4805b3)
+![Image](0419eb8235cd47a08cd587e87623814d)
 
 - Leakage or sudden gush of fluid from the vagina
-- Fever 
-- Heavy or foul-smelling vaginal discharge
+- Fever, heavy or foul-smelling vaginal discharge
 - Abdominal pain
 - Foetal tachycardia
 
@@ -101,12 +100,11 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Pre-eclampsia
 
-![Image](c6464d7fdd6c4818a7403c11bfad40b8)
+![Image](95eb156185b848f09fd6a775463722b5)
 
 - Headache
 - Visual disturbances
-- Epigastric pain
-- Swelling in the face, hands or feet
+- Epigastric pain, swelling in the face, hands or feet
 - Nausea and vomiting
 
 See ‘Hypertension’ Module
@@ -121,7 +119,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Venous Thromboembolism
 
-![Image](6a36debe11ad41e2b8fd4083195bd4e6)
+![Image](3ca6d31121b04e6c9fecd184e16a4537)
 
 - Pain, swelling and tenderness in one leg (usually in the calf)  
 - Pain worsens when walking 
@@ -137,7 +135,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Preterm Labour
 
-![Image](ed6fece2fd73407799dc9220ef81b02e)
+![Image](82ac4cf9aee44a9b99934f6254559626)
 
 - Regular contractions before 37 weeks
 - Gush or trickle of fluid from vagina

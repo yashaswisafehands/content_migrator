@@ -1,47 +1,40 @@
-# Chapter: Indications and usage
+# Chapter: इन्डिकेशन्ज़ और उपयोग
 
-Treatment of bacterial infections. Alternative to penicillin with allergy to penicillin.
+बैक्टीरियल संक्रमण का इलाज। पेनिसिलिन एलर्जी होने पर पेनिसिलिन का विकल्प।
 
-# Dosage and administration
+# डोज़ और देने की विधि
 
-## Adults:
+## वयस्क:
 
-**Initial dose:**
-Ceftriaxone 4 g IV (max 4g/day)
+1-2 ग्रा. आई वी या आई एम दिन में एक बार।
 
-**Following doses:**
-Ceftriaxone 1-2 g IV/IM once daily
+## बच्चे:
 
-## Newborns:
+मेनिन्जाइटिस के लिए:
 
-**For meningitis:**
+50 मि.ग्रा. / किलो प्रति डोज़ हर 12 घंटे में आई वी या 100 मि.ग्रा. / किलो प्रति डोज़ दिन में एक बार आई वी या आई एम।
 
-Ceftriaxone 50mg/kg IV every 12 hours, 
+आँख से निकलती हुई पस के लिए:
 
-OR
+50 मि.ग्रा./ किलो/ डोज़ आई एम एक बार (अधिकतम 125 मि.ग्रा.)
 
-Ceftriaxone 100mg/kg IV/IM once daily
+# काॅन्ट्राइन्डिकेशन्ज़
 
-**For pus draining from the eye:**
+सेफ़ेलोस्पोरिनज़ को एलर्जी, प्रतिक्रियाएं सिवियर पेनिसिलिन को (एनाफ़ाइलेक्टिक प्रतिक्रियाएं)।
 
-Ceftriaxone 50 mg/kg IM (single dose, max 125 mg)
+नवजात (≤ 28 दिन):
+पीलिया ग्रस्त नवजात विशेषकर प्रीमेचोर का इलाज सेफ़ट्राइक्सोन से नहीं करना चाहिए।
 
-# Contraindications
+इन विट्रो स्टडीज़ दिखाती हैं कि सेफ़ट्राइक्सोन बिलिरूबिन को उसके सीरम एल्बुमिन से बंधने से रोकता है, इससे मरीजों में बिलिरूबिन एन्सिफे़लोपेथी होने का खतरा हो सकता है।
 
-Allergy to cephalosporins. Severe reactions to penicillin (anaphylactic reactions)
+**सेफ़ट्राइक्सोन उन नवजातों में काॅन्ट्राइन्डिकेट्ड हैं जिन्हें कैल्शियम वाले आई वी फ्लुइडज़ से इलाज की ज़रूरत है (या ज़रूरत पड़ना अपेक्षित है)। इसमें लगातार कैल्शियम - सम्मिलित इन्फ़्युज़न जैसे पेरेन्ट्रल आहार भी शामिल हैं क्योंकि इससे सेफ़ट्राइक्सोन - कैल्शियम पतन होने का ख़तरा होता है।**
 
-Neonates ≤28 days, those with hyperbilirubinemia, and those who are premature should not be treated with ceftriaxone.
+# प्रतिकूल प्रतिक्रियाएँ
 
-Ceftriaxone can displace bilirubin from its binding to serum albumin, possibly leading to a risk of bilirubin encephalopathy in these patients.
+सामान्य प्रतिकूल प्रतिक्रियाएँ हैं: जी मितलाना, उल्टी, दस्त, स्किन रैश और खुजली।
 
-**Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions (such as parenteral nutrition), because of the risk of precipitation of ceftriaxone-calcium.**
+असामान्य प्रतिकूल प्रतिक्रियाएँ हैं: सिर दर्द, चक्कर आना, आर्टीकेरिया।
 
-# Adverse reactions
-
-Common adverse reactions are nausea, vomiting, diarrhoea, skin rash, and itching.
-
-Uncommon reactions are headache, dizziness, and urticaria.
-
-Rare reactions are lowered platelets, necrosis of the skin, drug fever, candidiasis, haemolytic anaemia and hearing loss.
+कभी-कभी होने वाली प्रतिकूल प्रतिक्रियाएँ हैं: प्लेटलेटज़ कम होना, स्किन का नेक्रोसिस, ड्रग फ़ीवर, केन्डीडा इन्फे़क्शन (केन्डीडियोसिस), हीमोलायटिक एनीमिया और सुनाई देने की क्षमता का नष्ट (हीयरिंग लाॅस) होना।
 
 ---

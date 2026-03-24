@@ -1,81 +1,75 @@
 # Chapter: Usage
 
-### Manual vacuum aspiration - usage
+### मैनुअल वैक्युम एस्पिरेटर की सफ़ाई - उपयोग
 
-Manual vacuum aspiration, or MVA, is a simple and low-cost technique for uterine evacuation.
+मैनुअल वैक्यूम एस्पिरेशन (एमवीए) एक ऐसी तकनीक है जिसका उपयोग युटेराईन इवैक्यूएशन के लिए किया जाता है। इसकी कम लागत, सरलता और आसानी से ले जाने की सुविधा के कारण यह प्रजनन स्वास्थ्य के क्षेत्र में एक अत्यंत उपयोगी तकनीक मानी जाती है।
 
-MVA is used for evacuation of the uterus for incomplete abortions in the first trimester up to a gestational age of 12-14 weeks.
+पहले ट्राइमेस्टर में  12 हफ़्तों से कम गर्भायु के, अधूरे गर्भपात में यूटेरस को इवैकुवेट करने के लिए एम वी ए प्रयोग किया जाता है।
 
-In cases of septic abortion and heavy bleeding related to abortion, the procedure is a life-saving emergency procedure that must be performed without delay.
+सैप्टिक गर्भपात या अत्यधिक रक्तस्राव में यह जीवन रक्षक आपातकालीन प्रक्रिया है, जिसे तुरंत किया जाना चाहिए।
 
-Antibiotics should ideally be given before an MVA procedure, but must not delay it. The procedure can be performed without antibiotics.
+आदर्श रूप से प्रक्रिया शुरू करते समय एंटीबायोटिक दी जाती हैं, परंतु एंटीबायोटिक उपलब्ध न होने पर प्रक्रिया को रोका नहीं जाना चाहिए।
 
 ---
 
 # Chapter: Practical information
 
-### Cleaning manual vacuum aspirator - practical information
-(This information applies to MVAs registered for reuse)
+### मैनुअल वैक्युम एस्पिरेटर की सफ़ाई-प्रैक्टिकल जानकारी
 
-![Image](4a24e0aca08647d2952b60cd9822f5c5)
+![Image](fe2528794cd845e38f67bb81a49e8df8)
 
-### Cleaning after use
+### प्रयोग के बाद सफाई
 
-## Step 1:
+## चरण 1:
 
-Always wear utility gloves and an apron to protect yourself from any splashes.
+Always wear utility gloves and an apron to protect from any splashes.
 
-Immediately after use:
- 
-Remove the cannula from the valve by twisting the cannula base and pulling it out. 
+Immediately after use; discard the cannula and disassemble all items and soak instruments in a solution made of water and the correct concentration of detergent.
 
-Discard the cannula and disassemble the aspirator and soak the parts and reusable equipment in a solution made of water and the correct concentration of detergent.
-(Some cannulas, such as ‘Easy Grib’ are reusable. Check the cannula brand to find out whether it is reusable or not)
+Clean items with a tooth brush in the solution.
 
-Clean items with a toothbrush in the solution.
+Do not use bar soap for cleaning items.
 
-Do not use bar soap for cleaning the items.
-
-If cleaning is not possible immediately, place the items in an empty basket and cover the items with a moist towel until cleaning is possible, do not let them dry.
+उपयोग किए गए कैनुला को भिगोने से पहले तुरंत फ्लश करें।
 
 All items should be individually inspected and visibly clean.
 
-Rinse the items with clean, running water, and air-dry before sterilisation or high-level disinfection.
+सभी डिसअसेंबल किए गए उपकरणों को 0.5% हाइपोक्लोराइट सॉल्यूशन में भिगोकर रखें
 
-## Step 2:
+## चरण 2:
 
-Clean the aspirator thoroughly in warm water and detergent, not soap.
+दस्ताने और फेस प्रोटेक्शन पहनें।
 
-Wear gloves and face protection.
+सभी एस्पिरेटर और कैनुला को गुनगुने पानी और डिटर्जेंट (साबुन नहीं) से अच्छी तरह साफ करें और उपयोग किए गए प्रत्येक कैनुला को धो लें।
 
-Remove the cannula from the valve by twisting the cannula base and pulling it out.
+सॉफ्ट ब्रश का उपयोग करें, किसी नुकीली या धारदार वस्तु का उपयोग न करें।
 
-Grip the wings to aid.
+सिलेंडर को वाल्व से बाहर खींचकर एस्पिरेटर को अलग करें।
 
-The base of the cannula is permanently attached (EasyGrip) – do not attempt to remove.
+एक हाथ से कैप-रिलीज़ टैब को नीचे की ओर दबाकर और दूसरे हाथ से कैप को खींचकर कैप हटाएँ।
 
 Disassemble the aspirator by pulling the cylinder out of the valve.
 
 Remove the cap by pressing down the cap-release tabs with one hand and pulling off the cap with the other hand.
 
-Open the hinged valve by pulling open the clasp.
+क्लैस्प को खींचते हुए वॉल्व को खोलें।
 
-Place right thumb alongside the right valve button and left thumb on the valve latch.
+दाहिना अंगूठा दाहिने वॉल्व-बटन पर और बायाँ अंगूठा वॉल्व-लैच पर रखें।
 
-Open the valve latch to the left with your left thumb while providing resistance on the valve body with the right thumb.
+बाएं अंगूठे से वाॅल्व लैच को ऊपर और बाएं तरफ़ खींचे, जबकि दाएं अंगूठे से वाॅल्व बाॅडी को नीचे और बाहर की तरफ़ दबाएं।
 
-Remove the valve liner.
+वाॅल्व लाइनर को हटाएं।
 
-Disengage the collar stop by removing the prongs from the cylinder and sliding it sideways under the retaining clip, or remove the collar stop completely.
+काॅलर स्टाॅप को, रीटेंनिंग क्लिप के नीचे से, एक तरफ सरकाकर अलग करें या पूरी तरह से हटा दें।
 
-Pull out the plunger completely.
+प्लंजर को पूरी तरह से बाहर खींच ले।
 
-Displace the plunger O-ring by squeezing its sides and rolling it into the groove below.
+प्लंजर ‘ओ’ - रिंग को, दोनों तरफ़ से दबाते हुए हटाएं और नीचे बने खांचे में रोल कर दें।
 
 It is not necessary to completely remove it.
 
-![Image](9bcf343974d449ea8a264d556bccecbe)
+![Image](6eb59ab6c81c40ee987dcb150d224906)
 
-![Image](2e22598f2de7464cba6a5fed8f14474d)
+![Image](5c970e5ab41c4b0fbfd173a7bdd176d8)
 
 ---

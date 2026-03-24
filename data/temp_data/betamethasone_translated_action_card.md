@@ -1,17 +1,32 @@
-# Chapter: Indications and Usage
+# Chapter: इन्डिकेशन्ज़ और उपयोग
 
-For lung maturation and prevention of respiratory distress of the newborn at threatening preterm labour between 24 to 34 weeks' gestation.
+24 से 34 सप्ताह की गर्भावस्था में प्रीटर्म प्रसव के दौरान शिशु के फेफड़ों के परिपक्व और रेस्पिरेटरी डिस्ट्रेस बचाव के लिए।
 
-# Dosage and Administration
+उन परिस्थितियों में जब जल्दी प्रीटर्म प्रसव संभव हो:
+-	प्रसव पूर्व रक्तस्राव
+-	प्रीटर्म प्रीमेह्चोर रपचर ऑफ़ मेम्ब्रेन
+-	सीवियर प्री-एक्लैम्प्सिया / एक्लैम्प्सिया
 
-2 doses of betamethasone 12 mg IM given 24 hours apart (total dose: 24mg)
+# डोज़ और देने की विधि
 
-# Contraindications
+12 मि.ग्रा. इंट्रामस्कुलर, 2 डोज़ 24 घंटे के अंतराल पर (कुल 24 मि.ग्रा.)।
 
-Active untreated infections.
+# कॉन्ट्राइंडिकेशन्स
 
-# Adverse Reactions
+सक्रिय और अप्रभावित संक्रमण
 
-Common adverse reactions are mood changes and other mental disturbances, shortness of breath, oedema and diabetic metabolism.
+फ्रैंक  कोरियोएम्नियोनाइटिस
+
+महिला में निम्नलिखित लक्षण और संकेत फ्रैंक कोरियोएम्नियोनाइटिस का संकेत देते हैं।
+
+बुखार और निचले पेट में दर्द का इतिहास
+
+बदबूदार योनि स्राव, तेज़ धड़कन (टैकीकार्डिया), और गर्भाशय में टेंडरनेस
+
+फीटल टैकीकार्डिया
+
+# एडवर्स रिएक्शन्स
+
+सामान्य एडवर्स रिएक्शन है: मूड में बदलाव और अन्य मानसिक असामान्यताएँ, सांस लेने में कठिनाई, सूजन (एडिमा),  शुगर के स्तर और मेटाबॉलिज़्म में परिवर्तन
 
 ---

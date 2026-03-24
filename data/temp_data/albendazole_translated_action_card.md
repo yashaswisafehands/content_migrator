@@ -1,19 +1,19 @@
-## Indication and Usage
+## संकेत एवं उपयोग
 
-**Recommended:**<color style="blue"> </color>
+सोइल ट्रांसमिटेड हेल्मिंथ (मृदा-संचारित हेल्मिंथ ( एसटीएच) स्थानिक क्षेत्रों (प्रचलन 20% से अधिक) में सभी गर्भवती महिलाओं के लिए कृमि मुक्ति ।
 
-For pregnant women living in endemic areas (areas where the prevalence of hookworm and/or whipworm infection is 20% or more).
+पहली तिमाही के बाद सभी गर्भवती महिलाओं के लिए एक बार एडमिनिस्ट्रेशन करें।
 
-Where anaemia is considered a severe public health problem (the prevalence among pregnant women is 40% or higher). 
+## खुराक और एडमिनिस्ट्रेशन
 
-For women infected with helminths in non-endemic areas.
+400 मिलीग्राम की एक  खुराक, बेहतरीन रूप से दूसरी ट्राइमेस्टर के भीतर।
 
-## Dosage and Administration
+## कॉन्ट्रइंडिकेशन
 
-Albendazole 400  mg orally as a single dose after the first trimester.
+गर्भावस्था की पहली तिमाही
 
-## Contraindications
+## प्रतिकूल प्रतिक्रियाएं
 
-First trimester pregnancy
+कुछ मामलों में जी मिचलाना, उल्टी, दाने और पेट में दर्द, पित्ती जैसे दुष्प्रभाव होते हैं।.
 
 ---

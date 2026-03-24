@@ -1,25 +1,23 @@
-## Introduction
+## परिचय
 
-Combined oral contraceptives (COCs) contain artificial versions of female hormones oestrogen and progesterone. These prevent the sperm from fertilising the egg by preventing ovulation, thickening cervical mucus, and thinning the uterine lining.
+कॉम्बाइंड ओरल कॉन्ट्रासेप्टिव्स (सीओसी)) में दो सिंथेटिक  हार्मोन्स की कम मात्रा होती है — प्रोजेस्टिन और एस्ट्रोजन। यह ओव्यूलेशन को रोकता है, क्योंकि यह फॉलिकल स्टिमुलेटिंग हार्मोन (एफएसएच) और ल्यूटिनाइजिंग हार्मोन (एलएच) को दबाता है, इम्प्लांटेशन को रोकता है, सर्वाइकल म्यूकस को गाढ़ा करता है, जिससे स्पर्म के लिए पास होना मुश्किल हो जाता है।
 
-Types of COCs include monophasic, phasic or every-day (ED) medications depending on the dose and frequency.
+हर दिन एक गोली बिना किसी ब्रेक के लेनी होती है।
+28 गोलियों का एक पैक खत्म होने के बाद, अगले दिन से नया पैक शुरू करें।
 
-## Medication examples
+## दवाओं के उदाहरण
 
-COCs contain a combination of ethinyl oestradiol and either:
+माला-एन
 
-- **Levonorgestrel** (Microgynon/Microgynon ED/Elevin/Levest/Logynon) 
-- **Gestodene** (Akizza/Femodene/Katya/Millinette) 
-- **Drospirenone** (Yasmin/Dretine/Lucette/Yacella) 
-- **Desogestrel**(Marvelon/Cimizt/Gedarel/Apri 28-Day/Reclipsen 28-Day) 
-- **Norgestimate** (Cilique/Lizinna/Cilest)
+- माला-एन में लेवोनॉरजेस्ट्रेल (0.15 मि.ग्रा.) और एथिन्य्ल एस्ट्राड़ोल (30 माइक्रो ग्राम) होते हैं।
+- माला-एन की प्रत्येक स्ट्रिप में 21 हार्मोनल और 7 नॉन-हार्मोनल (आयरन) टैबलेट्स होती हैं।
 
-## Common side-effects
+## सामान्य दुष्प्रभाव
 
-Some have reported experiencing headaches, nausea, dizziness, breast tenderness.
+अनियमित रक्तस्राव, माहवारी का न आना, सिरदर्द, नौजिया, चक्कर आना, स्तनों में टेंडरनेस, वजन बढ़ना, मूड में बदलाव, सेक्स ड्राइव में परिवर्तन और मुहांसे।
 
-## More information
+## कॉन्ट्राइंडिकेशन्स
 
-See packaging for specific guidance on each medication.
+स्तनपान कराने वाली महिलाएँ जिनका प्रसव 6 महीने से कम पहले हुआ है, स्तनपान ना कराने वाली महिलाएँ जिनका प्रसव 3 महीने से कम पहले हुआ है, उच्च रक्तचाप (बीपी 140/90 एमएमएचजी या अधिक), डीप वेन थ्रॉम्बोसिस (डीवीटी), हृदय रोग, डायबिटीज जिनमें वास्कुलर जटिलताएँ हों, बार-बार माइग्रेन, अस्पष्ट योनि रक्तस्राव, स्तन कैंसर, लिवर रोग, या जो महिलाएँ एंटीकनवलसेंट्स या रिफैम्पिसिन (टीबी की दवा) ले रही हों।
 
 ---

@@ -1,76 +1,79 @@
-# Chapter: Indications and Usage
+# Chapter: इंडिकेशन्स और उपयोग
 
-**Prevention and treatment of eclampsia**: magnesium sulphate is used to prevent seizures in women with severe pre-eclampsia and to manage seizures in cases of eclampsia.
+एक्लैम्प्टिक दौरों के इलाज और बचाव के लिए (उन सभी महिलाओं को दिया जाना चाहिए जिन्हें सीवियर प्री-एक्लैम्प्सिया है)।
 
-Magnesium sulphate is the recommended drug for to treat eclampsia.
+एक्लैम्प्सिया के उपचार के लिए मैग्नीशियम सल्फेट पहली ड्रग की चॉइस है।
 
-The duration of treatment should normally not exceed 24 hours after birth or the last convulsion, whichever occurs last.
+इलाज की अवधि सामान्यतः प्रसव के 24 घंटे से अधिक या अंतिम दौरे के 24 घंटे बाद (जो भी बाद में हो) नहीं होनी चाहिए।
 
-# Dosage and Administration
+# डोज़ और देने की विधि
 
-Always have the antidote, calcium gluconate, ready when you administer magnesium sulphate.
+मैग्नीशियम सल्फेट से इलाज शुरू करने से पहले हमेशा एंटीडोट कैल्शीयम ग्लूकोनेट तैयार रखें।
 
-Magnesium sulphate is administered in two steps:
+मैग्नीशियम सल्फेट की लोडिंग डोज़ दें। यह दवा दो चरणों में दी जाती है:
 
-**Step 1:** Loading dose
+**चरण 1:** मैग्नीशियम सल्फेट लोडिंग डोज़ (आईवी)
 
-Magnesium sulphate 4 g in a 20% solution slow IV over 5-15 minutes (see how to prepare a 20% solution below)
+5 से 10 मिनट में धीरे-धीरे 20% मैग्नीशियम सल्फेट घोल के 4 ग्राम आईवी दें।
 
-**Step 2:** Maintenance dose 
-If there are no signs of toxicity, proceed directly to give two doses of 50% solution of Magnesium Sulphate 5 g IM with 1 ml 2% Lidocaine.
+**चरण 2:**तुरंत लोडिंग डोज़ (आईएम) दें
 
-If there are no signs of toxicity, proceed directly to administer:
+50% मैग्नीशियम सल्फेट सॉल्यूशन के 10 ग्राम:
 
-Magnesium sulphate 5 g in a 50% solution with 1 ml of 2 % lidocaine IM x 2 (1 in each buttock).
+दोनों कूल्हों में 5 ग्राम डीप आईएम इंजेक्शन दें,  उसी सिरिंज में 2% लिडोकेन के 1 मिलीलीटर के साथ मिलाकर दें।
 
-Ensure aseptic technique.
+मैग्नीशियम सल्फेट का डीप आईएम इंजेक्शन देते समय एसेप्टिक तकनीक का पालन अवश्य करें।
 
-**After four hours:**
+**4 घंटे बाद:**
 
-Maintenance dose continued (IM):
+मेन्टेनेंस डोज़ (आईएम) जारी रखें:
 
-Magnesium sulphate 5 g in a 50% solution with 1 ml of 2 % lidocaine deep IM every 4 hours in alternating buttocks.
+एक कुल्हें में 50% मैग्नीशियम सल्फेट सॉल्यूशन के 5 ग्राम को 2% लिडोकेन के 1 मिलीलीटर के साथ उसी सिरिंज में मिलाकर डीप आईएम इंजेक्शन के रूप में दें।
 
-Continue treatment for 24 hours after birth or the last convulsion, whichever occurs last.
+हर चार घंटे बाद अल्टरनेट कुल्हें में इंजेक्शन दोहराएँ।
 
-If seizures occur after magnesium sulphate treatment has been started, administer a reduced loading dose:
+हर बार इंजेक्शन की साइड बदलें।
 
-Magnesium sulphate 2 g IV over 10 minutes.
+डिलीवरी या आखरी दौरा जो भी अंत में आया हो, उससे अगले 24 घंटों तक इलाज जारी रखें।
 
-**How to mix 20% solution from a 50% solution:**
+यदि मैग्नीशियम सल्फेट देने के बाद भी दौरे (फिट्स) हो रहे हों, तो 2 मिनट में 2 ग्राम की कम मात्रा की लोडिंग डोज़ इंट्रावेनस रूप से दें।
 
-To prepare a 20% magnesium sulphate solution from a 50% concentrated solution:
+**20% सॉल्यूशन तैयार करने की विधि:**
 
-**Step 1:** Measure the volume in ml of the 50% solution that you plan to use.
+50% कॉन्सेंट्रेटेड मैग्नीशियम सल्फेट सॉल्यूशन से 20% सॉल्यूशन तैयार करने के लिए निम्नलिखित करें:
 
-**Step 2**: Take that volume and multiply it by 1.5. The result is the exact volume (ml) of diluent (normal saline or distilled water) you need to add.
+जितने ग्राम दवा की आवश्यकता हो, उसी अनुसार 50% केंद्रित सॉल्यूशन के उतने मिलीलीटर लें, और इसे 1.5 से गुणा करें।
 
-**Step 3:**Combine the volume from Step 1 (the 50% solution) with the volume from Step 2 (the diluent). The resulting volume will be a magnesium sulphate 20% solution.
+यह बताता है कि आपको कितनी मात्रा में नॉर्मल सलाइन या डिस्टिल्ड वॉटर मिलाना है।
 
-**Example:**For a 4 g loading dose, mix 8 ml of 50% magnesium sulphate with 12 ml of diluent to make 20 ml of a 20% solution.
+उदाहरण के लिए: 5 ग्राम/10 मि.ली. वाले 50% मैग्नीशियम सल्फेट घोल से 8 मि.ली. (4 ग्राम) लें।
+20% मैग्नीशियम सल्फेट घोल बनाने के लिए: 8 × 1.5 = 12 मि.ली.
 
-# Contraindications
+8 मि.ली. 50% मैग्नीशियम सल्फेट घोल में 12 मि.ली. नॉर्मल सेलाइन या डिस्टिल्ड वॉटर मिलाएँ।
+कुल डोज़ 20 मि.ली. (20% मैग्नीशियम सल्फेट सॉल्यूशन) होगी।
 
-Renal failure and atrioventricular block.
+# कॉन्ट्राइंडिकेशन्स
 
-Oliguria is not a contraindication for magnesium sulphate treatment, but women with reduced urine output require close monitoring because they have a higher risk of magnesium toxicity.
+रीनल फेलियर और एट्रीयोवेन्ट्रिकुलर ब्लाॅक।
 
-With signs of respiratory depression (respiratory rate <16 /minute) the maintenance dose should be postponed.
+यदि पैटेलर जर्क अनुपस्थित है और यूरिन आउटपुट 30 मिलीलीटर प्रति घंटे से कम है, तो मैग्नीशियम सल्फेट देना रोक दें और प्रति घंटे मॉनिटरिंग करें।
 
-# Adverse Reactions
+जब उपरोक्त क्राइटेरिया पूरे हो जाएँ, तो मेंटेनेंस डोज़ दोबारा शुरू करें।
 
-Magnesium sulphate can be toxic. The first signs of overdose is the absence of tendon reflexes, so before giving each maintenance dose, tendon reflexes must be checked. If absent, delay administration until reassessment of tendon reflexes in 4 hours.
+यदि रेस्पिरेटरी डिप्रेशन के लक्षण दिखाई दें, जैसे श्वसन दर 16 प्रति मिनट से कम हो, तो एंटीडोट कैल्शियम ग्लूकोनेट दें और मेंटेनेंस डोज़ भी बंद करें।
 
-In the case of respiratory arrest, administer the antidote:
+# एडवर्स रिएक्शन्स
 
-Calcium gluconate 1 g  slow IV over 3 minutes.
+मैग्नीशियम सल्फेट अधिक मात्रा में देने पर टॉक्सिक हो सकता है। ओवरडोज़ का पहला संकेत टेंडन रिफ्लेक्स का अभाव होता है। इसलिए हर 4 घंटे पर मेंटेनेंस डोज़ देने से पहले टेंडन रिफ्लेक्स की जांच करनी चाहिए। यदि रिफ्लेक्स नहीं है, तो इंजेक्शन न दें और 4 घंटे बाद दोबारा जांच करें।
 
-At cardiac arrest, the antidote must be administered as an IV push.
+यदि श्वसन दर 16 प्रति मिनट से कम हो जाए, तो एंटीडोट कैल्शियम ग्लूकोनेट 1 ग्राम (10%) को 10 मिनट में धीरे-धीरे आईवी दें।
 
-Magnesium sulphate should not be combined with Diazepam or any other anticonvulsant as the risk of severe adverse reactions is considerably increased.
+कार्डियक अरेस्ट स्थिति में एंटीडोट को आई वी पुश दें।
 
-The so-called “lytic cocktail” combining different drugs is life-threatening and should never be given.
+मैग्नीशियम सल्फेट को डायजेपाम या किसी अन्य एंटीकनवल्सेंट के साथ नहीं देना चाहिए, क्योंकि इससे गंभीर दुष्प्रभावों का खतरा बहुत बढ़ जाता है।
 
-Common side effects include flushing, feeling of warmth, nausea and vomiting, muscle weakness, somnolence, dizziness, and irritation at the injection site
+“लिटिक कॉकटेल” (विभिन्न दवाओं का मिश्रण) जीवन के लिए खतरनाक है और इसे कभी नहीं देना चाहिए।
+
+सामान्य दुष्प्रभावों में चेहरे पर लालिमा आना, शरीर में गर्मी महसूस होना, नौजिया और उल्टी, मांसपेशियों में कमजोरी, नींद आना, चक्कर आना और इंजेक्शन की जगह पर जलन या दर्द शामिल हैं।
 
 ---

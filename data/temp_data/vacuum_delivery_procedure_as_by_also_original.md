@@ -20,13 +20,13 @@
 
 **F**lexion Point – most cups have a radius of 3 cm from their centre to their edge. Place the edge of the cup at the tip of the posterior triangular fontanel.
 
-**F**eel for vaginal tissue between the cup and the foetal head before and after applying suction to avoid trauma to the vagina. Apply suction with adequate pressure to firmly attach the cup to the fetal scalp.
+**F**eel for vaginal tissue between the cup and the foetal head before and after applying suction to avoid trauma to the vagina.
 
 Gently, steady traction with no rocking during each contraction pulling downwards with the first contractions, then more upwards as the head is delivering.
 
-**H**alt in between contractions.
+**H**alt<color style="blue"> </color>in between contractions.
 
-**H**ALT and abandon after 3 pop-offs, or after 3 pulls with no progress, or after 30 minuites from application if delivery is not achieved.
+**H**ALT<color style="blue"> </color>and and abandon after 3 pop-offs, or after 3 pulls with no progress, or after 30 minuites from application if delivery is not achieved.
 
 Intact<color style="blue"> </color>perineum!
 

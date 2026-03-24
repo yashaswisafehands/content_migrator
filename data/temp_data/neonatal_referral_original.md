@@ -7,7 +7,7 @@
 
 ## Assess and stabilize newborn prior to transport
 
-![Image](18c1d6ac6eeb485ca95404d5fb9441c9)
+![Image](70f01941c08d445380fc59f88c54a380)
 
 - Do not refer the newborn if emergency is not controlled.
 - Refer the newborn in a stable condition.

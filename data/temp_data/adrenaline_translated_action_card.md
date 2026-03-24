@@ -1,39 +1,47 @@
-# Chapter: Indication and Usage
+# Chapter: इन्डिकेशन्ज़ और उपयोग
 
-Contracts blood vessels to increase blood pressure and increases pulse and cardiac contraction strength.
+वेंटिलेशन और चेस्ट कम्प्रेशन के बाद भी हृदय गति 60/मिनट से कम हो।
 
-Used to treat cardiac arrest, anaphylactic shock and other anaphylactic reactions like severe bronchospasm, Quincke’s oedema, and hypotension from septic shock.
+एड्रेनालिन ब्लड वेसल्स को संकुचित कर ब्लड प्रेशर, पल्स और हृदय की पम्पिंग शक्ति बढ़ाता है।
 
-# Dosage and Administration
+इसका उपयोग कार्डियक अरेस्ट, एनाफिलैक्टिक शॉक, गंभीर ब्रॉन्कोस्पाज़्म, क्विन्के की सूजन और सेप्टिक शॉक से होने वाले लो ब्लड प्रेशर में होता है।
 
-## Adults:
+Is used to treat cardiac arrest, anaphylactic shock and other anaphylactic reactions like severe bronchospasm, Quincke’s oedema, and hypotension from septic shock.
 
-Cardiac arrest:
+# डोज़ और देने की विधि
 
-Adrenaline 0.01 mg/kg IV followed by 20-50 ml normal saline push – can be repeated after 2 minutes.
+## एडल्ट :
 
-Shock and anaphylactic reactions:
+कार्डियक अरेस्ट:
 
-Adrenaline 0.5 mg IM, can be repeated after 5-10 minutes OR
+0.01 मिग्रा/किग्रा इंट्रावेनसली दें, इसके बाद 20–50 मि.ली. नॉर्मल सलाइन पुश करें – आवश्यकता होने पर 2 मिनट बाद दोहराया जा सकता है।
 
-Adrenaline 0.1 mg IV, can be repeated after 1-2 minutes.
+शाॅक और ऐनाफ़ाइलेक्टिक रिएक्शन्स:
 
-## Newborns:
+0.5 मिग्रा इंट्रामस्क्युलरली – 5–10 मिनट बाद दोहराया जा सकता है। या
 
-Cardiac arrest:
+0.1 मिग्रा इंट्रावेनसली – 1–2 मिनट बाद दोहराया जा सकता है।
 
-Adrenaline 0.01 mg/kg IV repeated every 3-5 minutes.
+## शिशु :
 
-# Contraindications
+नवजात शिशुओं में रिकमेंडेड इंट्रावेनस डोज़ 1:10,000 सॉल्यूशन का 0.1 से 0.3 मिली/किग्रा है, जो 0.01 से 0.03 मिग्रा/किग्रा के बराबर होता है। इसके लिए जन्म के तुरंत बाद शिशु का वजन अनुमानित करना आवश्यक है।
 
-Narrow angle glaucoma, pheochromocytoma, low serum potassium,  thyrotoxicosis and hypertension.
+**एपिनेफ्रीन कैसे तैयार करें?**
 
-# Adverse Reactions
+आमतौर पर 1 मिलीलीटर ऐम्प्यूल में 1:1000 कन्सन्ट्रेशन के रूप में उपलब्ध होता है। नवजात शिशुओं  के लिए, 1 मिलीलीटर  1:1000 सॉल्यूशन लेकर उसमें 9 मिलीलीटर नॉर्मल सलाइन मिलाएँ। इससे कुल 10 मिलीलीटर 1:10,000 कन्सन्ट्रेशन तैयार हो जाता है।
 
-Common adverse reactions are tachycardia, hypertension, tremor, headache, dizziness, anxiety, restlessness, and sleeplessness.
+<color style="blue">नोट : जब दवा इंट्रावेनसली कैथेटर से दी जाती है, तो 0.5–1 मिलीलीटर नॉर्मल सलाइन से फ्लश करें, ताकि दवा पूर्ण रूप से ब्लड में पहुँच जाए।</color>
 
-Uncommon adverse reactions are cardiac arrhythmia.
+# कॉन्ट्राइंडिकेशन्स
 
-Rare adverse reactions are pulmonary oedema and breathing difficulties.
+नैरो एंगल ग्लॉकोमा, फियोक्रोमोसाइटोमा, लो सीरम-पोटैशियम, थाइरोटॉक्सिकोसिस  और हाइपरटेंशन।
+
+# एडवर्स रिएक्शन्स
+
+सामान्य एडवर्स रिएक्शन्स: टैकीकार्डिया, हाईपरटेंशन, ट्रेमर, सिर दर्द, चक्कर आना, एंग्ज़ायटी और नींद न आना।
+
+असामान्य एडवर्स रिएक्शन्स : कार्डियक अरीथमिया
+
+कभी - कभी होने वाले एडवर्स रिएक्शन्स : पल्मोनरी एडिमा और सांस लेने में कठिनाई
 
 ---
