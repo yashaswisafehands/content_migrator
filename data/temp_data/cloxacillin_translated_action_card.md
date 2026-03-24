@@ -1,39 +1,42 @@
-# Chapter: Indications et utilisation
+# Chapter: Indication and Usage
 
-Infections causées par des infections staphylococciques qui trouvent généralement leur origine dans la peau, le tissu conjonctif et les os.
+For staphylococcal infections (usually originating in the skin, connective tissue and bones) and treatment of mastitis.
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-## Adultes:
+## Adults:
 
-1g toutes les 4 heures IV ou par voie orale.
+**For staphylococcal infections**: cloxacillin
+1 g IV or orally every 4 hours. 
 
-## Nouveau-nés:
+**For mastitis**: cloxacillin 500 mg orally every 6 hours.
 
-Moins de 7 jours de vie :
+## Newborns:
 
-25-50 mg/kg IM ou IV toutes les 12 heures
+**Under 7 days:**
 
-Plus de 7 jours de vie:
+Cloxacillin 50 mg/kg IM or IV every 12 hours.
 
-25-50 mg/kg IM ou IV toutes les 8 heures
+**Above 7 days:**
 
-# Contre-indications
+Cloxacillin 50 mg/kg IM or IV every 8 hours.
 
-N'administrez pas aux patients allergiques à la pénicilline.
+# Contraindications
 
-Administrez avec prudence aux patients allergiques aux céphalosporines (sensibilité croisée peut survenir).
+Do not administer to patients with a penicillin-allergy.
 
-Administrez avec prudence aux nouveau-nés (risque d'hyperbilirubinémie).
+Administer with caution to patients with a cephalosporin allergy (cross-sensitivity may occur).
 
-Réduisez la dose de moitié chez les patients présentant une insuffisance rénale.
+Administer with caution to neonates (risk of hyperbilirubinemia).
 
-# Effets indésirables
+Reduce the dose by half in patients with renal impairment.
 
-Les effets indésirables fréquents sont la nausée, les vomissements, le pyrosis, la diarrhée et les éruptions cutanées.
+# Adverse reaction
 
-Les effets indésirables peu fréquents sont l'urticaire, le prurit, l'hématurie, et l'insuffisance rénale.
+Common adverse reactions are nausea, vomiting, heartburn, diarrhoea, and skin rash.
 
-Les effets indésirables rares sont la fièvre, la colite pseudomembraneuse, l'hépatite, le bronchospasme, l'hypotension, le collapsus circulatoire, l'anémie, la léthargie et les convulsions.
+Uncommon adverse reactions are urticaria, itching, haematuria, and renal failure.
+
+Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collapse, anaemia, lethargy, and convulsions.
 
 ---

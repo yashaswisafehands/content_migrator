@@ -1,21 +1,25 @@
 ## Introduction
 
-La contraception d'urgence (CU) peut prévenir une grossesse après un rapport sexuel non protégé, suite à une mauvaise utilisation ou à un échec de la contraception (préservatif fendu ou pilule oubliée), à un viol ou à un rapport sexuel forcé en empêchant ou en retardant la libération des ovules par les ovaires.
+Emergency contraception (EC) can prevent pregnancy after unprotected sex, following contraceptive misuse or failure (split condom or missed pill), and rape or coerced sex by preventing or delaying ovulation.
 
-## Médicaments (de l'efficacité la plus élevée à la plus faible)
+## Medications (from highest to lowest effectiveness)
 
-- DIU au cuivre pour CU
-- **Acétate d'ulipristal** oral (Ella/ellaOne)
-- Comprimé oral de**mifépristone**oral
-- **Lévonorgestrel** oral (Plan B/Levonelle)
-- Méthode Yuzpe : association **éthinylestradiol + lévonorgestrel**
+- Copper IUD 
+- **Ulipristal acetate  orally**(Ella/ellaOne)
+- **Mifepristone orally**
+- **Levonorgestrel** **orally**(Plan B/Levonelle) 
+- Yuzpe method: **ethinyl oestradiol + levonorgestrel** combination
 
-## Effets secondaires courants
+## Common side-effects
 
-Certains peuvent ressentir des maux de tête, des douleurs abdominales, des modifications à court terme des saignements, des nausées et des vomissements.
+Some may experience headaches, abdominal pain, short term changes to bleeding patterns, nausea and vomiting.
 
-## Plus d'information
+## Contraindication
 
-Voir l'emballage pour des conseils spécifiques sur chaque médicament.
+With ulipristal acetate (Ella/ellaOne), breastfeeding is not recommended for 7 days after taking the pill.
+
+## More information
+
+See medication guidelines packed with medication for more specific guidance.
 
 ---

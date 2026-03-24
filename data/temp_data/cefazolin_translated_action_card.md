@@ -24,6 +24,6 @@ Allergy to β-lactamase antibiotics.
 
 Common adverse reactions are hypersensitivity and skin rashes.
 
-Uncommon reactions are urticaria, bronchospasm, anaphylaxis, nausea, vomiting, diarrhea and reversible cholestatic jaundice.
+Uncommon reactions are urticaria, bronchospasm, anaphylaxis, nausea, vomiting, diarrhoea and reversible cholestatic jaundice.
 
 ---

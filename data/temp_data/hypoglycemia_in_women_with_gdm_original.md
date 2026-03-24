@@ -8,17 +8,11 @@ Hypoglycemia is when blood sugar level is < 70 mg/dL.
 
 Prompt recognition and immediate treatment is important.
 
-![Image](99e1761cffd64b0998058bc9457bd793)
-
 ## Recognition of hypoglycemia
 
 - Early symptoms: Tremors of hands, sweating, palpitations, hunger, easy fatigability, headache, mood changes, irritability, low attentiveness, tingling sensation around the mouth/lips or any other abnormal feeling.
 - Severe symptoms: Confusion, abnormal behaviour or both, visual disturbances, nervousness, or anxiety.
 - Uncommon symptoms: - Seizures and loss of consciousness.
-
-![Image](059f85ef571a4f61985a8fd4f93d0619)
-
-![Image](5fdb0c4d0bdb424787735dc10236f663)
 
 ## Management of hypoglycemia
 
@@ -28,8 +22,6 @@ If glucose is not available, take one of the following:
 
 - Sugar - 6 TSF in a glass of water/fruit juice/honey
 - Anything which is sweet/any food.
-
-![Image](03561d63e9de4982a905eeb7eb8fb346)
 
 - After taking oral glucose, rest and avoid any physical activity.
 

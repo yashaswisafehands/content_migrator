@@ -2,7 +2,7 @@
 
 ### Neonatal Jaundice
 
-![Image](2a9b1b71042f4cb7ab537faaa0ed80d6)
+![Image](48c291b38b674d3da4d9497cb8eae68f)
 
 Ensure that all newborns are routinely monitored for the development of jaundice.
 

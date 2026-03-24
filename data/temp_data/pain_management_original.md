@@ -11,14 +11,14 @@ To ensure that oral pain relief is effective, administer it 30-45 minutes prior 
 - Hot water-bottle and heating pad 
 - Deep and controlled breathing
 
-![Image](ba5aa5e1987d4020a35133645c88e83b)
+![Image](01bcea1ee13f4645a309419b0c68a9b1)
 
 **Pharmacological methods:**
 
 - NSAIDs (e.g. Ibuprofen 400-800mg)
 - Anxiolytics/sedatives (e.g. Diazepam 5-10mg)
 
-![Image](90e492849c1f490085f6a18b5cce01c7)
+![Image](43aeb57731aa419b87e0f807f3ce732b)
 
 ## Surgical abortion
 
@@ -28,7 +28,7 @@ For pain management for surgical abortion (additional to NSAIDS) the use of a pa
 
 **Example of paracervical block:**
 
-![Image](a6acb69dc5024c9db88664e092ec12c5)
+![Image](3371044e4c3a47d9b9137c98e066598d)
 
 - Inject 1-2 ml of anaesthetic at the cervical site where the tenaculum will be placed (either at 12 o’ clock or 6 o’clock). 
 - Stabilize the cervix with the tenaculum at the anaesthetized site.

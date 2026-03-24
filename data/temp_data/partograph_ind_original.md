@@ -10,7 +10,7 @@ Start plotting the partograph when the woman enters in active phase of labour, i
 
 ## The partograph has the following components:
 
-![Image](c64d700873b240cf81f16011de013936)
+![Image](de77e222707e4e9a88f47500ae003b0e)
 
 1. Identification data
 2. Foetal condition
@@ -26,7 +26,7 @@ The partograph starts with the identification information of the mother.
 
 **This section includes:**
 
-![Image](b9a44cbeb9c04078941bfdff72df0f23)
+![Image](8f8d5460bab9476f8a3fec6b7145046f)
 
 - Name
 - Age
@@ -47,7 +47,7 @@ On the foetal condition section, record foetal indicators such as:
 - Count FHR every half an hour and mark as a dot.
 - Normal FHR is between 120–160 beats per minute.
 
-![Image](61edcc86c2c445f0852efcac4209719d)
+![Image](3f35cc08993c452cbe35d108baabf13b)
 
 ### Amniotic Fluid:
 
@@ -70,7 +70,7 @@ Check the status of membrane and colour of amniotic every half hourly using a st
 
 > Note- Plotting to the right of the Alert line indicates prolonged or obstructed labour.
 
-![Image](72aa4873a7ed46f494ceb371d6065b39)
+![Image](e05319a9026949bd970de7ab0e1b4dd9)
 
 ### Contractions:
 
@@ -78,7 +78,7 @@ Record the number of uterine contractions per 10 minutes in every half an hour.
 
 Duration in seconds indicates the following symbols:
 
-![Image](afde47634a5f46d39d236d06f3643bf9)
+![Image](d76a976844404814b9babbaa91c09f1d)
 
 ---
 
@@ -86,7 +86,7 @@ Duration in seconds indicates the following symbols:
 
 Mention dose, route and time of administration of any drug and IV fluid given before delivery.
 
-![Image](8dd62d43117d452fbb5b00680ee1ce6a)
+![Image](e1ab6f4c23cd49439f446d3337cd2461)
 
 ---
 
@@ -98,7 +98,7 @@ This section is for information about maternal indicators such as:
 - **Blood pressure:** Plot every 4 hours using a vertical arrow with upper end signifying systolic BP and lower end diastolic BP
 - **Temperature:** should be noted every 4 hours.
 
-![Image](a267218be285438eb46345ccc91801c7)
+![Image](3449803b5f5a4521b606c88f3caf1fe7)
 
 ---
 

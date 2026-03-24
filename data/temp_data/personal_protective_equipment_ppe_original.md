@@ -17,7 +17,7 @@ Perform hand hygiene before putting on the PPE.
 
 If performing an aerosol-generating procedure (e.g. intubation or resuscitation), a respirator (E.g. EU FFP2 or equivalent respirator) should be used instead of a medical mask.
 
-![Image](031b96ff81884e4fa765dd6bfb41c6a6)
+![Image](f00bd960b2e6431eb87ff2113312e7c4)
 
 ---
 
@@ -26,7 +26,7 @@ If performing an aerosol-generating procedure (e.g. intubation or resuscitation)
 - Do not use the same PPE for different patients. 
 - Do not step into a clean area wearing contaminated PPE.
 
-![Image](1b90495cae61402db9a055b817daf294)
+![Image](399e95985935409c89c4914410871a70)
 
 From at least 1 meter away from the woman, remove all PPE in the following order before leaving the room:
 

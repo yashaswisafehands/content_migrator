@@ -1,25 +1,25 @@
-# Chapter: Indications et utilisation
+# Chapter: Indication and Usage
 
-L'amoxicilline est un antibiotique bêta-lactamine efficace contre les infections bactériennes Gram positif et Gram négatif ainsi que les hélicobacter.
+Amoxicillin is a β-lactam antibiotic effective on gram-positive and gram-negative bacterial infections as well as helicobacter.
 
-# Posologie et mode d'emploi
+# Dosage and administration
 
-Adulte:
+**Adults:**
 
-1g en IV suivi par 500 mg par voie orale toutes les 8 heures pendant 7 jours.
+Amoxicillin 1 g IV followed by 500 mg orally every 8 hours for 7 days.
 
-Nouveau-né de 0-28 jours ayant un rythme respiratoire de plus de 60/min comme seul signe de maladie:
+**Newborns**over 7 days old with fast breathing (>60 breaths/min) and no other sign of illness:
 
-40 mg/kg par voie orale toutes les 12 hrs durant 7 jours.
+Amoxicillin 50 mg/kg orally, every 12 hours for 7 days.
 
-# Contre-indications
+# Contraindications
 
-Allergie à la pénicilline
+Allergy to penicillin
 
-# Effets indésirables
+# Adverse reaction
 
-Les effets indésirables fréquents sont la diarrhée, l'éruption cutanée, la nausée.
+Common adverse reactions are diarrhoea, skin rash, nausea.
 
-Les effets indésirables peu fréquents sont des vomissements, des étourdissements, des convulsions, une stomatite, une glossite, une colite pseudomembraneuse, une diminution des plaquettes, une anémie, de l'urticaire ou un choc anaphylactique.
+Uncommon reactions are vomiting, dizziness, convulsions, stomatitis, glossitis, pseudomembranous colitis, lowered platelets, anaemia, urticarial or anaphylactic shock.
 
 ---

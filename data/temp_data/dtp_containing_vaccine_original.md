@@ -4,7 +4,8 @@ Prevention of diphtheria, Tetanus, and Pertussis
 
 # Dosage and Administration
 
-- DTP vaccine 0.5 ml IM in the anterolateral aspect of the thigh.   **Dosing schedule:**
+- DTP vaccine 0.5 ml IM in the anterolateral aspect of the thigh.
+- **Dosing schedule:**
 - 1st dose at 6 weeks
 - 2nd dose at 10 weeks
 - 3rd dose at 14 weeks (can be given in combination with Hepatitis B and Hib vaccines)

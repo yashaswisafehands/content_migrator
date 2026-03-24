@@ -1,22 +1,22 @@
-# Chapter: Indications et utilisation
+# Chapter: Indication and Usage
 
-La flucloxacilline est destinée au traitement des infections dues à des organismes Gram positifs, y compris les staphylocoques et les streptocoques producteurs de β-lactamases.
+Flucloxacillin is treatment for infections due to sensitive gram-positive organisms, including β-lactamase-producing staphylococci and streptococci.
 
-# Posologie et mode d'emploi
+# Dosage and administration
 
-Adulte:
+**Adults:**
 
-500 mg par voie orale toutes les 8 heures pendant 7 jours.
+Flucloxacillin 500 mg orally every 8 hours for 7 days
 
-# Contre-indications
+# Contraindications
 
-Allergie à la pénicilline.
-Antécédents d'hypersensibilité aux antibiotiques β-lactamines.
+Allergy to penicillin.
+History of hypersensitivity to β-lactam antibiotics.
 
-# Effets indésirables
+# Adverse reaction
 
-Les effets indésirables fréquents sont la nausée, la diarrhée, l'éruption cutanée.
+Common adverse reactions are nausea, diarrhoea, skin rash.
 
-Les effets indésirables peu fréquents sont: neutropénie, thrombocytopénie, choc anaphylactique, colite pseudomembraneuse, hépatite et ictère cholestérique, érythème polymorphe, syndrome de Stevens-Johnson, nécrolyse épidermique toxique, arthralgie, myalgie, néphrite interstitielle ou fièvre qui se développe parfois plus de 48 heures après le début du traitement.
+Uncommon reactions are neutropenia, thrombocytopenia, anaphylactic shock, pseudomembranous colitis, hepatitis and cholesteric jaundice, erythema multiforme, stevens-Johnson syndrome, toxic epidermal necrolysis, arthralgia, myalgia, interstitial nephritis or fever that sometimes develops more than 48 hours after the start of the treatment.
 
 ---

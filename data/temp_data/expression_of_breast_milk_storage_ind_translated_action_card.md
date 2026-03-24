@@ -1,23 +1,23 @@
-# Chapter: ब्रेस्ट मिल्क का एक्सप्रेशन और स्टोरेज - उपयोग
+# Chapter: Expression of breast milk & storage - Usage
 
-छोटे और लो बर्थ वेट (एल.बी.डब्लू) नवजात शिशुओं के लिए, जो सीधे स्तनपान नहीं कर सकते, ब्रैस्ट मिल्क का एक्सप्रेशन और स्टोरेज महत्वपूर्ण है।यह माताओं में मिल्क प्रोडक्शन बनाए रखने और स्तनों की सूजन (एंगॉर्जमेंट) घटाने में भी मदद करता है।
+Expressing and storing breast milk is important for small and low birth weight (LBW) newborns who cannot breastfeed directly, and it also helps mothers maintain milk production and relieve engorgement.
 
-**उपकरण और सामग्री**
+**Equipment and Supplies**
 
-- तौलिया
-- कटोरी
+- Towel 
+- Katori
 
 ---
 
-# Chapter: ब्रेस्ट मिल्क का एक्सप्रेशन और स्टोरेज  - प्रैक्टिकल जानकारी
+# Chapter: Expression of breast milk & storage - Practical Information
 
-ब्रैस्ट मिल्क को मैन्युअली निकालने के मुख्य चरण नीचे दी गये चित्र में दिखाए गए हैं।
+The main steps of manual expression of breast milk shown in the figure below.
 
-![Image](ae3896bcb4c347ba9ef438813cc30874)
+![Image](0f32104139524a28ad316f27d49188a2)
 
-## स्टोरेज
+## Storage
 
-- यदि एक्सप्रेस किया गया ब्रैस्ट मिल्क (ई.बी.एम) तुरंत उपयोग नहीं किया जा सकता, तो इसे ढके हुए कंटेनर में कमरे के तापमान पर अधिकतम 6 घंटे तक रखा जा सकता है।
-- इसके अलावा, इसे रेफ्रिजरेटर के मुख्य कम्पार्टमेंट (2 से 8 डिग्री सेल्सियस) में अधिकतम 24 घंटे तक रखा जा सकता है।
+- If expressed breast milk (EBM) cannot be used immediately, it can be kept at room temperature for up to 6 hours in a covered container. 
+- And also be stored in the main compartment of a refrigerator (2°C to 8°C) for up to 24 hours.
 
 ---

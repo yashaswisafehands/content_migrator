@@ -1,131 +1,155 @@
-# Chapter: Pose du DIU/SIU introduction
+# Chapter: IUD/IUS insertion introduction
 
-Un DIU/SIU peut être inséré à tout moment du cycle menstruel s'il est certain que la femme n'est pas enceinte et n'a pas de chlamydia ou de gonorrhée.
-
-Il peut être inséré dans les 48 heures suivant un accouchement (césarienne comprise). Si plus de 48 ans, retardez jusqu'à 4 semaines après la naissance. Il peut également être inséré immédiatement après un avortement chirurgical et après confirmation du passage des produits de conception suite à un avortement médicamenteux.
+An IUD/IUS can be inserted at any time in the menstrual cycle if it is certain the woman is not pregnant and does not have any sexually transmitted infection.
 
 ## Documentation
 
-Un formulaire de consentement doit être signé par le client. La documentation doit être complète et correcte. Remettez une fiche d'enregistrement au client avec les informations suivantes :
+A consent form should be signed by the woman.
 
-- Type de DIU/SIU et date d'insertion
-- Date à laquelle le DIU/SIU devra être retiré ou remplacé
-- Où faire si elles ont des problèmes ou des questions concernant leur DIU/IUS
-
----
-
-# Chapter: Pose postnatale immédiate du DIU/SIU
-
-## Équipement stérile
-
-- Champ stérile
-- Gants
-- 2 x Pince à anneau
-- Ciseaux
-- Bol avec des boules de coton
-- Bol avec solution antiseptique
-- Pack DIU/IUS (comprenant le dispositif et le matériel d'insertion)
-
-![Image](a8392c6e4ce64363a57e785b6a4d1a74)
-
-## Matériel non stérile
-
-- Lampe frontale ou lampe chirurgicale
-
-## Procédure d'insertion
-
-1. Vérifiez toute contre-indication liée à l'accouchement (par exemple, rupture prolongée des membranes (> 18 heures), hémorragie post-partum continue et chorioamniotite)
-2. Le DIU/SIU est inséré après retrait du placenta
-3. Les options standard d'analgésie pendant le travail et l'accouchement peuvent être utilisées pour l'insertion du DIU
-4. Nettoyer la zone périnéale
-5. Palper l'abdomen pour évaluer la hauteur utérine
-6. À l'aide d'un spéculum, exposer et visualiser le col antérieur
-7. Saisir doucement le col antérieur avec une pince à anneau.
-8. Préparez-vous à l’insertion du DIU/SIU
-9. Grasp IUD/IUS with new ring forceps at the T junction – do not lock the forceps as this may damage the IUD/IUS
-10. Saisissez-le de manière à ce que la tige et les fils soient parallèles à la pince
-11. Le haut du DIU/SIU doit être aligné avec l'extrémité de la pince et les fils doivent être éloignés de la tige de la pince pour éviter qu'ils ne soient tirés lorsque la pince est retirée.
-12. Certains applicateurs de DIU/SIU sont suffisamment longs pour être utilisés dans la période postnatale immédiate, de sorte que les forceps ne sont pas toujours nécessaires pour l'insertion.
-13. Tout en vous rétractant doucement sur le col et sous visualisation directe, intr   oduisez le DIU/IUS à travers le col dans le bas de l'utérus.
-14. Relâchez la main qui rétractait le col et placez-la sur l'abdomen
-15. Stabilisez l'utérus avec la main, en ajoutant une légère pression vers le haut pour redresser l'utérus.
-16. Avancez le DIU/SIU jusqu’au fond utérin
-17. Confirmer le placement fundique avec la main abdominale et la main d'insertion
-18. Relâchez le DIU/SIU des pinces en les ouvrant le plus grand possible
-19. Retirer la pince le long de la paroi droite de l'utérus pour ne pas retirer le dispositif
-20. Les cordes peuvent être visibles ou non au niveau du système d'exploitation cervica
+- Document the following information:
+- Type of IUD/IUS and date of insertion.
+- Date when the IUD/IUS will need to be removed or replaced.
+- Where to go if they have problems with or questions about their IUD/IUS.
 
 ---
 
-# Chapter: Pose d'un DIU/SIU non- postnatal
+# Chapter: Immediate postpartum IUD/IUS insertion
 
-## Équipement stérile
+## Sterile equipment
 
-- Champ stérile
-- Gants
-- Pince à anneau
-- Pince étroite
-- Ténaculum
-- Hysterometre 
-- Ciseaux
-- Bol avec des boules de coton
-- Bol avec solution antiseptique
-- Pack DIU/IUS (comprenant le dispositif et le matériel d'insertion)
+- Sterile surface
+- Sterile gloves
+- Ring forceps
+- Long kelly forceps 
+- Scissors
+- Bowl with cotton balls
+- Bowl with antiseptic solution
+- IUD/IUS pack
 
-![Image](cf7ccb3a9c134c3ab3a37be74a96c4bf)
+![Image](a5404c0a3ac84554b11d91c9992e8ab6)
 
-## Matériel non stérile
+## Non-sterile equipment
 
-- Lampe frontale ou lampe chirurgicale
+- Headlight or surgical lamp
 
-## Procédure d'insertion
+## Insertion procedure
 
-1. Administrer du paracétamol ou de l'ibuprofène par voie orale 30 minutes avant l'insertion
-2. Utiliser la technique de prévention des infections (sans contact)
-3. Faire un examen bimanuel pour déterminer la position de l'utérus 
-4. Insérez délicatement un spéculum dans le vagin pour inspecter le col de l'utérus
-5. Insérez lentement le tenaculum à travers le spéculum et saisissez doucement le col avec le tenaculum
-6. Nettoyer le col et le vagin avec un antiseptique
-7. Confirmez la taille et la position de l'utérus en faisant passer l’hystéromètre à travers le col de l'utérus
-8. Chargez le DIU/SIU choisi dans l'inserteur alors que les deux sont encore dans l'emballage stérile, en insérant la tige jusqu'à la base du DIU/IUS et en réglant la bride en fonction de la mesure hystéromètre
-9. Insérez le DIU/SIU à l'aide de l'inserteur dans l'utérus jusqu'à ce que la bride soit contre l'orifice cervical
-10. ) Retirez le tube d'insertion d'environ 2 cm sur la tige d'insertion, en gardant la tige fixe, et attendez 10 secondes pour que les bras du DIU/SIU puissent s'ouvrir en forme de « T »
-11. Retirer la tige d'insertion
-12. Déplacez doucement le tube d'insertion jusqu'au fond utérin pour assurer le placement fundique du DIU/IUS
-13. Retirez le tube d'insertion pour laisser le DIU/IUS dans la cavité
-14. Éviter la perforation en retirant le tube d'insertion plutôt qu'en poussant la tige d'insertion
-15. Coupez les ficelles du DIU/SIU en laissant environ 3 cm dépasser du col de l'utérus
+An IUD/IUS can be inserted within 48 hours following birth (including caesarean section) or after4 weeks postpartum. It can also be inserted immediately after a surgical abortion, and after passage of products of conception following medical abortion has been confirmed.
 
-![Image](98ecd69051fc49fcb4589a452e43fa47)
+1. Check for any delivery related contraindications for IUD/IUS (e.g., prolonged rupture of membranes (>18 hours), continuing postpartum haemorrhage, and corioamnionitis.
 
-![Image](e67654c81e6a48819ce2359d63ae7679)
+2. The IUD/IUS is inserted after removal of placenta. 
+
+3. Standard options for analgesia in labour and delivery can be used for the IUD insertion.
+
+4. Clean the perineal área.
+
+5. Palpate abdomen to assess the uterine height.
+
+6. Using a speculum, expose and visualise the anterior cervix.
+
+7. Clean the cervix and vagina with antiseptic solution.
+
+8. Gently grasp the anterior cervix with a ring forceps, do not lock it.
+
+9. Open the sterile package of IUD from bottom by pulling back plastic cover approximately 1/3 upwards and remove the plunger and insertion rod.
+
+10. Grasp the IUD/IUS with the long Kelly forceps at the T junction as so that the stem and the stings are parallel with the forceps – do not lock the forceps as this may damage the IUD/IUS.
+
+11. Some brands of IUD/IUS have applicators that are long enough to use in the immediate postnatal period, so forceps may not always be needed for insertion.
+
+12. Gently lift the anterior lip of cervix using ring forceps and apply gentle traction to steady the cervix.
+
+13. Insert the PPIUD insertion forceps holding IUD into lower uterine cavity up to the point of feeling slight resistance against back wall of the uterus.
+
+14. Gently remove ring forceps from the cervix and leave it on the sterile tray or drape area.
+
+15. Move the other hand to the lower part of abdomen and gently push the uterus upward in the abdomen to reduce the angle and curvature between the uterus and vagina.
+
+16. Advance the IUD/IUS to the uterine fundus. 
+
+17. Confirm fundal placement with both abdominal hand and the inserting hand.
+
+18. Release the IUD/IUS from the forceps, opening them as wide as possible and tilting it. 
+
+19. Withdraw the forceps along the right wall of the uterus keeping it open not to pull out the device.
+
+20.  Strings may or may not be visible at the cervical OS.
 
 ---
 
-# Chapter: Suivi post-insertion (3-6 semaines)
+# Chapter: Standard IUD/IUS insertion
 
-Demandez si la femme est satisfaite de la méthode et si elle a des questions. Demandez-lui si elle a :
+## Sterile equipment
 
-- Modifications des saignements
-- Douleur pendant les rapports sexuels/la miction
-- Pertes vaginales inhabituelles
-- Fièvre
-- Signes/symptômes de grossesse
-- Un examen pelvien de routine n'est pas requis lors du suivi
+- Sterile field
+- Gloves
+- Ring forceps
+- Speculum
+- Tenaculum
+- Uterine sound 
+- Scissors
+- Bowl with cotton balls
+- IUD/IUS pack (including the device and inserter)
+
+![Image](b39c37b1994b4a1483e127a34d0b6fbe)
+
+## Non-sterile equipment
+
+- Headlight or surgical lamp
+- Antiseptic solution
+
+## Insertion procedure
+
+1. Provide oral paracetamol or ibuprofen 30 minutes before insertion.
+2. Use infection prevention (non-touch) technique.
+3. Do a bimanual examination to determine the position of the uterus. 
+4. Gently insert speculum into the vagina to inspect the cervix.
+5. Clean cervix and vagina with antiseptic.
+6. Slowly insert the tenaculum through the speculum and gently grasp the cervix with the tenaculum.
+7. Confirm the uterine size and position by passing the sound through the cervix using no-touch technique.
+8. Load the chosen IUD/IUS into inserter while both are still in the sterile package, inserting the insertion rod up to the base of the IUD/IUS.
+9. Set the flange to the uterine sound measurement.
+10. Insert the inserter loaded with the IUD/IUS into the uterus until the flange is against the cervical os or until you meet resistance.  
+11. Withdraw the inserter tube approximately 2cm backwards while keeping the inner rod fixed in place, and wait 10 seconds so that the IUD/IUS arms can spread open in a ‘T’ shape. 
+12. Remove insertion rod from the inserter.
+13. Move the insertion tube gently up to the fundus to ensure that the IUD/IUS is placed at the fundus.
+14. Withdraw the insertion tube to leave the IUD/IUS in the uterine cavity.
+15. Cut strings on the IUD/IUS, leaving about 3 cm hanging out of the cervix.
+
+![Image](ca535146f1fb4ab6a07abb105d869dc6)
+
+![Image](4e047565bb23423b8c9f738281cc397f)
 
 ---
 
-# Chapter: La technique sans contact
+# Chapter: Post-insertion follow-up (3-6 weeks)
 
-## Pose du DIU/SIU
+Ask the woman if she is satisfied with the method and if she has questions. Ask her if she has:
 
-Lors de l'insertion du DIU/SIU, une technique sans contact signifie que l'inserteur chargé ou l’hystéromètre  ne touche aucune surface non stérile (mains, spéculum, vagin, table, etc.) et implique :
+- Bleeding changes.
+- Pain during sex/urination.
+- Unusual vaginal discharge.
+- Fever.
+- Signs/symptoms of pregnancy.
+- Routine pelvic examination is not required at the follow up.
 
-- Chargement du DIU/IUS dans l'inserteur alors que le dispositif est encore dans l'emballage stérile, pour éviter tout contact direct
-- Nettoyer soigneusement le col avec un antiseptique avant l'insertion
-- Faire attention à ne pas toucher la paroi vaginale ou les lames du spéculum avec l’hystéromètre ou l'inserteur chargé
-- Passage de l’hystéromètre et de l'inserteur chargé une seule fois chacun dans le canal cervical
+Only conduct a pelvic examination if the woman describes signs of  infection or signs that the IUD has partially or completely come out.
 
-![Image](dd296cc8268e4759871079cec2bed2a1)
+---
+
+# Chapter: The non-touch technique
+
+## IUD/IUS insertion
+
+During IUD/IUS insertion, a non-touch technique means not letting the loaded inserter or uterine sound touch any unsterile surface (hands, speculum, vagina, tabletop, etc.).
+
+- Non-touch technique involves:
+- Loading the IUD/IUS into the inserter while the device is still in the sterile package, to avoid direct contact. 
+- Cleaning the cervix thoroughly with antiseptic before insertion.
+- Being careful not to touch the vaginal wall or speculum blades with the uterine sound or loaded inserter.
+- Passing the uterine sound and loaded inserter only once each through the cervical canal.
+
+![Image](98cfa4c9ae6044e9b5047b92f7b4040b)
 
 ---

@@ -15,7 +15,7 @@ Emptying the bladder with a urinary catheter is indicated:
 
 # Chapter: Indwelling Urinary Catheter
 
-![Image](63349ea3616543219902a4bbaae90986)
+![Image](08042068c7b54b4c857c8c11855d4d38)
 
 ## Practical information
 

@@ -2,7 +2,7 @@
 
 ### Vacuum Extractor - Usage
 
-Vacuum delivery is a "single function" of basic emergency obstetric care; and must therefore be mastered by all skilled birth attendants.
+Vacuum delivery is a "single function" of basic emergency obstetric care and must therefore be mastered by all skilled birth attendants.
 
 ### Indications
 
@@ -39,7 +39,7 @@ Metal and plastic cups are half as likely to “pop off” when compared to soft
 
 Before applying suction, center the cup on the foetal head's "flexion point", which is 3 cm anterior to the posterior fontanelle and aligned with the sagittal suture.
 
-![Image](76efeff241384b9e8ef3bdde410e0536)
+![Image](e406d6099d0f4291a35b700fc8ec4dc2)
 
 The flexion point enables maximizes traction and minimizes "pop-offs".
 

@@ -1,29 +1,29 @@
-# Chapter: Indications et utilisation
+# Chapter: Indication and usage
 
-Le céfotaxime est indiqué dans le cas d'infection majeure soit avant que l'organisme infectieux n'ait été identifié ou lors d'une infection bactérienne. Ceci inclus l'ostéomyélite, la septicémie, l'endocardite bactérienne, la péritonite et les autres infections bactériennes graves auxquelles conviennent une antibiothérapie parentérale.
+Cefotaxime is indicated for the treatment of serious infections, either before the infecting organism has been identified or when bacterial infection is known. This includes osteomyelitis, septicaemia, bacterial endocarditis, meningitis, peritonitis and other serious bacterial infections suitable for parenteral antibiotic therapy.
 
-# Posologie et mode d'emploi
+# Dosage and administration
 
-## Nouveau-nés:
+## Newborns:
 
-0-28 jours (poids en dessous de 2.5 kg):
+**0-28 days (weight < 2.5 kg):**
 
-50 mg/kg/dose x 2 IV
+Cefotaxime 50 mg/kg/dose IV (x 2)
 
-Avant 7 jours (poids au dessus de 2.5 kg):
+**Under 7 days (weight > 2.5 kg):**
 
-50 mg/kg/dose x 3 IV
+50 mg/kg/dose IV (x 3)
 
-Plus de 7 jours (poids au dessus de 2.5 kg):
+**Above 7 days (weight > 2.5 kg):**
 
-50 mg/kg/dose x 4 IV
+Cefotaxime 50 mg/kg/dose IV (x 4)
 
-# Contre-indications
+# Contraindications
 
-Chez les patients ayant un historique d'hypersensibilité au céfotaxime, toute autre pénicilline ou tout autre type de bêta-lactame.
+In patients with a history of hypersensitivity to cefotaxime, any other penicillin or to any other type of beta-lactam drug.
 
-# Effets indésirables
+# Adverse reactions
 
-Les effets secondaires habituels sont: réaction au site d'injection, anorexie, douleur à l'estomac, nausée, vomissement, diarrhée et céphalées.
+Common side effects are: injection site reactions, loss of appetite, stomach pain, nausea, vomiting, diarrhoea and headaches.
 
 ---

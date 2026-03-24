@@ -21,7 +21,7 @@ Treatment should not exceed 7 days.
 
 # Contraindications
 
-None. Caution should be taken at severe liver insufficiency.
+None. Caution should be taken in cases of severe liver insufficiency.
 
 # Adverse Reactions
 

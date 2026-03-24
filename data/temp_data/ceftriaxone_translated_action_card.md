@@ -1,40 +1,47 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and usage
 
-Traitement des infections bactériennes. Alternative en cas d'allergie à la pénicilline.
+Treatment of bacterial infections. Alternative to penicillin with allergy to penicillin.
 
-# Posologie et mode d'emploi
+# Dosage and administration
 
-## Adulte:
+## Adults:
 
-4 g IV dose initiale (maximum 4 g / jour)
-1 à 2 g IV ou IM une fois par jour.
+**Initial dose:**
+Ceftriaxone 4 g IV (max 4g/day)
 
-## Nouveau-nés:
+**Following doses:**
+Ceftriaxone 1-2 g IV/IM once daily
 
-En cas de méningite:
+## Newborns:
 
-50 mg/kg toutes les 12 hrs IV ou 100 mg/kg par dose une fois par jour IV ou IM.
+**For meningitis:**
 
-Conjonctivite gonococcique (écoulement oculaire de pus) :
+Ceftriaxone 50mg/kg IV every 12 hours, 
 
-50 mg/kg IM en dose unique (maximum 125 mg).
+OR
 
-# Contre-indications
+Ceftriaxone 100mg/kg IV/IM once daily
 
-Ne pas administrer aux patientes allergiques aux céphalosporines.
+**For pus draining from the eye:**
 
-Les nouveau-nés (≤ 28 jours) hyperbilirubinémiques, en particulier les prématurés, ne doivent pas être traités par la ceftriaxone.
+Ceftriaxone 50 mg/kg IM (single dose, max 125 mg)
 
-Des études in vitro ont montré que la ceftriaxone peut remplacer la bilirubine par sa liaison à la sérumalbumine, ce qui pourrait entraîner un risque d'encéphalopathie bilirubinique chez ces patients.
+# Contraindications
 
-**La ceftriaxone est contre-indiquée chez les nouveau-nés s'ils nécessitent (ou devraient nécessiter) un traitement avec des solutions intraveineuses contenant du calcium, y compris des perfusions continues contenant du calcium telles que la nutrition parentérale en raison du risque de précipitation de ceftriaxone-calcium.**
+Allergy to cephalosporins. Severe reactions to penicillin (anaphylactic reactions)
 
-# Effets indésirables
+Neonates ≤28 days, those with hyperbilirubinemia, and those who are premature should not be treated with ceftriaxone.
 
-Effets indésirables les plus fréquents : nausées, vomissements, diarrhée, éruption cutanée, démangeaisons et réactions locales au point d’injection.
+Ceftriaxone can displace bilirubin from its binding to serum albumin, possibly leading to a risk of bilirubin encephalopathy in these patients.
 
-Effets indésirables peu fréquents : maux de tête, étourdissements et réactions anaphylactiques.
+**Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions (such as parenteral nutrition), because of the risk of precipitation of ceftriaxone-calcium.**
 
-Effets indésirables rares : baisse de plaquettes, nécrose cutanée, fièvre médicamenteuse, candidose, anémie hémolytique, pancréatite, perte d’audition.
+# Adverse reactions
+
+Common adverse reactions are nausea, vomiting, diarrhoea, skin rash, and itching.
+
+Uncommon reactions are headache, dizziness, and urticaria.
+
+Rare reactions are lowered platelets, necrosis of the skin, drug fever, candidiasis, haemolytic anaemia and hearing loss.
 
 ---

@@ -10,11 +10,11 @@ To helminth infected women in non-endemic areas.
 
 ## Dosage and Administration
 
-Single dose of 500 mg orally after the first trimester, 
+Single dose of mebendazole 500 mg orally after the first trimester, 
 
 OR 
 
-100 mg twice daily for three days
+Mebendazole 100 mg every 12 hours for 3  days
 
 ## Contraindications
 

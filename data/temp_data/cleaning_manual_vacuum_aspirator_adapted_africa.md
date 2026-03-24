@@ -14,10 +14,10 @@ Antibiotics should ideally be given before an MVA procedure, but must not delay 
 
 # Chapter: Practical information
 
-### Cleaning manual vacuum aspirator - practical information 
+### Cleaning manual vacuum aspirator - practical information
 (This information applies to MVAs registered for reuse)
 
-![Image](1dd527976cb54f4c8254bf4f25a54ad8)
+![Image](81e781ca112d4d418e66a25ca48459cd)
 
 ### Cleaning after use
 
@@ -74,8 +74,8 @@ Displace the plunger O-ring by squeezing its sides and rolling it into the groov
 
 It is not necessary to completely remove it.
 
-![Image](0886ccb2573a429f9e32c2d16fd849cd)
+![Image](30dfdd738c7b48f99c2a4ad43f42afc8)
 
-![Image](06ca55b77a9d404dac17425291e69729)
+![Image](e68d5618baa94fdd95159662fd0364f6)
 
 ---

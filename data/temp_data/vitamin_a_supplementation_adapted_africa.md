@@ -2,19 +2,19 @@
 
 To prevent night blindness.
 
-It is recommended to pregnant women in areas where vitamin A deficiency is a severe public health problem from 12 weeks during pregnancy until delivery.
+It is recommended for pregnant women, from 12 weeks’ gestation until birth, in areas where vitamin A deficiency is a severe public health problem.
 
 ## Dosage and Administration
 
-Up to 10 000 IU vitamin A (daily dose) orally, 
+Vitamin A 10 000 IU (max) orally daily 
 
 OR
 
-Up to 25 000 IU vitamin A (weekly dose) orally
+Vitamin A 25 000 IU (max) orally weekly
 
 ## Contraindications
 
-Single dose of more than 25 000 IU 15 to 60 days following conception
+If consumed between days 15 and 60 of pregnancy, a single dose of vitamin A > 25 000 IU may be teratogenic.
 
 ## Consider
 

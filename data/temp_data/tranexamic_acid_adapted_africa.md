@@ -31,7 +31,7 @@ TXA for PPH treatment should not be initiated later than 3 hours after birth.
 
 COMMON side effects:
 
-Back pain, headache, joint pain, muscle pain, spasms, or cramps, nasal or sinus congestion, stomach pain, tiredness.
+Back pain, headaches, joint pain, muscle pain, spasms or cramps, nasal or sinus congestion, stomach pain, tiredness.
 
 SEVERE and RARE side effects:
 

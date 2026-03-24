@@ -1,22 +1,22 @@
 ## Introduction
 
-L'injection contraceptive libère régulièrement l'hormone progestative dans la circulation sanguine, empêchant ainsi l'ovulation et donc la grossesse chaque mois.
+The contraceptive injection steadily releases the hormone progestin into the bloodstream, preventing ovulation and therefore pregnancy each month.
 
-Il épaissit également la glaire cervicale et amincit la muqueuse utérine, rendant l'ovulation encore plus difficile.
+It also thickens the cervical mucus and thins the uterine lining, preventing fertilisation.
 
-Une injection dure 8 à 13 semaines, selon le type.
+An injection lasts 8-13 weeks, depending on the type.
 
-## Exemples de médicaments
+## Examples of medications
 
-- **Acétate de médroxyprogestérone dépôt**(DMPA/Depo) (Depo-Provera/Petagen/Sayana Press est enregistré pour l'auto-administration dans certains pays)
-- **Énanthate de noréthistérone** (NET-EN) (Noristerat)
+- **Depot medroxyprogesterone acetate** (DMPA/Depo) (Depo-Provera/Petagen/Sayana Press is registered for self-administration in some countries) 
+- **Norethisterone enanthate** (NET-EN) (Noristerat)
 
-## Effets secondaires courants
+## Common side-effects
 
-Modifications des schémas de saignement, même dans les mois suivant l'arrêt du traitement, changements de poids, maux de tête, acné, perte de cheveux, diminution de la libido et sautes d'humeur.
+Changes in bleeding patterns, even in the months following cessation, weight changes, headaches, acne, hair loss, decreased sex drive and mood swings.
 
-## Plus d’information
+## More information
 
-Voir l'emballage pour des conseils spécifiques sur chaque médicament.
+See packaging for specific guidance on each medication.
 
 ---

@@ -20,6 +20,6 @@ Tachycardia, lupus erythematosus disseminatus, and rheumatoid arthritis.
 
 Common adverse reactions are headaches, flushing, tachycardia, allergic reactions and abdominal pain.
 
-Uncommon adverse reactions are nose congestion, feeling disorders, increased tear flow, and tremor.
+Uncommon adverse reactions are nose congestion, feeling disorders and tremor.
 
 ---

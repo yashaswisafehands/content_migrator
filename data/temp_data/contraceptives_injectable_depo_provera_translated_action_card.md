@@ -1,41 +1,39 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage.
 
-Depo-Provera est un contraceptif injectable composé uniquement de progestérone, indiqué uniquement pour la prévention de grossesse.
+Depo-Provera CI is a progestin-only injectable contraceptive that is indicated only for the prevention of pregnancy.
 
-La perte de densité minérale osseuse chez les femmes de tout âge et l’impact sur la masse osseuse maximale chez les adolescentes doivent être pris en considération, ainsi que la diminution de densité minérale osseuse pendant la grossesse et/ou l’allaitement.
+The loss of bone mineral density in women of all ages and the impact on peak bone mass in adolescents should be considered, along with the decrease in bone mineral density that occurs during pregnancy and/or lactation.
 
-Il doit être un second choix pour les adolescentes et être réservé aux femmes chez qui d’autres méthodes ont échoué.
+For adolescents, injectables should only be considered once other methods have failed.
 
-N’oubliez pas que seul le préservatif protège des maladies sexuellement transmissibles !
+Remember that only condoms protect against sexually transmitted diseases!
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-La dose recommandée est de 150 mg de Depo-Provera CI tous les 3 mois (13 semaines), administré par injection IM  profonde dans le muscle fessier ou deltoïde.
+Medroxyprogesterone acetate (Depo Provera CI) 150 mg (3 ml) deep IM in the gluteal or deltoid muscle every 3 months
 
-Depo-Provera CI ne doit pas être utilisé comme méthode contraceptive de long-terme (plus de 2 ans), à moins que les autres méthodes contraceptives soient jugées inadéquates.
+Depo-Provera CI should not be used longer than 2 years unless other birth control methods are considered inadequate.
 
-Il n’est pas nécessaire d’adapter la posologie à la masse corporelle.
+Dosage does not need to be adjusted for body weight.
 
-Pour s’assurer que la patiente n’est pas enceinte lors de la première injection, la première injection doit être administrée UNIQUEMENT pendant les 5 premiers jours du cycle menstruel normal ;
+To ensure the patient is not pregnant at the time of the first injection, the first injection should be given during the first 5 days of a normal menstrual period;
 
-UNIQUEMENT dans les 5 jours suivant l’accouchement si la femme n’allaite pas ;
+and if exclusively breastfeeding, after the sixth postpartum week.
 
-en cas d’allaitement exclusif, UNIQUEMENT à la sixième semaine après l’accouchement.
+After two years the treatment should be reconsidered.
 
-Au bout de deux ans, le traitement doit être remis en question.
+# Contraindications
 
-# Contre-indications
+The use of Depo-Provera CI is contraindicated in the following conditions:
 
-L’utilisation de Depo-Provera est contre-indiquée dans les cas suivants :
+Known or suspected pregnancy, active thrombophlebitis, current or history of thromboembolic disorders, or cerebral vascular disease, known or suspected breast cancer, known hypersensitivity to Depo-Provera, significant liver disease, and undiagnosed vaginal bleeding.
 
-Grossesse connue ou présumée, thrombophlébite évolutive, troubles thromboemboliques actuels ou passés, maladie vasculaire cérébrale, cancer connu ou présumé, hypersensibilité au Depo-Provera, maladie du foie importante, et saignement vaginal non diagnostiqué.
+# Adverse Reactions
 
-# Effets indésirables
+Common adverse reactions are loss of bone mineral density, abdominal pain, fluid retention, weight gain, headaches, bleeding disorders, breast pain, back pain, depression, dizziness, sleeping difficulties, acne, hair loss, skin rash and increased vaginal discharge.
 
-Effets indésirables les plus fréquents : perte de densité minérale osseuse, douleurs abdominales, rétention hydrique, prise de poids, maux de tête, troubles hémorragiques, sensibilité des seins, mal de dos, dépression, étourdissements, troubles du sommeil, acné, chute de cheveux, éruption cutanée et pertes vaginales accrues.
+Uncommon adverse reactions are jaundice, thromboembolism, convulsions, galactorrhoea, and hirsutism.
 
-Effets indésirables peu fréquents : jaunisse, thrombo-embolie, convulsions, galactorrhée et hirsutisme.
-
-Effets indésirables rares : augmentation de la température.
+Rare adverse reactions are increased temperature.
 
 ---

@@ -1,24 +1,29 @@
 ## Introduction
 
-Un petit dispositif en plastique et en cuivre en forme de T qui est inséré dans l'utérus, qui endommage les spermatozoïdes et empêche l'ovulation.
+A small, T-shaped plastic and copper device that is inserted into the uterus and prevents pregnancy by creating an environment that is toxic to sperm. 
 
-Un DIU fonctionne dès sa pose et dure 5 à 10 ans, selon la marque.
+It can even be used for emergency contraception if placed within seven 5 days from unprotected intercourse.
 
-## Exemples de marques
+**Remember** that only condoms protect against sexually transmitted diseases!
 
-ParaGard, Liberté, FlexiT et Monalisa.
+An IUD works as soon as it is put in and lasts for 5-10 years, depending on the brand.
 
-## Contre-indications
-dications
+## Examples of brands
 
-Tout signe clinique d'infection doit être recherché et traité avant la pose du DIU. Maladie inflammatoire pelvienne survenue au cours des 3 derniers mois.
+ParaGard, Liberté, FlexiT, and Monalisa.
 
-## Effets secondaires courants
+## Contraindications
 
-Modifications du schéma hémorragique (généralement des saignements plus irréguliers, plus longs et plus abondants, avec des crampes plus douloureuses)
+Any clinical signs of infection should be tested and treated before insertion of the IUD. 
 
-## Plus d'information
+Pelvic inflammatory disease within the last three 3 months
 
-Voir l'emballage pour des conseils spécifiques sur chaque médicament.
+## Common side-effects
+
+Changes in bleeding pattern (typically more irregular, longer and heavier bleeding, with more painful cramps)
+
+## More information
+
+See packaging for specific guidance on each medication.
 
 ---

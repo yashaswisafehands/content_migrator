@@ -1,37 +1,37 @@
-# Chapter: Intro
+# Chapter: Preamble
 
-Norplant II (Jadelle) est composé de deux petits bâtonnets (2,5 mm × 43 mm) en silicone contenant 75 mg de  levonorgestrel.
+Norplant II (Jadelle) consists of two small (2.5 mm × 43 mm) silicone rods each containing 75 mg of levonorgestrel.
 
-Il est implanté sous la peau de la partie supérieure du bras et reste efficace pendant 5 ans.
+It is implanted under the skin of the inner-upper arm and is effective for 5 years.
 
-C’est l’une des méthodes de contraception les plus efficaces.
+It is one of the most effective contraceptive methods.
 
-Sur 100 femmes utilisant un implant, moins d’une par an tombe enceinte.
+Out of 100 women using an implant less than 1 will become pregnant in a year.
 
-N’oubliez pas que seul le préservatif protège des maladies sexuellement transmissibles !
+Remember that only condoms protect against sexually transmitted diseases!
 
-# Indications et utilisation
+# Indications and Usage
 
-Norplant est implanté sous la peau de la partie supérieure du bras de la femme, en pratiquant une petite incision et en insérant les bâtonnets en éventail.
+Norplant II is inserted under the skin of the upper arm through a small incision, and the two rods are placed parallel to each other.
 
-Norplant se retire en pratiquant une seconde incision et en enlevant les bâtonnets.
+Norplant II can be removed through a small incision near the insertion site, from which the two rods are gently pushed out and withdrawn.
 
-Norplant se retire généralement après une période de cinq ans, ou si une grossesse est désirée, si d’autres méthodes contraceptives sont privilégiées ou si des complications apparaissent.
+Norplant should be removed after 5 years or sooner, if pregnancy is desired, a different birth control is preferred or complications arise.
 
-En principe, le retrait n’est pas compliqué, mais des difficultés de retrait ont été rapportées avec une fréquence de 6%.
+Normally removal is not complicated but removal difficulties have been reported in 6% of cases.
 
-# Contre-indications
+# Contraindications
 
-Norplant ne doit pas être utilisé chez des femmes souffrant de maladies du foie, de cancer du sein ou qui ont des caillots de sang évolutifs.
+Norplant II should not be used in women with liver disease, breast cancer or active blood clots.
 
-Norplant ne contient pas d’œstrogène contrairement à d’autres pilules contraceptives, et les femmes âgées, les fumeuses, et les femmes souffrant de tension artérielle élevée peuvent donc utiliser cette méthode.
+However, since Norplant II does not contain oestrogen like some birth control pills, older women, women who smoke, and women with high blood pressure are not restricted from using the system.
 
-# Effets indésirables
+# Adverse Reactions
 
-Effets indésirables très fréquents : règles irrégulières pendant les trois premiers mois environ, y compris pour des périodes plus longues que la normale, saignements ou microrragie entre les règles, saignements abondants, ou absence de règles pendant la période mentionnée.
+Very common adverse effects are irregular menstrual periods for the first approximately three months, including periods lasting longer than normal, bleeding or spotting between periods, heavy bleeding, or complete absence of menstrual period.
 
-Effets indésirables les plus fréquents : prise de poids, nervosité, anxiété, nausées, vomissements, sensibilité des seins, étourdissements, éruption cutanée, chute de cheveux, maux de tête, dépression, acné.
+Common side effects include weight gain, nervousness, anxiety, nausea, vomiting, breast pain, dizziness, skin rash, scalp hair loss, headache, depression and acne.
 
-Douleurs ou infection peuvent parfois se produire au site d’insertion de l’implant.
+Rare complications: pain or infection at the site of the implant.
 
 ---

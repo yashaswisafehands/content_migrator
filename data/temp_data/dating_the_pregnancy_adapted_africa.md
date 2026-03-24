@@ -1,6 +1,6 @@
 # Chapter: Dating the pregnancy
 
-![Image](d301014afaf94f5abcd580fe85a1a5f5)
+![Image](267cf2e6eb0a40fe9d4ad6c6e37a9bd1)
 
 You can date the pregnancy in three ways:
 
@@ -8,6 +8,6 @@ You can date the pregnancy in three ways:
 2. **LMP.** For women that confidently know the date of their last menstrual period, you can usually calculate the gestational age using this alone. If she is uncertain, help her by asking specific questions e.g., national holidays or other memorable events happening during her last period.
 3. **Bimanual examination.** If ultrasound is not available, estimate the size of the uterus through a pelvic, bimanual examination. At 12 weeks gestation, the uterus is usually the size of a grapefruit and palpable just above the pubic symphysis. At 16 weeks, the uterus should be palpable at the midpoint between the umbilicus and the symphysis pubic. At 20 weeks, the uterus should be palpable at the level of the umbilicus.
 
-![Image](29a82d811aeb4dd591fe1200afc3cf8d)
+![Image](9905aa0970d3490d848a6b82cafd09c0)
 
 ---

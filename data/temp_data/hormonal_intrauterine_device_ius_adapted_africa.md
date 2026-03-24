@@ -1,12 +1,12 @@
-A small, T-shaped plastic device that, when inserted into the uterus, steadily releases a form of synthetic progesterone (progestin) each day.
+A small, T-shaped plastic device that, when inserted into the uterus, steadily releases a synthetic progesterone (progestin).
 
-It works by thickening cervical mucus, thinning the uterine lining and, for some, preventing ovulation each month, making pregnancy very unlikely.
+It works by thickening cervical mucus, thinning the uterine lining and, for some, preventing ovulation, making pregnancy very unlikely.
 
 An IUS lasts for 3-5 years, depending on the brand.
 
 ## Medication
 
-**Levonorgestrel** (Merina, Kyleena, Liletta, Skyla, and Jaydess)
+**Levonorgestrel** (Merina/Avibela, Kyleena, Liletta, Skyla, and Jaydess)
 
 ## Contraindications
 
@@ -16,7 +16,7 @@ Pelvic inflammatory disease within the last three 3 months.
 
 ## Common side-effects
 
-Some users report: changes in bleeding patterns, headaches, acne, breast tenderness, mood changes, weight gain and dizziness.
+Changes in bleeding patterns, headaches, acne, breast tenderness, mood changes, weight gain and dizziness.
 
 Some may develop ovarian cysts (these usually disappear without treatment).
 

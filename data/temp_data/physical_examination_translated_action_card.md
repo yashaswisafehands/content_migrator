@@ -8,28 +8,28 @@ Obtain consent before commencing the examination.
 - Signs of weakness, lethargy, anemia or malnutrition. 
 - Signs of physical violence.
 
-![Image](319fc45b0feb42258ea7312ff04ec246)
+![Image](36528ccc4ff343129d5aea0894b39abb)
 
 **Abdominal examination:**
 
 - Palpate the uterus for size and tenderness. 
 - Look for abdominal scars from any previous surgery.
 
-![Image](3f9cc064b2dc40ea8fa477524e9b2841)
+![Image](b43a784e0527406d9a8f0c7c6c1480b7)
 
 **Pelvic examination** (Speculum and bimanual examination):
 
 - Explain the procedure and ask for consent. 
 - Examine the external genitalia for abnormalities, infection or other diseases.
 
-![Image](4b0f61876fe74564acc6aff6cbaf8b7f)
+![Image](8fe49d5b2fff482489c0481a01b9a847)
 
 **Speculum examination:**
 
 - Inspect the cervical and vaginal canal.
 - Look for abnormalities and signs of infection (pus/discharge).
 
-![Image](4ed39cad70af4068b5d20ebe3a1f9420)
+![Image](0d1f40ab01774ca3a2a1d5e17a55b9d4)
 
 **Bimanual examination:**
 
@@ -37,6 +37,6 @@ Obtain consent before commencing the examination.
 - Check for any tenderness of the uterus/ cervix/rectovaginal space may indicate infection.
 - Confirm the pregnancy status and duration (see Action Card – Dating the pregnancy).
 
-![Image](29a82d811aeb4dd591fe1200afc3cf8d)
+![Image](9905aa0970d3490d848a6b82cafd09c0)
 
 ---

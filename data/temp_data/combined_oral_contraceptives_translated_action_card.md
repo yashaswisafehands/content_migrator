@@ -1,25 +1,25 @@
 ## Introduction
 
-Les contraceptifs oraux combinés (COC) contiennent des versions artificielles d'hormones féminines œstrogène et progestérone, empêchent les spermatozoïdes d'ovuler l'ovule en empêchant l'ovulation, en épaississant la glaire cervicale et en amincissant la muqueuse utérine.
+Combined oral contraceptives (COCs) contain artificial versions of female hormones oestrogen and progesterone. These prevent the sperm from fertilising the egg by preventing ovulation, thickening cervical mucus, and thinning the uterine lining.
 
-Les types de COC comprennent les médicaments monophasiques, phasiques ou quotidiens (ED), en fonction de la dose et de la fréquence.
+Types of COCs include monophasic, phasic or every-day (ED) medications depending on the dose and frequency.
 
-## Exemples de médicaments
+## Medication examples
 
-Les COC contiennent une combinaison d'éthinylestradiol et soit :
+COCs contain a combination of ethinyl oestradiol and either:
 
-- **Lévonorgestrel**(Microgynon/Microgynon ED/Elevin/Levest/Logynon)
-- **Gestodène**(Akizza/Femodene/Katya/Millinette)
-- **Drospirénone** (Yasmin/Dretine/Lucette/Yacella)
-- **Désogestrel**(Marvelon/Cimizt/Gedarel/Apri 28 jours/Reclipsen 28 jours)
-- **Norgestimate**(Cilique/Lizinna/Cilest)
+- **Levonorgestrel** (Microgynon/Microgynon ED/Elevin/Levest/Logynon) 
+- **Gestodene** (Akizza/Femodene/Katya/Millinette) 
+- **Drospirenone** (Yasmin/Dretine/Lucette/Yacella) 
+- **Desogestrel**(Marvelon/Cimizt/Gedarel/Apri 28-Day/Reclipsen 28-Day) 
+- **Norgestimate** (Cilique/Lizinna/Cilest)
 
-## Effets secondaires courants
+## Common side-effects
 
-Certaines ont signalé des maux de tête, des nausées, des étourdissements et une sensibilité des seins.
+Some have reported experiencing headaches, nausea, dizziness, breast tenderness.
 
-## Plus d’information
+## More information
 
-Voir l'emballage pour des conseils spécifiques sur chaque médicament.
+See packaging for specific guidance on each medication.
 
 ---

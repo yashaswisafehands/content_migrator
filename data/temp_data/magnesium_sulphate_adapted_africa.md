@@ -55,13 +55,15 @@ Renal failure and atrioventricular block.
 
 Oliguria is not a contraindication for magnesium sulphate treatment, but women with reduced urine output require close monitoring because they have a higher risk of magnesium toxicity.
 
-With signs of respiratory depression (respiratory rate <15 /minute) the maintenance dose should be postponed.
+With signs of respiratory depression (respiratory rate <16 /minute) the maintenance dose should be postponed.
 
 # Adverse Reactions
 
 Magnesium sulphate can be toxic. The first signs of overdose is the absence of tendon reflexes, so before giving each maintenance dose, tendon reflexes must be checked. If absent, delay administration until reassessment of tendon reflexes in 4 hours.
 
-In case of respiratory arrest, the antidote Calcium Gluconate 1 g should be given IV over 3 minutes.
+In the case of respiratory arrest, administer the antidote:
+
+Calcium gluconate 1 g  slow IV over 3 minutes.
 
 At cardiac arrest, the antidote must be administered as an IV push.
 

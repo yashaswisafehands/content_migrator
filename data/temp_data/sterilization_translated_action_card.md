@@ -1,52 +1,52 @@
-# Chapter: स्टेरिलाइज़ेशन
+# Chapter: Sterilization
 
-स्टेरिलाइज़ेशन वह प्रक्रिया है जिसमें सभी प्रकार के रोग उत्पन्न करने वाले सूक्ष्मजीव, जैसे बेक्टेरिया (क्लोस्ट्रिडियम और बेसिलस प्रजाति) तथा प्रायन को पूरी तरह से नष्ट कर दिया जाता हैं।
+Sterilization is the elimination of all disease-producing micro-organisms, including spores (e.g.,Clostridium and Bacillus species) and prions.
 
-### 1. ऑटोक्लेव
+### 1. Autoclave
 
-आटोक्लेव करने के लिए ऑटोक्लेव को उसकी इनर दीवार पर बनी निशान रेखा तक पानी से भरें।
+For autoclaving, fill the autoclave with water up to the ridge marked on the inner wall.
 
-जब भाप निकलने लगे, दबाव 15 पाउंड और तापमान 121 डिग्री सेल्सियस तक पहुँच जाए , तब स्टेरिलाइज़ेशन का समय गिनना शुरू करें।
+Begin sterilization timing when steam escapes, pressure reaches 15 pounds, and temperature is 121°C.
 
-**आटोक्लेव के लिए रिकमेंडेड टाइमिंग  इस प्रकार है:**
+**The recommended timing for autoclave are :**
 
-- बिना लपेटे हुए उपकरणों के लिए – 20 मिनट
-- लपेटे हुए उपकरणों के लिए – 30 मिनट
-- लिनन (कपड़े) के लिए – 30 मिनट
-- रुई और सर्जिकल ड्रेसिंग के लिए – 20 मिनट
+- 20 minutes is for unwrapped instruments.
+- 30 minutes for wrapped instruments.  
+- 30 minutes for linen.
+- 20 minutes   for cotton and surgical dressings.
 
-![Image](8685e5f8027e44f88dd887f8244c7867)
+![Image](faddffdcebb64396b960bf20314e8333)
 
-साइकिल पूरा होने के बाद, ऑटोक्लेव को 15–30 मिनट तक ठंडा होने और दबाव कम होने दें, उसके बाद ही ढक्कन खोलें।
+After the cycle is complete, allow the autoclave to depressurize and cool (15-30 minutes) before opening.
 
-### 2. केमिकल स्टेरिलाइज़ेशन
+### 2. Chemical sterilization
 
-शार्प इंस्ट्रूमेंट्स , लैपरोस्कोप, एंडोस्कोप आदि को 2% ग्लूटाराल्डिहाइड घोल में कम से कम 10 घंटे तक भिगोएँ।
+Soak the instruments (such as sharps, laparoscope, endoscope etc ) in 2% Glutaraldehyde for atleast 10 hours.
 
-![Image](c4987664caa04b20959e057dcd8ca731)
+![Image](00aef31706364e349c36d9c97dccba01)
 
-फिर उन्हें स्टेराइल पानी से धोकर सुखा लें।
+Rinse with sterile water and dry.
 
 ---
 
-# Chapter: हाई- लेवल डिसइन्फेक्शन (एचएलडी)
+# Chapter: High level disinfection (HLD)
 
-हाई लेवल डिसइन्फेक्शन सभी सूक्ष्मजीवों को नष्ट कर देता है, केवल कुछ स्पोर्स को छोड़कर, और इसे तब उपयोग किया जाता है जब स्टेरिलाइजेशन संभव न हो या उपकरण उपलब्ध न हों।
+High level disinfection (HLD) destroys all microorganisms except some spores and is used as an alternative when sterilization is not feasible, or equipment is unavailable.
 
-## इसे निम्नलिखित के माध्यम से किया जा सकता है:
+## It can be performed through:
 
-### 1.बॉईल या स्टीम की विधि
+### 1. Boil or steam method
 
-- यह विधि इंस्ट्रूमेंट्स के लिए उपयोग की जाती है।
-- बॉयलर का ढक्कन लगातार बंद रखें और पानी के उबलने के बाद 20 मिनट तक उबालें।
-- इंस्ट्रूमेंट्स को पूरी तरह पानी में डूबा होना चाहिए।
-- जब पानी उबलना शुरू हो जाए, तब उसके बाद कोई नया उपकरण न डालें और न ही निकालें।
+- This method is used for instruments. 
+- Boiler lid should be kept on continuously till 20 minutes after water boils.
+- Articles should be completely immersed in water.
+- Do not add or remove more instruments after the water starts boiling.
 
-![Image](c61da6c47f9048789113c918add5ff6e)
+![Image](1f03d5ba7b6a4db79bc3d9b1fa33feba)
 
-### 2. केमिकल विधि
+### 2. Chemical method
 
-- इंस्ट्रूमेंट्स(जैसे शार्प्स, लैपरोस्कोप, एंडोस्कोप आदि) को 2% एक्टिवेटिड  ग्लूटाराल्डिहाइड घोल में कम से कम 20 मिनट तक भिगोएँ।
-- फिर स्टेराइल  पानी से धोकर सुखा लें।
+- Soak the instruments (such as sharps, laparoscope, endoscope etc.) in 2% activated Glutaraldehyde solution for a minimum of 20 minutes.
+- Rinse with sterile water and dry.
 
 ---

@@ -2,10 +2,10 @@
 
 ### Lower back and pelvic pain
 
-![Image](7f55e1206b0b4194bacae5f4a0ae929b)
+![Image](e065b98fe862400aa8237824841228f8)
 
 - Regular exercise may help to prevent back and pelvic pain.
-- Teach body posture and keeping the back straight while sitting and lifting objects.
+- Teach body posture and keeping her back straight while sitting and lifting objects.
 - Avoid sitting cross-legged.
 - Avoid heavy lifting and wear flat shoes.
 
@@ -19,7 +19,7 @@
 - Adjust the iron dose and schedule.
 - If that does not help, try wheat bran or other fibre supplements.
 
-![Image](ac9cde2d9ffd4e0f88cc143e81d22e3c)
+![Image](0474ab1b686643fbaf1094d8c53833e6)
 
 ---
 
@@ -27,11 +27,11 @@
 
 ### Heartburn
 
-![Image](135bd4ba4585414198b86714d92a42e4)
+![Image](0faa35bc193e48cc81daa3b6458b9c76)
 
 - Avoid smoking and drinks containing caffeine.
 - Diet – avoid large, fatty, spicy meals.
-- Sleep with more pillows to raise the head. If that does not help, try antacid preparations.
+- Sleep with more pillows to raise her head. If that does not help, try antacid preparations.
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### Nausea and vomiting
 
-![Image](0ba5fb33a2844c4b85b6d209736c1cea)
+![Image](ed6cea024df04436a78f1d6674cea888)
 
 - Recommend ginger, chamomile and/or vitamin B6.
 - Small and more frequent meals. 
@@ -51,10 +51,10 @@
 
 ### Varicose veins and oedema
 
-![Image](16f11a4c93674815a81d54bb2655536f)
+![Image](59ac9236790d45f0b65f2ff31840f7b0)
 
 - Avoid standing for long periods and sitting with the legs crossed.
-- Elevate the legs while sitting and lying down. 
+- Elevate her legs while sitting and lying down. 
 - Compression stockings, foot exercises, and water immersion can be used based on the woman’s preferences.
 
 ---

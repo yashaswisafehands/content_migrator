@@ -2,7 +2,7 @@
 
 ### Respectful antenatal care
 
-![Image](f99c188424144e9abb1fd0530deca499)
+![Image](899f91678f294090a742f3ab8266d02e)
 
 Respectful antenatal care maintains women’s dignity, privacy and confidentiality, ensures freedom from harm and mistreatment and enables informed choice.
 
@@ -12,12 +12,12 @@ Respectful care is individualized with provision of relevant and timely informat
 
 Women that have a positive experience are more likely to attend antenatal care contacts, which can improve their health outcomes.
 
-![Image](c3683e24575c4110ae9d9e5eacc6e362)
+![Image](93e34317b2b041cdaa31a2a1e14ee949)
 
 Screen for high-risk conditions if pathways are in place to treat or reduce their associated risks.
 
 Provide accurate and clear information, using language and methods that can be understood by the women.
 
-![Image](1c7d392636e74e1982d8fa5ca53a7889)
+![Image](cf9e0031985647d9a8bc952a9a2ef5b5)
 
 ---

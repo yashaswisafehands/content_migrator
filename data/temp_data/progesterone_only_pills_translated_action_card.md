@@ -1,21 +1,21 @@
 ## Introduction
 
-Les pilules orales à base de progestérone seule (POP) préviennent la grossesse en épaississant la glaire cervicale et, dans certains cas, en arrêtant l'ovulation.
+Oral progesterone-only pills (POPs) prevent pregnancy by thickening the cervical mucus, and in some cases stopping ovulation.
 
-## Médicaments
+## Medications
 
-- **Lévonorgestrel**(Norgeston)
-- **Noréthistérone**(Noriday)
-- **Désogestrel**(Cerazette/Aizea/Cerelle/Feanolla)
+- **Levonorgestrel** (Norgeston) 
+- **Norethisterone**(Noriday) 
+- **Desogestrel** (Cerazette/Aizea/Cerelle/Feanolla)
 
-## Effets secondaires courants
+## Common side-effects
 
-Certaines rapportent avoir ressenti : des modifications des schémas de saignement, de l'acné, une sensibilité mammaire, une hypertrophie mammaire, des modifications de la libido, des changements d'humeur, des maux de tête, des nausées et des vomissements.
+Some report experiencing: changes to bleeding patterns, acne, breast tenderness, breast enlargement, changes in sex drive, mood changes, headaches, nausea and vomiting.
 
-Certaines peuvent développer des kystes ovariens sur les ovaires (ceux-ci sont généralement inoffensifs et disparaissent sans traitement).
+Some may develop ovarian cysts on the ovaries (these are usually harmless and disappear without treatment).
 
-## Plus d’information
+## More information
 
-Consultez les directives pharmaceutiques fournies avec les médicaments pour des conseils plus spécifiques.
+See medication guidelines packed with medication for more specific guidance.
 
 ---

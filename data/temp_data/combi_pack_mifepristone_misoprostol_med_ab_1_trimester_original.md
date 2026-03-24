@@ -26,7 +26,7 @@ Vaginal bleeding will usually start after taking misoprostol (occasionally after
 
 Following administration of mifepristone at a healthcare facility, women may take misoprostol at home if there are no complications. It is safe, usually more private and convenient.
 
-# Contraindications for Mifepristone & Misoprostol combination
+# Contraindications for mifepristone & misoprostol combination
 
 Previous allergic reaction to mifepristone or misoprostol
 

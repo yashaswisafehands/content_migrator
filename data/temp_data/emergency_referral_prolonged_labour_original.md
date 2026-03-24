@@ -49,7 +49,7 @@ Referral note.
 
 ### During Transportation
 
-![Image](2450177369fd4384a049056c2cef561d)
+![Image](ec701bbc55c648fe82863d352a334b98)
 
 Observe vital signs and level of consciousness.
 

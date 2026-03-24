@@ -4,13 +4,13 @@ Metronidazole is a 5-nitroimidazole antibiotic used on obligate anaerobe bacteri
 
 Treatment of anaerobic bacterial infections and Trichomonas vaginalis, intestinal amoebae and giardiasis.
 
-# Dosage and administration
+# Dosage and Administration
 
 ## Adults
 
 Metronidazole 500 mg IV every 8 hours for 7 days or until 48 hours after the patient is fever free.
 
-## Antibiotic prophylaxis
+## Antibiotic Prophylaxis
 
 **Before surgical abortion:**
 

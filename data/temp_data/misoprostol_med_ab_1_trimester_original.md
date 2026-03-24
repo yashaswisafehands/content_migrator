@@ -20,7 +20,7 @@ Known or suspected ectopic pregnancy
 
 IUD in place
 
-Serious/unstable health problems, including but not limited to hemorrhagic disorders, heart disease and severe anemia
+Serious/unstable health problems, including but not limited to hemorrhagic disorders, heart disease and severe anaemia
 
 # Adverse reactions:
 

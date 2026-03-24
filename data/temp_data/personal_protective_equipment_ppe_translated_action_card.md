@@ -17,7 +17,7 @@ Perform hand hygiene before putting on the PPE.
 
 If performing an aerosol-generating procedure (e.g. intubation or resuscitation), a respirator (E.g. EU FFP2 or equivalent respirator) should be used instead of a medical mask.
 
-![Image](031b96ff81884e4fa765dd6bfb41c6a6)
+![Image](f00bd960b2e6431eb87ff2113312e7c4)
 
 ---
 
@@ -26,14 +26,14 @@ If performing an aerosol-generating procedure (e.g. intubation or resuscitation)
 - Do not use the same PPE for different patients. 
 - Do not step into a clean area wearing contaminated PPE.
 
-![Image](1b90495cae61402db9a055b817daf294)
+![Image](399e95985935409c89c4914410871a70)
 
 From at least 1 meter away from the woman, remove all PPE in the following order before leaving the room:
 
 1. **Gown and gloves** (Peel off gown and gloves and roll inside out. Dispose safely in a waste container. Separate containers should be available for reusable items). 
 2. Perform hand hygiene. 
-3. **Goggles or face shield** (Remove from the back by lifting head band or earpieces. If the item is reusable, place it in a designated container for reprocessing).  
-4. **Mask**(Avoid touching the front of the mask. Remove it by grasping the bottom ties, then discard it in a waste container).   
+3. **Goggles or face shield** (Remove from the back by lifting head band or earpieces. If the item is reusable, place it in a designated container for reprocessing). 
+4. **Mask**(Avoid touching the front of the mask. Remove it by grasping the bottom ties, then discard it in a waste container).  
 5. **Perform hand hygiene again immediately after removing PPE.**
 
 In the instance of a PPE shortage at your  health facility:

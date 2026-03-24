@@ -1,8 +1,8 @@
 # Chapter: Indications and Usage
 
-An intrauterine device (IUD) is a small plastic device a few centimeters long and a few millimeters thick, that usually contains copper.
+An intrauterine device or system (IUD/IUS) is a small T-shaped plastic device that contains copper or hormones.
 
-It is placed by a health professional in the uterus and is effective as contraception for 5 years.
+It is inserted by a healthcare professional in the uterus and is effective as contraception for approximately 5 years depending on the type.
 
 It works through different mechanisms affecting the ovum, the sperm and the endometrium.
 
@@ -10,13 +10,11 @@ Remember that only condoms protect against sexually transmitted diseases!
 
 # Dosage and Administration
 
-An IUD is usually placed during the first 10 days after the first day of the menstruation though it can be placed anytime during the menstrual cycle.
+An IUD is usually placed during the first 10 days after the first day of menstruation, though it can be placed anytime during the menstrual cycle.
 
-It can even be used for emergency contraception if placed within seven days of unprotected intercourse.
+It can even be used for emergency contraception if placed within 5 days from unprotected intercourse.
 
-If pregnancy occurs the IUD should be taken out whether it is a wanted pregnancy or not.
-
-An IUD is usually changed each 5 years.
+If pregnancy occurs, the IUD should be removed, whether it is a wanted pregnancy or not.
 
 # Contraindications
 

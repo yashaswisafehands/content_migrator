@@ -55,7 +55,7 @@ Renal failure and atrioventricular block.
 
 Oliguria is not a contraindication for magnesium sulphate treatment, but women with reduced urine output require close monitoring because they have a higher risk of magnesium toxicity.
 
-With signs of respiratory depression (respiratory rate <15 /minute) the maintenance dose should be postponed.
+With signs of respiratory depression (respiratory rate <16 /minute) the maintenance dose should be postponed.
 
 # Adverse Reactions
 

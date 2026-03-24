@@ -1,52 +1,54 @@
-# Chapter: Pose d'implants
+# Chapter: Implant insertion
 
-Un implant est idéalement inséré au cours des 5 premiers jours du cycle menstruel, mais peut être inséré à tout moment si vous êtes raisonnablement certain que la femme n'est pas enceinte. Si elle est insérée après le cinquième jour, la femme doit utiliser une contraception d'appoint (par exemple des préservatifs) pendant 7 jours.
+An implant can be inserted anytime during a woman’s menstrual cycle if it is reasonably certain that she is not pregnant. If inserted within the first 7 days of the menstrual cycle, no back up contraception method is needed. If inserted after day 7, the woman should use back up contraception (e.g., condoms) for 7 days. 
 
-Les implants peuvent être insérés immédiatement après l'accouchement, même si la cliente allaite. En cas d'insertion après 21 jours post-partum, la grossesse doit être exclue et une contraception d'appoint utilisée pendant 7 jours.
+Implants can be inserted immediately after birth, even if the woman is breastfeeding. If inserted after 21 days postpartum, exclude pregnancy and advise back-up contraception for 7 days. 
 
-## Équipement stérile
+Implants can also be provided after miscarriage, or abortion.
 
-- Champ stérile
-- Gants
-- Pince à anneau
-- Tige(s) d'implant
-- Applicateur d'implant ou scalpel
-- Bol en métal avec boules de coton
-- Solution antiseptique
-- Seringue avec aiguille
-- 1 à 4 ml d'anesthésique local (1% lidocaïne)
-- Gaze
-- Pansement
+## Sterile equipment
 
-## Matériel non stérile
+- Sterile surface
+- Ring forceps
+- Metal bowl with cotton balls
+- Implant rod (one or two tods) and trocar or scalpel. 
+- Syringe with needle
+- Gauze
+- Bandage
+- Sterile gloves
 
-- Stylo
+## Clean equipment
 
-## Procédure d'insertion
+- Antiseptic solution 
+- Local anaesthetic (1% lidocaine)
+- Pen to mark the skin
 
-Les implants peuvent également être posés immédiatement après l’accouchement, une fausse couche ou un avortement en l'absence d'infection.
+## Insertion procedure
 
-1. Suivez les techniques de prévention des infections
-2. Marquez la peau sur la face interne du haut du bras de la femme en 2 points distants d’environ 4 cm dans le sens de l’insertion. Ne vous approchez pas trop près du coude ou de l'aisselle.
-3. Placez l'équipement sur un champ stérile, nettoyez la zone locale avec un antiseptique et attendez 2 à 3 minutes.
-4. Injectez une anesthésie locale sous sa peau le long de la ligne d'insertion prévue de l'implant. N'allez pas trop loin.
-5. Attendez 2 à 3 minutes avant de vérifier l'anesthésique avec la pointe d'une aiguille.
-6. Faites une petite incision avec un scalpel ou utilisez l'applicateur pour percer directement la peau.
-7. Entrez dans la peau selon un angle peu profond avec l'applicateur, soulevez-le et redressez-le pour « tendre » la peau tout en poussant doucement l'appareil sous la peau vers la deuxième marque.
-8. ) Ne pas insérer l'implant trop profondément. Si vous ressentez une résistance, arrêtez-vous et essayez une direction différente.
-9. Maintenez l'appareil immobile, insérez-la ou les tiges
-10. Une fois la ou les tiges en place, retirez délicatement l'applicateur.
-11. Appliquez une pression avec de la gaze et enveloppez avec un bandage. Les points ne sont pas nécessaires.
-12. Conseillez à la femme de garder la zone d'incision sèche pendant 4 jours.
+Implants can also be provided immediately after birth, miscarriage, or abortion if no infection is present.
 
-![Image](c5980b9c8d1043ed8b402af7d1fe62fc)
+1. Follow infection prevention techniques. 
+2. Mark the skin at 2 points.  First point at 6 to 8 cms up from the bony process of the inner elbow of the woman’s upper arm and the second about 4 cm apart in the direction of insertion.
+3. Clean the local area with antiseptic and wait for 2-3 minutes.
+4. Inject local anaesthesia under the skin along the intended insertion line(s) of the implant(s). Do not go too deep.
+5. Wait for 2-3 minutes before checking anaesthetic with point of the needle.
+6. Make a small incision with a scalpel or use the applicator to directly puncture the skin.
+7. Enter the skin at a shallow angle with the applicator and lift and straighten it to ‘tent’ the skin while gently pushing the device under the skin towards the second mark.
+8. Do not to insert the implant too deep. If you feel any resistance, stop and try a different direction.
+9. Hold the device still and insert the rod. If using 2 rods, insert the second rod at 30 degree angle in a ‘V’ shape. 
+10. Once the rod(s) are in place, gently remove the applicator.
+11. Apply pressure with gauze and wrap with a bandage. Stitches are not needed.
+12. Advise the woman to keep the incision area dry for 4 days.
+
+![Image](bce90ebdcc8644b9a6aabfcfa8235a21)
 
 ## Documentation
 
-Un formulaire de consentement doit être signé par le client. La documentation doit être complète et correcte. Remettez une fiche d'enregistrement au client avec les informations suivantes :
+A consent form should be signed by the woman before the procedure.
 
-- Type d'implant et date d'insertion
-- Date à laquelle l'implant devra être retiré ou remplacé
-- Oue faire s'ils ont des problèmes ou des questions concernant leur implant
+- Document the following correctly:
+- Type of implant and date of insertion.
+- Date when the implant will need to be removed or replaced.
+- What to do if they have problems with or questions about the implant.
 
 ---

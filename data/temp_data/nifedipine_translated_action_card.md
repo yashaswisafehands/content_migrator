@@ -1,90 +1,100 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-Antagoniste calcique utilisé dans le traitement de l’hypertension pendant la grossesse.
+Calcium antagonist used to treat hypertension and in pregnancy and stop contractions in case of threathened preterm labour.
 
-**PRÉCAUTION:**La tension artérielle diastolique ne doit pas descendre en dessous de 80 mm Hg.
+**CAUTION: Diastolic BP should not be reduced < 80-90 mmHg to avoid affecting foetal circulation**
 
-Il n’est pas rare que la nifédipine fasse baisser la tension artérielle en dessous de ce seuil et ce médicament ne doit pas être un premier choix.
+Nifedipine commonly reduces BP below this point and should therefore not be given as the first drug of choice.
 
-(Les alternatives pourraient être Labétalol ou Méthyldopa pour le traitement par voie orale et Hydralazine pour le traitement IV).
+(Alternatives include: labetalol or methyldopa for oral treatment and hydralazine for IV treatment).
 
-En cas de prééclampsie sévère, l'accouchement doit être planifié dans les 24 heures qui suivent (48 heures si l'état de la femme laisse du temps pour la maturation pulmonaire du fœtus d'un âge gestationnel de 24 à 34).
+In the case of severe preeclampsia, birth should be planned within 24 hours (48 hours to leave time for foetal lung maturation between GA 24 and 34).
 
-Tocolyse:
+**Tocolysis**:
 
-La nifédipine peut faire cesser les contractions (tocolyse) en cas de menace de travail prématuré avant 34 semaines de gestation, pour permettre une thérapie de maturation pulmonaire (dexaméthasone ou bétaméthasone).
+Nifedipine can stop contractions with threatened preterm birth GA < 34 weeks of gestation, to give time for lung maturation therapy (dexamethasone or betamethasone).
 
-La tocolyse ne doit pas être administrée en cas de chorioamnionite présumée.
+Tocolysis must not be given if chorioamnionitis is suspected.
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-Voir **PRÉCAUTION** dans "Indications et utilisation".
+See **CAUTION**under "indications and usage".
 
-Dans certains cas, la nifédipine est disponible dans plus d'une formulation (par exemple, à libération immédiate, à libération intermédiaire et à libération prolongée).
+In some settings, nifedipine is available in more than one formulation (e.g. immediate-release, intermediate-release and sustained-release).
 
-La nifépidine à libération immédiate est incluse ici à moins que nous l'indiquions autrement.
+Immediate-release nifedipine is referred to here, unless otherwise indicated.
 
-Pour éviter les erreurs de médication, il est important de spécifier et de confirmer la formulation de nifédipine avant de l'administrer.
+To avoid medication errors, it is important to specify and confirm the Nifedipine formulation before administering it.
 
-**L'hypertension non-sévère:**
+**Non-severe hypertension:**
 
-TA systolique au dessus de 149 mmHg ou TA diastolique au dessus de 99 mmHg:
+Systolic BP ≥140 mmHg or diastolic BP ≥90 mmHg:
 
-Administrez 10-20 mg par voie orale toutes les 12 heures.
+Nifedipine 10–20 mg orally every 12 hours.
 
-La dose maximale est de 120 mg sur 24 heures.
+Maximum dose is nifedipine 120 mg per 24 hours.
 
-**L'hypertension sévère:**
+**Severe hypertension:**
 
-TA systolique au dessus de 159 mmHg ou TA diastolique au dessus de 109 mmHg:
+Systolic BP ≥ 160 mmHg or diastolic BP ≥ 110 mmHg:
 
-Traitement par voie orale:
+Oral treatment:
 
-Administrez 5-10 mg par voie orale.
+Nifedipine 5–10 mg orally.
 
-Répétez la dose après 30 minutes si la réponse est inadéquate jusqu'à ce qu'une tension artérielle optimale soit atteinte.
+Repeat dose after 30 minutes if the response is inadequate until optimal BP is reached.
 
-La dose totale maximale est de 30 mg dans le cadre du traitement aigu -D'autres options de traitement doivent être envisagées si la tension artérielle n'est pas abaissée dans la phase de traitement de 90 minutes avec 30 mg à libération immédiate.
+Maximum dose in the acute treatment setting: Nifedipine 30 mg. 
 
-L'effet antihypertenseur est plus rapide si ce médicament est administré par voie sublinguale, mais l'effet peut être fort et provoquer une hypotension et une circulation fœtale compromise.
+Other treatment options should be considered if BP is not lowered within the acute treatment phase (of 90 minutes) with 30 mg (immediate-release).
 
-**Tocolyse:**
+The antihypertensive effect is fastest if given sublingually, but the effect can be too strong and cause hypotension and compromised foetal circulation.
 
-10 mg par voie orale toutes les 15 min jusqu'à ce que les contractions s'arrêtent pour un maximum de quatre doses, puis 20 mg par voie orale toutes les 6 heures.
+**Tocolysis:**
 
-Le traitement ne doit pas dépasser les 24 heures.
+Nifedipine 10 mg orally every 15 min until contractions stop (maximum x 4 doses), 
 
-La tocolyse est contre-indiquée en cas de chorioamnionite présumée ou Décollement placentaire présumé.
+Then: nifedipine 20 mg orally every 6 hours.
 
-Administrez un médicament tocolytique (p. ex., la nifédipine) pour administrer les corticostéroïdes anténataux et / ou le transfert à un établissement de soins néonatals approprié: administrez une dose de charge de 20 mg de nifédipine à libération immédiate par voie sublinguale.
+Treatment should not exceed 24 hours.
 
-Si nécessaire, administrez 10 mg supplémentaires toutes les 15 minutes jusqu'à un maximum de 40 mg dans la première heure.
+Tocolysis is contraindicated if chorioamnionitis or abrupted placenta is suspected.
 
-Faire un suivi avec un comprimé à libération prolongée de 20 mg (attention à la formulation) par voie orale jusqu'à 48 heures ou jusqu'à la fin du transfert.
+Give a tocolytic drug (e.g. nifedipine) to provide a window for administration of antenatal corticosteroids and/or in-utero foetal transfer to an appropriate neonatal health care setting: 
 
-Surveillez les conditions maternelles et fœtales (pouls, tension artérielle, signes de détresse respiratoire, contractions utérines, perte de liquide amniotique ou de sang, fréquence cardiaque fœtale, équilibre hydrique).
+Loading dose: nifedipine 20 mg sublingually.
 
-Note: Ne pas donner un médicament tocolytique pendant plus de 48 heures.
+Maintenance dose (if required): nifedipine 10 mg every 15 minutes (maximum 40 mg in the 1st hour)
 
-- Ne pas donner un mélange de médiaments tocolytiques car il n'y a aucun avantage. 
-- Les médicaments tocolytiques ne doivent pas être administrés dans les conditions suivantes: rupture prématurée des membranes,  chorioamnionite,Décollement placentaire, maladie cardiaque.
+Follow up with sustained-release nifedipine 20 mg tablet (pay attention to the formulation) orally daily for up to 48 hours or until transfer is completed, whichever comes first.
 
-# Contre-indications
+Monitor maternal and foetal condition (pulse, blood pressure, signs of respiratory distress, uterine contractions, loss of amniotic fluid or blood, foetal heart rate, fluid balance).
 
-Traitement avec la rifampicine.
+**Note**: Do not give tocolytic drugs for more than 48 hours.
 
-Détresse fœtale présumée, décollement du placenta présumé et chorioamnionite présumée.
+- Do not give a combination of tocolytic agents as this has no additional benefit.
 
-Les médicaments tocolytiques ne doivent pas être administrés dans les conditions suivantes: rupture prématurée des membranes,  chorioamnionite, placenta abruptio, maladie cardiaque.
+# Contraindications
 
-**PRÉCAUTION:**voir ci-dessus, ce médicament ne doit pas être un premier choix pour le traitement de l'hypertension.
+Treatment with rifampicin.
 
-# Effets indésirables
+Suspected foetal distress, suspected abruption of placenta, suspected chorioamnionitis.
 
-Effets indésirables les plus fréquents : constipation, vasodilatation, œdèmes et maux de tête.
+Tocolytics should not be used in the following conditions: 
 
-Effets indésirables peu fréquents : nausées, bouche sèche, palpitations cardiaques, détresse respiratoire, saignements du nez, douleurs articulatoires, étourdissements, anxiété, troubles du sommeil, mictions fréquentes et douloureuses, troubles visuels et réactions allergiques.
+Preterm prelabour rupture of membranes (PPROM) 
+Chorioamnionitis 
+Placental abruption 
+Cardiac disease.
 
-Effets indésirables rares: urticaire et autres réactions allergiques.
+**CAUTION:** see above, should not be the first drug of choice to treat hypertension.
+
+# Adverse Reactions
+
+Common adverse reactions are constipation, vasodilatation, oedema, headaches, flushing, dizziness, tiredness, and itching.
+
+Uncommon adverse reactions are nausea, dryness of the mouth, heart palpitations, respiratory distress, nose bleeding, joint pain, anxiety, sleeping disturbances, frequent urge for and painful urination, visual disturbances and allergic reactions.
+
+Rare adverse reactions are urticaria and other severe allergic reactions.
 
 ---

@@ -4,8 +4,6 @@
 
 If no signs of severe pre-eclampsia****(see definitions):
 
-![Image](7935f46a52e74301ba8d2580c0f44601)
-
 ---
 
 # Chapter: BP 150-160/100/110
@@ -15,8 +13,6 @@ If no signs of severe pre-eclampsia****(see definitions):
 Admit and observe.
 
 Assess blood pressure
-
-![Image](5ef90ff3c82b4a1eaf448ea020fa33b7)
 
 ---
 
@@ -66,6 +62,6 @@ See drug list for more details.
 
 >
 
-![Image](4925126f94f74561a43aac9e2b41d091)
+![Image](5e5a38fdc42a47c1ba5fd41b69166556)
 
 ---

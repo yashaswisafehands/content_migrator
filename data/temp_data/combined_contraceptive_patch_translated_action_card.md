@@ -1,17 +1,17 @@
 ## Introduction
 
-Un petit patch collant qui libère dans l'organisme à travers la peau des hormones qui empêchent l'ovulation et donc la grossesse.
+A small sticky patch that releases hormones into the body through the skin into the body through the skin that prevents ovulation.
 
-## Exemples de médicaments
+## Medication examples
 
-- **Norelgestromine + éthinylestradiol**(Evra/Ortho Evra)
+- **Norelgestromin + ethinyl oestradiol** (Evra/Ortho Evra)
 
-## Effets secondaires courants
+## Common side-effects
 
-Certaines signalent une irritation cutanée, des démangeaisons et des douleurs. Des effets secondaires tels que des saignements entre les règles, des maux de tête, des nausées, une sensibilité des seins et des changements d'humeur peuvent survenir temporairement et se résorber généralement après quelques mois.
+Some report skin irritation, itching and soreness. Side-effects such as bleeding between periods, headaches, nausea, breast tenderness and mood changes can occur temporarily and usually settle after a few months.
 
-## Plus d’information
+## More information
 
-Voir l'emballage pour des conseils spécifiques sur chaque médicament.
+See packaging for specific guidance on each medication.
 
 ---

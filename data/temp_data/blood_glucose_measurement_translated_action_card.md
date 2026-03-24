@@ -1,36 +1,32 @@
 # Chapter: Blood glucose measurement
 
-## उपयोग
+## Usage
 
-- ब्लड में ग्लूकोज के स्तर की जांच के लिए एक प्लाज्मा कैलिब्रेटेड ग्लूकोमीटर का उपयोग किया जाता है।
-- ग्लूकोमीटर को नियमित रूप से कैलिब्रेट करना आवश्यक है ताकि सही परिणाम सुनिश्चित हो सके।
+- A plasma calibrated glucometer is used to test the level of glucose in the blood.
+- The glucometer needs to be calibrated regularly to ensure accurate results.
 
-## उपकरण और आपूर्ति
+## Equipment and supplies
 
-- ग्लूकोमीटर
-- लैंसेट्स 
-- परीक्षण पट्टीयाँ परीक्षण पट्टी डिब्बे में 
--  साफ दस्ताने की जोड़ी
-- वॉटर वाइप्स
+- Glucometer
+- Lancets
+- Test strips in container
+- Pair of clean gloves
+- Water wipes
 
-![Image](cac7407487e74209b89083adbda120d7)
+## Procedure
 
-## प्रक्रिया
-
-- हाथों को धोएं, इन्हें हवा में सुखाएं और दोनों हाथों पर साफ दस्ताने पहनें।
-- सुनिश्चित करें कि ग्लूकोमीटर साफ और उपयोग के लिए तैयार है ।
-- एक ताजा टेस्ट स्ट्रिप डालें, जिसमें कॉन्टैक्ट बार टेस्ट स्ट्रिप पोर्ट में ऊपर की ओर हों, इसे बीच से पकड़कर रखें, (स्ट्रिप के दोनों सिरों को छुआ नहीं जाना चाहिए)।
-- मीटर की बीप बजने तक पट्टी को धीरे से दबाएं।
-- स्ट्रिप निकालने के बाद तुरंत डिब्बे को मजबूती से बंद करें। डिस्प्ले स्क्रीन की जाँच करें
-- त्वचा पर चुभने के स्थान की पहचान करें (अंगूठे/मध्य उंगली के माध्यम से) और इसे एक स्वच्छ स्वैब से साफ करें।
-- उंगली को बेस से दबाएं और उंगली की नोक के किनारे पर लैंसेट से छेद करें ताकि खून की एक बूंद बन जाए ।
-- रक्त की बूंद को परीक्षण पट्टी के सूचक भाग पर धीरे से स्पर्श करें ताकि वह सोख ले
-- चुभने के स्थान पर एक स्वैब/गौज रखें और महिला से कहें कि वह इसे ब्लड उज़िंग रोकने के लिए दबाएं। 
-- डिस्प्ले स्क्रीन पर परीक्षण परिणाम पढ़ें । 
-- ग्लूकोमीटर से परीक्षण पट्टी निकालें और उचित वेस्ट मैनेजमेंट बिन में फेंकें।
-- परीक्षण परिणाम का व्याख्या करें।
-- इसे महिला के चार्ट/एमसीपी कार्ड में रिकॉर्ड करें।
-
-![Image](caffd5947ba84bcda09f262716871788)
+- Wash hands, air dry them and wear clean gloves on both hands.
+- Make sure the glucometer is clean and ready to use. 
+- Insert a fresh test strip with contact bars facing up into the test strip port by holding it from middle, (both ends of the strip should not be touched) 
+- Push the strip gently until the meter beeps.
+- Close the container tightly immediately after removing the strip. Check the display screen.
+- Identify the site of puncture on the skin (medial or lateral part of ring/middle finger) and clean it with a clean swab.
+- Squeeze the finger from the base and prick the side of the fingertip with the lancet so that a drop of blood is formed.
+- Gently touch the blood drop to the indicator portion of the test strip so that it gets sucked.
+- Keep a swab or gauze over the puncture site and ask the women to press it to stop the blood oozing.
+- Read the test result on the display screen.
+- Remove the test strip from the glucometer and discard in the appropriate waste management bin. 
+- Interpret the test result.  
+- Record it in the woman’s chart or MCP card.
 
 ---

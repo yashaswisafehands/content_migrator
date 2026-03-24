@@ -6,7 +6,7 @@ Anaemia in pregnancy is blood haemoglobin (Hb) concentration below 11gm/dL which
 
 Screen women at all Antenatal Visits (or when symptomatic).
 
-![Image](53eb54a0581448d8adaf71803d38c3ca)
+![Image](ff46c763fd0742d1a8a4cad205e5f45b)
 
 **Ask**– tiredness and weakness, breathlessness, lack of concentration, loss of appetite, palpitations, easy fatiguability.
 
@@ -59,8 +59,6 @@ Testing the urine for presence of albumin and sugar is important for the detecti
 - Completely immerse the reagent area of the strip in the urine sample and remove it immediately. 
 - While removing the strip run the edge against the rim of container to remove excess urine.
 
-![Image](a86f6011d3e043789015ef53627f2d01)
-
 Follow manufacture’s recommendations for when it is time to read the results.
 
 Compare the blue coloured sugar reagent part with the sugar chart on the bottle and record the findings.
@@ -77,7 +75,7 @@ Gestational Diabetes Mellitus (GDM) is hyperglycaemia first detected in pregnanc
 
 Women with diabetes in pregnancy have more severe hyperglycaemia which does not resolve after pregnancy as it does with GDM.
 
-![Image](e4d3bb9d52634fbf9f6352bb13ec547d)
+![Image](d4779049c7e84b14a1b45c7af134510c)
 
 **Diagnostic methods**
 
@@ -93,7 +91,7 @@ Refer GDM module and action card on OGTT.
 
 ## HIV, syphilis and HBsAg
 
-![Image](1c74f148210147d2a83c5193b0916e8c)
+![Image](7674055b3c1a4069abc6352281234c39)
 
 All pregnant women should be tested for HIV, and syphilis during their first visit.
 
@@ -103,7 +101,7 @@ Rapid Diagnostic Test should be carried out for Syphilis and HBsAg.
 
 HBsAg is an optional investigation.
 
-![Image](7482ab95fe9f4ee19850b56cdd31e719)
+![Image](16ef22a992914b399e6ed7e447d8327c)
 
 Refer women who test positive to the higher centre for further management.
 

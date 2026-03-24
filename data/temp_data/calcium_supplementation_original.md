@@ -6,12 +6,12 @@ All pregnant women should take calcium supplements, particularly those at higher
 
 ## Dosage and Administration
 
-1.5–2.0 g elemental calcium/day with the total daily dosage divided into three doses
+Elemental calcium 1.5–2.0 g daily, divided into 3 doses.
 
 Start at the first ANC visit and continue until delivery.
 
 ## Contraindications
 
-Iron and calcium supplements should preferably be administered several hours apart rather than concomitantly as negative interactions between these micronutrients may occur.
+Iron and calcium supplements should preferably be administered several hours apart to avoid negative interactions.
 
 ---

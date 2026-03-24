@@ -1,98 +1,98 @@
 # Chapter: Before performing abdominal examinations 
 
-### Avant d'effectuer des examens abdominaux
+### Before performing abdominal examinations
 
-![Image](fd863f1b58b045309b3aebdbba1c3de6)
+![Image](d8fc5c6c38e945ce8a0327c3ada740f0)
 
-- Obtenez un consentement verbal
-- Permettez à la femme de vider sa vessie
-- Allongez la femme confortablement dans une position semi-élevée
-- Lavez-vous les mains et réchauffez-les
-- Cherchez des cicatrices
-- Assurez-vous que l’utérus n’est pas contracté
+- Gain verbal consent
+- Allow the woman to empty her bladder
+- She lies woman comfortably in a semi-elevated position
+- Wash your hands and warm them
+- Look for scars
+- Ensure uterus is not contracted
 
 ---
 
 # Chapter: Listen to foetal heart rate (FHR) (from 20 weeks)
 
-### Ecoutez le rythme cardiaque fœtale (RCF) (à partir de 20 semaines)
+### Listen to foetal heart rate (FHR) (from 20 weeks)
 
-![Image](8d67095928d9412b8c981a7205306619)
+![Image](ea9c588d489d486f8af1c5ce22382e17)
 
-**Comptez les BCFs  pendant 1 minute complète :**
+**Count the FHR for 1 full minute:**
 
 - **110-160 bpm:** Normal
-- **<100 bpm ou > 180 bpm :** indique une asphyxie, transférez immédiatement
+- **<100 bpm or > 180 bpm:** Indicates asphyxia, refer immediately
 
 ---
 
 # Chapter: Foetal movements (FM) (from 28 weeks)
 
-### Mouvements fœtaux (MF) (à partir de 28 semaines)
+### Foetal movements (FM) (from 28 weeks)
 
-![Image](d8b22911f2784b38ac2a0928f01801c5)
+![Image](11e0a8acb18543bbb973b614222a638f)
 
-- Renseignez-vous sur la perception maternelle deS  MF à chaque contact après 28 semaines
-- Le MF peut indiquer le bien-être du fœtus
-- Les femmes dont les MF sont réduits ou inexistants nécessitent une surveillance supplémentaire
+- Ask about maternal perception of FM at each contact after 28 weeks
+- FM can indicate foetal wellbeing
+- Women with reduced or no FMs require additional monitoring
 
 ---
 
 # Chapter: Feel for number of foetuses (from 30 weeks)
 
-### Détecter le nombre de fœtus (à partir de 30 semaines)
+### Feel for number of foetuses (from 30 weeks)
 
-![Image](b797a8cf42c24157a93c102a3bf4b4b8)
+![Image](776d7f6e39fc4c37afee0914eea8e796)
 
-- Palpez doucement l'abdomen pour identifier les grossesses multiples
-- Envisagez une grossesse multiple si :
+- Gently palpate the abdomen to identify multiple pregnancies.
+- Consider a multiple pregnancy if:
 
--  La HU est plus que prévue
-         - 3 pôles fœtaux ou plus palpables
-         - Plusieurs groupes de membres palpables.
+- 3 or more foetal poles palpable.
+         - 3 or more foetal poles palpable
+         - Multiple limb clusters palpable.
 
 ---
 
 # Chapter: Feel for malpresentation (from 34 weeks)
 
-### Ressentez une mauvaise présentation (à partir de 34 semaines)
+### Feel for malpresentation (from 34 weeks)
 
-![Image](455c4faf1b7349148d80f0d311e32eba)
+![Image](2cf469438ad14e8aae6ece8988dc6c59)
 
-![Image](1909826535e3405eb0a3e9772b583289)
+![Image](4111a64a181a4cdb84f6190ed84b34b4)
 
-**Identifiez le fœtus :**
+**Identify foetal:**
 
-- **Position Foetale :** longitudinale, transversale ou oblique
-- **Position de la partie anterieure:**direction vers laquelle le fœtus fait face
-- **Présentation :**céphalique, siège ou épaule
-- **Engagement :**présentation de la pièce fixée dans le bassin ou libre. Dans quelle mesure pouvez-vous en ressentir ?
+- **Lie:** longitudinal, transverse or oblique.
+- **Position:** direction the foetus is facing.
+- **Presentation:** cephalic, breech or shoulder.
+- **Engagement:** presenting part fixed in the pelvis or free. How much of it can you feel?
 
-Si le fœtus n'est pas en position céphalique, consultez l'hôpital de référence pour la prise en charge, informez la femme et préparez un plan d'accouchement d'urgence.
+If the foetus is not cephalic, consult referral hospital for management, inform the woman and prepare an emergency birth plan.
 
-![Image](a8fb6e5f1dee46a6bc10df74fa795996)
+![Image](1b2852714b0e4bcbbcf5ae7729841363)
 
-Si le fœtus est céphalique et n'est pas engagé, informez la femme du risque de prolapsus du cordon et encouragez-la à se rendre/contacter immédiatement l'hôpital en cas de rupture des membranes ou de signes de travail.
+If the foetus is cephalic and not engaged, inform the woman on the risk of cord prolapse, encourage to attend/contact hospital immediately in the event of ruptured membranes or signs of labour.
 
-**Voir les procédures pratiques du module « Travail normal et accouchement » pour plus d'informations sur l'examen abdominal.**
+**See 'Normal Labour and Birth' module's practical procedures for further information on abdominal examination.**
 
 ---
 
-# Chapter: Mesurer la hauteur utérine (HU) (à partir de 24 semaines)(à partir de 24 semaines)
+# Chapter: Measure symphysial-fundal height (SFH) (from 24 weeks)
 
-![Image](1b5cbe550d684944b5c7137f85115748)
+![Image](f3ce51f2c526484385dcf099e010e8e3)
 
-- Utilisez vos deux mains pour déterminer l’emplacement du fond utérin et stabilisez-le d’une seule main.
-- Mesurez la distance en cm entre la symphyse pubienne et le haut du fond utérin à l'aide d'un mettre ruban .
+- Use both hands to determine the location of the fundus and stabilize it with one hand.
+- Measure the distance in cm between the symphysis pubis and the top of the fundus using a measuring tape.
 
-Mesures HU normales = semaine de grossesse (+/- 2 cm) :
+Normal SFH measurements = pregnancy week (+/- 2cm):
 
-- **29 cm à 28 semaines :**normal
-- **29 cm à 26 semaines :**trop grand/grand pour **date/grossesses multiples ?**
-- **29 cm à 33 semaines :**trop petit/petit pour la date/restriction de croissance/oligoamnios ?
+- **29cm at 28 weeks:**normal
+- **29 cm at 26 weeks:** too big/large for date/multiple pregnancies?
+- **29 cm at 33 weeks:** too small/small for gestational age/growth restriction/ oligohydramnios?
 
-Vous pouvez également utiliser un tableau de suivi de la croissance fœtale pour évaluer la croissance :
+You may also use a foetal growth monitoring chart to assess growth:
 
-![Image](f9222ac6838a497f8c7ea6128bec89a9)
+![Image](8233dc71c47540ee92da57ae42595b3c)
 
 ---

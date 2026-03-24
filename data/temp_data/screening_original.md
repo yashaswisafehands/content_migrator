@@ -1,14 +1,14 @@
 # Chapter: Screening
 
-![Image](f4206cd06a7f4017b8074a0b00d0207e)
+![Image](9166eca5f44f4953a2b72c813fe5a91a)
 
 ## During the first contact in pregnancy and the postnatal period you should:
 
 Ask the woman about:
 
-- Past or present mental illness
+- Past or present mental illness.
 - Severe perinatal mental illness in a first-degree relative (mother, sister, or daughter).
-- Domestic violence or other physical abuse
+- Domestic violence or other physical abuse.
 
 Consider asking the following **depression identification questions** as part of a general discussion about a woman’s mental health and wellbeing:
 
@@ -17,19 +17,19 @@ Consider asking the following **depression identification questions** as part of
 
 If a woman responds positively to any of the depression identification questions, you should consider:
 
-- using the **Edinburgh Postnatal Depression Scale**
-- or refer the woman to specialist care
+- Using the **Edinburgh Postnatal Depression Scale.**
+- or refer the woman to specialist care.
 
 Also consider asking about anxiety using the 2-item **Generalized Anxiety Disorder Scale** (GAD-2). See Practical Procedure “Screening tools”.
 
-If a woman scores 3 or more on the GAD-2 consider:
+If a woman scores 3 or more on the GAD-2 Scale, consider:
 
-- using the GAD-7 scale OR
-- refer the woman to specialist care
+- Using the GAD-7 Scale OR
+- Refer the woman to specialist care
 
 Refer to specialist care for assessment and treatment, all women who have or are suspected to have:
 
-- severe mental illness (such as schizophrenia, bipolar disorder, PTSD, and major depression)
-- any history of severe mental illness
+- Severe mental illness (such as schizophrenia, bipolar disorder, PTSD, and major depression).
+- Any history of severe mental illness.
 
 ---

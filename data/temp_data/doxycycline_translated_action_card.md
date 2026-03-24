@@ -24,6 +24,6 @@ Common side effects include headache, nausea, vomiting, and skin sensitivity to 
 
 Serious side effects include diarrhoea, joint or muscle pain, bruising or bleeding, severe headaches, vomiting and problems with the vision (signs of intracranial hypertension), severe stomach pain, signs of kidney problems (e.g. changes in the urine output), and difficulty or pain when swallowing.
 
-In rare cases, Doxycycline can cause a serious allergic reaction
+In rare cases, doxycycline can cause a serious allergic reaction
 
 ---

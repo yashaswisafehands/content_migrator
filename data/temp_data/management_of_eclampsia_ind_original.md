@@ -16,7 +16,7 @@
 
 ### Loading dose
 
-![Image](cca434eef7614aee9baa0dc313a0d077)
+![Image](5b69bb8f2f384618a9e336d7956e3088)
 
 ### Maintenance Dose of Magnesium Sulphate
 

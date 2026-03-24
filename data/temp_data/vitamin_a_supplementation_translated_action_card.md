@@ -1,24 +1,25 @@
-## Indications et Usage
+## Indications and Usage
 
-Pour prévenir la cécité nocturne.
+To prevent night blindness.
 
-Il est recommandé aux femmes enceintes dans les zones où la carence en vitamine A constitue un grave problème de santé publique, à partir de 12 semaines de grossesse jusqu'à l'accouchement.
+It is recommended for pregnant women, from 12 weeks’ gestation until birth, in areas where vitamin A deficiency is a severe public health problem.
 
-## Posologie et mode d'emploi
+## Dosage and Administration
 
-Jusqu'à 10 000 UI de vitamine A (dose quotidienne) par voie orale,
-OU
+Vitamin A 10 000 IU (max) orally daily 
 
-Jusqu'à 25 000 UI de vitamine A (dose hebdomadaire) par voie orale
+OR
+
+Vitamin A 25 000 IU (max) orally weekly
 
 ## Contraindications
 
-Dose unique de plus de 25 000 UI 15 à 60 jours après la conception
+If consumed between days 15 and 60 of pregnancy, a single dose of vitamin A > 25 000 IU may be teratogenic.
 
-## Considérer
+## Consider
 
-Si la cécité nocturne est endémique, conseillez et dispensez de la vitamine A.
+If night blindness is endemic - counsel and dispense vitamin A. 
 
-D’autres interventions telles que la diversification alimentaire et l’enrichissement des aliments peuvent être utilisées parallèlement à la supplémentation en vitamine A pour améliorer les apports en vitamine A.
+Other interventions such as dietary diversification and food fortification can be used along with vitamin A supplementation to improve vitamin A intakes.
 
 ---

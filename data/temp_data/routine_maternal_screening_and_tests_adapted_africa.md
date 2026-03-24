@@ -2,9 +2,9 @@
 
 ### Anaemia
 
-Anaemia is blood haemoglobin (Hb) concentration below 110g/L which increases the risk of obstetric complications. Look for palmar and conjunctival pallor.
+Anaemia is blood haemoglobin (Hb) concentration below 110g/L in the first trimester and below 105g/L in the second trimester which increases the risk of obstetric complications. Look for palmar and conjunctival pallor.
 
-![Image](29034a6f9576473a9430fb3475a22743)
+![Image](ff46c763fd0742d1a8a4cad205e5f45b)
 
 **Diagnostic methods** (from most to least accurate)
 
@@ -24,6 +24,8 @@ Increase the woman’s iron dose to 120 mg of elemental iron until her haemoglob
 
 See 'Iron and Folic Acid Supplements' in the Drug List.
 
+Effective communication with pregnant women about diet and healthy eating – including providing information about food sources of vitamins and minerals, and dietary diversity – is an integral part of preventing anaemia and providing quality ANC.
+
 ---
 
 # Chapter: Asymptomatic Bacteriuria
@@ -38,7 +40,7 @@ Presence of bacteria in a properly collected urine specimen with no signs or sym
 - Gram stain test
 - Urine dipstick tests
 
-![Image](1f196dc9ab3a4f83abf945d3ffcf4df9)
+![Image](42b3be73502842acaabe8f86fc09777b)
 
 **Suggested gestations for screening:**
 Week <12, 26 and 34
@@ -59,11 +61,11 @@ Gestational Diabetes Mellitus (GDM) is hyperglycaemia first detected in pregnanc
 
 Women with diabetes in pregnancy have more severe hyperglycaemia which does not resolve after pregnancy as it does with GDM.
 
-![Image](c72a1a43da3b4472bebeadb38ad3fee5)
+![Image](2534809cf5de44f6bda1eadf39b6f2ad)
 
 **Diagnostic methods**
 
-Follow your local screening strategy. Some settings determine the need for oral glucose tolerance testing by assessing for risk factors. Screening is suggested between 24 and 28 weeks or whenever symptomatic
+Follow your local screening strategy. Some settings determine the need for oral glucose tolerance testing by assessing for risk factors. Screening is suggested between 24 and 28 weeks or whenever symptomatic.
 
 **Risk factors**
 
@@ -80,15 +82,15 @@ Follow your local screening strategy. Some settings determine the need for oral 
 
 ### HIV and syphilis
 
-![Image](5537758bf71a49c2a6b250b42f5a6e07)
+![Image](7674055b3c1a4069abc6352281234c39)
 
-Where relevant, provider-initiated testing and counselling (PITC) for HIV should be considered a routine part of antenatal care to eliminate mother-to-child HIV transmission.
+Where relevant, provider-initiated testing and counselling (PITC) for HIV should be considered a routine part of antenatal care to eliminate mother-to-child HIV transmission. ART should be initiated in all pregnant women diagnosed with HIV at any CD4 count and continued for her lifetime.
 
 Integrate HIV testing with syphilis, viral hepatitis or other key tests relevant to your setting. Counsel on safer sex.
 
-![Image](4c587e2e0d16419c98a392a48943f724)
+![Image](16ef22a992914b399e6ed7e447d8327c)
 
-If HIV or Syphilis positive, refer for further care.
+If HIV or Syphilis positive, refer for specialised care.
 
 ---
 
@@ -98,6 +100,6 @@ If HIV or Syphilis positive, refer for further care.
 
 In settings where tuberculosis (TB) prevalence in the general population is 1 in 1000 or higher, systematic screening for active TB should be considered for pregnant women as part of antenatal care.
 
-![Image](101f52e6e20a419c8c490d9d1f81e5a9)
+![Image](d4481cd4fdf3457c88f7f2022110ba1f)
 
 ---

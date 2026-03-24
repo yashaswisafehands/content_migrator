@@ -16,7 +16,7 @@ The ointment should not be flushed out of the eyes following instillation.
 
 A new tube should be used for each newborn.
 
-**For treatment of eye infection:**
+**For treatment of eye infections:**
 
 - Wash hands with clean water and soap.
 - Wet a clean cloth with boiled and cooled water.

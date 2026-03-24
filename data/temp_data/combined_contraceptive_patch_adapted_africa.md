@@ -1,10 +1,10 @@
 ## Introduction
 
-A small sticky patch that releases hormones into the body through the skin that prevent ovulation and therefore pregnancy.
+A small sticky patch that releases hormones into the body through the skin into the body through the skin that prevents ovulation.
 
 ## Medication examples
 
-- **Norelgestromin + ethinyl estradiol** (Evra/Ortho Evra)
+- **Norelgestromin + ethinyl oestradiol** (Evra/Ortho Evra)
 
 ## Common side-effects
 

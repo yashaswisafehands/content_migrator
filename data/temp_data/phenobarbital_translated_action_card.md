@@ -53,7 +53,7 @@ Agitation, confusion, hyperkinesia, ataxia, CNS depression, nightmares, nervousn
 
 Hypoventilation, apnoea.
 
-Cardiovascular System:
+**Cardiovascular System:**
 
 Bradycardia, hypotension, syncope.
 
@@ -61,7 +61,7 @@ Bradycardia, hypotension, syncope.
 
 Nausea, vomiting, constipation.
 
-Other reported reactions:
+**Other reported reactions:**
 
 Headaches, injection site reactions, hypersensitivity reactions (angioedema, skin rashes, exfoliative dermatitis), fever, liver damage, megaloblastic anaemia following chronic Phenobarbital use.
 

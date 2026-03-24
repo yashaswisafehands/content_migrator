@@ -1,45 +1,43 @@
-# Chapter: Retrait de l'implant
+# Chapter: Implant removal
 
-Les implants doivent être retirés sans délai à la demande de la femme, 
-quel que soit le stade de son cycle menstruel. Sa fertilité reviendra immédiatement après le retrait.
+Implants should be removed when its effectiveness expires or on the woman’s request. It can be removed anytime regardless of where she is in her menstrual cycle. Her fertility will return immediately following removal.
 
-## Équipement stérile
+## Sterile equipment
 
-- Champ stérile
-- Pince à anneau
-- Pince droite
-- Pince courbée
-- Gants
-- Bol en métal avec boules de coton
-- Solution antiseptique
-- Bistouri
-- Seringue avec aiguille
-- 2 ml d'anesthésique local (1% lidocaïne)
-- Gaze
-- Pansement
+- Sterile surface
+- Ring forceps
+- Curved forceps
+- Sterile gloves
+- Metal bowl with cotton balls
+- Scalpel
+- Syringe with needle
+- Gauze
+- Bandage
 
-![Image](cf7ccb3a9c134c3ab3a37be74a96c4bf)
+![Image](5e901ac701b540de865c8164d36c5250)
 
-## Equipement non sterile
+## Non-sterile equipment
 
-- Stylo
+- Pen
+- Antiseptic solution
+- Local anaesthetic (1% lidocaine)
 
-## Procédure de retrait
+## Removal procedure
 
-1. Localisez délicatement l’implant et marquez l’endroit où se trouve l’extrémité la plus proche du coude sur la peau de la femme. En appuyant sur l'autre extrémité, l'implant devrait « apparaître »(si l'implant ne peut pas être senti, référer la femme pour la localisation et le retrait).
-2. N'essayez pas de retirer l'implant tant que son emplacement exact n'est pas identifié
-3. Suivez la technique de prévention des infections
-4. Nettoyer la peau avec une solution antiseptique 
-5. Injectez une petite quantité d'anesthésique local sous la peau de son bras au niveau du site d'incision et attendez 2-3 minutes
-6. Pratiquez une incision peu profonde de 4 mm dans la peau près de l'extrémité de l'implant, en gardant la peau plate.
-7. Poussez doucement l'implant vers l'incision avec vos doigts et utilisez une pince courbée pour le saisir lorsque son extrémité devient visible
-8. Utilisez doucement le scalpel pour ouvrir la capsule de tissu fibreux autour de la tige de l'implant.
-9. En appliquant une légère pression sur l’autre extrémité de l’implant, celui-ci devrait « sortir » de la capsule.
-10. Retirez doucement la tige de l'implant.
-11. Répétez le processus pour d'autres tiges si nécessaire. 
-12. Couvrir le site avec un pansement et appliquer une gaze et une compresse stériles pour minimiser les ecchymoses (les points de suture ne sont pas nécessaires).
-13. Si la femme a besoin d'un nouvel implant, placez-le au-dessus ou en dessous de l'incision précédente ou dans l'autre bras
+1. Gently locate the implant and mark the end closest to the elbow on the woman’s skin. Pushing down on the other end should cause the implant to ‘pop-up’ (If implant cannot be felt, refer the woman for localization and removal). 
+2. Do not attempt to remove the implant until its exact location is identified.  
+3. Follow infection prevention technique.  
+4. Clean the skin with antiseptic solution. 
+5. Inject a small amount of local anaesthetic under the skin at the incision site and wait for 2-3 minutes. 
+6. Make a shallow 4 mm incision in the skin close to the end of the implant, keeping the skin flat.
+7. Gently push the implant towards the incision and use curved forceps to grasp it when the tip of it becomes visible.
+8. With a scalpel, open the fibrous tissue capsule around the implant rod.
+9. Apply light pressure on the other end of the implant. This will cause it to ‘pop’ out of the capsule.
+10. Pull out the implant rod gently with the forceps.
+11. If more rods are there, push and remove them also through the same incision.
+12. Cover site with a plaster and apply sterile gauze and compress to minimize bruising (stitches are not required).
+13. If the woman needs a new implant, place it above or below the previous incision or in the other arm.
 
-![Image](ed73124787c34a2c9894bfb60236787d)
+![Image](c35b4430fed54af488601ce01bdad161)
 
 ---

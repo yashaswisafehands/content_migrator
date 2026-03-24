@@ -30,6 +30,6 @@ Some will have nausea, vomiting, constipation or flatulence.
 
 Less common: headaches and dizziness.
 
-Rarely Misoprostol can cause liver damage.
+Rarely misoprostol can cause liver damage.
 
 ---

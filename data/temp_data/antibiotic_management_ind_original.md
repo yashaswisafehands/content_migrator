@@ -2,7 +2,7 @@
 
 The antibiotics of choice before transport are ampicillin and gentamicin.
 
-![Image](4c3f49dd966b4803af74132e23650649)
+![Image](d91a1e9efb5e4d52bd09018b1a5f2be4)
 
 <color style="blue">***Determine if the child can take orally**</color>
 

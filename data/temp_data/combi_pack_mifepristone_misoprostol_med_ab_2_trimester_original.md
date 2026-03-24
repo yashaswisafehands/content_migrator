@@ -18,7 +18,7 @@ Misoprostol 400 mg vaginally, buccally or sublingually every 3 hours.
 
 The dose of misoprostol is reduced in the 2nd trimester due to the greater sensitivity of the uterus to prostaglandins.
 
-# Contraindications for Mifepristone & Misoprostol combination
+# Contraindications for mifepristone & misoprostol combination
 
 Previous allergic reaction to mifepristone or misoprostol
 

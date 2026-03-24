@@ -1,35 +1,35 @@
-# Chapter: इंट्रावेनस एक्सेस - उपयोग
+# Chapter: Intravenous access - usage
 
-- इंट्रावेनस एक्सेस का उपयोग फ्लूइड्स और दवाइयाँ देने के लिए किया जाता है।
-- इंट्रावेनस इक्विपमेंट्स सभी स्वास्थ्य सुविधाओं पर उपलब्ध होने चाहिए।
-- प्रत्येक मरीज के लिए आईवी कैनुला का साइज उनकी स्थिति, उद्देश्य और आवश्यक फ्लूइड्स देने की तीव्रता के आधार पर  तय किया जाता है।
+- Intravenous access is used to administer fluids and drugs.
+- Equipment for intravenous should be located at all health facilities.
+- The size of IV cannula for each client is decided based on their condition, purpose, and urgency of which fluids need to be delivered.
 
-![Image](23ba369f6d6542d8877ccb4c6d1b3c08)
+![Image](86e61f0367454562a0dff0b7aae75a6b)
 
-**आवश्यक उपकरण:**
+**Materials required:**
 
-- स्पिरिट स्वैब
-- इंट्रावेनस कैनुला / वेनफ्लॉन
-- टॉर्निकेट 
-- सलाइन फ्लश 
-- एडहेसिव टेप
+- Spirit swab
+- Intravenous cannulas/Venflons
+- Tourniquet
+- Saline flush
+- Adhesive tape
 
 ---
 
-# Chapter: इंट्रावेनस एक्सेस - प्रैक्टिकल जानकारी
+# Chapter: Intravenous access - Practical information
 
-## एडल्ट
+## Adult
 
-1. एक एक्सेसिबल पेरिफेरल वेन की पहचान करें। 
-2. वेन को स्थिर करने और वेनस रिटर्न रोकने के लिए टूर्निकेट का उपयोग करें।
-3. हाथ धोएं और दस्ताने पहनें।
-4. आसपास की त्वचा को स्पिरिट स्वैब से साफ करें।
-5. कैनुला को 15 डिग्री एंगल पर वेन में डालें और इसकी अधिकांश लंबाई इंसर्ट करें
-6. जब ब्लड दिखाई दे, तो स्टाइलट को पीछे खींचते हुए कैनुला को आगे बढ़ाएँ।
-7. फ्लूइड के प्रवाह की जाँच के लिए 2 मि.ली. नॉर्मल सलाइन से फ्लश करें।
-8. आइवी फ्लूइड्स से कनेक्ट करें या स्टॉपर या  3-वे कनेक्टर लगाएँ।
-9. एडहेसिव टेप से कैथेटर को अच्छी तरह फिक्स करें।
+1. Identify an accessible peripheral vein.
+2. Use a tourniquet to stabilize the vein and obstruct the venous return 
+3. Wash hands and put on gloves. 
+4. Clean the surrounding skin with a spirit swab 
+5. Introduce the cannula into the vein (15-degree angle) and insert most of its length.
+6. When blood is seen, advance cannula whilst withdrawing the stylet.
+7. Flush with 2 ml of normal saline to check for the flow of the fluid.
+8. Connect to IV fluids or put in stopper or 3-way connector.
+9. Fix the catheter securely with adhesive tape.
 
-![Image](608f9db815754d7385f6c1e0c4fabfff)
+![Image](7ed1ced296da4d47b4b6280d5f0539ac)
 
 ---

@@ -4,15 +4,13 @@ Intermittent preventive treatment in malaria-endemic areas.
 
 ## Dosage and Administration
 
-Sulfadoxine 500 mg/pyrimethamine 25 mg co-formulated tablet – 3 tablets, single dose for each treatment. 
+3 tablets of sulfadioxine/pyrimethaline (total 1500 mg /75 mg SP) PO taken as early as possible in the second trimester, repeated at monthly intervals. 
 
-Start in the second trimester, one month apart ensuring at least three doses are given.
- 
-Ideally to be given at 4,6,8 and 9 months.
+Ensure at least 3 doses are given in pregnancy, ideally given at 4, 6, 8 and 9 months.
 
 ## Contraindications
 
-First trimester of Pregnancy (within 13 weeks of gestation)
+First trimester of pregnancy (< 13 weeks' gestation)
 
 Allergy to sulfonamides
 

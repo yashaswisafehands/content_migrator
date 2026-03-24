@@ -1,29 +1,25 @@
-# Chapter: Intro
+# Chapter: Preamble
 
-Il existe différentes façons de prévenir les grossesses non désirées et de planifier une grossesse désirée.
+There are different ways to prevent unwanted pregnancies and plan the timing of a wanted pregnancy.
 
-Les méthodes incluent la contraception hormonale, les méthodes barrières, le dispositif intra-utérin (DIU) et la stérilisation définitive.
+Methods range from hormonal birth control, barrier methods, intrauterine devices (IUD) to permanent sterilization.
 
-Chaque méthode a ses avantages et ses inconvénients.
+Each method has its own advantages and disadvantages.
 
-La seule méthode contraceptive efficace contre les maladies sexuellement transmissibles (MST) est le préservatif.
+The only birth control method that will prevent sexually transmitted diseases (STDs) are condoms.
 
-Si vous devez vous protéger des MST, vous devez obligatoirement utiliser un préservatif à chaque relation sexuelle, en plus des autres formes de contraception que vous utilisez.
+To protect against STDs, you must use a condom every time you have sex, in addition to any other contraceptive methods in use.
 
-Si vous ne connaissez pas votre statut MST, envisagez de faire un test.
+Those who do not know their STD status should consider being tested.
 
-De nombreuses possibilités de contraception sont à votre disposition.
+Some of the many contraceptive methods will be described in the following pages:
 
-Quelques unes de celles-ci seront détaillées dans les pages qui suivent.
+Birth control pills (oral contraceptives)
 
-Pilules contraceptives (contraceptif oral)
+Hormonal long-acting reversible contraceptives (injections, implant, hormonal IUS)
 
-Autres types de contraceptifs hormonaux (injections, implant)
+Non-hormonal birth control options (condom, sponge, spermicide, cervical cap, diaphragm, copper IUD, natural family planning)
 
-Types de contraception non hormonale (préservatif, éponge, spermicide, cape cervicale, diaphragme, DIU cuivre, planning familial naturel)
-
-Type de contraception définitive (ligature des trompes, vasectomie)
-
-N’oubliez pas que seul le préservatif protège des maladies sexuellement transmissibles !
+Permanent birth control options (tubal ligation, vasectomy)
 
 ---

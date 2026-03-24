@@ -1,19 +1,19 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-Pour la maturation pulmonaire, la prévention de la détresse respiratoire et l’hémorragie vertébrale du nouveau-né, en cas de menace de travail prématuré entre 24 et 34 semaines de gestation.
+Corticosteroids are administered to the mother to support foetal lung development and reduce the risk of breathing problems and brain bleeding in the newborn when the mother is at risk of preterm labour between 24 and 34 weeks of gestation.
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-6 mg IM, quatre doses, toutes les 12 heures
+Dexamethasone 6 mg IM x 4, given 12 hours apart
 
-# Contre-indications
+# Contraindications
 
-Infections actives non traitées.
+Active untreated infections.
 
-# Effets indésirables
+# Adverse Reactions
 
-Changements de la vision, gonflement, prise de poids rapide, problèmes de sommeil (insomnie), changements d'humeur, acné, peau sèche, peau amincie, ecchymose ou décoloration, cicatrisation lente, transpiration accrue, maux de tête, vertiges, sensation d'étourdissement, nausées, maux d'estomac, ballonnements, faiblesse musculaire ou changements dans la forme ou l'emplacement de la graisse corporelle (en particulier dans les bras, les jambes, le visage, le cou, les seins et la taille).
+Vision changes, swelling, rapid weight gain, sleep problems (insomnia), mood changes, acne, dry skin, thinning skin, bruising or discoloration, slow wound healing, increased sweating, headache, dizziness, spinning sensation, nausea, stomach pain, bloating, muscle weakness, or changes in the shape or location of body fat (especially in your arms, legs, face, neck, breasts, and waist).
 
-De rares cas de réactions allergiques sévères (anaphylaxie) sont survenus chez des patients recevant une corticothérapie, comme la dexaméthasone.
+Rare instances of severe allergic reactions (anaphylaxis) have occurred in patients receiving corticosteroid therapy such as dexamethasone.
 
 ---

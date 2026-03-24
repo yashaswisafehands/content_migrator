@@ -1,101 +1,101 @@
-# Chapter: काउंसिलिंग
+# Chapter: Counselling
 
-जो महिलाएँ पेरिनेटल मानसिक स्वास्थ्य समस्याओं के साथ प्रस्तुत होती हैं, उन्हें सहानुभूतिपूर्ण और नॉन – जजमेंटल मैटरनिटी केयर प्रोफेशनल्स द्वारा काउंसिलिंग दी जानी चाहिए। इसमें साइकोएजुकेशन और ट्रॉमा इनफॉर्म्ड केयर शामिल होना चाहिए।
+All women who present with perinatal mental health issues should be counselled by empathetic, non-judgmental maternity care professionals, offering psychoeducation and trauma informed care.
 
-चाहे महिलाओं को उनके मानसिक स्वास्थ्य संबंधी समस्याओं के लिए दवा की आवश्यकता हो या न हो, उन्हें नर्स/मिडवाइफ़/डॉक्टर और अन्य संबद्ध स्वास्थ्य प्रोफेशनल्स द्वारा प्रदान की जाने वाली कोमल, सहायक इंटरपर्सनल काउंसिलिंग से लाभ होगा।
+Whether women require medication for their mental health issues or not, they will benefit from gentle supportive interpersonal counselling from the nurse/midwife/doctor and other allied health care professionals.
 
-पेरिनेटल मानसिक स्वास्थ्य काउंसिलिंग तकनीकों के मुख्य सिद्धांत यह हैं कि महिलाओं की भलाई में योगदान कर सकने वाले व्यवहार, भावनाओं और विचारों का पता लगाया जाए।
+The key principles in perinatal mental health counselling techniques are to explore the behaviours, emotions and ideas that may contribute to the woman’s wellbeing.
 
-इनकी पहचान के लिए अपनाई जाने वाली रणनीतियाँ शामिल हैं:
+Strategies to identify these include:
 
-- **सक्रिय एवं रिफ्लेक्टिव लिसनिंग**– जहाँ आप महिला द्वारा कही गई बातों को अपने शब्दों में दोहराते हैं।
+- **Active, reflective listening** (where you repeat back in your own words what has been said)
 
-- **मोटिवेशनल इंटरव्यइंग –**जहाँ आप सहायक तरीके से महिला को उसके बदलाव की आवश्यकता और बदलाव चाहने के कारणों के बारे में बात करने के लिए प्रोत्साहित करते हैं।
+- **Motivational interviewing** (where you, in a supportive manner, encourage the woman to talk about her need for change and reasons for wanting to change)
 
-![Image](19c5c32233ca420b9ef7f20d3abfcbe5)
-
----
-
-# Chapter: ट्रॉमा-इनफॉर्म्ड केयर
-
-ट्रॉमा-इनफॉर्म्ड केयर एक सशक्तिकरण- बेस्ड फ्रेमवर्क है, जो यह स्वीकार करता है कि मानसिक स्वास्थ्य संबंधी स्थिति वाली कई महिलाओं ने गंभीर ट्रॉमा का अनुभव किया होता है और उनमें पोस्ट-ट्रॉमैटिक स्ट्रेस डिसऑर्डर (पीटीएसडी) हो सकता है। इसलिए, प्रदान की जाने वाली देखभाल संवेदनशील होनी चाहिए ताकि क्लाइंट को दुबारा ट्रॉमैटाइज न किया जाए।
-
-स्वास्थ्य प्रोफेशनल्स के लिए अपने काम को ट्रॉमा-इनफॉर्म्ड केयर के अनुसार ढालने के मुख्य सिद्धांत हैं:
-
-- सुरक्षा– भावनात्मक और शारीरिक दोनों प्रकार की सुरक्षा, जैसे कि क्या वातावरण स्वागतपूर्ण है?
-- विश्वास – क्या सर्विस लोगों की ज़रूरतों के प्रति संवेदनशील है?
-- चॉइस – क्या आप विकल्प चुनने का अवसर प्रदान करते हैं?
-- सहयोग – क्या आप ‘किसी पर काम करने’ के बजाय ‘साथ मिलकर काम करने’ का तरीका अपनाते हैं?
-- सशक्तिकरण – क्या लोगों को सशक्त बनाने पर ध्यान केंद्रित किया गया है?
-- विविधता का सम्मान– क्या आप सांस्कृतिक रूप से सुरक्षित देखभाल का अभ्यास कर रहे हैं?
+![Image](20b2d0b8ebdf49419af2f9529962797e)
 
 ---
 
-# Chapter: साइकोएजुकेशन
+# Chapter: Trauma informed care
 
-साइकोएजुकेशन का उद्देश्य महिलाओं के पेरिनेटल मानसिक स्वास्थ्य की स्थिति और उपचार के तरीकों के बारे में उनके ज्ञान और समझ को बढ़ाना है।
+Trauma-informed care is a strengths-based framework that acknowledges many people with a mental health condition have experienced severe trauma and may have post-traumatic stress disorder(PTSD). Therefore, the care delivered must be sensitive to avoid re-traumatising the client.
 
-यह माना जाता है कि ज्ञान बढ़ने से महिलाएँ अपनी स्थिति से अधिक प्रभावी ढंग से निपट सकती हैं और जीवन के निर्णय सुधारने के लिए सकारात्मक कदम उठा सकती हैं।
+The guiding principles for health care professionals  to adapt their practice to trauma informed care include:
 
-संभव होने पर, साइकोएजुकेशन में साथी और परिवार के सदस्य भी शामिल किए जाने चाहिए।
-
-![Image](dd54d629a3b0440a8e654a1e44c37db1)
-
-शिक्षा केवल स्थिति के बारे में जानकारी तक सीमित नहीं होती, बल्कि इसमें उपयोगी रणनीतियाँ भी शामिल होती हैं, जैसे कि अच्छी नींद की आदतें बनाना, संतुलित पोषण बनाए रखना, तनाव कम करना और संबंधों में रचनात्मक ढंग से संवाद करना।
-
-महिलाओं को अपनी सेहत के बारे में सकारात्मक निर्णय लेने के लिए सशक्त बनाना सेल्फ – डीटरमिनेशन की दिशा में महत्वपूर्ण कदम है।
-
----
-
-# Chapter: कॉग्निटिव बिहेवियरल थेरेपी (सीबीटी)
-
-सीबीटी एक मनोवैज्ञानिक उपचार है, जिसमें कॉग्निटिव (सोचने के तरीके बदलना) और बिहेवियरल (व्यवहार बदलना) दोनों घटक शामिल होते हैं। यह थेरेपी बायपोलर डिसऑर्डर जैसी स्थितियों में उपयोग की जा सकती है। यह मूल विश्वासों और व्यवहारों की पहचान करता है और उन्हें बदलता है, जो गलत धारणाओं के पीछे होते हैं। सीबीटी मूड और चिंता के लक्षणों को कम कर सकता है और आत्म-हानि वाले व्यवहार को घटा सकता है।
-
-सीबीटी का उद्देश्य है:
-
-1. नकारात्मक और परेशान करने वाले विचारों की पहचान करने और उनसे निपटने का कौशल सिखाना।
-2. सेल्फ- एस्टीम और सेल्फ- आइडेंटिटी को पुनर्निर्मित करना, और व्यक्ति को अधिक संतोषजनक गतिविधियाँ करने में मदद करना।
-3. तीव्र लक्षणों में सुधार करना – यह मदद करता है कि परेशान करने वाले सोच के पैटर्न (चित्रों में या वास्तविक अनुभव में) को नए तरीके से देखा जाए। यह ट्रॉमा के बारे में बात करके या डर के स्रोत पर ध्यान केंद्रित करके किया जा सकता है।
+- Safety – emotional as well as physical e.g., is the environment welcoming?
+- Trust – is the service sensitive to people’s needs?
+- Choice – do you provide opportunity for choice? 
+- Collaboration – do you communicate a sense of ‘doing with’ rather than ‘doing to’? 
+- Empowerment – is empowering people a key focus? 
+- Respect for diversity – are you practicing culturally safe care?
 
 ---
 
-# Chapter: साइकोलॉजिकल फर्स्ट ऐड
+# Chapter: Psychoeducation
 
-साइकोलॉजिकल फर्स्ट ऐड के तीन मूल कार्य सिद्धांत हैं:
+The purpose of psychoeducation is to increase a woman’s knowledge and understanding of her perinatal mental health condition and options for treatment.
 
-1. देखना : यह सुनिश्चित करें कि महिला सुरक्षित है।
-2. सुनना : महिला की चिंताओं के बारे में पूछें और शांत होकर सुनें।
-3. जोड़ना : महिला की मूल ज़रूरतों को पूरा करने के लिए उपयुक्त सेवाओं से जोड़ें।
+It is supposed that increased knowledge enables women to cope more effectively with their conditions and take positive steps to improve life choices.
 
-साइकोलॉजिकल फर्स्ट ऐड  में निम्नलिखित कार्य शामिल होते हैं:
+Where possible, psychoeducation should include partners and family members.
 
-- बिना दखल दिए ज़रूरी मदद और सहारा देना।
-- आवश्यकताओं और चिंताओं का आंकलन करना।
-- लोगों को उनकी मूल ज़रूरतें (जैसे भोजन, पानी, जानकारी) पूरी करने में मदद करना।
-- लोगों की बातें ध्यान से सुनना, लेकिन उन्हें बात करने के लिए दबाव न डालना।
-- लोगों को दिलासा देना और उन्हें आराम व शांति महसूस कराने में मदद करना।
-- लोगों को जानकारी, सेवाओं और सामाजिक सहायता से जोड़ने में मदद करना।
-- लोगों को आगे किसी भी प्रकार की हानि से बचाना।
+![Image](14807c78d1df470cafbeb4dd04bbb023)
+
+Education involves not only information about the condition but useful strategies such as establishing good sleep patterns, maintaining optimum nutrition, alleviating stress and how to interact in relationships in constructive ways.
+
+Empowering women to make positive decisions about their health is pivotal in moving toward self-determination.
 
 ---
 
-# Chapter: आई मूवमेंट डीसेन्सिटाइज़ेशन रीप्रोसेसिंग (ईएमडीआर)
+# Chapter: Cognitive behavioural therapy (CBT)
 
-ईएमडीआर थेरेपी इस विचार पर आधारित है कि नकारात्मक विचार, भावनाएँ और व्यवहार अनसुलझी ट्रॉमाटिक यादों का परिणाम होते हैं।
+CBT is a psychological treatment comprising cognitive components (for thinking differently), and behavioral components (doing things differently). 
+This therapy may be used with people who have bipolar disorder. It identifies and changes core beliefs and behaviours that underlie inaccurate perceptions. CBT may reduce mood and anxiety symptoms and may reduce self-harming behaviour.
 
-उपचार में स्टैंडर्डाइज़्ड प्रोसिजर्स शामिल होती हैं, जिनका उद्देश्य पोस्ट-ट्रॉमेटिक स्ट्रेस डिसऑर्डर (पीटीएसडी) से जुड़ी यादों और अनुभवों पर ध्यान केंद्रित करना होता है, साथ ही बाइलेटरल स्टिम्यूलेशन, जो बार-बार की जाने वाली आई मूवमेंट्स के माध्यम से किया जाता है।
+CBT aims to:
 
-![Image](6e9600b73d934b759807ce8b9a4592cc)
+1. Teach skills to  identifying and dealing with intrusive negative thoughts
+2. Rebuild self-esteem , self-identity  and  help a person to do more rewarding activities 
+3. Improve acute symptoms by assisting to reframe the thought patterns (in images or in person)that are disturbing. This might happen through talking about the trauma or concentrating on where the fears come from.
 
 ---
 
-# Chapter: पेरेंटल स्किल्स ट्रेनिंग
+# Chapter: Psychological first aid
 
-पेरेंटल स्किल्स ट्रेनिंग, पेरिनेटल डिप्रेशन और एंग्ज़ायटी से जूझ रही महिलाओं के लिए एक उपयोगी इंटरवेंशन है।
+The three basic action principles of Psychological first aid (PFA)are:
 
-यह प्रशिक्षण कार्यक्रमों का समूह है, जिसका उद्देश्य देखभाल करने के तरीके में सुधार लाना और प्रभावी केयरगिविंग रणनीतियों का उपयोग करने में आत्मविश्वास बढ़ाना है।
-इसमें देखभाल करने वालों को सिखाया जाता है कि वे बच्चों से भावनात्मक रूप से कैसे संवाद करें, उनके साथ सकारात्मक रूप से कैसे जुड़ें, और अच्छे व्यवहार को प्रोत्साहित करने के तरीके कैसे अपनाएँ, ताकि बच्चों के व्यवहार और विकास में सुधार हो सके।
+1. Look: Checking that the woman is safe
+2. Listen: Ask about the woman’s concerns and listen calmly
+3. 3.Link: Help the woman address her basic needs by accessing services for her
 
-![Image](b8392604082642e1b84cf34550254724)
+PFA involves the following actions:
+
+- providing practical care and support, which does not intrude
+- assessing needs and concerns.
+- helping people to address basic needs (for example, food and water, information).
+- listening to people, but not pressuring them to talk.
+- comforting people and helping them to feel calm.
+- helping people connect to information, services, and social supports.
+- protecting people from further harm.
+
+---
+
+# Chapter: Eye Movement Desensitization Reprocessing (EMDR)
+
+EMDR therapy is based on the idea that negative thoughts, feelings and behavior are the result of unprocessed traumatic memories.
+
+Treatment involves standardized procedures to focus on associations of post-traumatic stress disorder while inducing bilateral stimulation in the form of repeated eye movements.
+
+![Image](927353f28aa24e71b119731b4a6708bf)
+
+---
+
+# Chapter: Parental Skills training
+
+Parental Skills training are useful intervention in woman with perinatal depression and anxiety.
+
+It is a group of treatment programmes to change caregiving behavior and strengthen confidence in using effective care-giving strategies. It involves teaching caregivers’ emotional communication, positive care giver–child interaction skills and positive reinforcement methods to improve the behavior and functioning of children.
+
+![Image](525fb9d4fb9840cc82390566497c01ed)
 
 ---

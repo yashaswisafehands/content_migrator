@@ -1,36 +1,36 @@
-## इंडिकेशन्स और उपयोग
+## Indication and Usage
 
-सभी एच.आई.वी. पॉज़िटिव गर्भवती महिलाओं को, चाहे उनका सीडी4 काउंट या क्लिनिकल स्टेज कुछ भी हो, जीवनभर के लिए एंटीरेट्रोवायरल थेरेपी (ए.आर.टी.) शुरू की जानी चाहिए या जारी रखी जानी चाहिए।
+All HIV-positive pregnant women must be started or continued lifelong Antiretroviral Therapy(ART), regardless of CD4 count or clinical stage.
 
-टी.डी.एफ. + 3.टी.सी. + ई.एफ.वी. की ट्रिपल- ड्रग रेजिमेन गर्भवती महिलाओं के लिए प्राथमिक (फर्स्ट-लाइन) ए.आर.टी. के रूप में अनुशंसित है।
+Triple-drug regimen of TDF + 3TC + EFV is the preferred first-line ART for pregnant women.
 
-समय पर ए.आर.टी. शुरू करने से माता से शिशु में एच.आई.वी. संक्रमण (पैरेंट टू चाइल्ड ट्रांसमिशन – पी.पी.टी.सी.टी.) की रोकथाम में मदद मिलती है।
+Timely initiation of ART helps in prevention of Parent-To-Child Transmission (PPTCT)
 
-## डोज़ और देने की विधि
+## Dosage and Administration
 
-**एडल्ट्स :**
+**Adult:**
 
-टेनोफोविर (टी.डी.एफ.) 300 मि.ग्रा. + लैमिवुडिन (3.टी.सी.) 300 मि.ग्रा. + इफाविरेन्ज़ (ई.एफ.वी.) 600 मि.ग्रा. – एक टैबलेट प्रतिदिन, अधिमानतः सोते समय और खाली पेट लें।
+Tenofovir (TDF) 300 mg + Lamivudine (3TC) 300 mg + Efavirenz (EFV) 600 mg – one tablet once daily, preferably at bedtime and on an empty stomach.
 
-**नवजात शिशु :**
+**Newborn:**
 
-नेविरापीन सिरप जन्म के तुरंत बाद दें और जारी रखें –
+Syrup Nevirapine should be given immediately after birth, continued for:
 
-- 6 सप्ताह तक, चाहे स्तनपान हो या न हो।
-- 12 सप्ताह तक, यदि माँ ने डिलीवरी के समय से पहले 24 सप्ताह से कम अवधि तक ए.आर.टी. ली है।
+- 6 weeks, regardless of breastfeeding status.
+- 12 weeks, if the mother has been on ART for less than 24 weeks at delivery.
 
-## कॉन्ट्राइंडिकेशन्स
+## Contraindications
 
-किसी भी दवा से ज्ञात हाइपरसेंसिटिविटी।
+Known hypersensitivity to any of the drugs.
 
-गुर्दे की खराबी वाली महिलाओं में सावधानी रखें (टी.डी.एफ. से बचें या नियमित निगरानी करें)।
+Caution in women with renal dysfunction (avoid or monitor TDF)
 
-## एडवर्स रिएक्शन्स
+## Adverse effects
 
-टेनोफोविर (टी.डी.एफ.): लंबे समय तक उपयोग से गुर्दों की कार्यक्षमता में कमी और हड्डियों की मिनरल डेंसिटी में गिरावट हो सकती है।
+Tenofovir (TDF): May cause kidney dysfunction and a decline in bone mineral density over time.
 
-लैमिवुडिन (3.टी.सी.): सामान्यतः सुरक्षित है, लेकिन कभी-कभी हल्की गैस्ट्रोइंटेस्टाइनल समस्या हो सकती है; बहुत ही रेयर मामलों में लैक्टिक एसिडोसिस हो सकता है।
+Lamivudine (3TC): Generally, well tolerated but can occasionally cause mild gastrointestinal disturbances; very rarely associated with lactic acidosis.
 
-इफाविरेन्ज़ (ई.एफ.वी.): अक्सर मानसिक यानि न्यूरोसाइकियाट्रिक से संबंधित दुष्प्रभाव जैसे – डरावने सपने, चक्कर आना और नींद में परेशानी का कारण बन सकता है।
+Efavirenz (EFV): Commonly leads to neuropsychiatric side effects like vivid dreams, dizziness, and sleep disturbances.
 
 ---

@@ -1,17 +1,17 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-Pour la maturation pulmonaire, la prévention de la détresse respiratoire chez le nouveau-né en cas de travail prématuré entre 24 et 34 semaines d’âge gestationnel.
+For lung maturation and prevention of respiratory distress of the newborn at threatening preterm labour between 24 to 34 weeks' gestation.
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-12 mg IM, deux doses, à 24 hrs d'intervalle (dose totale : 24 mg).
+2 doses of betamethasone 12 mg IM given 24 hours apart (total dose: 24mg)
 
-# Contre-indications
+# Contraindications
 
-Infections actives non traitées.
+Active untreated infections.
 
-# Effets indésirables
+# Adverse Reactions
 
-Les effets indésirables fréquents sont les changements d'humeur et autres perturbations mentales, l'essoufflement, l'oedème et le métabolisme diabétique.
+Common adverse reactions are mood changes and other mental disturbances, shortness of breath, oedema and diabetic metabolism.
 
 ---

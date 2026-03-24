@@ -2,7 +2,7 @@
 
 The contraceptive injection steadily releases the hormone progestin into the bloodstream, preventing ovulation and therefore pregnancy each month.
 
-It also thickens the cervical mucus and thins the uterine lining, making ovulation even more difficult.
+It also thickens the cervical mucus and thins the uterine lining, preventing fertilisation.
 
 An injection lasts 8-13 weeks, depending on the type.
 

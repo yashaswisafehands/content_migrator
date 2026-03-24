@@ -1,44 +1,43 @@
-## Indications et Utilisation
+## Indications and Usage
 
-Réduit le risque de faible poids à la naissance, de septicémie puerpérale, d'anémie maternelle, de carence en fer et d'anomalies du tube neural.
+Reduces the risk of low birth weight, puerperal sepsis, maternal anaemia, iron deficiency, and neural tube defects.
 
-Il est recommandé à toutes les adolescentes enceintes et aux femmes adultes de prendre des suppléments de fer et d’acide folique.
+All pregnant adolescents and adult women are recommended to take iron and folic acid supplements. Folic acid should be commenced as early as possible (ideally before conception) to prevent neural tube defects.
 
-## Posologie et mode d'emploi
+## Dosage
 
-**Supplémentation prénatale de routine :**
-1 x 30-60 mg de fer élémentaire + 1 x 0,4 mg d'acide folique (par voie orale)/jour.
+**Routine antenatal supplementation:**
+1 x 30-60 mg elemental iron + 1 x 0.4 mg folic acid (orally) / day.
 
-**Mauvaise tolérance au fer quotidien et contextes où la prévalence de l'anémie prénatale est < 20 % :**
-1 x 120 mg de fer élémentaire + 1 x 2,8 mg d'acide folique (voie orale)/semaine.
+**Poor toleration of daily iron and settings with antenatal anaemia prevalence of < 20%:**
+1 x 120mg elemental iron + 1 x 2.8 mg folic acid (orally) / week
 
-**Contextes où la prévalence de l'anémie prénatale est ≥ 40 % :**
-1 x 60 mg de fer élémentaire + 1 x 0,4 mg d'acide folique (par voie orale)/jour
+**Settings with antenatal anaemia prevalence of ≥ 40%:**<color style="blue"> </color>
+1 x 60 mg elemental iron + 1 x 0.4 mg folic acid (orally) / day
 
-**Anémie prénatale diagnostiquée (<110g/L) :**
-1 x 120 mg de fer élémentaire + 1 x 0,4 d'acide folique (par voie orale) / jour jusqu'à ce que l'hémoglobine revienne à la normale (Hb 110 g/L ou plus), puis reprendre la dose prénatale standard.
+**Diagnosed antenatal anaemia (<110g/L):**<color style="blue"> </color>
+1 x 120 mg elemental iron + 1 x 0.4 folic acid (orally) / day until haemoglobin returns to normal (Hb 110 g/L or higher), then resume the standard antenatal dose.
 
-## Contre-indications
+## Contraindications
 
-**Acide Folique:**
+**Folic acid:**
 
-Des doses supérieures à 0,4 mg par jour ne doivent pas être administrées sans administration concomitante de vitamine B12, à moins qu'une carence en vitamine B12 puisse être exclue.
+Doses above 0.4mg daily should not be given without concomitant administration of vitamin B12, unless vitamin B12 deficiency can be ruled out.
 
-**Fer:**
+**Iron:**
 
-- Hypersensibilité
-- Troubles du métabolisme du fer entraînant une augmentation du stockage du fer
-- Surcharge de fer dans le sang
-- Anémie hémolytique
-- Ulcères d'estomac et gastrite
+- Hypersensitivity
+- Iron metabolism disorders causing increased iron storage
+- Overload of iron in the blood
+- Haemolytic anaemia
+- Stomach ulcers and gastritis
 
-## Considérations
+## Considerations
 
-Les suppléments de fer et de calcium doivent être administrés de préférence à plusieurs heures d’intervalle plutôt qu’en concomitance, car des interactions négatives entre ces micronutriments peuvent se produire.
+Iron and calcium supplements should preferably be administered several hours apart rather than concomitantly as negative interactions between these micronutrients may occur.
 
-L'équivalent de 120 mg de fer élémentaire correspond à 600 mg de sulfate ferreux hépahydraté, 360 mg de fumarate ferreux ou 1000 mg de gluconate ferreux.
+The equivalent of 120 mg of elemental iron is 600 mg of ferrous sulfate heptahydrate, 360 mg of ferrous fumarate or 1000 mg of ferrous gluconate.
 
-Dans les zones d’endémie palustre, la fourniture de suppléments de Fer prénatal et acide folique (FAF)
- doit être mise en œuvre conjointement avec des mesures de prévention, de diagnostic et de traitement du paludisme.
+In malaria-endemic areas, provision of IFA supplements should be implemented in conjunction with measures to prevent, diagnose and treat malaria.
 
 ---

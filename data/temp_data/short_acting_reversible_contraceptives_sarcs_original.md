@@ -10,7 +10,7 @@ With typical use, male condoms are 87% effective. This means that for every 100 
 
 Very few pregnancies or infections occur due to incorrect use, slips, or breaks. If this happens, woman may need to use emergency contraception.
 
-![Image](02bcd1158f5c40c5a041334c3548c792)
+![Image](92a1c8f8b31c413d93d583bb3906cc9c)
 
 ## Protection against sexually transmitted infections (STIs):
 
@@ -68,7 +68,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after COCs are stopped: **No delay**
 
-![Image](8dc63015cd9243199a542a58aa8ac403)
+![Image](0d503ca7b85148df8d9560976b3d639c)
 
 ## Use
 
@@ -138,7 +138,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after POPs are stopped: **No delay**
 
-![Image](67cfd62e5e2a4817b7b01dc567e3cbbd)
+![Image](7f69ff2308cc42cb9cdb5c3826b69d4a)
 
 ## Use
 
@@ -196,7 +196,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility taking EC: **No delay**
 
-![Image](f86e4b5aa56541c38134122253f5e7a3)
+![Image](be79ea4730ff488c996ed70518303f65)
 
 ## Use
 
@@ -234,7 +234,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after centchroman are stopped: **No delay**
 
-![Image](517f675cf55a47a0a4fb9f7957c14d66)
+![Image](8a3a12bef2ab4a6ba30cd34fafecb112)
 
 ## Use
 
@@ -244,7 +244,7 @@ Return of fertility after centchroman are stopped: **No delay**
 
 ## Schedule of Centchroman:
 
-![Image](d93caa9ee22343858e06b7bb53818377)
+![Image](15bac11238d94a61a02a70566a8b90a2)
 
 ## Follow-up
 
@@ -295,7 +295,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 **Return of fertility**takes 7-10 months from the date of last injection.
 
-![Image](49c75260f2cb4208b5a8d6355b1a6961)
+![Image](d6ac3713790d49cbadbf6f546a333448)
 
 ## Use
 

@@ -1,25 +1,23 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-L’érythromycine est un antibiotique macrolide.
+Erythromycin is a macrolide antibiotic used for bacterial infections in the case of penicillin allergy.
 
-L’érythromycine est utilisée pour les infections bactériennes en cas d’allergie à la pénicilline.
+# Dosage and Administration
 
-# Posologie et mode d'emploi
+**Sepsis:**Erythromycin 0.5-1g diluted in 500 ml normal saline IV over 60 minutes every 6 hours.
 
-IV (en cas de septicémie) :
+**Premature pre-rupture of membranes (PPROM):**Erythromycin 250 mg orally every 6 hours for 10 days (or until birth)
 
-0,5 à 1 g dilués dans 500 ml de sérum physiologique IV à passer en 60 minutes 4 fois par jour.
+# Contraindications
 
-# Contre-indications
+Allergy to the drug.
 
-L'allergie au médicament.
+# Adverse reactions
 
-# Effets indésirables
+Common adverse reactions are reduced appetite, nausea, vomiting, abdominal pain, diarrhoea, skin rash and liver affection including jaundice.
 
-Effets indésirables les plus fréquents : diminution de l’appétit, nausées, vomissements, douleurs abdominales, diarrhée, éruption cutanée et troubles hépatiques y compris la jaunisse.
+Uncommon adverse reactions are urticaria.
 
-Effets indésirables peu fréquents : urticaire.
-
-Effets indésirables rares : toxicité du foie, pancréatite, ototoxicité et réaction anaphylactique.
+Rare adverse reactions are liver toxicity, pancreatitis, ototoxicity, and anaphylactic reaction.
 
 ---

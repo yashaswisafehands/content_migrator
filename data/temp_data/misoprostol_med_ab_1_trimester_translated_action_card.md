@@ -20,7 +20,7 @@ Known or suspected ectopic pregnancy
 
 IUD in place
 
-Serious/unstable health problems, including but not limited to hemorrhagic disorders, heart disease and severe anemia
+Serious/unstable health problems, including but not limited to hemorrhagic disorders, heart disease and severe anaemia
 
 # Adverse reactions:
 
@@ -34,6 +34,6 @@ Some will have nausea, vomiting, constipation or flatulence.
 
 Less common: headaches and dizziness is experienced.
 
-Rarely Misoprostol can cause liver damage.
+Rarely misoprostol can cause liver damage.
 
 ---

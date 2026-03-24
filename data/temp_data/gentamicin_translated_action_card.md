@@ -1,41 +1,41 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-Antibiotique aminoglycosidique indiqué pour le traitement des infections bactériennes sévères ou graves chez l’adulte et l’enfant.
+Aminoglycoside antibiotic indicated for treatment of severe or serious bacterial infections in adults and children.
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-## Adulte:
+## Adults:
 
-240 mg IV une fois par jour.
+Gentamicin 5 mg/kg once daily IV.
 
-## Nouveaux-nés (moins de 7 jours de vie):
+## Newborns (under 7 days):
 
-Poids en dessous de 2.5 kg:
+Weight < 2.5 kg:
 
-3-4 mg/kg toutes les 24 hrs IM or IV
+Gentamicin 3-4 mg/kg every 24 hours IM/IV.
 
-Poids au dessus de 2.5 kg:
+Weight > 2.5 kg:
 
-5 mg/kg toutes les 24 heures IM ou IV.
+Gentamicin 5 mg/kg every 24 hours IM/ IV.
 
-Traitez durant au moins deux jours.
+Treat for at least two days.
 
-## Nouveau-nés (7-28 jours de vie):
+## Newborns (above 7 days):
 
-7,5 mg/kg par dose une fois par jour IV ou IM.
+Gentamicin 7.5 mg/kg once daily IV/ IM.
 
-# Contre-indications
+# Contraindications
 
-Allergie aux aminoglycosides.
+Allergy to aminoglycosides.
 
-Le traitement ne doit pas durer plus que 3 jours chez les patientes souffrant d’insuffisance rénale (oligurie ou créatinine élevée).
+Treatment should not be more than 3 days if the patient is suffering from renal failure (oliguria or elevated creatinine).
 
-# Effets indésirables
+# Adverse Reactions
 
-Effets indésirables les plus fréquents : troubles du rein, perte d’audition et acouphènes.
+Common adverse reactions are kidney impairment, hearing loss, and tinnitus.
 
-Effets indésirables peu fréquents : troubles hépatiques, augmentation ou baisse de la tension artérielle, dépression respiratoire, baisse des plaquettes, douleurs articulaires et musculaires, dépression, troubles de la coordination, éruption cutanée, démangeaisons, troubles visuels, urticaire et réactions anaphylactiques.
+Uncommon reactions are reduced blood pressure, respiratory depression, reduced platelets, joint and muscle pain, depression, coordination disturbances, skin rash, itching, visual disturbances, urticaria and anaphylactic reactions.
 
-Effets indésirables rares : surdité, chute de cheveux, diurèse faible et nécrose cutanée.
+Rare reactions are deafness, hair loss, oliduria and skin necrosis.
 
 ---

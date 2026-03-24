@@ -6,13 +6,16 @@ Infections caused by staphylococcal infections that usually have it’s origin i
 
 ## Adults:
 
-1 g each 6 hours IV or orally.
+Dicloxacillin 1 g IV or orally every 6 hours.
 
 ## Newborns:
 
-50 mg/kg per 24 hours divided on 3 doses IV or orally.
+Dicloxacillin 50 mg/kg/24 hours IV/orally divided into 3 doses.
 
-If taken orally it should be at least 1 hour before or 2 hours after a meal.
+**Example**:
+If a newborn weighs 3 kg: total daily dose = 150 mg/day → give 50 mg every 8 hours.
+
+If taken orally, it should be at least 1 hour before or 2 hours after a meal.
 
 # Contraindications
 
@@ -24,8 +27,8 @@ Severe allergy (type 1) to other β-lactam antibiotics (like cephalosporins).
 
 Common adverse reactions are nausea, vomiting, heartburn, diarrhoea, and skin rash.
 
-Uncommon adverse reactions are urticaria, itching, hematuria, and renal failure.
+Uncommon adverse reactions are urticaria, itching, haematuria, and renal failure.
 
-Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collaps, anaemia, lethargy, and convulsions.
+Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collapse, anaemia, lethargy, and convulsions.
 
 ---

@@ -7,7 +7,7 @@
 - Observe vaginal bleeding; it should gradually decrease.
 - Check for nausea or vomiting.
 
-![Image](a8a61670075145ad98f3c05d038f0bba)
+![Image](9dba8a9cbca341d29112e75cf9447395)
 
 **Before discharge from the facility:**
 
@@ -43,7 +43,7 @@ Schedule a follow-up visit within 1–2 weeks after the procedure.
 
 At the follow-up visit, assess:
 
-![Image](70e9972920494a9688bab4073baa4480)
+![Image](dba670c093294046880026fadb065254)
 
 - General physical condition and vital signs
 - Vaginal bleeding pattern

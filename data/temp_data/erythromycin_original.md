@@ -1,14 +1,12 @@
 # Chapter: Indications and Usage
 
-Erythromycin is a macrolide antibiotic.
-
-Erythromycin is used for bacterial infections in case of penicillin allergy.
+Erythromycin is a macrolide antibiotic used for bacterial infections in the case of penicillin allergy.
 
 # Dosage and Administration
 
-IV (in cases of sepsis):
+**Sepsis:**Erythromycin 0.5-1g diluted in 500 ml normal saline IV over 60 minutes every 6 hours.
 
-0.5-1 g diluted in 500 ml normal saline given IV over 60 minutes 4 times a day.
+**Premature pre-rupture of membranes (PPROM):**Erythromycin 250 mg orally every 6 hours for 10 days (or until birth)
 
 # Contraindications
 

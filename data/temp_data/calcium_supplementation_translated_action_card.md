@@ -1,17 +1,17 @@
-## Indications et utilisation
+## Indications and Usage
 
-- Réduit le risque de pré-éclampsie.
+- Reduces the risk of pre-eclampsia.
 
-Toutes les femmes enceintes devraient prendre des suppléments de calcium, en particulier celles présentant un risque plus élevé d'hypertension gestationnelle et dans les zones à faible apport en calcium.
+All pregnant women should take calcium supplements, particularly those at higher risk of gestational hypertension, and in areas with low calcium intake.
 
-## Posologie et mode d'emploi
+## Dosage and Administration
 
-1,5 à 2,0 g de calcium élémentaire/jour, la dose quotidienne totale étant divisée en trois doses
+Elemental calcium 1.5–2.0 g daily, divided into 3 doses.
 
-Commencez dès la première visite prénatale et continuez jusqu'à l'accouchement.
+Start at the first ANC visit and continue until delivery.
 
-## Contre-indications
+## Contraindications
 
-Les suppléments de fer et de calcium doivent être administrés de préférence à plusieurs heures d’intervalle plutôt qu’en concomitance, car des interactions négatives entre ces micronutriments peuvent se produire.
+Iron and calcium supplements should preferably be administered several hours apart to avoid negative interactions.
 
 ---

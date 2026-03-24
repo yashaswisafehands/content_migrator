@@ -1,6 +1,6 @@
 # Chapter: Routine postnatal assessments (up to 6 weeks)
 
-![Image](d25c590953e14c7582ff01c149d30a69)
+![Image](66be624571394d75b3225cc07691d3c4)
 
 ## Ask
 
@@ -28,7 +28,7 @@
 - Pallor: Look for conjunctival  and palmar pallor or other signs of anaemia. 
 - Healing: of sutured lacerations or episiotomy if any and advice on care.
 
-![Image](2d84078e33d544c49cf8a3bc00176b09)
+![Image](c384fa9577104ec59a189c5a2dc89480)
 
 Document on the mother’s maternal record.
 
@@ -38,7 +38,7 @@ Document on the mother’s maternal record.
 
 Provide individualized, culturally appropriate counselling to the woman and her family before discharge from the facility and at each visit. Inform about the next visit at the end of the counselling session.
 
-![Image](6c3f0af2837f4d24ab3e4ba0ca28fa07)
+![Image](029ce581a6084cef86201d9c33a0d56e)
 
 **Instruct the woman on:**
 
@@ -50,7 +50,7 @@ Provide individualized, culturally appropriate counselling to the woman and her 
 - Safe sexual practices: avoid sexual intercourse until the perineal wound is healed, and consider postpartum contraception. 
 - Disease prevention: make sure that the woman is up to date with recommended prophylaxes, treatments and vaccinations.
 
-![Image](7d2d18d8c98d455791d3cb72dd26cba0)
+![Image](36e36ca9db114c73ab905bd646594212)
 
 ---
 
@@ -64,7 +64,7 @@ Provide individualized, culturally appropriate counselling to the woman and her 
 - Inform about perineal hygiene.
 - If passing urine is painful, encourage hydration and to pour warm water when urinating to help dilute the urine.
 
-![Image](ca5e8b3ac4054bea8db12f2d39a24723)
+![Image](5cecc71de45747bfb1928975d3d279dd)
 
 ## Uterine cramping
 
@@ -73,7 +73,7 @@ Provide individualized, culturally appropriate counselling to the woman and her 
 - Recommend paracetamol 1g orally every 4-6 hours (max dose: 4 doses / 4g daily) or ibuprofen 400-600mg orally (max dose: 3-4 doses / 3.2 g daily)
 - For information on complications related to the breasts and breastfeeding, see practical procedure on lactation complications.
 
-![Image](6be28941788349e5a2efab7ff97e7197)
+![Image](43e960fd3bff4cc9aeaf665968acee47)
 
 ## Constipation
 
@@ -84,7 +84,7 @@ Provide individualized, culturally appropriate counselling to the woman and her 
 - Suggest a gentle laxative if it doesn’t improve.
 - Contact the health facility if the condition is not relieved after these actions.
 
-![Image](d2003a157eff4474a6ca51dc7f775c31)
+![Image](aad1baeab02241e68a8ba76032a558ac)
 
 ##
 
@@ -120,7 +120,7 @@ If any of the following symptoms are identified, offer immediate referral or tre
 
 - Sudden and excessive, or persistent and increased blood loss, faintness, dizziness, or palpitations.
 
-![Image](acad274196164d0fb280d88ca1847429)
+![Image](989b4f2ec82e4378b80ea15ac56a23a2)
 
 ## Pre-eclampsia and eclampsia
 
@@ -131,7 +131,7 @@ If any of the following symptoms are identified, offer immediate referral or tre
 
 - One-sided calf pain, redness or swelling of calves, shortness of breath, or chest pain.
 
-![Image](410b31116e8b40d784aced1bdcbdedd8)
+![Image](76ea58fabbb642e6b981b464b01836e4)
 
 ## Anaemia
 
@@ -139,7 +139,7 @@ If any of the following symptoms are identified, offer immediate referral or tre
 - Give double dose of iron tablet – 60 mg twice daily for 3 months. 
 - Refer to higher centre immediately if severe anaemia: Hb < 70 g/L (<7 g/dl), respiration >30/min, tires easily, breathlessness at rest.
 
-![Image](80c668aa848845eab392770e1b377d3a)
+![Image](eae86996f7954ca9a75cc8e6fc7fb848)
 
 ## Postpartum depression
 
@@ -162,7 +162,7 @@ If any of the following symptoms are identified, offer immediate referral or tre
 - Explain that she can become pregnant as soon as 4 weeks after delivery if she has sex and is not exclusively breastfeeding.
 - Ask about the plans of having more children and explain that waiting at least 2 years before trying for the next pregnancy is beneficial for the mother and the newborn.
 
-![Image](b27978a36de14bedaaeac99ba06596d2)
+![Image](2f5c05cf207d4fe49271078b07f355aa)
 
 For more information about counselling on modern contraception and the different methods available - go to the Modern contraception module.
 

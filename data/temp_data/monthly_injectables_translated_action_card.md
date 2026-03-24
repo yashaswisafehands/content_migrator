@@ -1,20 +1,20 @@
 ## Introduction
 
-Les injectables mensuels, ou contraceptifs injectables combinés (CIC), contiennent 2 hormones synthétiques, un progestatif et un œstrogène, qui imitent les hormones naturelles, la progestérone et l'œstrogène.
+Monthly injectables, or combine injectable contraceptives (CICs), contain 2 synthetic hormones, a progestin and an oestrogen, that mimic the natural hormones, progesterone and oestrogen.
 
-Ils agissent en empêchant l’ovulation et durent chacun environ 4 semaines.
+They work by preventing the ovulation and each last around 4 weeks.
 
-## Exemples de médicaments
+## Medication examples
 
-- **Acétate de médroxyprogestérone**(MPA) (Ciclofem/Ciclofemina/Cyclo-Provera/Feminena/Lunella/Lunelle/Novafem)
-- **Énanthate de noréthistérone** (NET-EN) (Mesigyna/Norigynon)
+- **Medroxyprogesterone acetate** (MPA) (Ciclofem/Ciclofemina/Cyclo-Provera/Feminena/Lunella/Lunelle/Novafem) 
+- **Norethisterone enanthate** (NET-EN) (Mesigyna/Norigynon)
 
-## Effets secondaires courants
+## Common side-effects
 
-Modifications du profil des saignements, prise de poids, maux de tête, étourdissements et sensibilité des seins.
+Changes in bleeding pattern, weight gain, headaches, dizziness and breast tenderness.
 
-## Plus d’information
+## More information
 
-Voir l'emballage pour des conseils spécifiques sur chaque médicament.
+See packaging for specific guidance on each medication.
 
 ---

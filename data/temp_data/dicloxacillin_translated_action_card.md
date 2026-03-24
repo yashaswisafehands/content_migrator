@@ -1,31 +1,34 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and usage
 
-Infections causées par des staphylocoques qui trouvent généralement leur origine dans la peau, les tissus conjonctifs et les os.
+Infections caused by staphylococcal infections that usually have it’s origin in skin, connective tissue and bones.
 
-# Posologie et mode d'emploi
+# Dosage and administration
 
-## Adulte:
+## Adults:
 
-1g toutes les 6 heures IV ou par voie orale
+Dicloxacillin 1 g IV or orally every 6 hours.
 
-## Nouveaux-nés:
+## Newborns:
 
-50 mg/kg par 24 heures répartis sur 3 doses en IV ou par voie orale.
+Dicloxacillin 50 mg/kg/24 hours IV/orally divided into 3 doses.
 
-Si par voie orale, donner au moins une heure avant ou deux heures après le repas.
+**Example**:
+If a newborn weighs 3 kg: total daily dose = 150 mg/day → give 50 mg every 8 hours.
 
-# Contre-indications
+If taken orally, it should be at least 1 hour before or 2 hours after a meal.
 
-L'allergie à la pénicilline.
+# Contraindications
 
-L'allergie sévère (type 1) aux autres antibiotiques bêta-lactamines (comme les céphalosporines).
+Allergy to penicillin.
 
-# Effets indésirables
+Severe allergy (type 1) to other β-lactam antibiotics (like cephalosporins).
 
-Effets indésirables fréquents : nausées, vomissements, brûlures d’estomac, diarrhée et éruption cutanée.
+# Adverse reactions
 
-Effets indésirables peu fréquents : urticaire, démangeaisons, hématurie et insuffisance rénale.
+Common adverse reactions are nausea, vomiting, heartburn, diarrhoea, and skin rash.
 
-Effets indésirables rares : fièvre, entérocolite muco-membraneuse, hépatite, bronchospasme, hypotension, collapsus circulatoire, anémie, léthargie et convulsions.
+Uncommon adverse reactions are urticaria, itching, haematuria, and renal failure.
+
+Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collapse, anaemia, lethargy, and convulsions.
 
 ---

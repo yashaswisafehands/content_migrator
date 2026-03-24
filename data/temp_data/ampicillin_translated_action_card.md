@@ -1,47 +1,54 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-L'ampicilline est un antibiotique bêta-lactamine efficace contre les infections bactériennes à gram positif et gram négatif.
+Ampicillin is β-lactam antibiotic effective for gram-positive and gram-negative bacterial infections.
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-## Adulte:
+## Adults:
 
-Généralement: 1 g IV  toutes les 6 heures. Continuez les antibiotiques IV (ampicilline, gentamicine et métronidazole) durant 48 hrs suivant l'arrêt de la fièvre.
+**In general, administer:**
+Ampicillin 1-2 g IV every 6 hours. 
 
-Ensuite, administrez des antibiotiques oraux:
+Continue IV antibiotics (ampicillin, gentamicin and metronidazole) for 48 hours after the woman is fever free.
 
-Ampicilline 500 mg toutes les 6 hrs puis
+**Following, administer oral antibiotics:**
 
-Métronidazole 500 mg toutes les 8 hrs durant 5-7 jours.
+Ampicillin 500 mg every 6 hours AND
 
-Gestion du nouveau-né - traitement pour la mère: s'il y a des signes de danger pour la mère et/ou le foetus, traitez la mère avec 2 g d'ampicilline IV toutes les 6 hrs.
+Metronidazole 500 mg every 8 hours for 5-7 days.
 
-Extraction manuelle du placenta: 2 g d'ampicilline IV 1X
+**Treatment of the mother:** 
+If there are warning signs for the mother and/or foetus, treat the mother with ampicillin 2 g IV every 6 hours.
 
-Septicémie maternelle: 2 g IV avec une combinaison de gentamicine et de métronidazole toutes les 6 hrs.
+**Manual Removal of Placenta**: ampicillin 2 g  IV once.
 
-Avortement septique: 2 g IV une fois suivi de 1 g IV toutes les 6 hrs avec une combinaison de gentamicine et de métronidazole.
+**Maternal Sepsis**: ampicillin 2 g IV every 6 hours in combination with gentamicin and metronidazole.
 
-## Nouveau-nés:
+**Septic abortion**: ampicillin 2 g IV once, hereafter ampicillin 1 g IV every 6 hours in combination with gentamicin and metronidazole.
 
-Moins de 7 jours de vie :
+**GBS prophylaxis:**ampicillin 2 g IV followed by ampicillin 1 g IV every 4 hours until birth **OR** 
+ampicillin 500 mg IV every 6 hours until birth.
 
-50 mg/kg par dose toutes les 12 heures IV ou IM.
+## Newborns:
 
-Plus de 7 jours de vie :
+**Under 7 days:**
 
-50 mg/kg par dose toutes les 8 heures IV ou IM.
+Ampicillin 50 mg/kg IV or IM every 12 hours.
 
-# Contre-indications
+**Above 7 days:**
 
-Allergie à la pénicilline.
+Ampicillin 50 mg/kg IV or IM every 8 hours.
 
-# Effets indésirables
+# Contraindications
 
-Effets indésirables les plus fréquents : diarrhée et éruption cutanée.
+Allergy to penicillin.
 
-Effets indésirables peu fréquents : nausées, vomissements, stomatite, glossite, colite pseudomembraneuse, baisse de plaquettes, anémie et urticaire.
+# Adverse Reactions
 
-Le choc anaphylactique est rare.
+Common adverse reactions are diarrhoea and skin rash.
+
+Uncommon reactions are nausea, vomiting, stomatitis, glossitis, pseudomembranous colitis, lowered platelets, anaemia and urticaria.
+
+Anaphylactic shock is rare.
 
 ---

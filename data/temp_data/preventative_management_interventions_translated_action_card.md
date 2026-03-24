@@ -1,94 +1,92 @@
 # Chapter: Antibiotic regimen for ASB
 
-### Traitement antibiotique pour la bactériurie asymptomatique
+### Antibiotic regimen for asymptomatic bacteriuria (ASB)
 
-![Image](932fe6195ba84e8191860a9515789b77)
+![Image](80f7f50d32d947bb82747e85e523a479)
 
-Un régime antibiotique de sept jours est recommandé à toutes les femmes enceintes présentant une bactériurie asymptomatique afin de prévenir une bactériurie persistante, un accouchement prématuré et un faible poids à la naissance
+A seven-day antibiotic regimen is recommended for all pregnant women with ASB to prevent persistent bacteriuria, preterm birth and low birth weight.
 
-Pour plus d’informations sur les médicaments, consultez la liste des médicaments.
+For more information on medication see Drug List.
 
 ---
 
 # Chapter: Covid-19 Vaccination
 
-### Vaccination contre le Covid-19
+### Covid-19 Vaccination
 
-![Image](e32914c4703e4a48a43848c64c67ea33)
+![Image](c13af9cc17c64a4d8bcf5095b14dd993)
 
-Pour protéger la femme enceinte et son nouveau-né d’une maladie grave, en particulier chez les femmes présentant des pathologies cliniques sous-jacentes, la vaccination contre la COVID-19 est recommandée le plus tôt possible pendant la grossesse en fonction des vaccinations antérieures.
-
-**Voir les procédures pratiques COVID-19 pour plus d'informations.**
+To protect the pregnant woman and her newborn from serious disease, particularly for women with underlying clinical conditions, COVID-19 vaccination is recommended as soon as possible during pregnancy depending on previous vaccinations.
 
 ---
 
 # Chapter: Malaria prevention (context specific)
 
-### Prévention du paludisme (spécifique au contexte)
+### Malaria prevention (context specific)
 
-L'infection palustre pendant la grossesse constitue un problème de santé publique majeur, avec des risques importants pour la mère, le fœtus et le nouveau-né.
+Malaria infection during pregnancy is a major public health problem, with substantial risks for the mother, foetus and the newborn. 
 
-Dans les zones d'endémie palustre, un traitement préventif intermittent à la sulfadoxine-pyriméthamine (SP) est recommandé pour toutes les femmes enceintes. Au moins trois doses doivent être administrées à chaque contact de soins prénatals au cours du deuxième trimestre, à au moins un mois d'intervalle. De plus, promouvez l’utilisation de moustiquaires imprégnées d’insecticide et fournissez des suppléments de fer et d’acide folique.
+In malaria-endemic areas, intermittent preventative treatment with sulfadoxine-pyrimethamine (SP) is recommended for all pregnant women. At least three doses should be given at each antenatal care contact in the second trimester, at least one month apart. Additionally, promote the use of insecticide-treated nets and provide iron and folic acid supplements.
 
-![Image](c274b5d25bf04908b5bb0b2ac110caaa)
+![Image](23fae1b4bd74429897eb1dcadc88311c)
 
-Envisagez de fournir aux femmes leur première dose de SP lors de la première visite prénatale, en leur demandant de la prendre à 13 semaines de gestation.
+Consider supplying women with their first SP dose at the first ANC visit, instructing them to take it at 13 weeks of gestation.
 
-Voir la liste des médicaments pour plus d’informations.
+See Drug List for further information.
 
 ---
 
 # Chapter: Pre-exposure prophylaxis for HIV prevention (context specific)
 
-### Prophylaxie pré-exposition pour la prévention du VIH (spécifique au contexte)
+### Pre-exposure prophylaxis for HIV prevention (context specific)
 
-![Image](e95821764be94836b6d035907cc2152f)
+![Image](b38aa41bfc4a4067ba7501e1e6bc3f8e)
 
-La prophylaxie pré-exposition orale (PrEP) pour la prévention du VIH contenant du fumarate de ténofovir disoproxil (TDF) devrait être proposée comme choix préventif supplémentaire pour les femmes enceintes qui présentent un risque important d'infection par le VIH (lorsque l'incidence du VIH est > 3 pour 100 années-personnes sans PrEP).
+Oral pre-exposure prophylaxis (PrEP) for HIV prevention containing tenofovir disoproxil fumarate (TDF) should be offered as an additional preventive choice for pregnant women who are at substantial risk of HIV infection (when HIV incidence is > 3 per 100 person-years without PrEP).
 
-Le risque individuel varie en fonction du comportement individuel et des caractéristiques des partenaires sexuels. Les preuves locales des facteurs de risque et de l’incidence du VIH doivent être utilisées pour éclairer la mise en œuvre.
+Individual risk varies depending on individual behaviour and the characteristics of sexual partners. Local evidence of risk factors and HIV incidence should be used to inform implementation.
 
 ---
 
 # Chapter: Preventative anthelminthic (deworming) treatment
 
-### Traitement anthelminthique (vermifuge) préventif
+### Preventative anthelminthic (deworming) treatment
 
-Un traitement vermifuge préventif est recommandé pour les femmes enceintes vivant dans des zones endémiques d’infection helminthique et où l’anémie constitue un grave problème de santé publique.
+Preventive deworming treatment is recommended for pregnant women living in endemic areas of helminth infection and where anaemia is a severe public health problem.
 
-![Image](2389b4da56024b2f9eed7d29c0743db8)
+![Image](dbe056ec62894130b4c9d5d69ca204bd)
 
-Une dose unique d'albendazole (400 mg) ou de mébendazole (500 mg) est administrée après le premier trimestre. Dans les zones non endémiques, un traitement anthelminthique doit être administré au cas par cas.
+A single dose of albendazole (400mg) or mebendazole (500 mg) is given after the first trimester. In non-endemic areas anthelminthic treatment should be given on a case-to-case basis.
 
 ---
 
 # Chapter: Tetanus toxoid vaccination
 
-### Vaccination contre l'anatoxine tétanique
+### Tetanus toxoid vaccination
 
-![Image](842ce05d18274c00b9a0d65c663409ac)
+![Image](63e3c604f853425e9b89165a4cdf6a38)
 
-La vaccination contre l'anatoxine tétanique est recommandée à toutes les femmes enceintes afin de prévenir la mortalité néonatale due au tétanos, car le fœtus reçoit des anticorps maternels par le placenta.
+Tetanus toxoid vaccination is recommended for all pregnant women to prevent neonatal mortality from tetanus as the foetus will receive maternal antibodies through the placenta.
 
 **Dosage:**
 
-- Si vous n'avez pas été vacciné auparavant, 2 doses doivent être administrées à un mois d'intervalle, la deuxième dose étant administrée au moins 2 semaines avant l'accouchement. La troisième dose est administrée 6 mois après la deuxième dose pour une protection de cinq ans
-- Deux doses supplémentaires doivent être administrées au cours des 2 années ou grossesses suivantes....
-- Au total, 5 doses offrent une protection pendant les années de procréation.
-- Si une femme a déjà été vaccinée lors d’une grossesse précédente, une dose suffit.
+- If not previously immunized, 2 doses should be given one month apart with the second dose at least 2 weeks before delivery. A third dose is given after 6 months of second dose for a five-year protection. 
+- Two further doses should be given in the 2 subsequent years or subsequent pregnancies. 
+- A total of 5 doses offer protection during the childbearing years. 
+- If a woman is already vaccinated in the previous pregnancy, one dose is sufficient.
 
 ---
 
 # Chapter: Ultrasound Scan
 
-### Échographie
+### Ultrasound Scan
 
-Une échographie avant 24 semaines de gestation (échographie précoce) est recommandée pour estimer l’âge gestationnel, détecter les anomalies fœtales et les grossesses multiples, réduire le déclenchement du travail en cas de grossesse post-terme et améliorer l’expérience de grossesse de la femme.
+One ultrasound scan before 24 weeks of gestation (early ultrasound) is recommended to estimate gestational age, detect foetal anomalies and multiple pregnancies, reduce induction of labour for post-term pregnancy, and improve the woman’s pregnancy experience.
 
-![Image](610c3700623441b1973078eda58b5701)
+![Image](3899a60975dc46fa9598d15696e7d969)
 
-Proposez une échographie tardive aux femmes enceintes n'ayant pas bénéficié d'une échographie précoce, permettant d'identifier le nombre de fœtus, la présentation et la localisation placentaire.
+Offer a late ultrasound scan to pregnant women who have not had an early ultrasound scan, to identifying the number of foetuses, presentation and placental location.
 
-L’échographie Doppler de routine n’est pas recommandée pour améliorer les résultats  maternels et périnatals.
+Routine Doppler ultrasound examination is not recommended to improve maternal and perinatal outcomes.
 
 ---

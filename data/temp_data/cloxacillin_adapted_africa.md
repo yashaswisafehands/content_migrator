@@ -1,39 +1,42 @@
 # Chapter: Indication and Usage
 
-Infections caused by staphylococcal infections that usually have its origin in skin, connective tissue and bones.
+For staphylococcal infections (usually originating in the skin, connective tissue and bones) and treatment of mastitis.
 
 # Dosage and Administration
 
 ## Adults:
 
-1 g each 4 hours IV or orally.
+**For staphylococcal infections**: cloxacillin
+1 g IV or orally every 4 hours. 
+
+**For mastitis**: cloxacillin 500 mg orally every 6 hours.
 
 ## Newborns:
 
-Under 7 days:
+**Under 7 days:**
 
-25-50 mg/kg IM or IV every 12 hours
+Cloxacillin 50 mg/kg IM or IV every 12 hours.
 
-Above 7 days:
+**Above 7 days:**
 
-25-50 mg/kg IM or IV every 8 hours
+Cloxacillin 50 mg/kg IM or IV every 8 hours.
 
 # Contraindications
 
-Do not administer to penicillin-allergic patients.
+Do not administer to patients with a penicillin-allergy.
 
-Administer with caution to patients allergic to cephalosporins (cross-sensitivity may occur).
+Administer with caution to patients with a cephalosporin allergy (cross-sensitivity may occur).
 
 Administer with caution to neonates (risk of hyperbilirubinemia).
 
-Reduce the dose by half en patients with renal impairment.
+Reduce the dose by half in patients with renal impairment.
 
 # Adverse reaction
 
-Common adverse reactions are nausea, vomiting, heartburn, diarrhea, and skin rash.
+Common adverse reactions are nausea, vomiting, heartburn, diarrhoea, and skin rash.
 
-Uncommon adverse reactions are urticaria, itching, hematuria, and renal failure.
+Uncommon adverse reactions are urticaria, itching, haematuria, and renal failure.
 
-Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collaps, anaemia, lethargy, and convulsions.
+Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collapse, anaemia, lethargy, and convulsions.
 
 ---

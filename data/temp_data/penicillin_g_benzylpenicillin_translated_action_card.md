@@ -1,37 +1,53 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-La pénicilline est utilisée pour traiter un large éventail d’infections comme la pneumonie, l’empyème pleural, l’érysipèle, l’endocardite, l’ostéomyélite et l’arthrite causée par une bactérie sensible à la pénicilline comme que le pneumocoque, le streptocoque bêta-hémolytique et dans certains cas le staphylocoque doré, bien que la plupart des souches soient résistantes, les espèces de clostridium sauf le clostridium difficile, le bacille du charbon, la Corynebacterium diphtheriae, les actinomyces, certaines souches de Neisseria gonorrhoea, de Neisseria meningitides, de Treponema pallidum, de Pasteurella multocida et de Borrelia burgdorferi.
+Penicillin G or (benzylpenicillin) is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections. 
 
-# Posologie et mode d'emploi
+**General use:**Treatment of bacterial infections such as streptococcal pharyngitis, pneumonia and syphilis.
 
-## Adulte:
+**Obstetric use:** Antibiotic prophylaxis for confirmed vaginal colonisation with Group B Streptococcus (GBS) during labour**.**
 
-1 à 2 millions d’unités internationales (UI) toutes les 6 heures IV ou (moins efficace) IM ou par voie orale.
+# Dosage and administration
 
-En cas d’infection sévère, un dosage plus élevé peut être nécessaire, la dose maximale quotidienne est de 20 millions UI.
+## Adults:
 
-## Nouveau-nés:
+**General bacterial infections:**
 
-Moins de 7 jours de vie :
+Standard dose: penicillin G 1-2 million IU  IV every 6 hours.
 
-50.000 U/kg par dose toutes les 12 heures en IV.
+Alternative routes: IM/orally (less effective)
 
-Plus de 7 jours de vie :
+With severe infections, higher doses may be needed: the daily maximum dose is 12 g (20 million IU) of penicillin G.
 
-50.000 UI/kg par dose toutes les 6 heures IV.
+**Intrapartum antibiotic prophylaxis for GBS:** 
 
-# Contre-indications
+Penicillin G 5 million IU IV every 6 hours during labour.
 
-Allergie à la pénicilline.
+If labour lasts longer than 18 hours:
+ 
+Penicillin G 1 million IU orally every 8 hours until birth may be considered.
 
-Allergie sévère (type 1) à d’autres antibiotiques bêta-lactamines (type céphalosporines).
+## Newborns:
 
-# Effets indésirables
+**Under 7 days:**
 
-Effets indésirables les plus fréquents : éruption cutanée.
+Penicillin G 50.000 IU/kg IV every 12 hours.
 
-Effets indésirables peu fréquents : urticaire.
+**Above 7 days:**
 
-Effets indésirables rares : anémie hémolytique et réactions anaphylactiques.
+Penicillin G 50.000 IU/kg IV every 6 hours.
+
+# Contraindications
+
+Allergy to penicillin.
+
+Severe allergy (type 1) to other β-lactamantibiotika (like cephalosporins).
+
+# Adverse reactions
+
+Common adverse reactions are a skin rash.
+
+Uncommon adverse reactions are urticaria.
+
+Rare adverse reactions are haemolytic anaemia and anaphylactic reactions.
 
 ---

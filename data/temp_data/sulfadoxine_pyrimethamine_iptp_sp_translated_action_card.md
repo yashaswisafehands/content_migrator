@@ -1,23 +1,21 @@
-## Indication et utilisation
+## Indication and Usage
 
-Traitement préventif intermittent dans les zones d'endémie palustre.
+Intermittent preventive treatment in malaria-endemic areas.
 
-## Posologie et mode d'emploi
+## Dosage and Administration
 
-Comprimé coformulé Sulfadoxine 500 mg/pyriméthamine 25 mg – 3 comprimés, dose unique pour chaque traitement.
+3 tablets of sulfadioxine/pyrimethaline (total 1500 mg /75 mg SP) PO taken as early as possible in the second trimester, repeated at monthly intervals. 
 
-Commencez au deuxième trimestre, à un mois d’intervalle, en vous assurant qu’au moins trois doses sont administrées.
+Ensure at least 3 doses are given in pregnancy, ideally given at 4, 6, 8 and 9 months.
 
-Idéalement à donner à 4,6,8 et 9 mois.
+## Contraindications
 
-## Contre-indications
+First trimester of pregnancy (< 13 weeks' gestation)
 
-Premier trimestre de grossesse (dans les 13 semaines suivant la conception)
+Allergy to sulfonamides
 
-Allergie aux sulfamides
+Do NOT give folic acid on the same day SP is administered, or within 2 weeks thereafter.
 
-Ne donnez PAS d’acide folique le jour même de l’administration de la SP, ni dans les 2 semaines qui suivent.
-
-Ne pas utiliser en association avec le cotrimoxazole.
+Do not use in combination with co-trimoxazole.
 
 ---

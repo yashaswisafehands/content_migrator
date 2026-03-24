@@ -1,24 +1,40 @@
 # Chapter: Indications and Usage
 
-Penicillin is used to treat a wide range of infections like pneumonia, pleural empyema, erysipelas, endocarditis, osteomyelitis, and arthritis caused by bacteria sensitive to penicillin like streptococcus pneumoniae, beta-haemolytic streptococcus, in some instances staphylococcus aureus though most strains are resistant, clostridium species except clostridium dificile, bacillus anthracis, corynebacterium diphtheria, aectinomyces, certain strains of neisseria gonorrhoea, neisseria meningitides, treponema pallidum, pasteurella multocida and borrelia burgdorferi.
+Penicillin G or (benzylpenicillin) is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections. 
+
+**General use:**Treatment of bacterial infections such as streptococcal pharyngitis, pneumonia and syphilis.
+
+**Obstetric use:** Antibiotic prophylaxis for confirmed vaginal colonisation with Group B Streptococcus (GBS) during labour**.**
 
 # Dosage and administration
 
 ## Adults:
 
-1-2 million international units (IU) each 6 hours IV or (less effective) IM or orally.
+**General bacterial infections:**
 
-At severe infections higher doses may be needed, the daily maximal dose is 20 million IU.
+Standard dose: penicillin G 1-2 million IU  IV every 6 hours.
+
+Alternative routes: IM/orally (less effective)
+
+With severe infections, higher doses may be needed: the daily maximum dose is 12 g (20 million IU) of penicillin G.
+
+**Intrapartum antibiotic prophylaxis for GBS:** 
+
+Penicillin G 5 million IU IV every 6 hours during labour.
+
+If labour lasts longer than 18 hours:
+ 
+Penicillin G 1 million IU orally every 8 hours until birth may be considered.
 
 ## Newborns:
 
-Under 7 days:
+**Under 7 days:**
 
-50.000 IU/kg per dose every 12 hours IV.
+Penicillin G 50.000 IU/kg IV every 12 hours.
 
-Above 7 days:
+**Above 7 days:**
 
-50.000 IU/kg per dose every 6 hours IV.
+Penicillin G 50.000 IU/kg IV every 6 hours.
 
 # Contraindications
 
@@ -30,7 +46,7 @@ Severe allergy (type 1) to other β-lactamantibiotika (like cephalosporins).
 
 Common adverse reactions are a skin rash.
 
-Uncommon adverse reactions are utericaria.
+Uncommon adverse reactions are urticaria.
 
 Rare adverse reactions are haemolytic anaemia and anaphylactic reactions.
 

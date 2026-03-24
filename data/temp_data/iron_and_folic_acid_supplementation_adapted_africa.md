@@ -2,7 +2,7 @@
 
 Reduces the risk of low birth weight, puerperal sepsis, maternal anaemia, iron deficiency, and neural tube defects.
 
-All pregnant adolescents and adult women are recommended to take iron and folic acid supplements.
+All pregnant adolescents and adult women are recommended to take iron and folic acid supplements. Folic acid should be commenced as early as possible (ideally before conception) to prevent neural tube defects.
 
 ## Dosage
 
@@ -36,7 +36,7 @@ Doses above 0.4mg daily should not be given without concomitant administration o
 
 Iron and calcium supplements should preferably be administered several hours apart rather than concomitantly as negative interactions between these micronutrients may occur.
 
-The equivalent of 120 mg of elemental iron is 600 mg of ferrous sulfate hepahydrate, 360 mg of ferrous fumarate or 1000 mg of ferrous gluconate.
+The equivalent of 120 mg of elemental iron is 600 mg of ferrous sulfate heptahydrate, 360 mg of ferrous fumarate or 1000 mg of ferrous gluconate.
 
 In malaria-endemic areas, provision of IFA supplements should be implemented in conjunction with measures to prevent, diagnose and treat malaria.
 

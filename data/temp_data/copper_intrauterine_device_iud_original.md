@@ -14,7 +14,7 @@ ParaGard, Liberté, FlexiT, and Monalisa.
 
 ## Contraindications
 
-Any clinical signs of infection that should be tested and treated before insertion of the IUD. 
+Any clinical signs of infection should be tested and treated before insertion of the IUD. 
 
 Pelvic inflammatory disease within the last three 3 months
 

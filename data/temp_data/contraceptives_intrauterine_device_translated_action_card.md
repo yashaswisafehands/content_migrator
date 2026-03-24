@@ -1,41 +1,39 @@
-# Chapter: Indications et utilisation
+# Chapter: Indications and Usage
 
-Un dispositif intra-utérin (DIU) est un petit dispositif en plastique de quelques centimètres de longueur et de quelques millimètres d’épaisseur, qui contient généralement du cuivre.
+An intrauterine device or system (IUD/IUS) is a small T-shaped plastic device that contains copper or hormones.
 
-Il est placé dans l’utérus par un professionnel de la santé et reste un contraceptif efficace pendant 5 ans.
+It is inserted by a healthcare professional in the uterus and is effective as contraception for approximately 5 years depending on the type.
 
-Il est actif grâce à différents mécanismes affectant l’ovule, les spermatozoïdes et l’endomètre.
+It works through different mechanisms affecting the ovum, the sperm and the endometrium.
 
-N’oubliez pas que seul le préservatif protège des maladies sexuellement transmissibles !
+Remember that only condoms protect against sexually transmitted diseases!
 
-# Posologie et mode d'emploi
+# Dosage and Administration
 
-Un DIU est généralement posé pendant les 10 premiers jours après le premier jour des règles, même s’il peut être posé à n’importe quel moment du cycle menstruel.
+An IUD is usually placed during the first 10 days after the first day of menstruation, though it can be placed anytime during the menstrual cycle.
 
-Il peut même être utilisé comme contraceptif d’urgence s’il est posé dans les sept jours suivant d'une relation non-protégée.
+It can even be used for emergency contraception if placed within 5 days from unprotected intercourse.
 
-Si une grossesse se produit, le DIU doit être retiré que la grossesse soit désirée ou non.
+If pregnancy occurs, the IUD should be removed, whether it is a wanted pregnancy or not.
 
-Un DIU est généralement changé tous les cinq ans.
+# Contraindications
 
-# Contre-indications
+Pelvic inflammatory disease within the last three months.
 
-Maladie inflammatoire pelvienne au cours des trois derniers mois.
+Any clinical signs of infection that should be tested and treated before insertion of the IUD.
 
-Tout signe clinique d’infection doit être testé et traité avant toute pose du DIU.
+# Adverse Reactions
 
-# Effets indésirables
+Bleeding disturbances are often seen in the first weeks after an IUD is placed.
 
-Les troubles hémorragiques se produisent souvent dans les premières semaines après pose du DIU.
+Some will suffer increased bleeding and pain during menstruation.
 
-Certaines souffriront de saignements accrus et de douleurs pendant les règles.
+Some will suffer pain at intercourse in which case the IUD often needs to be taken out.
 
-Certaines souffriront de douleur pendant les relations, ce qui occasionne souvent le retrait du DIU.
+In this case a pelvic inflammatory disease must be considered.
 
-Dans ce cas, il faut envisager une maladie inflammatoire pelvienne.
+Perforation of the uterus may occur during placement of the IUD, rarely later.
 
-La perforation de l’utérus peut se produire lors de la pose du DIU, rarement par la suite.
-
-Elle se produit chez une patiente sur 200 porteuse de DIU.
+Perforation occurs in approximately one out of 200 patients with IUD.
 
 ---

@@ -1,34 +1,34 @@
 # Chapter: Usage
 
-### एओर्टिक कंप्रेशन -उपयोग
+### Aortic Compression - Usage
 
-एब्डॉमिनल एओर्टिक कंप्रेशन एक जीवनरक्षक उपाय है, जिसका उपयोग गंभीर पोस्टपार्टम हैमरेज को अस्थायी रूप से नियंत्रित करने के लिए किया जाता है, जब यूटेरोटोनिक्स और अन्य उपाय तैयार किए जा रहे हों या तुरंत प्रभावी न हों।
+Abdominal aortic compression is a lifesaving manoeuvre to temporarily control severe postpartum haemorrhage (PPH) when uterotonics and other measures are being prepared or are not immediately effective.
 
-यह गर्भाशय में रक्त प्रवाह को अस्थायी रूप से कम करता है, जब तक कि निश्चित उपचार (दवाएँ, सर्जरी या ट्रान्सफर) उपलब्ध न हो।
+Provides temporary reduction of blood flow to the uterus until definitive treatment (medications, surgery, or transfer) is available.
 
 ---
 
 # Chapter: Practical Information
 
-### एओर्टिक कंप्रेशन - प्रैक्टिकल जानकारी
+### Aortic Compression - Practical Information
 
-महिला को एक मजबूत सतह पर सुपाइन पोज़िशन में लेटाएँ।
+Place the woman in a supine position on a firm surface.
 
-बंद मुट्ठी बनाकर एब्डॉमिनल एओर्टा पर मजबूती से नीचे की ओर दबाव डालें।
+Form a closed fist and apply firm downward pressure over the abdominal aorta.
 
-**स्थान:**नाभि के थोड़ा ऊपर और हल्के बाएँ तरफ (एओर्टा की मध्य रेखा के ऊपर)।
+**Location:**Just above the umbilicus and slightly to the left (midline over the aorta).
 
-**दबाव डालने का तरीका:**दबाव सीधे पेट की दीवार के जरिए लगाएँ।
+Apply pressure directly through the abdominal wall.
 
-दूसरी हाथ से फेमोरल पल्स महसूस करें:
+With the other hand, palpate the femoral pulse.
 
-- **पल्स महसूस हो → दबाव पर्याप्त नहीं है**
-- **पल्स महसूस न हो → दबाव पर्याप्त है**
+- **Pulse palpable → Compression is inadequate**
+- **Pulse not palpable → Compression is adequate**
 
-![Image](aa41103b5cac4cdeb4b7c5a5dc813f45)
+![Image](f609b2e3a3ad4cda9c5b43c6f8c68358)
 
-दबाव तब तक बनाए रखें जब तक रक्तस्राव नियंत्रित न हो जाए या निश्चित प्रबंधन शुरू न हो।
+Continue compression until bleeding is controlled or definitive management is initiated.
 
-पीपीएच का प्रबंधन जारी रखें, महिला के वाइटल साइन पर निगरानी रखें और सहायक देखभाल प्रदान करें।
+Continue the PPH management and monitor woman’s vital signs and provide supportive care.
 
 ---

@@ -12,7 +12,7 @@ Prevention of Hepatitis B Virus (HBV)  infection in newborns.
 
 # Consideration
 
-Vaccines should be stored at 2-8°C. They should not be frozen.
+Vaccines should be stored at 2-8°C. They  should not be frozen.
 
 # Contraindication
 

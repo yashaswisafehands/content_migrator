@@ -19,7 +19,7 @@ Do not exceed the dose needed for relief from pain, swelling or fever.
 
 # Contraindications
 
-Known hypersensitivity or idiosyncratic reaction to Ibuprofen (or any of the other ingredients in the product) known hypersensitivity to aspirin and other NSAIDs.
+Known hypersensitivity or idiosyncratic reaction to ibuprofen (or any of the other ingredients in the product) known hypersensitivity to aspirin and other NSAIDs.
 
 Asthma that is aspirin or NSAID sensitive.
 

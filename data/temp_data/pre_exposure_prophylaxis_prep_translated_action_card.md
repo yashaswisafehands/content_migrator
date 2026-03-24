@@ -1,31 +1,30 @@
-## Préambule
+## Preamble
 
-La prophylaxie pré-exposition ou « PrEP » est l'utilisation d'un médicament antirétroviral par les personnes séronégatives pour réduire le risque de contracter le VIH.
+Pre-exposure prophylaxis or “PrEP” is the use of an antiretroviral (ARV) medication by HIV-negative people to reduce the risk of HIV acquisition. 
 
-Les personnes présentant un risque important d’infection par le VIH devraient se voir proposer une PrEP orale à base de fumarate de ténofovir disoproxil (TDF). La PrEP orale est très efficace pour prévenir la transmission du VIH.
+People at substantial risk of HIV infection should be offered tenofovir disoproxil fumarate (TDF)-based oral PrEP. Oral PrEP is highly effective at preventing HIV transmission.
 
-## Indication et Utilisation
+## Indication and Usage
 
-**Recommandé pour:**
+**Recommended for:**
 
-Femmes enceintes vivant dans des zones où l’incidence du VIH dépasse 100 années-personnes.
+Pregnant women living in areas where HIV incidence is more than 3 per 100 person-years.
 
-Femmes présentant une susceptibilité biologique et une exposition comportementale au VIH.
+Women with biological susceptibility and behavioural exposure to HIV. 
 
-La PrEP peut être débutée ou poursuivie tout au long de la grossesse et de l'allaitement.
+PrEP can be started or continued throughout pregnancy and breastfeeding
 
-## Posologie et mode d'emploi
+## Dosage and Administration
 
-**Fumarate de ténofovir disoproxil (TDF):**
+**Tenofovir disoproxil fumarate (TDF):**<color style="blue"> </color>
+TDF 300 mg orally (equivalent to 245 mg of tenofovir disoproxil) once daily
 
-Comprimé de 300 mg, équivalent à 245 mg de ténofovir disoproxil une fois par jour
+## Contraindications
 
-## Contre-indications
+Avoid in combination with nephrotoxic drugs.
 
-A éviter en association avec des médicaments néphrotoxiques.
+## Adverse reactions
 
-## Effets indésirables
-
-Si vous prenez la PrEP, vous pourriez ressentir des effets secondaires désagréables tels que des nausées, des vomissements, de la diarrhée, des maux de tête et de la fatigue.
+If you are taking PrEP you may experience some unpleasant side-effects such as nausea, vomiting, diarrhoea, headaches and fatigue.
 
 ---

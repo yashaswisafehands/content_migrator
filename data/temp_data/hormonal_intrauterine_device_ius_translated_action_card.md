@@ -1,26 +1,27 @@
-Un petit dispositif en plastique en forme de T qui, lorsqu'il est inséré dans l'utérus, libère chaque jour de manière constante une forme de progestérone synthétique (progestatif).
+A small, T-shaped plastic device that, when inserted into the uterus, steadily releases a synthetic progesterone (progestin).
 
-Il agit en épaississant la glaire cervicale, en amincissant la muqueuse utérine et, pour certaines, en empêchant l'ovulation chaque mois, ce qui rend une grossesse très improbable.
+It works by thickening cervical mucus, thinning the uterine lining and, for some, preventing ovulation, making pregnancy very unlikely.
 
-Un SIU dure 3 à 5 ans, selon la marque.
+An IUS lasts for 3-5 years, depending on the brand.
 
-## Médicament
+## Medication
 
-**Lévonorgestrel**(Merina, Kyleena, Liletta, Skyla et Jaydess)
+**Levonorgestrel** (Merina/Avibela, Kyleena, Liletta, Skyla, and Jaydess)
 
-## Contre-indications
-dications
+## Contraindications
 
-Tout signe clinique d'infection doit être recherché et traité avant la pose du DIU. Maladie inflammatoire pelvienne survenue au cours des 3 derniers mois.
+Any clinical signs of infection should be tested and treated before insertion of the IUD. 
 
-## Effets secondaires courants
+Pelvic inflammatory disease within the last three 3 months.
 
-Certains utilisateurs signalent : des changements dans les saignements, des maux de tête, de l'acné, une sensibilité des seins, des changements d'humeur, une prise de poids et des étourdissements.
+## Common side-effects
 
-Certaines peuvent développer des kystes ovariens (ceux-ci disparaissent généralement sans traitement).
+Changes in bleeding patterns, headaches, acne, breast tenderness, mood changes, weight gain and dizziness.
 
-## Plus d’information
+Some may develop ovarian cysts (these usually disappear without treatment).
 
-Voir l'emballage pour des conseils spécifiques sur chaque médicament.
+## More information
+
+See packaging for specific guidance on each medication.
 
 ---

@@ -6,23 +6,23 @@ Aminoglycoside antibiotic indicated for treatment of severe or serious bacterial
 
 ## Adults:
 
-240 mg IV once a day.
+Gentamicin 5 mg/kg once daily IV.
 
 ## Newborns (under 7 days):
 
-Weight below 2.5 kg:
+Weight < 2.5 kg:
 
-3-4 mg/kg every 24 hours IM or IV
+Gentamicin 3-4 mg/kg every 24 hours IM/IV.
 
-Weight above 2.5 kg:
+Weight > 2.5 kg:
 
-5 mg/kg every 24 hours IM or IV
+Gentamicin 5 mg/kg every 24 hours IM/ IV.
 
 Treat for at least two days.
 
-## Newborns (7-28 days):
+## Newborns (above 7 days):
 
-7.5 mg/kg per dose once a day IV or IM.
+Gentamicin 7.5 mg/kg once daily IV/ IM.
 
 # Contraindications
 
@@ -32,10 +32,10 @@ Treatment should not be more than 3 days if the patient is suffering from renal 
 
 # Adverse Reactions
 
-Common adverse reactions are kidney affection, hearing loss, and tinnitus.
+Common adverse reactions are kidney impairment, hearing loss, and tinnitus.
 
-Uncommon reactions are liver affection, increased or lowered blood pressure, respiratory depression, lowered platelets, joint and muscle pain, depression, coordination disturbances, skin rash, itching, visual disturbances, urticaria and anaphylactic reactions.
+Uncommon reactions are reduced blood pressure, respiratory depression, reduced platelets, joint and muscle pain, depression, coordination disturbances, skin rash, itching, visual disturbances, urticaria and anaphylactic reactions.
 
-Rare reactions are deafness, hair loss, low urine production and necrosis of the skin.
+Rare reactions are deafness, hair loss, oliduria and skin necrosis.
 
 ---

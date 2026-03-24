@@ -25,7 +25,7 @@ Explain to the woman what you are about to do and why.
 - Finish closing the NASG using segment 6.
 - Segments 1,2,3 can be applied by two persons simultaneously, segments 4,5,6 should only be applied by one.
 
-![Image](954afdd899a34b8fbb4269a04dfe8542)
+![Image](98b9598f75cb4253bc29274bd5e33921)
 
 **Remember:**
 
@@ -59,13 +59,13 @@ Remember: If BP or pulse change more than stated above, reclose the NASG. Look f
 
 To clean the NASG  - wear heavy utility gloves.
 
-Use a brush to remove tissue and other material
+Use a brush to remove tissue and other material.
 
 Prepare a 0.01% bleach solution. At least 30 L of water in a container is needed to cover the NASG.
 
 Decontaminate the NASG by submerging it in the container of bleach and water for 10 minutes.
 
-A brick stone or other heavy object may be placed on the NASG to keep it under water
+A brick stone or other heavy object may be placed on the NASG to keep it under water.
 
 Wash the NASG with detergent and cool water by hand or in a washing machine.
 

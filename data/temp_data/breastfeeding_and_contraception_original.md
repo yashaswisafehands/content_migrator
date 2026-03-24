@@ -1,14 +1,14 @@
 # Chapter: Breastfeeding and contraception
 
-![Image](6f9d8f37688f4885970c47defba7d12c)
+![Image](2f5c05cf207d4fe49271078b07f355aa)
 
 Breastfeeding women should avoid contraceptive methods that include oestrogen, as it can reduce breastmilk production.
 
 Women who are breastfeeding can safely use condoms, progestin-only pills or implants immediately after birth and at any time postpartum.
 
-**Earliest time that a breastfeeding woman can start a contraceptive method after childbirth:**
+**Earliest time that a breastfeeding woman can start a contraceptive method after birth:**
 
-![Image](d253836cb18448388334dc1379e6ab44)
+![Image](2f54904c62234e178edcaac154c6594f)
 
 ## Emergency contraception
 

@@ -1,19 +1,19 @@
-## Indication et Utilisation
+## Indication and Usage
 
-<color style="blue">Recommandé: </color>
+**Recommended:**<color style="blue"> </color>
 
-Aux femmes enceintes vivant dans des zones d’endémie (zones où la prévalence de l’ankylostomiase et/ou du trichocéphale est de 20 % ou plus).
+For pregnant women living in endemic areas (areas where the prevalence of hookworm and/or whipworm infection is 20% or more).
 
-Où l'anémie est considérée comme un problème de santé publique grave (la prévalence parmi les femmes enceintes est de 40 % ou plus).
+Where anaemia is considered a severe public health problem (the prevalence among pregnant women is 40% or higher). 
 
-Aux femmes infectées par les helminthes dans les zones non endémiques.
+For women infected with helminths in non-endemic areas.
 
-## Posologie et mode d'emploi
+## Dosage and Administration
 
-Une dose unique de 400 mg par voie orale après le premier trimestre.
+Albendazole 400  mg orally as a single dose after the first trimester.
 
-## Contre-indications
+## Contraindications
 
-Grossesse au premier trimestre
+First trimester pregnancy
 
 ---

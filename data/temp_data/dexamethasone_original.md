@@ -1,10 +1,10 @@
 # Chapter: Indications and Usage
 
-For lung maturation and prevention of respiratory distress and vertebral haemorrhage of the newborn at threatening preterm labour between 24 and 34 weeks gestation.
+Corticosteroids are administered to the mother to support foetal lung development and reduce the risk of breathing problems and brain bleeding in the newborn when the mother is at risk of preterm labour between 24 and 34 weeks of gestation.
 
 # Dosage and Administration
 
-6 mg IM, 4 doses, 12 hours apart.
+Dexamethasone 6 mg IM x 4, given 12 hours apart
 
 # Contraindications
 

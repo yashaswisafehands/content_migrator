@@ -1,4 +1,4 @@
-# Chapter: Letrozole & Misoprostol (1. trimester)
+# Chapter: COMBI-PACK/Letrozole & Misoprostol (1. trimester)
 
 # Indication and usage
 
@@ -22,7 +22,7 @@ Repeating the dose of misoprostol every 4 hours can be considered until successf
 
 Vaginal bleeding will usually start after taking misoprostol (occasionally after taking letrozole), accompanied by abdominal pain and cramping.
 
-## Below 9 weeks
+## Before 9 weeks:
 
 Women may take misoprostol at home if there are no complications. It is safe, usually more private, and more convenient.
 

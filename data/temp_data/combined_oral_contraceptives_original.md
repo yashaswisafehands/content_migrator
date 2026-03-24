@@ -1,12 +1,12 @@
 ## Introduction
 
-Combined oral contraceptives (COCs) contain artificial versions of female hormones oestrogen and progesterone, prevents the sperm from ovulating the egg by preventing ovulation, thickening cervical mucus, and thinning the uterine lining.
+Combined oral contraceptives (COCs) contain artificial versions of female hormones oestrogen and progesterone. These prevent the sperm from fertilising the egg by preventing ovulation, thickening cervical mucus, and thinning the uterine lining.
 
 Types of COCs include monophasic, phasic or every-day (ED) medications depending on the dose and frequency.
 
 ## Medication examples
 
-COCs contain a combination of ethinyl estradiol and either:
+COCs contain a combination of ethinyl oestradiol and either:
 
 - **Levonorgestrel** (Microgynon/Microgynon ED/Elevin/Levest/Logynon) 
 - **Gestodene** (Akizza/Femodene/Katya/Millinette) 

@@ -1,15 +1,15 @@
-# Chapter: Prendre soin du soignant
+# Chapter: Caring for the carer
 
-La prestation de soins aux femmes souffrant de troubles mentaux pé-rinatals peut être stressante et inquiétante pour les fournisseurs de soins de maternité.
+Providing care for women experiencing perinatal mental health conditions can be stressful and worrying for maternity care providers.
 
-L'épuisement émotionnel et l'épuisement profession-nel ne sont pas rares dans les professions d'infir-mières et de sages-femmes.
+Emotional exhaustion and burn-out is not uncommon in nurses and midwives.
 
-Le soutien professionnel sous forme de compte rendu, de super-vision clinique et de mentorat sont des stratégies qui peuvent aider les fournisseurs de soins de santé à gérer des scénarios cliniques stressants.
+Professional support in the form of de-briefing, clinical supervision and mentoring can assist healthcare providers to process stressful clinical scenarios.
 
-Des techniques d'autosoins comme des choix de mode de vie sains, de l'exercice régulier, des aliments nutritifs, un sommeil suffisant et la participation à des activités so-ciales sont autant de moyens qui peuvent contribuer à l'équilibre travail-vie personnelle.
+Self-care techniques  such as healthy lifestyle choices, regular exercise, nutritious food, adequate sleep and partaking in social activities are all ways that can help with work-life balance.
 
-La recherche d'un soutien ou de conseils professionnels est re-commandée pour les prestataires de soins de maternité qui se sen-tent dépassés ou accablés par leur charge de travail.
+Seeking professional support or counselling is recommended for care providers who feel overwhelmed or burdened by their caseload.
 
-![Image](4fd62f4a68344502a96f4ad12fe2301e)
+![Image](1ecaed50bd8140a294968d450bb8e408)
 
 ---
