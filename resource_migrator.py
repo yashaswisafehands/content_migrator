@@ -1928,19 +1928,64 @@ class ResourceMigrator:
                     log_error("Captured Exception", exc=e)
                     print(f"Error parsing questions for {slug}: {e}")
             
-            # Resolve raw links (or pre-computed slugs) to resource IDs
+            # Resolve raw links to resource IDs or direct URLs
+            # This mirrors the logic in post_resources_from_csv for consistency
             for q in questions:
-                if "link" in q and q["link"]:
-                    raw_link = q["link"]
-                    resource_id = self._resolve_link_ref(raw_link, default_region=final_region)
-                    if resource_id:
-                        q["link"] = resource_id
-                    else:
-                        # Resource not found - remove link to avoid API error
-                        print(f"  Warning: Link '{raw_link}' not in mapping or could not be resolved, removing from question")
-                        del q["link"]
-                        if "link_type" in q:
-                            q["link_type"] = None   # ← null both together
+                if "link" not in q or not q["link"]:
+                    continue
+
+                raw_link = q["link"]
+
+                # ── video:/ → direct Azure Blob URL ──
+                if raw_link.startswith("video:/"):
+                    from configs import _get_assets_base_url
+                    from urllib.parse import quote
+                    import os as _os
+
+                    path = raw_link[len("video:/"):]
+                    path_no_ext = _os.path.splitext(path)[0]
+                    base_url = _get_assets_base_url().rstrip("/")
+                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+                    video_url = f"{base_url}/videos/{safe_path}.mp4"
+
+                    q["link"] = video_url
+                    q["link_type"] = "video"
+                    print(f"  ✓ Converted KLP video link → {video_url}")
+                    continue
+
+                # ── image:/ → direct Azure Blob URL ──
+                if raw_link.startswith("image:/"):
+                    from configs import _get_assets_base_url
+                    from urllib.parse import quote
+                    import os as _os
+
+                    path = raw_link[len("image:/"):]
+                    path_no_ext = _os.path.splitext(path)[0]
+                    base_url = _get_assets_base_url().rstrip("/")
+                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+                    image_url = f"{base_url}/images/{safe_path}.png"
+
+                    q["link"] = image_url
+                    q["link_type"] = "image"
+                    print(f"  ✓ Converted KLP image link → {image_url}")
+                    continue
+
+                # ── action-card:, drug:, procedure: or res- slug → UUID lookup ──
+                # Derive link_type from the raw prefix before we overwrite the link value
+                if ":" in raw_link:
+                    q["link_type"] = raw_link.split(":", 1)[0]
+
+                resource_id = self._resolve_link_ref(raw_link, default_region=final_region)
+                if resource_id:
+                    q["link"] = resource_id
+                    # link_type is already set above from the prefix
+                    print(f"  ✓ Resolved KLP link '{raw_link}' → {resource_id}")
+                else:
+                    # Resource not found – remove link to avoid API 400 error
+                    print(f"  Warning: Link '{raw_link}' could not be resolved, removing from question")
+                    del q["link"]
+                    if "link_type" in q:
+                        q["link_type"] = None
 
             
             # Build KLP payload matching KeyLearningPointCreateRequest schema
@@ -2232,6 +2277,10 @@ class ResourceMigrator:
                                 print(f"  ✓ Converted KLP image link to direct URL: {image_url}")
                                 
                             else:
+                                # Derive link_type from prefix before overwriting
+                                if ":" in link_val:
+                                    q["link_type"] = link_val.split(":", 1)[0]
+
                                 resolved = self._resolve_link_ref(link_val, default_region=e.get("final_region") or "india")
                                 if resolved:
                                     q["link"] = resolved
