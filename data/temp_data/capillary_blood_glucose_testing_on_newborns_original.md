@@ -2,8 +2,6 @@
 
 Capillary blood sample is obtained from a heel puncture.
 
-![Image](e6dc85cb5d7b41eaae02dea1e9c0cd91)
-
 ## Preparation
 
 Keep the following equipment and supplies ready:
@@ -31,7 +29,5 @@ Keep the following equipment and supplies ready:
 - Also collect the blood into capillary tube if required for other laboratory investigations. 
 - After obtaining the sample, apply pressure to the site with a gauze, until the bleeding has stopped.
 - Keep the baby comfortable and hand over to mother.
-
-![Image](d0f5571ec13b4d2bae781356b288ee54)
 
 ---

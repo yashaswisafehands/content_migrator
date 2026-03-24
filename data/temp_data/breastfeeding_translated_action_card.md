@@ -1,51 +1,51 @@
 # Chapter: Breastfeeding
 
-### स्तनपान (ब्रेस्ट फीडिंग)
+### Breastfeeding
 
-डिलीवरी के बाद माँ और नवजात के बीच त्वचा से त्वचा के संपर्क को बढ़ावा दें ।
+Encourage skin-to-skin contact between mother and newborn soon after delivery.
 
-नवजात को माँ के ब्रेस्ट के पास रखने में मदद करें ।
+Help the mother to put the newborn to the breast right away.
 
-जन्म के एक घंटे के भीतर स्तन पान शुरू करवायें ।
+Start breastfeeding within one hour of delivery.
 
-नवजात की स्तिथि, जुड़ाव और चूसने की क्षमता का निरक्षण करें
+Check positioning, attachment, and suckling.
 
-स्तनपान की प्रक्रियां में सहयोग प्रदान करें ।
+Give practical breastfeeding support.
 
-माँ की स्तनपान के दौरान आने वाली सामान्य समस्याओ में मदद करें ।
+Help the mother with common breastfeeding problems.
 
-माँ की स्तनपान में ये करके मदद करें ::
+Support the mother to breastfeed by:
 
-- माँ और नवजात को दिन एवं रात साथ रखे ।
-- ये सुनिश्चित करें की बीमार (सिक) नवजातों की माँ उनके पास रह सकें ।
+- Letting the mother and newborn stay together day and night.
+- Making sure that mothers of sick newborns can stay near them.
 
-नवजात को कब भूख लगी है इसे जानने में माँ के मदद करें ।
+Help the mother know when the newborn is hungry.
 
-स्तनपान की अवधि का निर्धारण न करें ।
+Do not limit breastfeeding times.
 
-मांग के अनुसार फीड करें।
+Feed on demand.
 
-पहले एक स्तन से पूरा फीड करवाएं एवं फिर दूसरे स्तन से फीड दें ।
+Feed completely on one breast, then shift to the other breast.
 
-### सही जुड़ाव
+### Correct attachment
 
-नवजात का स्तन से सही जुड़ाव तब होगा जब ::
+The newborn is well attached to the mother’s breast when:
 
-- ठुड्डी स्तन को छु रही हो 
-- मुँह पूरा खुला हो 
-- नीचला होठ बाहर की तरफ  मुड़ा  हो 
-- ऐरीओला  का अधिक भाग मुँह के नीचे की बजाएं ऊपर दिख रहा हो।
+- Chin is touching the breast.
+- Mouth is wide open.
+- Lower lip is turned outward.
+- More areola is visible above than below the mouth.
 
-![Image](36bfde9b1bad4b5d9d0420ea405f928d)
+![Image](46fbcc3487214261a1195479331326db)
 
-### गलत जुड़ाव
+### Wrong attachment
 
-![Image](60dca43071d14309827714426bb9678b)
+![Image](3400e7c424c14b008444c0bb0f2c7455)
 
-नवजात को जन्म के 6 महीने तक सिर्फ स्तनपान करवायें (एक्सक्लूसिव ब्रेस्ट फीडिंग) ; स्तनपान को 2  साल की उम्र तक जारी रखें ।
+Exclusive breastfeeding for 6 months; continue breastfeeding for two years.
 
-जब तक कोई मेडिकल कारण  न हो माता को ब्रेस्ट मिल्क से ही स्तनपान में मदद करें।
+Support the mother to breastfeed by giving only breastmilk unless there are medical reasons.
 
-जो माताएं नवजात को फार्मूला फीड देना चाहती है उनकी इसे देने की सुरक्षित एवं सही विधि की जानकारी दें ।
+Support a mother who wants to formula feed to do so safely.
 
 ---

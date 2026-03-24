@@ -14,15 +14,18 @@ Observe closely for apnoea and always have a bag-mask available to ventilate the
 
 For seizures:
 
-Start treatment with loading dose 20 mg/kg IV over 15 minutes or as a single dose IM if IV access is not established.
+**Loading dose:**
+Phenobarbital 20 mg/kg IV over 15 minutes (or as a single dose IM if IV access is not established).
 
-If convulsions do not stop within 30 minutes give further dose of phenobarbital 10 mg/kg IV slowly over 5 minutes (or IM).
+If convulsions do not stop within 30 minutes: 
+Phenobarbital 10 mg/kg IV slow over 5 minutes (or IM).
 
-If necessary repeat after another 30 minutes.
+Repeat if necessary after another 30 minutes.
 
-Maximum dose is of 40 mg/kg body weight.
+Maximum dose: phenobarbital 40 mg/kg body weight.
 
-If needed continue Phenobarbital at maintenance dose of 5 mg/kg IV, IM, or orally per day.
+Maintenance dose (if needed): 
+Phenobarbital 5 mg/kg IV/IM orally daily.
 
 **CAUTION:**
 
@@ -30,13 +33,13 @@ Diazepam given in addition to phenobarbital will increase the risk of circulator
 
 # Contraindications
 
-Phenobarbital is contraindicated in patients who are hypersensitive to barbiturates, in patients with a history of manifest or latent porphyria, and in patients with marked impairment of liver function or respiratory disease in which dyspnoea or obstruction is evident.
+Hypersensitivity to barbiturates, in patients with a history of manifest or latent porphyria, and in patients with marked impairment of liver function or respiratory disease in which dyspnoea or obstruction is evident.
 
 # Adverse reactions
 
 **Common**:
 
-The most common adverse reaction, estimated to occur at a rate of 1 to 3 patients per 100, are disorders of the nervous system such as drowsiness or sleepiness.
+1 to 3 patients in 100 will have disorders of the nervous system such as drowsiness or sleepiness.
 
 **Less common:**
 
@@ -46,20 +49,20 @@ Adverse reactions estimated to occur at a rate of less than 1 in 100 patients ar
 
 Agitation, confusion, hyperkinesia, ataxia, CNS depression, nightmares, nervousness, psychiatric disturbance, hallucinations, insomnia, anxiety, dizziness, abnormality in thinking.
 
-Respiratory System:
+**Respiratory System:**
 
 Hypoventilation, apnoea.
 
-Cardiovascular System:
+**Cardiovascular System:**
 
 Bradycardia, hypotension, syncope.
 
-Digestive System:
+**Digestive System:**
 
 Nausea, vomiting, constipation.
 
-Other Reported Reactions:
+**Other reported reactions:**
 
-Headache, injection site reactions, hypersensitivity reactions (angioedoema, skin rashes, exfoliative dermatitis), fever, liver damage, megaloblastic anaemia following chronic Phenobarbital use.
+Headaches, injection site reactions, hypersensitivity reactions (angioedema, skin rashes, exfoliative dermatitis), fever, liver damage, megaloblastic anaemia following chronic Phenobarbital use.
 
 ---

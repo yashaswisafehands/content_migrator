@@ -10,7 +10,7 @@ The provider should explain basic steps of using male condom by demonstrating on
 4. Immediately after ejaculation, hold the rim of the condom in place & withdraw from the penis while it is still erect 
 5. Dispose off the used condom safely, by wrapping it in a piece of paper and throwing it in a bin.
 
-![Image](414610168c3e45dfb62f0ae42c909cdb)
+![Image](daa0375ec8e74ab295854ba18048b8a1)
 
 In case there is any mistake in use of condom, or it slips off /breaks during intercourse, pregnancy can occur. In such case the female partner needs to take an ECP, as soon as possible after intercourse, within next 72 hours.
 

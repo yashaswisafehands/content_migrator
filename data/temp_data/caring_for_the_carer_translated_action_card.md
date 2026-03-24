@@ -1,15 +1,15 @@
-# Chapter: केयर देने वाले की देखभाल
+# Chapter: Caring for the carer
 
-पेरिनेटल मानसिक स्वास्थ्य समस्याओं से जूझ रही महिलाओं की देखभाल करना मातृत्व सेवाएँ प्रदान करने वाले स्वास्थ्यकर्मियों के लिए तनावपूर्ण और चिंताजनक हो सकता है।
+Providing care for women experiencing perinatal mental health conditions can be stressful and worrying for maternity care providers.
 
-नर्सों, मिडवाइफ़्स और अन्य स्वास्थ्यकर्मियों में भावनात्मक थकान और बर्नआउट आम बात है।
+Emotional exhaustion and burn-out is not uncommon in nurses and midwives.
 
-डी-ब्रीफिंग, क्लिनिकल सुपरविज़न और मेंटरिंग जैसी प्रोफेशनल सहायता रणनीतियाँ स्वास्थ्यकर्मियों को तनावपूर्ण क्लिनिकल परिस्थितियों से निपटने में मदद कर सकती हैं।
+Professional support in the form of de-briefing, clinical supervision and mentoring can assist healthcare providers to process stressful clinical scenarios.
 
-सेल्फ-केयर तकनीकें, जैसे कि स्वस्थ जीवनशैली अपनाना, नियमित व्यायाम करना, पौष्टिक आहार लेना, पर्याप्त नींद लेना और सामाजिक गतिविधियों में भाग लेना — ये सभी तरीके वर्क–लाइफ बैलेंस बनाए रखने में सहायक होते हैं।
+Self-care techniques  such as healthy lifestyle choices, regular exercise, nutritious food, adequate sleep and partaking in social activities are all ways that can help with work-life balance.
 
-जो मैटरनिटी सेवा प्रदाता अपने कार्यभार से थका हुआ या मानसिक रूप से बोझिल महसूस करते हैं, उन्हें प्रोफेशनल सहायता या काउंसिलिंग लेना सुझाया जाता है।
+Seeking professional support or counselling is recommended for care providers who feel overwhelmed or burdened by their caseload.
 
-![Image](cfeb9a45bbcb473f800f14da649c6eee)
+![Image](7884a834e345488babf1527f1331f33f)
 
 ---

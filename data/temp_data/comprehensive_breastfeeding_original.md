@@ -6,7 +6,7 @@
 - Counselling should be provided face to face, complemented telephonically if needed.
 - For information on breastfeeding a small newborn - See Low Birth Weight Module video on feeding
 
-![Image](b9d99d406c0a45d0b86bbcaf06a5a267)
+![Image](0e6aa70959d942df99f6bea4da547c6d)
 
 ## Information to the mother:
 
@@ -60,7 +60,7 @@ Guide the woman in the following steps:
 - Occasional pausing
 - Swallowing sounds when the newborn feeds
 
-![Image](3e078706311c4b1fad615943872fcd18)
+![Image](46fbcc3487214261a1195479331326db)
 
 If the attachment or the sucking is ineffective, take the newborn off the breast and try again. Then reassess.
 

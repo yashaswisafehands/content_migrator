@@ -25,7 +25,7 @@ Explain to the woman what you are about to do and why.
 - Finish closing the NASG using segment 6.
 - Segments 1,2,3 can be applied by two persons simultaneously, segments 4,5,6 should only be applied by one.
 
-![Image](cacb502cadc84b97996801d02f2588d3)
+![Image](bf5ac68d3c454a02b72071d8dec8c44e)
 
 **Remember:**
 

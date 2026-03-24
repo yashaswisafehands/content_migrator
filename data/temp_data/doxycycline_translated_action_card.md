@@ -1,33 +1,29 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indication and usage
 
-डॉक्सीसाइक्लिन एक टेट्रासाइक्लिन-क्लास एंटीबैक्टीरियल है जो विभिन्न प्रकार के बैक्टीरियल इन्फेक्शन के इलाज के लिए इस्तेमाल किया जाता है।
+Doxycycline is a tetracycline antibiotic used to treat a wide variety of bacterial infections.
 
-मैनुअल वैक्यूम एबॉर्शन (एमवीए) से पहले, नॉन-लेक्टेटिंग महिला में बिना सीप्सिस के प्रोफिलैक्टिक एंटीबायोटिक के रूप में दिया जाता है।
+# Dosage and Administration
 
-# डोज़ और देने की विधि
+## Antibiotic prophylaxis for surgical abortion
 
-## एबॉर्शन के लिए एंटीबायोटिक प्रोफिलैक्सिस:
+Before the procedure, administer a single dose of:
 
-प्रक्रिया से पहले एकल खुराक दें:
+Doxycycline 200 mg orally
 
-डॉक्सीसाइक्लिन 100 मिलीग्राम मौखिक रूप से
+# Contraindications
 
-गर्भपात के लिए प्रोफिलैक्टिक रूप से: 100 मिलीग्राम दिन में दो बार सात दिनों तक ओरल दें
+Hypersensitivity to any tetracycline antibiotic
 
-# कॉन्ट्राइंडिकेशन्स
+Pregnancy
 
-किसी भी टेट्रासाइक्लिन एंटीबायोटिक के प्रति हाइपरसेंस्टिविटी
+Breastfeeding
 
-गर्भावस्था
+# Adverse reactions
 
-ब्रैस्ट फीडिंग
+Common side effects include headache, nausea, vomiting, and skin sensitivity to sunlight.
 
-# एडवर्स रिएक्शन्स
+Serious side effects include diarrhoea, joint or muscle pain, bruising or bleeding, severe headaches, vomiting and problems with the vision (signs of intracranial hypertension), severe stomach pain, signs of kidney problems (e.g. changes in the urine output), and difficulty or pain when swallowing.
 
-सामान्य साइड इफेक्ट्स में : सिरदर्द, नौजिया, उल्टी, त्वचा का सनलाइट से सेंसिटिव होना शामिल हैं।
-
-गंभीर साइड इफेक्ट्स में : दस्त, जोड़ों या मांसपेशियों में दर्द, चोट या रक्तस्राव, गंभीर सिरदर्द, उल्टी और दृष्टि संबंधी समस्याएँ (इंट्राक्रेनियल हाईपरटेंशन के संकेत), गंभीर पेट दर्द, किडनी समस्याओं के संकेत (जैसे यूरिन की मात्रा में बदलाव), निगलने में कठिनाई या दर्द और रक्त संबंधी विकार जैसे हेमोलिटिक एनीमिया या प्लेटलेट/व्हाइट ब्लड सेल की संख्या कम होना शामिल हैं।
-
-रेयर मामलों में, डॉक्सीसीक्लिन गंभीर एलर्जिक प्रतिक्रिया जैसे स्टीवंस-जॉनसन सिंड्रोम भी उत्पन्न कर सकता है।
+In rare cases, doxycycline can cause a serious allergic reaction
 
 ---

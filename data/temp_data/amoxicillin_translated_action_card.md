@@ -1,27 +1,25 @@
-# Chapter: इन्डिकेशन्ज़ और उपयोग
+# Chapter: Indication and Usage
 
-एमोक्सिसिलिन ग्राम पाॅज़िटिव और ग्राम नेगेटिव बैक्टीरियल संक्रमण पर प्रभावी एक बी-लेक्टम एन्टीबाॅयोटिक और हेलिकोबेक्टर है।
+Amoxicillin is a β-lactam antibiotic effective on gram-positive and gram-negative bacterial infections as well as helicobacter.
 
-# डोज़ और देने की विधि
+# Dosage and administration
 
-एडल्ट
+**Adults:**
 
-1 ग्राम आईवी, इसके बाद 500 मि.ग्रा. ओरल हर 8 घंटे पर 7 दिनों तक।
+Amoxicillin 1 g IV followed by 500 mg orally every 8 hours for 7 days.
 
-Newborns:
+**Newborns**over 7 days old with fast breathing (>60 breaths/min) and no other sign of illness:
 
-0–28 दिनों  के नवजात शिशु जिनमें बीमारी का लक्षण — तेज़ सांस (60 से अधिक सांस प्रति मिनट) हो:
+Amoxicillin 50 mg/kg orally, every 12 hours for 7 days.
 
-30–50 मि.ग्रा./किलोग्राम ओरल हर 12 घंटे पर, 7 दिनों तक।
+# Contraindications
 
-# कॉन्ट्राइंडिकेशन्स
+Allergy to penicillin
 
-पेनिसिलिन से एलर्जी।
+# Adverse reaction
 
-# एडवर्स रिएक्शन्स
+Common adverse reactions are diarrhoea, skin rash, nausea.
 
-सामान्य एडवर्स रिएक्शन्स:  दस्त, स्किन रैश, नौजिया।
-
-असामान्य एडवर्स रिएक्शन्स है: उल्टी, चक्कर आना, दौरे , मुँह में सूजन (स्टोमेटाइटिस), जीभ की सूजन (ग्लॉसाइटिस), स्यूडोमेंब्रेनस कोलाइटिस, प्लेटलेट्स की कमी, एनीमिया, अर्टिकेरिया या एनाफिलेक्टिक शॉक।
+Uncommon reactions are vomiting, dizziness, convulsions, stomatitis, glossitis, pseudomembranous colitis, lowered platelets, anaemia, urticarial or anaphylactic shock.
 
 ---

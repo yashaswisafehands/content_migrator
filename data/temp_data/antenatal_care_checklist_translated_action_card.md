@@ -1,65 +1,49 @@
 # Chapter: Overview
 
-### ओवरव्यू
+### Overview
 
-प्रसवपूर्व अवधि के दौरान नियमित प्रसवपूर्व देखभाल से महिलाओं और नवजात शिशुओं दोनों के स्वास्थ्य परिणामों में सुधार होता है।
+Regular antenatal care throughout the antenatal period improves health outcomes for both women and newborns.
 
-![Image](4f5a1a27ae734476bfcc346ae84415e4)
+![Image](6b0b2a01c5994774bd769c8e94c5e471)
 
-जटिलताओं को रोकने और पहचानने और उचित कार्रवाई करने के लिए कम से कम 4 प्रसवपूर्व विजिट्स की सिफारिश की जाती है।
+A minimum of 8 antenatal care contacts is recommended to prevent and identify complications and take appropriate action.
 
-प्रधानमंत्री सुरक्षित मातृत्व अभियान (पीएमएसएमए) के अंतर्गत दूसरी या तीसरी तिमाही के दौरान एक विजिट की सिफारिश की जाती है, जहां एक गर्भवती महिला की डॉक्टर द्वारा जांच की जानी चाहिए
-
-
-यदि किसी गर्भवती महिला को उच्च जोखिम वाली गर्भावस्था के रूप में वर्गीकृत किया गया है, तो डॉक्टर या प्रसूति विशेषज्ञ द्वारा कम से कम 3 अतिरिक्त एएनसी दौरे सुनिश्चित करें।
+Women, who have not given birth by their expected due date, should return for antenatal care at 41 and 42 weeks, or sooner if they experience any danger signs.
 
 ---
 
 # Chapter: 1st Trimester: Contact 1 (above 12 weeks)
 
-### पहली तिमाही: पहली एएनसी विजिट (12 सप्ताह के भीतर )
+### 1st Trimester: Contact 1 (<12 weeks)
 
-**उसका इतिहास ले**
+**History taking**
 
-- गर्भावस्था की पुष्टि करें, एलएमपी की तारीख रिकॉर्ड करें और ईडीडी की गणना करें
-- महत्वपूर्ण लक्षणों का आकलन करें. 
-- संपूर्ण चिकित्सा, मनोसामाजिक और पारिवारिक चिकित्सा इतिहास लें
-- प्रसूति इतिहास लें - पिछली गर्भधारण/जीवित जन्म/गर्भपात/गर्भपात की संख्या और विवरण, पिछली प्रसूति संबंधी जटिलताएं (प्री-एक्लेमप्सिया, रक्तस्राव आदि), प्रसूति सर्जरी और रक्त आधान का इतिहास।
-- अन्य बीमारी जैसे डायबिटीज, क्रोनिक उच्च रक्तचाप, हृदय, किडनी, या थायरॉयड रोग, दौरे, अस्थमा या किसी ऑटोइम्यून बीमारी के लिए पूछें ।
-- टीकाकरण की स्थिति, हाल की दवाओं, और किसी दवा से होने वाली एलर्जी के बारे में पूछें।
-- तम्बाकू, निष्क्रिय धूम्रपान, शराब या अन्य पदार्थों के उपयोग के बारे में पूछें।
-- निजता में ,पूछें कि क्या महिला ने लिंग आधारित हिंसा या अंतरंग साथी हिंसा का  सामना किया है (महिलाओं के खिलाफ हिंसा पर कार्रवाई कार्ड देखें) 
-- महिलाओं को भरा हुआ एमसीपी कार्ड ,एवं सुरक्षित मातृत्व पुस्तिका दें।
-- .
+- Confirm pregnancy and calculate EDD.
+- Assess for significant symptoms.
+- Take full medical, obstetric, psychosocial, family history: Number and details of previous pregnancies/live births/miscarriages/abortions, previous obstetric complications (pre-eclampsia, haemorrhage etc) and other diseases (diabetes, chronic hypertension, kidney, autoimmune disease).
+- Ask about vaccination status and recent medications.
+- Ask about exposure to tobacco, second-hand smoke, use of alcohol or other substances
+- Ask about exposure to tobacco, second-hand smoke, use of alcohol or other substances.and depression)..
+- In privacy, ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card on Violence against women).
 
-![Image](0a4467415fe84011b4721bcef5b0690f)
+![Image](17a1684a1d794a9b8484383b73b34c87)
 
-**जाँच करें**
+**Examine**
 
-- वजन और ऊंचाई
-- रक्तचाप 
-- नब्ज़ दर
-- पीलापन
-- एडीमा
-- पीलिया
-- पोषक तत्वों का स्तर
+- Blood pressure
+- Weight and height
 
-**प्रयोगशाला जांच**
+**Screen or Test**
 
-<color style="blue">Urine for</color>
+<color style="blue">Urine </color>
 
-- हीमोग्लोबिन
-- एल्बुमिन और शुगर के लिए यूरिन
-- रक्त समूह और आर अच स्थिति 
-- एचआईवी
-- रैपिड डायग्नोस्टिक टेस्ट (आरडीटी) सिफलिस के लिए 
-- ओरल ग्लूकोस टॉलरेंस टेस्ट(ओ जी टीटी)
-- रैपिड डायग्नोस्टिक टेस्ट (आरडीटी) एचबीएसएजी के लिए
-- रैपिड डायग्नोस्टिक टेस्ट (आरडीटी) मलेरिया के लिए यदि महिला को बुखार है
+- Proteinuria
+- Glucosuria
+- Bacteriuria
 
-![Image](a5e0d4c0c35d43fa9893c6c6d6c7c56a)
+![Image](321cac7b6ca74a1c841ddfd99083c9b1)
 
-<color style="blue">Blood for</color>
+<color style="blue">Blood </color>
 
 - Haemoglobin
 - Blood group and Rh status
@@ -67,18 +51,19 @@
 - Syphilis 
 - Tuberculosis (if relevant)
 
-![Image](2e621728a01240d49100cf6c2d1076de)
+![Image](5209fef383c647b4be8d464864732cf6)
 
 **Treat/Refer**
 Follow local guidelines for referral and management of any abnormal findings.
 
-**रोगनिरोधी उपाय**
+**Preventative measures**
 
-- फोलिक एसिड
-- टेटनस और डिप्थीरिया का टीकाकरण 
-- मलेरिया की रोकथाम के लिए कीटनाशक उपचारित मच्छरदानी (आईटीएन)
+- Iron and folic acid   
+- Antibiotics for women with asymptomatic bacteriuria
+- Covid-19 vaccination 
+- Tetanus toxoid vaccination
 
-![Image](69a56132af3b472b971145459fb664ab)
+![Image](e8d9fe7714a04eccbabd8aa1def851c0)
 
 <color style="blue">Context specific:</color>
 
@@ -88,169 +73,142 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Malaria prevention (at 13 weeks) 
 - HIV prevention
 
-**महिला को समझाएं**
+**Counselling and Recommendations**
 
-- जननी शिशु सुरक्षा कार्यक्रम (जेएसएसके) और जननी सुरक्षा योजना (जेएसवाई) के तहत जन्म की तैयारी और जटिलता तत्परता योजना पात्रता
-- स्वस्थ भोजन, शारीरिक रूप से सक्रिय रहना और आराम करना
-- गर्भावस्था के दौरान सुरक्षित सेक्स 
-- घरेलू हिंसा
-- तम्बाकू, शराब और अन्य पदार्थों के सेवन से बचें 
-- सामान्य शारीरिक लक्षणों के लिए हस्तक्षेप
+- Birth and emergency plan. 
+- Healthy eating and being physically active.
+- Self-care, safe sex, rest, sleeping under insecticide-treated nets.
+- Avoid using tobacco, alcohol or other substances. 
+- Interventions for common physiological symptoms.
 
-### सारांश और समेकन
+### Summary
 
-- महिला के प्रसूति संबंधी रिस्क को वर्गीकृत करें 
-- उसकी जन्म योजना, आपातकालीन संकेतों और लक्षणों पर दोबारा गौर करें 
-- उसके संपर्क विवरण की पुष्टि करें 
-- स्वास्थ्य सुविधा संपर्क और अगली नियुक्ति का विवरण दें (14 से 26 सप्ताह के बीच) 
-- महिला के प्रसव पूर्व रिकॉर्ड, एमसीपी कार्ड अपडेट कर उसे दें
+- Classify the woman’s obstetric risk.
+- Revisit her birth plan, emergency signs and symptoms.
+- Confirm her contact details.
+- Give her the health facility contact and next appointment details (at week 20).
+- Update the woman's antenatal records and give them to her.
 
-ईडीडी और गर्भावस्था की आयु की गणना के लिए प्रैक्टिकल प्रोसीजर के लिए सामान्य प्रसव और जन्म मॉड्यूल देखें
+See 'Normal Labour & Birth' practical procedures for calculation of EDD and gestational age.
 
 ---
 
 # Chapter: 2nd Trimester: Contacts 2 and 3 (weeks 20 and 26)
 
-### दूसरी तिमाही : दूसरी एएनसी विजिट ( 14 से 26 सप्ताह के बीच )
+### 2nd Trimester: Contact 2 and 3 (week 20 and 26)
 
-## पूछे
+## History taking
 
-- कोई भी लक्षण या असुविधा
-- दवाओं/सप्लीमेंट्स का अनुपालन
-- पूछें कि क्या महिला ने लिंग आधारित हिंसा या अंतरंग साथी हिंसा का अनुभव किया है। . (महिलाओं के खिलाफ हिंसा पर एक्शन कार्ड देखें)
+- Previous complications and treatments during pregnancy.
+- Exposure to tobacco, second-hand smoke, and use of alcohol and other substances.
+- Ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card 'Violence against women' for further information).
 
-![Image](4c337aeb53fd4bb99adf69ef0bf13b47)
+![Image](17a1684a1d794a9b8484383b73b34c87)
 
-## जांचे
+## Examine
 
-- रक्तचाप और नाड़ी
-- वज़न 
-- पीलापन
-- एडीमा
-- पीलिया
+- Blood pressure
+- Weight
 
-<color style="blue">लक्षणों का आकलन करें:  </color>
+<color style="blue">Assess for signs of: </color>
 
-- एनीमिया 
-- प्री - एक्लेम्पसिया
-- यूरिनरी ट्रैक्ट/अन्य संक्रमण 
-- थ़्रेटन्ड प्री टर्म लेबर
-- प्रसवपूर्व रक्तस्राव 
-- गर्भपात/स्टिलबर्थ 
-- जेस्टेशनल डायबिटीज
+- Anaemia
+- Pre-eclampsia
+- Urinary tract/other infections
+- Threatened preterm labour
+- Antepartum haemorrhage
+- Miscarriage/Stillbirth
+- Gestational diabetes
 
-![Image](dddceced8e544815be41135909a02f3d)
+![Image](9d35db01c2444bdf927f003e3c3b26d1)
 
-<color style="blue">भ्रूण परीक्षण:</color>
+<color style="blue">Foetal examination:</color>
 
-- भ्रूण की हृदय गति की जाँच करें (सप्ताह 24)
-- सिम्फिसियल-फंडल ऊंचाई मापें (सप्ताह 24) 
-- भ्रूण की गतिविधियों के बारे में पूछें (सप्ताह 28)
+- Listen to and count foetal heart rate
+- Measure symphysial-fundal height (from week 24)
+- Ask about foetal movements (from week 28)
 
-![Image](c81dab5a7a3c468595fed3d293f9dd2d)
+![Image](31cb4ded188e4b9bb363b040cd48787b)
 
-## जांचे
+## Screen or Test
 
-यूरिन के लिए
+<color style="blue">Urine </color>
 
-- प्रोटीनयूरिया
-- ग्लाइकोसुरिया
+- Proteinuria
+- Glucosuria
+- Bacteriuria
 
-![Image](a5e0d4c0c35d43fa9893c6c6d6c7c56a)
+![Image](321cac7b6ca74a1c841ddfd99083c9b1)
 
-ब्लड के लिए
+<color style="blue">Blood </color>
 
-- हीमोग्लोबिन
-- शुगर (ओजीटीटी) (24-28 सप्ताह)
+- Haemoglobin (week 26)
 
-![Image](2e621728a01240d49100cf6c2d1076de)
+![Image](5209fef383c647b4be8d464864732cf6)
 
-## रोगनिरोधी उपाय
-
-- आयरन और फोलिक एसिड
-- कैल्शियम
-- एल्बेंडाजोल (अधिमानतः दूसरी तिमाही के भीतर)
-- टेटनस और डिप्थीरिया का टीकाकरण दूसरी खुराक
-
-## परामर्श ( पिछली सलाह को सुदृढ़ करें)
-
-- जन्म और आपातकालीन योजना /बीपीसीआर।
-- स्वस्थ भोजन करना और शारीरिक रूप से सक्रिय रहना 
-- सामान्य शारीरिक लक्षणों के लिए हस्तक्षेप 
-- स्तनपान
-- गर्भनिरोधक परामर्श
-
-## सारांश और समेकन
-
-- महिला के प्रसूति संबंधी जोखिम को पुनः वर्गीकृत करें 
-- उसकी जन्म योजना, आपातकालीन संकेतों और लक्षणों पर दोबारा गौर करें 
-- उसके संपर्क विवरण की पुष्टि करें 
-- स्वास्थ्य सुविधा संपर्क और अगली नियुक्ति का विवरण दें (28-34 सप्ताह के बीच) 
-- महिला के प्रसव पूर्व रिकॉर्ड, एमसीपी कार्ड अपडेट कर उसे दें
+**Treat/Refer**
+Follow local guidelines for referral and management of any abnormal findings.
 
 ---
 
 # Chapter: 3rd Trimester: Contacts 4, 5, 6, 7 and 8 (weeks 30, 34, 36, 38 and 40)
 
-### तीसरी तिमाही : 3 और 4  विजिट(सप्ताह के बीच, 28 से 34 और 36 और अवधि के बीच)
+### 3rd Trimester: Contact 4, 5, 6, 7 and 8 (week 30, 34, 36, 38 and 40)
 
-## पूछे
+## Take history
 
-- कोई भी लक्षण या असुविधा
-- दवाओं/सप्लीमेंट्स का अनुपालन 
-- पूछें कि क्या महिला ने लिंग आधारित हिंसा या अंतरंग साथी हिंसा का अनुभव किया है (महिलाओं के खिलाफ हिंसा पर एक्शन कार्ड देखें)
+- Previous complications and treatments during pregnancy.
+- Exposure to tobacco, second-hand smoke, and use of alcohol and other substances.
+- Ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card 'Violence against women' for further information).
 
-![Image](6a548942aaeb4f848f4c038559bd76ba)
+![Image](f2d9a94283914565979337c073ba738c)
 
 ## Examine
 
-- रक्तचाप
-- वज़न
-- पीलापन
-- एडीमा
-- पीलिया
+- Blood pressure 
+- Weight
 
-महत्वपूर्ण लक्षणों का आकलन करें, उदाहरण के लिए:
+<color style="blue">Assess for significant symptoms of: </color>
 
-- एनेमिया
-- प्री-एक्लेम्पसिया
-- यूरिनरी ट्रैक्ट /अन्य संक्रमण
-- थ़्रेटन्ड प्री टर्म लेबर
-- प्रसवपूर्व रक्तस्राव
-- भ्रूण समझौता/मृत्यु
-- जेस्टेशनल डायबिटीज
+- Anaemia
+- Pre-eclampsia
+- Urinary tract/other infections
+- Threatened preterm labour
+- Antepartum haemorrhage
+- Foetal compromise /death
+- Gestational diabetes
 
-भ्रूण मूल्यांकन
+**Foetal examination**
 
-- भ्रूण की हृदय गति सुनें और गिनें
-- फंडल ऊंचाई मापें 
-- भ्रूण की गतिविधियों के बारे में पूछें
--  एक से अधिक गर्भावस्था के लिए पैल्पेट करें
-- मालप्रेजेंटेशन के लिए  पैल्पेट करें (34 सप्ताह से)
+- Listen to and count foetal heart rate
+- Measure symphysial-fundal height
+- Ask about foetal movements
+- Palpate for multiple pregnancy 
+- Palpate for malposition (from week 34)
 
-![Image](f4b184e03fe64f03acf0494b5b3e2e9a)
+![Image](83b699fbe4634e498cee44569d10c9af)
 
-![Image](ff78acd2919b43f7a4913b1b8099dd85)
+![Image](aca266cfc3eb47928eb0ff5d9c2dbdf1)
 
-## जाँच
+## Screen/Test
 
 <color style="blue">Urine </color>
 
-- एल्बुमिन और शुगर के लिए यूरिन
-- हीमोग्लोबिन
-- ओजीटीटी (24 से 28 के बीच सप्ताह)
+- Proteinuria 
+- Glucosuria
+- Bacteriuria (week 34)
 
 <color style="blue">Blood </color>
 
 - Haemoglobin (week 36)
 
-**ट्रीट/रेफ़र**
-किसी भी असामान्य निष्कर्ष के रेफरल और प्रबंधन के लिए लोकल गाइडलाइन्स का  पालन करें
+**Treat/Refer**
+Follow local guidelines for referral and management of any abnormal findings.
 
-## रोकथाम उपाय
+## Preventative measures
 
-- आयरन और फोलिक एसिड 
-- कैल्शियम
+- Iron and folic acid. 
+- Antibiotics for women with asymptomatic bacteriuria (from week 34).
 
 <color style="blue">Context specific</color>
 
@@ -258,25 +216,24 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Calcium 
 - Limit caffeine to <300mg p/d
 - Malaria prevention
-- Anti-D prophylaxis for Rh-negative women (week 34)
+- Anti-D prophylaxis for Rh-negative women (week 28 and 34)
 
-## स्वास्थ्य शिक्षा, सलाह और परामर्श ( पिछली सलाह को सुदृढ़ करें)
+## Health education, advice, and counselling (reinforce previous advice)
 
-- जन्म की तैयारी और जटिलता की तैयारी
-- भ्रूण की गतिविधियों का निरीक्षण करें।
-- शिशु आहार 
-- पोस्टपार्टम/ पोस्टनेटल  देखभाल
-- जन्म अंतराल और गर्भनिरोध 
-- पर्याप्त आराम, स्वस्थ भोजन और शारीरिक रूप से सक्रिय रहना। 
-- तम्बाकू का उपयोग और जोखिम, और शराब और अन्य पदार्थों का उपयोग 
-- सामान्य शारीरिक लक्षणों के लिए हस्तक्षेप
+- Birth and emergency plan.
+- Infant feeding.
+- Postpartum/postnatal care (from week 34).
+- Birth spacing and contraception (from week 34).
+- Healthy eating and keeping physically active.
+- Tobacco usage and exposure, and use of alcohol and other substances.
+- Interventions for common physiological symptoms.
 
-### सारांश और संपर्क को पुष्टि करें
+### Summary
 
-- महिला के प्रसूति संबंधी रिस्क को पुनः वर्गीकृत करें 
-- उसकी जन्म योजना, आपातकालीन संकेतों और लक्षणों पर दोबारा गौर करें 
-- उसके संपर्क विवरण की पुष्टि करें 
-- स्वास्थ्य सुविधा संपर्क और अगली नियुक्ति का विवरण दें (36 और 40 सप्ताह के बीच) 
-- महिला के प्रसव पूर्व रिकॉर्ड, एमसीपी कार्ड अपडेट कर उसे दें
+- Re-classify the woman’s obstetric risk.
+- Revisit her birth plan, emergency signs and symptoms.
+- Confirm her contact details.
+- Give her the health facility contact and next appointment details (at 34, 36, 38, 40 or 41 weeks).
+- Update the woman's antenatal records and give them to her.
 
 ---

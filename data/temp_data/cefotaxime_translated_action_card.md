@@ -1,29 +1,29 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indication and usage
 
-सेफोटैक्सिम गंभीर संक्रमणों के इलाज के लिए प्रयोग किया जाता है, चाहे संक्रमणकारी जीव पहले से पहचाना गया हो या किसी बैक्टीरिया के कारण हुआ हो। इसमें ऑस्टियोमायलाइटिस, सेप्टीसीमिया, बैक्टीरियल एंडोकार्डिटिस, मेनिनजाइटिस, पेरिटोनाइटिस और अन्य गंभीर बैक्टीरियल संक्रमण शामिल हैं, जो पैरेल्टरल एंटीबायोटिक थेरेपी के लिए उपयुक्त हैं।
+Cefotaxime is indicated for the treatment of serious infections, either before the infecting organism has been identified or when bacterial infection is known. This includes osteomyelitis, septicaemia, bacterial endocarditis, meningitis, peritonitis and other serious bacterial infections suitable for parenteral antibiotic therapy.
 
-# डोज़ और देने की विधि
+# Dosage and administration
 
-## नवजात शिशु:
+## Newborns:
 
-7 दिन से कम, वजन < 2000 ग्राम:
+**0-28 days (weight < 2.5 kg):**
 
-50 मिलीग्राम/किलोग्राम हर 12 घंटे, इंट्रावेनसली
+Cefotaxime 50 mg/kg/dose IV (x 2)
 
-7 दिन से कम, वजन > 2500 ग्राम:
+**Under 7 days (weight > 2.5 kg):**
 
-50 मिलीग्राम/किलोग्राम हर 8 घंटे, इंट्रावेनसली
+50 mg/kg/dose IV (x 3)
 
-7 दिन से अधिक, वजन > 2000 ग्राम:
+**Above 7 days (weight > 2.5 kg):**
 
-50 मिलीग्राम/किलोग्राम हर 6 घंटे, इंट्रावेनसली
+Cefotaxime 50 mg/kg/dose IV (x 4)
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-सेफोटैक्सिम, किसी अन्य पेनिसिलिन या किसी अन्य बीटा-लैक्टम दवा से हाइपरसेंसिटिविटी का इतिहास होने पर प्रयोग नहीं करना चाहिए।
+In patients with a history of hypersensitivity to cefotaxime, any other penicillin or to any other type of beta-lactam drug.
 
-# एडवर्स रिएक्शन्स
+# Adverse reactions
 
-सामान्य एडवर्स रिएक्शन्स: इंजेक्शन साइट पर प्रतिक्रिया, भूख न लगना, पेट दर्द, उल्टी, दस्त, या सिरदर्द।
+Common side effects are: injection site reactions, loss of appetite, stomach pain, nausea, vomiting, diarrhoea and headaches.
 
 ---

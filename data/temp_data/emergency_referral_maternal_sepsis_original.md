@@ -14,7 +14,7 @@ Inform the referral centre.
 
 Accompany the woman.
 
-It is crucial that the woman is accompanied by a healthcare professional who is trained in delivery care and able to manage an emergency situation, if it occurs or resurrects during transport.
+It is crucial that the woman is accompanied by a healthcare provider who is trained in delivery care and able to manage an emergency during transport.
 
 Consider bringing a relative who can donate blood.
 
@@ -24,14 +24,14 @@ Referral note.
 
 ## Essential emergency drugs:
 
-- **Oxytocin** and **ergometrine** (alternatively **misoprostol**) for treatment of post-partum haemorrhage
-- **Hydralazine** for IV treatment of elevated blood pressure
-- **Magnesium sulphate** for eclampsia
-- **Calcium gluconate** for intoxication with **magnesium sulfate**
-- **Ampicillin**,**gentamicin**and  **metronidazole**for infections
+- **Oxytocin** and **ergometrine** (alternatively **misoprostol**) for treatment of post-partum haemorrhage.
+- **Hydralazine** for IV treatment of elevated blood pressure.
+- **Magnesium sulphate** for eclampsia.
+- **Calcium gluconate** for intoxication with **magnesium sulfate.**
+- **Ampicillin**,**gentamicin**and  **metronidazole**for infections.
 - **Diazepam**for pain relief
-- **Phenobarbital** for the newborn in case of convulsions
-- **Adrenaline** for the newborn in case of cardiac arrest
+- **Phenobarbital** for the newborn in case of convulsions.
+- **Adrenaline** for the newborn in case of cardiac arrest.
 
 ## Supplies:
 
@@ -46,7 +46,7 @@ Referral note.
 
 ### During Transport
 
-![Image](1f08910072824d3dae9da6780fa75aea)
+![Image](e18bf99b9b1d4c1f9b58327e9cff054b)
 
 Observe vital signs and level of consciousness.
 

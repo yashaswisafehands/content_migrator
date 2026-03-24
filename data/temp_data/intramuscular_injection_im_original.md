@@ -8,13 +8,13 @@ Equipment for intramuscular injections should be available in the delivery room,
 
 **Equipment includes:**
 
-- IM medication ampoule
-- Syringes
-- Large-bore needle for withdrawing medication from the ampoule
-- Intramuscular cannula
+- IM medication ampoule.
+- Syringes.
+- Large-bore needle for withdrawing medication from the ampoule.
+- Intramuscular needle.
 - 2 × cotton-wool balls: one soaked in 70 % alcohol for disinfection before injection, and one clean, dry ball for post-injection pressure.
 
-![Image](461a7b285c9d4b81a4aae62f14789820)
+![Image](370ad68f0e6d4003bd74278d60809d90)
 
 ---
 
@@ -41,7 +41,7 @@ Intramuscular injections should be administered at a 90-degree angle to the skin
 10. If blood is seen, apply light pressure with cotton wool ball.
 11. Dispose the needle and syringe safely according to health facility requirements.
 
-![Image](652a5a0e658e4e29a7c4ec5890e9d2d6)
+![Image](feab8eb8527842c680f779dd458feba1)
 
 **Newborns:**
 The needle gauge recommended for intramuscular injection for newborns is 22-25-gauge needle (16-25 mm).

@@ -2,7 +2,7 @@
 
 ### Neonatal Jaundice
 
-![Image](ed9f047b4fdc4fe4850aadaa112d344b)
+![Image](1bdd2961cc9340a69d6931a5ab43f850)
 
 When a neonate is clinically jaundiced, the total serum bilirubin (TSB) is usually >5 -7 mg/dl.
 

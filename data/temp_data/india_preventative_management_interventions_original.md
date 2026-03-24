@@ -14,8 +14,6 @@ Screen women every month by conducting rapid diagnostic test(RDT) even if she do
 
 If she shows symptoms of malaria at any time test and refer to higher centre for treatment.
 
-![Image](8fbb8367e081467ea7fddf0a200f2c6a)
-
 ---
 
 # Chapter: Preventative anthelminthic (deworming) treatment
@@ -24,7 +22,7 @@ If she shows symptoms of malaria at any time test and refer to higher centre for
 
 Preventive deworming treatment is recommended for all pregnant women.
 
-![Image](8cb4c3470c1a4662bfbcbcf3d2deadec)
+![Image](036bbf9fe8f34691823e35f07f8eaa2b)
 
 Single dose of albendazole 400 mg is given preferably in 2nd trimester.
 
@@ -38,7 +36,7 @@ Advice on personal hygiene and handwashing before meals and after using the toil
 
 ## Tetanus and diphtheria vaccination
 
-![Image](93122b7265714ac4a641c224d999d058)
+![Image](af15d60e161b4619b0b8eed452c8eadd)
 
 Tetanus and diphtheria vaccination is recommended to all pregnant women  to protect against maternal and neonatal tetanus and diphtheria.
 
@@ -58,8 +56,6 @@ One obstetric ultrasound should be done during pregnancy as part of routine Ante
 If a single scan is to be performed in pregnancy, ideally it should be done between 18 to 22 weeks of gestation.
 
 USG is done to estimate gestational age, detect foetal anomalies and multiple pregnancies, reduce induction of labour for post-term pregnancy, and improve the woman’s pregnancy experience.
-
-![Image](3ebdebf99a42461f9d7bf2ff69791afe)
 
 Offer a late ultrasound scan to women who have not had an early ultrasound scan, to identify the number of foetuses, presentation and placental location.
 

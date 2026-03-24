@@ -4,7 +4,7 @@
 - Equipment for intravenous should be located at all health facilities.
 - The size of IV cannula for each client is decided based on their condition, purpose, and urgency of which fluids need to be delivered.
 
-![Image](0410efedc40d462cbaac021b1381590a)
+![Image](b4303a4338924908988538d69f8625eb)
 
 **Materials required:**
 
@@ -30,6 +30,6 @@
 8. Connect to IV fluids or put in stopper or 3-way connector.
 9. Fix the catheter securely with adhesive tape.
 
-![Image](ac04da707e9e4ad0a0de343b4b71a601)
+![Image](69b301f2170d4167950a71a330bbef1f)
 
 ---

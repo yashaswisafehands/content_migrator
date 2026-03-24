@@ -1,19 +1,19 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications & Usage
 
-पोलियोमायलाइटिस (पोलियो) की रोकथाम के लिए।
+Prevention of poliomyelitis.
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-- 0.1 मिलीलीटर खुराक, दाएँ ऊपरी बांह में इंट्राडर्मल दें (दो फ्रैक्शनल खुराक) ।
-- पहली खुराक — 6 सप्ताह की आयु पर।
-- दूसरी खुराक — 14 सप्ताह की आयु पर।
+- 0.1 ml Intradermal (two fractional dose) in the Right upper arm
+- 1st dose at 6 weeks 
+- 2nd dose at 14 weeks
 
-# कन्सिडरेशन
+# Consideration
 
-वैक्सीन को 2–8°C के तापमान पर स्टोर करें। इसे कभी भी फ्रीज़ न करें।
+Vaccines should be stored at 2-8°C. It should not be frozen.
 
-# एडवर्स रिएक्शन्स
+# Adverse reactions
 
-समानय एडवर्स रिएक्शन में : इंजेक्शन स्थल पर दर्द, लाल हो जाना या सूजन, बुखार या चिड़चिड़ापन शामिल हैं।
+Common adverse reactions are pain, redness or swelling at the injection site, fever or irritability.
 
 ---

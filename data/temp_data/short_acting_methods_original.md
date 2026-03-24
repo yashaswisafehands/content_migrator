@@ -4,7 +4,7 @@ Female comdoms are soft, thin latex or synthetic latex single-use coverings that
 
 With typical use, female condoms are 79% effective. This means that for every 100 women using female condoms, 21 will become pregnant in 1 year. Very few pregnancies or infections occur due to incorrect use, slips, or breaks. If this happens, you may need to use emergency contraception.
 
-![Image](e066c4fee4f54b86aea96fbed0b88a54)
+![Image](0ff516880b324366881cd9ba50a8d42d)
 
 Protection against sexually transmitted infections (STIs):
 
@@ -57,7 +57,7 @@ Male condoms are very thin, single-use coverings that are worn on the penis whil
 
 With typical use, male condoms are 87% effective. This means that for every 100 women using male condoms, 13 will become pregnant in 1 year. Very few pregnancies or infections occur due to incorrect use, slips, or breaks. If this happens, you may need to use emergency contraception.
 
-![Image](511d6252717c4bd8ba9a4ece84a15649)
+![Image](cf32705c19244aaca2cd32731dfc51c2)
 
 Protection against sexually transmitted infections (STIs):
 
@@ -110,7 +110,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after COCs are stopped: **No delay**
 
-![Image](4a54ca5e955749a5b66f85ddb37a7acc)
+![Image](bee4611e29f7478ca82faf4d2a81844c)
 
 ## Use
 
@@ -168,7 +168,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after POPs are stopped: **No delay**
 
-![Image](ad15e49083014bc0bc58b50f0da9c6f2)
+![Image](3b436a5877e94913bbaae96a6e5cf851)
 
 ## Use
 
@@ -221,7 +221,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility taking EC: **24 hours**(no delay)
 
-![Image](bbd1e37b89ce4077b8c7e7c13c89087c)
+![Image](2d0db165120b44d79b851205b6a297c8)
 
 ## Use
 
@@ -255,7 +255,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after injections are stopped: **An average of 5 months**
 
-![Image](5b00aab39bc44ec1b690873e65e0e996)
+![Image](370ad68f0e6d4003bd74278d60809d90)
 
 ## Use
 
@@ -301,7 +301,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after injections are stopped: **Between 1**(NET-EN)**– 4**(DMPA)**months,**depending on the type
 
-![Image](7c928ab88d5341d99c7bc96e6b0fea3a)
+![Image](361dfeb9ce12402ca7d7a1bf1ef25ad0)
 
 # Use
 
@@ -358,7 +358,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after ring is removed: **No delay**
 
-![Image](dceb75a5bcdb40a18df149b1739351e1)
+![Image](54f4846d4b9b47f6b43a2594776d1292)
 
 ## Use
 
@@ -370,7 +370,7 @@ The woman inserts the vaginal ring herself and leaves the ring in place for 3 we
 2. Press opposite sides of the ring together and gently push the folded ring entirely inside the vagina.
 3. Deep insertion helps the ring to stay in place, and it may not be felt. The vaginal muscles naturally keep it in place.
 
-![Image](f1908dfbb7aa49408934b59d87a71623)
+![Image](89eae025db064cd883291001771026d2)
 
 ## Advantages of CVRs
 
@@ -415,7 +415,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after ring is removed: **No delay**
 
-![Image](cc1efcd0dbc84d3598160b1ea6a9fd9b)
+![Image](8e182fd40f264f15a7c12a343066d540)
 
 ## Use
 
@@ -427,7 +427,7 @@ The woman can insert the ring herself. The ring is placed 4-9 weeks after giving
 2. She should press opposite sides of the ring together and gently push the folded ring entirely inside her vagina.
 3. Deep insertion helps the ring to stay in place, and she will be less likely to feel it. The vaginal muscles naturally keep it in place.
 
-![Image](f1908dfbb7aa49408934b59d87a71623)
+![Image](89eae025db064cd883291001771026d2)
 
 ## Advantages of PVRs
 
@@ -467,7 +467,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after ring is removed: **No delay**
 
-![Image](f3319d9b679e4f1cb4dec75f33d837ed)
+![Image](4f59ecba3d784c10954c187710bb478a)
 
 ## Use
 

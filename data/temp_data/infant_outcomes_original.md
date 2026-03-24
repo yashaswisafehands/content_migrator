@@ -2,15 +2,15 @@
 
 Infants of mothers who suffer from depression have higher rates of:
 
-- premature births 
-- low birth weight
-- malnutrition and stunting
-- diarrheal diseases 
-- infectious illnesses 
-- hospital admissions
-- reduced completion of immunization schedules.
+- Premature births 
+- Low birth weight
+- Malnutrition and stunting
+- Diarrheal diseases 
+- Infectious illnesses 
+- Hospital admissions
+- Reduced completion of immunization schedules
 
-![Image](4edb74f508504aa99d6c406fbcc0e2a3)
+![Image](fc9c4f33c9fd41278d4b5ec8cc49dbb8)
 
 Additionally, these infants can have a disrupted bonding and attachment process.
 

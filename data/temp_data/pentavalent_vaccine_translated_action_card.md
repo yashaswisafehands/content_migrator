@@ -1,21 +1,21 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-बच्चों में पांच प्रमुख रोगों से सुरक्षा: डिप्थीरिया, टेटनस, पर्टुसिस (खांसी), हेपेटाइटिस बी , और हेमोफिलस इन्फ्लुएंजा टाइप बी (एचआईबी)।
+Prevention against five major childhood diseases:Diphtheria, Tetanus, Pertussis (whooping cough), Hepatitis B, and Haemophilus influenzae type b(Hib).
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-- 0.5 मिलीलीटर इंट्रामस्कुलर, जांघ के मध्य भाग के ऐन्टरोलैटरल हिस्से में।
-- पहली खुराक: 6 सप्ताह
-- दूसरी खुराक: 10 सप्ताह
-- तीसरी खुराक: 14 सप्ताह
-- आईपीवी वैक्सीन के साथ संयोजन में दिया जा सकता है।
+- 0.5 ml Intramuscularly in the anterolateral aspect of the mid-thigh  
+- 1st dose at 6 weeks 
+- 2nd dose at 10 weeks   
+- 3rd dose at 14 weeks 
+- Can be given in combination with IPV vaccines
 
-# कन्सिडरेशन
+# Consideration
 
-वैक्सीन को 2–8°C के तापमान पर स्टोर करें। इसे कभी भी फ्रीज़ न करें।
+Vaccines should be stored at 2-8°C. It should not be frozen.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindication
 
-हल्के बीमार नवजात शिशु वैक्सीन ले सकते हैं। मध्यम या गंभीर रूप से बीमार नवजात शिशुओं को तब तक प्रतीक्षा करनी चाहिए जब तक वे ठीक न हो जाएँ या जब जोखिम लाभ से अधिक न हो।
+Newborns who are mildly ill can receive the vaccine. Newborns who are moderately or severely ill should wait until they recover unless the risk outweighs the benefits.
 
 ---

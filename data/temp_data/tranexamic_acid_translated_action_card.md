@@ -1,43 +1,40 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-ट्रानेक्सेमिक एसिड एक एंटिफाइब्रिनोलाइटिक है।
+Tranexamic acid (TXA) is an antifibrinolytic agent that slows the breakdown of blood clots.
 
-यह महिलाओं में अत्यधिक माहवारी के दोरान रक्तस्राव के इलाज के लिए उपयोग किया जाता है।
+It is used to reduce excessive bleeding, e.g. when treating PPH. TXA should not be used to prevent PPH.
 
-यह ब्लड क्लोट्स  को जल्दी टूटने से रोककर काम करता है।
+TXA is recommended for all cases of PPH, regardless of whether the bleeding is due to genital tract trauma or uterine atony.
 
-इससे अत्यधिक रक्तस्राव को कम करने में मदद मिलती है।
+# Dosage and Administration
 
-# डोज़ और देने की विधि
+Early administration is crucial for reducing mortality in women with PPH.
 
-ट्रानेक्सामिक एसिड 1 ग्राम धीरे-धीरे 10 मि.ली. नॉर्मल सलाइन में 10 मिनट में आईवी दें (100 मि. ग्रा./मिनट)।
+For ongoing bleeding from trauma:
+Tranexamic acid 1 g in 10 ml diluent per IV over 10 minutes.
 
-**कंटिन्यूइंग डोज़:**
+**Maintenance dose:**
 
-यदि रक्तस्राव जारी रहे तो पहली डोज़ के 30 मिनट बाद दोहराएँ।
+Repeat after 30 minutes if the bleeding continues.
 
-**अधिकतम डोज़:**
+**Maximum dose:**
 
-शरीर के वजन के अनुसार दिन में तीन से चार बार 10 मिलीग्राम/किलोग्राम से अधिक ना दें।
+Do not exceed tranexamic acid 10 mg/kg, x 3-4 daily.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-ट्रानेक्सामिक एसिड से एलर्जी
+Avoid TXA in patients with: Active thromboembolic disease (DVT, PE, DIC), history of seizures or severe renal disease.
 
-इंट्राक्रैनियल ब्लीडिंग या थक्के का जोखिम
+TXA for PPH treatment should not be initiated later than 3 hours after birth.
 
-यदि व्यक्ति को रंग पहचान करने में दोष हो
+# Adverse Reactions
 
-थ्रॉम्बोएम्बोलिज़्म का इतिहास या एक्टिव थ्रॉम्बोएम्बोलिक रोग
+COMMON side effects:
 
-# एडवर्स रिएक्शन्स
+Back pain, headaches, joint pain, muscle pain, spasms or cramps, nasal or sinus congestion, stomach pain, tiredness.
 
-सामान्य एडवर्स रिएक्शन्स:
+SEVERE and RARE side effects:
 
-पीठ दर्द, सिरदर्द, जोड़ों में दर्द, मांसपेशियों में दर्द, ऐंठन या मरोड़, नाक या साइनस का भरा हुआ होना, पेट दर्द, थकान।
-
-सिवियर एवं रेयर एडवर्स रिएक्शन्स:
-
-सिवियर एलर्जिक रिएक्शन (दाने, खुजली, सांस लेने में कठिनाई, छाती या गले में कसना महसूस होना, मुँह, चेहरा, होंठ या जीभ में सूजन, चेहरे का लाल होना), काफ या पैर में दर्द, सूजन या टेंडरनेस, भ्रम, खून के साथ खाँसी, पेशाब कम होना या पेशाब करने में कठिनाई, आँखों की समस्याएँ, बेहोशी, हाथ या पैर का सुन्नपन, एक तरफ कमजोरी, दौरे, गंभीर या लगातार चक्कर या चक्करआना, अस्पष्ट बोलना, अचानक, गंभीर सिरदर्द या उल्टी, असामान्य थकान या कमजोरी (दृष्टि में बदलाव या समस्या: रंग पहचान में दिक्कत, स्पष्टता या दृश्य क्षेत्र में गड़बड़ी।
+Severe allergic reactions (rash, hives, itching, difficulty breathing, tightness in the chest or throat, swelling of the mouth, face, lips, or tongue, flushing of the face), calf or leg pain, swelling, or tenderness, chest pain, confusion, coughing up blood, decreased urination or difficulty urinating, eye problems, fainting, numbness of an arm or leg, one-sided weakness, seizures, severe or persistent dizziness or light-headedness, shortness of breath, slurred speech, sudden, severe headache or vomiting, unusual tiredness or weakness, vision changes or problems (e.g. disturbance of colour vision, sharpness, or field of vision).
 
 ---

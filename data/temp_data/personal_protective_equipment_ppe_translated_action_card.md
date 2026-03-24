@@ -1,46 +1,44 @@
-# Chapter: पर्सनल प्रोटेक्टिव इक्विपमेंट (पीपीई)
+# Chapter: Personal Protective Equipment (PPE)
 
-पर्सनल प्रोटेक्टिव इक्विपमेंट का उपयोग संक्रमण से बचाव के लिए किया जाता है, जो निम्नलिखित तरीकों से फैल सकता है:
+Personal protective equipment (PPE) is used to prevent exposure to infection from:
 
-- व्यक्ति से व्यक्ति संपर्क 
-- छींक या खाँसी से निकलने वाले ड्रॉपलेट के माध्यम से
-- हवा के द्वारा संक्रमण (एयरबॉर्न ट्रांसमिशन) से
-- दूषित वस्तुओं के माध्यम से
+- Person-to-person contact
+- Droplet spread
+- Airborne transmission
+- Contaminated objects
 
-## पीपीई पहनने की प्रकिया :
+## Putting on PPE:
 
-पीपीई पहनने से पहले हाथों को स्वच्छ करें।
+Perform hand hygiene before putting on the PPE.
 
-1. कैप, आई कवर और सर्जिकल मास्क पहनें। लेबर रूम में प्रवेश करने से पहले जूते का कवर या साफ़ चप्पल पहनना सुनिश्चित करें।
-2. गाउन पहनें।
-3. कफ़ (कलाई के हिस्से) के ऊपर दस्ताने पहनें।
+1. Put on the gown.
+2. Put on the medical mask and eye protection (e.g. goggles or face shield).
+3. Put gloves on over the cuffs of the gow.
 
-एचआईवी संक्रमित महिला की डिलीवरी के लिए पीपीई किट में कैप, मास्क, आई कवर और डिस्पोजेबल एप्रन शामिल होना चाहिए।
+If performing an aerosol-generating procedure (e.g. intubation or resuscitation), a respirator (E.g. EU FFP2 or equivalent respirator) should be used instead of a medical mask.
 
-यदि कोई एरोसोल-उत्पन्न करने वाली प्रक्रिया (जैसे इंट्यूबेशन या रिससिटेशन) की जा रही हो, तो मेडिकल मास्क के स्थान पर रेस्पिरेटर (जैसे N-95 रेस्पिरेटर मास्क) का उपयोग करें ।
-
-![Image](0a7549d499e0452392a113b2ef9625b4)
+![Image](216a3de0bb3e44b5af87c7030ba9447b)
 
 ---
 
-# Chapter: पीपीई को उतारने का प्रबंधन कैसे करे
+# Chapter: Managing how to take off PPE
 
-- अलग-अलग मरीजों के लिए एक ही पीपीई का उपयोग ना करें।
-- संक्रमित पीपीई पहनकर साफ़ क्षेत्र में प्रवेश न करें।
+- Do not use the same PPE for different patients. 
+- Do not step into a clean area wearing contaminated PPE.
 
-![Image](2d5c9d4f14a74de5ad6aad8da255289d)
+![Image](e8841726274e409f823b2d7c2a6987f0)
 
-महिला से कम से कम 1 मीटर की दूरी पर खड़े होकर, कमरे से बाहर निकलने से पहले निम्न क्रम में सभी पीपीई उतारें:
+From at least 1 meter away from the woman, remove all PPE in the following order before leaving the room:
 
-1. गाउन और दस्ताने (गाउन और दस्तानों को उतारकर अंदर की ओर रोल करें। इन्हें सुरक्षित रूप से उपयुक्त रंग-कोडित बैग में डालें। पुन: उपयोग योग्य वस्तुओं के लिए अलग कंटेनर उपलब्ध होने चाहिए।)
-2.  हाथों को स्वछ करें।
-3. गॉगल्स या फेस शील्ड (हेडबैंड या इयरपीस को पीछे से उठाकर हटाएँ। यदि वस्तु दोबारा उपयोग योग्य है, तो उसे रिप्रोसेसिंग के लिए निर्धारित कंटेनर में रखें)।
-4. मास्क (मास्क के सामने वाले हिस्से को न छुएँ। नीचे की डोरियाँ पकड़कर मास्क हटाएँ और इसे उचित कंटेनर में डालें)।
-5. पीपीई हटाने के तुरंत बाद फिर से हाथों की स्वच्छता करें।
+1. **Gown and gloves** (Peel off gown and gloves and roll inside out. Dispose safely in a waste container. Separate containers should be available for reusable items). 
+2. Perform hand hygiene. 
+3. **Goggles or face shield** (Remove from the back by lifting head band or earpieces. If the item is reusable, place it in a designated container for reprocessing). 
+4. **Mask**(Avoid touching the front of the mask. Remove it by grasping the bottom ties, then discard it in a waste container).  
+5. **Perform hand hygiene again immediately after removing PPE.**
 
-यदि आपके स्वास्थ्य केंद्र पर पीपीई की कमी हो तो:
+In the instance of a PPE shortage at your  health facility:
 
-- गतिविधियों को इस तरह एक साथ करें कि कमरे में प्रवेश करने की संख्या कम हो (जैसे दवा देने के दौरान ही वाइटल साइन की जांच करना)।
-- संपर्क को कम करने के लिए फिजिकल बैरियर का उपयोग करें, जैसे कि काँच या प्लास्टिक की खिड़कियां (उदाहरण: आपातकालीन विभाग के पंजीकरण डेस्क पर)।
+- Bundle activities to minimize the number of times a room is entered (e.g. check vital signs during medication administration). 
+- Use physical barriers, such as glass or plastic windows, to reduce exposure (e.g. at the emergency department registration desk).
 
 ---

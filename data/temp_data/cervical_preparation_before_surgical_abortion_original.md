@@ -2,7 +2,7 @@
 
 Cervical preparation is not routinely recommended for pregnancies less than 12 weeks’ duration; however, use of cervical preparation may be considered for all women undergoing surgical abortion as it makes dilatation much easier and reduces the risk of perforation with dilaters.
 
-![Image](092aff42e5524bbc9854bbacddcf4ec5)
+![Image](e9fe256fab494730a646dcdde531c54f)
 
 The following medication regimens (using either Mifepristone or Misoprostol) are suggested:
 

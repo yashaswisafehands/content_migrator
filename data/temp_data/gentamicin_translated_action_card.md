@@ -1,41 +1,41 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-एमिनोग्लाइकोसाइड एंटीबायोटिक एडल्ट्स और बच्चों में गंभीर जीवाणु संक्रमणों के इलाज के लिए संकेत दिया गया है।
+Aminoglycoside antibiotic indicated for treatment of severe or serious bacterial infections in adults and children.
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-## एडल्ट्स:
+## Adults:
 
-80 मिलीग्राम इंट्रामस्क्युलर हर 12 घंटे में ।
+Gentamicin 5 mg/kg once daily IV.
 
-## नवजात (वज़न >2000 ग्राम):
+## Newborns (under 7 days):
 
-7 दिन से कम आयु:
+Weight < 2.5 kg:
 
-5 मिलीग्राम/किलोग्राम हर 24 घंटे पर, आईवी, 7–10 दिनों तक
+Gentamicin 3-4 mg/kg every 24 hours IM/IV.
 
-7 दिन से अधिक आयु:
+Weight > 2.5 kg:
 
-5 मिलीग्राम/किलोग्राम हर 24 घंटे पर, आईवी , 7–10 दिनों तक
+Gentamicin 5 mg/kg every 24 hours IM/ IV.
 
-<color style="blue">नोट: 2000 ग्राम से कम वज़न वाले नवजात शिशुओं के लिए खुराक और समय समान रहता है।</color>
+Treat for at least two days.
 
-##
+## Newborns (above 7 days):
 
-7.5 mg/kg per dose once a day IV or IM.
+Gentamicin 7.5 mg/kg once daily IV/ IM.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-एमिनोग्लाइकोसाइड्स से एलर्जी।
+Allergy to aminoglycosides.
 
-अगर मरीज को किडनी फेल्योर (ओलिग्यूरिया या बढ़ा हुआ क्रिएटिनिन) है, तो उपचार 3 दिन से अधिक नहीं करना चाहिए।
+Treatment should not be more than 3 days if the patient is suffering from renal failure (oliguria or elevated creatinine).
 
-# एडवर्स रिएक्शन्स
+# Adverse Reactions
 
-सामान्य एडवर्स रिएक्शन्स:  सुनने की क्षमता में कमी, कान में घंटी बजना।
+Common adverse reactions are kidney impairment, hearing loss, and tinnitus.
 
-असामान्य एडवर्स रिएक्शन्स: रक्तचाप बढ़ना या घटना, सांस की कमी, प्लेटलेट्स की कमी, जोड़ों और मांसपेशियों में दर्द, अवसाद, समन्वय की गड़बड़ी, त्वचा पर चकत्ते या खुजली, दृष्टि में समस्या, अर्टिकेरिया और एनाफिलैक्टिक रिएक्शन।
+Uncommon reactions are reduced blood pressure, respiratory depression, reduced platelets, joint and muscle pain, depression, coordination disturbances, skin rash, itching, visual disturbances, urticaria and anaphylactic reactions.
 
-कभी - कभी होने वाले एडवर्स रिएक्शन्स :  बहरापन, बालों का झड़ना, यूरिन में कमी, और त्वचा का नेक्रोसिस।
+Rare reactions are deafness, hair loss, oliduria and skin necrosis.
 
 ---

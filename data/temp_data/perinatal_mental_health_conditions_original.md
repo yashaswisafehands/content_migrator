@@ -1,6 +1,6 @@
 # Chapter: Perinatal depression
 
-![Image](9ddce31b9d50472494f191d42e05acd0)
+![Image](bbe76b01e4aa47a79261f246efe08fb6)
 
 Perinatal depression is a common condition in both the antenatal and postnatal periods. It often co-exists with anxiety.
 
@@ -41,7 +41,7 @@ Estimates suggest that 1 in 5 women will experience depression in the perinatal 
 
 # Chapter: Anxiety disorders
 
-![Image](432f5abaf7404f55adf941113a4beab9)
+![Image](06c30f9db39c46358cad67a84bd01863)
 
 Most people experience anxiety from time to time; it is a healthy response to stress and can keep us motivated and safe. However, if anxiety becomes severe or prolonged and disrupts daily life activities, it is referred to as an anxiety disorder.
 
@@ -129,7 +129,7 @@ Pregnancy can increase the symptoms of schizophrenia and trigger a psychotic eve
 
 ## Prevalence
 
-Approximately 1-2% of the population suffer from schizophrenia
+Approximately 1-2% of the population suffer from schizophrenia.
 
 ## Symptoms
 

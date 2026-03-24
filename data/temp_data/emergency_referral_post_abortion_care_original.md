@@ -4,21 +4,21 @@
 
 > Emergency!
 
-Do not refer if emergency is not controlled!
+Do not transfer if the emergency is not controlled!
 
-Never refer a patient with uncontrolled bleeding, un-evacuated septic or haemorrhagic abortion or septic shock.
+Never transfer a patient who is has uncontrolled bleeding, an untreated septic abortion, or septic shock.
 
-After emergency management and when in a stable condition, discuss decision of referral with woman and relatives.
+After emergency management and once in a stable condition, discuss the decision of transfer with the woman and relatives.
 
 Quickly organize transport and possible financial aid.
 
-Inform the referral center.
+Inform the referral centre.
 
 Accompany the woman.
 
-It is crucial that the woman is accompanied by a health worker who is trained in emergency management, if it occurs or resurrects during transport.
+It is crucial that the woman is accompanied by a health worker who is trained in emergency management, should an emergency situation arise during transport.
 
-Consider to bring a relative who can donate blood.
+Consider bringing a relative who can donate blood.
 
 ### Bring
 
@@ -26,10 +26,10 @@ Referral note.
 
 ## Essential emergency drugs:
 
-- **Oxytocin** and **Ergometrine**(alternatively **Misoprostol**) for treatment of haemorrhage
-- **Hydralazine** for IV treatment of elevated blood pressure
-- **Ampicillin**,**Gentamicin**and  **Metronidazole**for infections****
-- **Diazepam** for pain relief
+- **Oxytocin** and **ergometrine**(alternatively **Misoprostol**) for treatment of haemorrhage.
+- **Hydralazine** for IV treatment of elevated blood pressure.
+- **Ampicillin**,**gentamicin**and  **metronidazole**for infections.****
+- **Diazepam** for pain relief.
 
 ## Supplies:
 
@@ -42,7 +42,7 @@ Referral note.
 
 ### During Transport
 
-![Image](1f08910072824d3dae9da6780fa75aea)
+![Image](e18bf99b9b1d4c1f9b58327e9cff054b)
 
 Observe vital signs and level of consciousness.
 

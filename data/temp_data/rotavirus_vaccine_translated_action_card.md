@@ -1,25 +1,24 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-रोटावायरस संक्रमण से सुरक्षा, जो दस्त और निर्जलीकरण (रोटावायरस गैस्ट्रोएंटेराइटिस) का कारण बन सकता है।
+Prevention of rotavirus infection which can lead to diarrhoea and dehydration (rotavirus gastero enteritis)
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-- 5 बूँदें मौखिक रूप से (वैक्सीन के प्रकार पर निर्भर)
-- पहली खुराक: 6 सप्ताह
-- दूसरी खुराक: 10 सप्ताह
-- तीसरी खुराक: 14 सप्ताह
-- एक वर्ष की आयु तक दिया जा सकता है।
+- Rotavirus vaccine 1 – 2.5 ml orally (depending on the vaccine type) 
+- 1st dose at 6 weeks 
+- 2nd dose at 10 weeks 
+- 3rd dose at 14 weeks
 
-# कन्सिडरेशन
+# Consideration
 
-वैक्सीन को 2-8°C पर स्टोर करें और धूप से बचाएँ।
+Vaccines should be stored at 2-8°C, protected from sunlight.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindication
 
-- रोटावायरस वैक्सीन की पिछली खुराक के प्रति गंभीर (जानलेवा) एलर्जी
-- रोटावायरस वैक्सीन के किसी भी घटक के प्रति गंभीर (जानलेवा) एलर्जी
-- सीवियर कंबाइंड इम्मुनोडेफिशियेंसी (एससीआईडी)
-- इंटसससप्शन का पिछला एपिसोड
-- हल्के बीमार नवजात शिशु वैक्सीन ले सकते हैं। मध्यम या गंभीर रूप से बीमार नवजात शिशुओं को तब तक प्रतीक्षा करनी चाहिए जब तक वे ठीक न हो जाएँ या जब जोखिम लाभ से अधिक न हो।
+- A severe (life-threatening) allergic reaction to a previous dose of rotavirus vaccine
+- A severe (life threatening) allergy to any component of rotavirus vaccine
+- Severe combined immunodeficiency (SCID), or
+- A previous episode of intussusception.
+- Newborns who are mildly ill can receive the vaccine. Newborns who are moderately or severely ill should wait until they recover. This also includes newborns with moderate or severe diarrhoea or vomiting.
 
 ---

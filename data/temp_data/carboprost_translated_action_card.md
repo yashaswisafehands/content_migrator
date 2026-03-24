@@ -1,35 +1,35 @@
-## इंडिकेशन्स और उपयोग
+## Indication and usage
 
-यह प्रॉस्टाग्लैंडिन F₂α का सिंथेटिक एनालॉग है।
+It is synthetic analogue of prostaglandin F₂α
 
-यूटेराइन एटोनी के कारण होने वाले प्रसवोत्तर रक्तस्राव (PPH) के प्रबंधन में उपयोग किया जाता है। यह गर्भाशय की स्मूद मसल्स को संकुचित करके कार्य करता है।
+Used for Management of postpartum haemorrhage (PPH) due to uterine atony. It works by contracting the uterine smooth muscles.
 
-कार्बोप्रोस्ट का उपयोग गर्भपात के मामलों में इंडक्शन तथा उपचार के लिए भी किया जाता है।
+Carboprost is also used for abortion cases  for induction and treatment
 
-2–8 डिग्री सेल्सियस पर स्टोर करें। फ्रीज़ न करें।
+Store at 2-8°C. Do not freeze.
 
-## डोज़ और देने की विधि
+## Dosage and administration
 
-कार्बोप्रोस्ट 0.25 मि.ग्रा. इंट्रामस्क्युलर रूप से।
+Carboprost 0.25 mg intramuscularly.
 
-इसी डोज़ को हर 15 मिनट में दोहराया जा सकता है।
+Same dose can be repeated every 15 minutes.
 
-अधिकतम 8 डोज़, अर्थात् 2 मि. ग्रा.।
+The maximum is 8 doses i.e. 2 mg.
 
-## कॉन्ट्राइंडिकेशन्स
+## Contraindications
 
-यह अस्थमा में कॉन्ट्राइंडिकेटेड है
+It is contraindicated in Asthma
 
-कार्बोप्रॉस्ट के प्रति हाइपरसेंसिटिविटी (जिसमें अनाफ़िलेक्सिस और एंजियोएडेमा शामिल हैं)
+Hypersensitivity (including anaphylaxis and angioedema) to Carboprost
 
-एक्यूट पैल्विक इंफ्लेमेटरी डिज़ीज़
+Acute pelvic inflammatory disease
 
-एक्टिव हृदय, फेफड़े, गुर्दा या लीवर रोग वाले रोगी
+Patients with active cardiac, pulmonary, renal or hepatic disease
 
-## एडवर्स रिएक्शन्स
+## Adverse reactions
 
-सामान्य एडवर्स रिएक्शन में : नौजिया, उल्टी, दस्त, बुखार, चेहरा लाल होना
+**Common:**Nausea, vomiting, diarrhoea, fever, flushing
 
-सीवियर एडवर्स रिएक्शन में : ब्रोंकस्पाज्म, हाईपरटेंशन, फेफड़ों में जलन या सूजन, मायोकार्डियल इन्फ़ार्क्शन, गंभीर हाईपरटेंशन
+**Serious:**Bronchospasm, hypertension, pulmonary oedema, myocardial infarction, severe hypertension
 
 ---

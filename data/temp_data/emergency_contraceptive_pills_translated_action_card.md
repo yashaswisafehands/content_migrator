@@ -1,27 +1,25 @@
-## परिचय
+## Introduction
 
-इमरजेंसी कॉन्ट्रासेप्शन (ईसी) असुरक्षित संभोग, गर्भनिरोधक के गलत उपयोग या असफलता (जैसे फटा हुआ कंडोम या भूली हुई गोली), बलात्कार या जबरदस्ती संभोग के बाद गर्भधारण को रोक सकता है।यह ओव्यूलेशन को रोककर या देर करके कार्य करता है। यह सर्वाइकल म्यूकस को गाढ़ा करता है, जिससे स्पर्म ट्रैप हो जाते हैं और फर्टिलाइजेशन नहीं हो पाता।
+Emergency contraception (EC) can prevent pregnancy after unprotected sex, following contraceptive misuse or failure (split condom or missed pill), and rape or coerced sex by preventing or delaying ovulation.
 
-ईसी पिल्स असुरक्षित संभोग के 3 दिन (72 घंटे) के भीतर लेने पर गर्भधारण को रोकती हैं।
+## Medications (from highest to lowest effectiveness)
 
-## दवाइयाँ (सबसे अधिक से सबसे कम प्रभावशीलता तक)
+- Copper IUD 
+- **Ulipristal acetate  orally**(Ella/ellaOne)
+- **Mifepristone orally**
+- **Levonorgestrel** **orally**(Plan B/Levonelle) 
+- Yuzpe method: **ethinyl oestradiol + levonorgestrel** combination
 
-- आईयूसीडी - इमरजेंसी कॉन्ट्रासेप्शन के लिए
-- ईसी पिल्स – जिनमें केवल प्रोजेस्टिन (लेवोनॉरजेस्ट्रेल 1.5 मि.ग्रा. प्रति टैबलेट) होता है
+## Common side-effects
 
-## सामान्य दुष्प्रभाव
+Some may experience headaches, abdominal pain, short term changes to bleeding patterns, nausea and vomiting.
 
-कुछ महिलाओं में सिरदर्द, पेट दर्द, मतली और उल्टी, चक्कर आना, थकान, स्तनों में टेंडरनेस,
-अगले माहवारी का जल्दी या देर से आना देखा जा सकता है।
+## Contraindication
 
-## कॉन्ट्राइंडिकेशन्स
+With ulipristal acetate (Ella/ellaOne), breastfeeding is not recommended for 7 days after taking the pill.
 
-गर्भावस्था में ईसी पिल नहीं लेनी चाहिए।
+## More information
 
-ईसी पिल सभी मेडिकल कंडीशन्स में सुरक्षित है।
-
-## अधिक जानकारी
-
-दवा का सही तरीके से उपयोग करने के लिए, कृपया साथ दिए गए दिशा-निर्देश ध्यान से पढ़ें।
+See medication guidelines packed with medication for more specific guidance.
 
 ---

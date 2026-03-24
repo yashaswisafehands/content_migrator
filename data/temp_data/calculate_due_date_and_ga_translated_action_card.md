@@ -1,20 +1,19 @@
-# Chapter: ड्यू डेट और गर्भावधि आयु की गणना करें
+# Chapter: Calculate due date and GA
 
-महिला से उसकी अंतिम माहवारी (एलएमपी)का पहला दिन पूछें और यदि संभव हो तो एएनसी रिकॉर्ड से पुष्टि करें।
+Ask the woman for the first day of her last menstrual period (LMP) and if possible, confirm with the antenatal care record.
 
-**उसकी डिलीवरी की अनुमानित तिथि (ईडीडी) की गणना करें:**
+**Calculate her expected date of delivery (EDD):**
 
-- एलएमपी की पहली तारीख + 7 दिन – 3 महीने या
--  एलएमपी की पहली तारीख + 7 दिन + 9 महीने
-- उदाहरण के लिए: अंतिम माहवारी 1 मार्च को शुरू हुई  थी + 7 दिन = 8 मार्च है। 
-- फिर यदि आप इसमें 3 महीने घटाते हैं या 9 महीने जोड़ते हैं तो यह 8 दिसंबर की ड्यू डेट होगी।
+- First day of LMP + 7 days - 3 months OR First day of LMP + 7 days + 9 months. 
+- Example: Last menstrual period started on March 1 + 7 days is March 8. 
+- Then if you subtract 3 months OR add 9 months it gives a due date of December 8.
 
-**उसकी गर्भावधि आयु की गणना करें :**
+**Calculate her gestational age (GA):**
 
-- प्रेगनेंसी व्हील या मोबाइल ऐप का उपयोग करें। या
-- आज की तारीख और ईडीडी के बीच सप्ताह गिनें और 40 से घटाएँ।
-- उदाहरण के लिए : आज 17 नवंबर है। अनुमानित ड्यू डेट 8 दिसंबर है। आज और अनुमानित ड्यू डेट के बीच 3 सप्ताह हैं। 40 - 3 = 37 इसलिए गर्भावधि आयु 37+0 सप्ताह है।
+- Use a pregnancy wheel or mobile app OR  
+- Count how many weeks there are from today to the due date, and subtract this from 40.
+- Example: Today is 17th November. Her estimated due date is 8th December. There are 3 weeks between today and the estimated due date. 40 - 3 = 37. Her gestational age is 37+0.
 
-![Image](5ba447b8a57643269d5134c521ba5fba)
+![Image](607e73f4f8cc4dd8be7588ff62b99789)
 
 ---

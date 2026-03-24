@@ -13,8 +13,6 @@
 - Pair of clean gloves
 - Water wipes
 
-![Image](cf970047ad0b4702a210a35bd2fa4bc8)
-
 ## Procedure
 
 - Wash hands, air dry them and wear clean gloves on both hands.
@@ -30,7 +28,5 @@
 - Remove the test strip from the glucometer and discard in the appropriate waste management bin. 
 - Interpret the test result.  
 - Record it in the woman’s chart or MCP card.
-
-![Image](82342dcfb91346c4a924bef039467c70)
 
 ---

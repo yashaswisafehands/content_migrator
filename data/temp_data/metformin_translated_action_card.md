@@ -1,29 +1,25 @@
-# Chapter: संकेत एवं उपयोग
+# Chapter: Indication and usage
 
-संकेत एवं उपयोग
+An oral antidiabetic drug used for diabetes in pregnancy and Gestational Diabetes Mellitus after 20 weeks of pregnancy.
 
-यह एक ओरल एंटीडायबेटिक दवा है जिसका उपयोग गर्भावस्था में डायबिटीज और जेस्टेशनल डायबिटीज़ मेलाइटस के लिए 20 सप्ताह के बाद किया जाता है
+It reduces glucose absorption from the intestines, lowers liver glucose production, and improves insulin sensitivity.
 
-यह आंतों से ग्लूकोज अवशोषण को कम करता है, लीवर ग्लूकोज उत्पादन को कम करता है और इंसुलिन संवेदनशीलता में सुधार करता है
+# Dosage and Administration
 
-# खुराक और एडमिनिस्ट्रेशन
+500 mg orally twice daily up to a maximum of 2g per day based on the blood sugar readings.
 
-ब्लड शुगर की रीडिंग के आधार पर, रोजाना 500 मिलीग्राम ओरल रूप से दो बार दिन में, अधिकतम 2 ग्राम/दिन तक.
+# Contraindications
 
-# कॉन्ट्रइंडिकेशन
+Pregnancy before 20 weeks of gestation.
 
-गर्भधारण के 20 सप्ताह से पहले गर्भावस्था.
+Kidney disease, metabolic acidosis or keto acidosis, hepatic insufficiency, respiratory insufficiency, acute myocardial infarction, congestive cardiac failure, alcohol abuse, severe infections.
 
-गुर्दे की बीमारी, मेटाबॉलिक एसिडोसिस या कीटो एसिडोसिस, हेपेटिक अपर्याप्तता, श्वसन अपर्याप्तता , तीव्र रोधगलन, कंजेस्टिव कार्डियक विफलता, शराब का दुरुपयोग, गंभीर संक्रमण.
+# Adverse reactions
 
-गुर्दे की बीमारी, मेटाबॉलिक एसिडोसिस या कीटो एसिडोसिस, हेपेटिक अपर्याप्तता, श्वसन अपर्याप्तता , तीव्र रोधगलन, कंजेस्टिव कार्डियक विफलता, शराब का दुरुपयोग, गंभीर संक्रमण.
+Common side effects are diarrhoea, nausea, stomach pain, heart burn, gas, indigestion, constipation, unpleasant metallic taste in the mouth, headache, flushing of skin, nail changes, muscle pain.
 
-# प्रतिकूल प्रतिक्रियाएँ
+Serious side effects are lactic acidosis, low blood sugar, chest pain and rashes.
 
-आम दुष्प्रभाव हैं डायरिया, जी मिचलाना, पेट में दर्द, हार्टबर्न, गैस, पाचन समस्या, कब्ज, मुँह में अच्छे नहीं लगने वाला धातुवादी स्वाद, सिरदर्द, त्वचा का लालपन, नाखून में परिवर्तन, मांसपेशियों में दर्द.
-
-गंभीर प्रभाव हैं लैक्टिक एसिडोसिस, कम ब्लड शुगर, सीने में दर्द और खुजली
-
-मेटफॉर्मिन का लंबे समय तक उपयोग विटामिन बी12 की कमी से जुड़ा हो सकता है
+Prolonged use of metformin may be associated with vitamin B12 deficiency.
 
 ---

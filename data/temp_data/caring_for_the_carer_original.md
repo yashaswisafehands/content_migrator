@@ -10,6 +10,6 @@ Self-care techniques  such as healthy lifestyle choices, regular exercise, nutri
 
 Seeking professional support or counselling is recommended for care providers who feel overwhelmed or burdened by their caseload.
 
-![Image](cfeb9a45bbcb473f800f14da649c6eee)
+![Image](7884a834e345488babf1527f1331f33f)
 
 ---

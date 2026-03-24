@@ -1,23 +1,20 @@
-## परिचय
+## Introduction
 
-इंजेक्टेबल कॉन्ट्रासेप्टिव – मेड्रॉक्सी प्रोजेस्टेरोन (एमपीए) माइक्रोक्रिस्टल्स का एक्वियस सस्पेंशन है, जो डेपो इंजेक्शन के रूप में दिया जाता है। यह प्रेगनेन 17 अल्फा-हाइड्रॉक्सीप्रोजेस्टेरोन–डेरिवेटिव प्रोजेस्टिन, मेड्रॉक्सीप्रोजेस्टेरोन एसीटेट होता है।
+Monthly injectables, or combine injectable contraceptives (CICs), contain 2 synthetic hormones, a progestin and an oestrogen, that mimic the natural hormones, progesterone and oestrogen.
 
-यह धीरे-धीरे प्रोजेस्टेरोन रिलीज करता है और ओव्यूलेशन को रोकता है, सर्वाइकल म्यूकस को गाढ़ा करता है तथा एंडोमेट्रियल लाइनिंग को पतला करता है।
+They work by preventing the ovulation and each last around 4 weeks.
 
-एमपीए एक प्रोजेस्टोजन-ओनली इंजेक्टेबल (पीओआई) है, जिसे हर तीन महीने में गहराई से इंट्रामस्क्युलर रूप से दिया जाता है।
+## Medication examples
 
-## दवाओं के उदाहरण
+- **Medroxyprogesterone acetate** (MPA) (Ciclofem/Ciclofemina/Cyclo-Provera/Feminena/Lunella/Lunelle/Novafem) 
+- **Norethisterone enanthate** (NET-EN) (Mesigyna/Norigynon)
 
-- **मेड्रॉक्सी प्रोजेस्टेरोन एसीटेट**(एमपीए)
-- **इंट्रामस्क्युलर -**एक वायल ऑफ 150 मि.ग्रा. पर 100 मि.ली., एमपीए का एक्वस सस्पेंशन
-- **सबक्यूटेनियस -**104 मि.ग्रा. पर 0.65 मि.ली. एमपीए का सस्पेंशन
+## Common side-effects
 
-## सामान्य दुष्प्रभाव
+Changes in bleeding pattern, weight gain, headaches, dizziness and breast tenderness.
 
-ब्लीडिंग पैटर्न में बदलाव (इंजेक्शन बंद करने के बाद भी कई महीनों तक बदलाव रहते है), वजन में परिवर्तन, सिरदर्द, मुहासें, बाल झड़ना, सेक्स ड्राइव में कमी और मूड स्विंग्स।
+## More information
 
-## कॉन्ट्राइंडिकेशन्स
-
-6 हफ्ते से कम उम्र के शिशु को स्तनपान कराने वाली महिलाएँ, बीपी ≥160/100 एमएमएचजी, अस्पष्ट योनि से रक्तस्राव, डायबिटीज़, इस्कीमिक हार्ट डिज़ीज, स्ट्रोक, एक्यूट डीप वेन थ्रोम्बोसिस, लिवर ट्यूमर, और ब्रेस्ट कैंसर।
+See packaging for specific guidance on each medication.
 
 ---

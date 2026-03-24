@@ -1,75 +1,75 @@
 # Chapter: Usage
 
-### पेरिनियल टीयर रिपेयर - उपयोग
+### Perineal Tear Repair - Usage
 
-पेरिनियल लेसरेशन प्रसव के दौरान टिश्यू के अत्यधिक खिंचाव के कारण होती हैं, विशेषकर जब पेरिनियम रिजिड हो और इलास्टिसिटी कम हो।
+Perineal lacerations occur due to overstretching of tissues during childbirth, especially when the perineum is rigid and lacks elasticity.
 
-**रिपेयर का समय:**
+**Time of repair:**
 
-रिपेयर प्लेसेंटा के निकलने के तुरंत बाद किया जाता है।
+The repair is done soon after expulsion of placenta.
 
-## आवश्यक उपकरण और सामग्री:
+## Equipment & Supplies:
 
-- स्टेराइल ग्लव्स
-- कॉटन स्वैब्स के साथ पोविडोन आयोडीन सॉल्यूशन
-- ड्रेपिंग शीट्स
-- लिग्नोकेन 
-- 10 मि.ली. डिस्पोज़ेबल सिरिंज के साथ 21-गेज नीडल
-- टूथ्ड थंब फोर्सेप्स
-- नीडल होल्डर
-- आर्टरी फोर्सेप्स
-- राउंड बॉडी और कटिंग बॉडी नीडल
-- स्यूचर मैटीरियल
-- अच्छा प्रकाश का स्रोत
+- Sterile gloves                                      
+- Cotton swabs with Povidone iodine solution
+- Draping sheets
+- Lignocaine
+- 10 ml disposable syringe with 21-gauge needle
+- Toothed thumb forceps
+- Needle holder
+- Artery forceps
+- Round body and cutting body needle 
+- Suture material
+- Good source of light
 
 ---
 
 # Chapter: Practical information
 
-### पेरिनियल टीयर रिपेयर - प्रैक्टिकल जानकारी
+### Perineal Tear Repair - Practical information
 
-## पूर्व तैयारी:
+## Preliminaries:
 
-- महिला को लिथोटॉमी पोज़िशन में रखें।
-- एंटीसेप्टिक सॉल्यूशन से पेरिनियम को साफ करें।
-- रिपेयर 3 लेयर में किया जाता है।
-- प्रक्रिया महिला को समझाएँ और उसकी शंकाओं का समाधान करें।
+- Place woman in lithotomy position.  
+- Clean the perineum with antiseptic solution.
+- Repair is done in 3 layers.
+- Explain the procedure to woman and answer her doubts.
 
-## कैसे करें रिपेयर?
+## How to Repair?
 
-पेरिनियम को अच्छी तरह एंटीसेप्टिक लोशन से साफ करें और सही तरीके से ड्रेप करें।
+The perineum is thoroughly swabbed with antiseptic lotion and draped properly.
 
-**लोकल एनेस्थीसिया :**पेरिनियम की लेयर्स में लिग्नोकेन 1% सॉल्यूशन के 10 मि.ली. की इन्फिल्ट्रेशन करें।
+**Local anaesthesia:** The layers of perineum is infiltrated with 10 ml of 1% solution of lignocaine.
 
-![Image](1a18aa1f408c4dff999304117ce74690)
+![Image](d129db7d5ea940258fc9ce7eb2f41a0c)
 
-## कॉन्टिन्यूस स्यूचर
+## Continuous suture
 
-एपेक्स की पहचान करें और पहला स्टिच एपेक्स के 0.5–1 से.मी. ऊपर लें।
+Apex is identified and the first bite is taken 0.5-1 cm above the apex.
 
-![Image](75c7a35aacc5496fb743d87f61a241ad)
+![Image](01fd0fd0241b40be8a709ddba90261d0)
 
-एपेक्स, वैजाइनल म्यूकोसा और सबम्यूकोसल टिश्यू को  कॉन्टिन्यूस या  कॉन्टिन्यूस इंटरलॉकिंग तरीके से स्यूचर करें।
+Apex, vaginal mucosa, and submucosal tissue is sutured in continuous or continuous interlocking manner.
 
-## इंटरमिटेंट स्यूचर
+## Intermittent suture
 
-![Image](40b22dcaa8894edea0bf57ccc8e92113)
+![Image](cf6caa4805684c61aa351e3c5baaab6e)
 
-पेरिनियल मसल्स  को इंटरमिटेंट स्यूचर तकनीक से रिपेयर करें।
+Perineal muscles should be sutured in intermittent manner.
 
-## मैट्रेस स्यूचर
+## Mattress suture
 
-![Image](8b016e6e056d4af3a45b3ae9f15cf40c)
+![Image](635ff65aabed4c998fc2841efe287de2)
 
-स्किन और सबक्यूटेनियस टिश्यू को मैट्रेस टेक्नीक से स्यूचर करें।
+Skin and subcutaneous tissues are sutured in mattress manner.
 
-## पोस्ट–प्रोसीजर केयर:
+## Post Procedure Care
 
-1. महिला को आरामदायक स्थिति में रखें।
-2. पेरिनियम को दोबारा एंटीसेप्टिक सॉल्यूशन से साफ करें और स्टेराइल वल्वल पैड लगाएँ।
-3. रिपेयर साइट को ब्लीडिंग, सूजन या किसी भी तरह के गैप के लिए जाँचें।
-4. वाइटल साइन मॉनिटर करें और संक्रमण के लक्षणों पर ध्यान दें।
-5. दर्द कम करने के लिए उपाय दें और पेरिनियल हाइजीन बनाए रखने की सलाह दें।
-6. महिला को जल्दी ब्लैडर खाली करने के लिए प्रोत्साहित करें और यूरिन रिटेंशन की जाँच करें।
+1. Make the woman comfortable.
+2. Clean the perineum with antiseptic solution and apply sterile vulval pad. 
+3. Check the repair site for bleeding, swelling, or gaping.
+4. Monitor vital signs and watch for signs of infection.
+5. Provide pain relief and advise on perineal hygiene.
+6. Encourage early bladder emptying and observe for urine retention.
 
 ---

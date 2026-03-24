@@ -1,46 +1,43 @@
-# Chapter: इन्डिकेशन्ज़ और उपयोग
+# Chapter: Indications and Usage
 
-मिसोप्रोस्टोल एक सिंथेटिक प्रोस्टाग्लैंडिन E1 ऐनालॉग है, जिसका उपयोग प्रसव के तीसरे चरण में गर्भाशय संकुचन को उत्तेजित करने और “प्रसव पश्चात रक्तस्राव को प्रबंधित करने के लिए किया जाता है।
+Misoprostol is a synthetic prostaglandin E1 analogue used to stimulate uterine contractions during the third stage of labor and to prevent/treat postpartum hemorrhage.
 
-**प्रसव पश्चात रक्तस्राव को रोकने के लिए।**
+It is indicated when intravenous oxytocin and tranexamic acid are unavailable or when bleeding does not respond to initial treatment.
 
-**प्रसव पश्चात रक्तस्राव के उपचार के लिए:**
-यह तब उपयोग किया जाता है जब इंट्रावेनस ऑक्सीटोसिन और ट्रानेक्सामिक एसिड उपलब्ध न हों, या जब प्रारंभिक उपचार के बाद भी रक्तस्राव नियंत्रित न हो।
+# Dosage and Administration
 
-# डोज़ और देने की विधि
+**For preventing postpartum haemorrhage:**
 
-प्रसव पश्चात रक्तस्राव से बचाव के लिए:
+Misoprostol 400-600 mcg (2-3 tablets) orally.
 
-600 माइक्रोग्राम (3 गोली) मुँह के द्वारा  दें।
+**For treatment of postpartum haemorrhage:**
 
-प्रसव पश्चात रक्तस्राव के प्रबंधन के लिए:
+800 mcg (4 tablets) sublingually or rectally.
 
-800 माइक्रोग्राम (4 गोली) सबलिंगुअल (जीभ के नीचे) या रेक्टल दें।
+**NOTE:**The sublingual route is preferred for faster absorption, but the rectal route is a useful alternative when oral or sublingual administration isn’t feasible.
 
-Repeat 200-800 mcg.
+Repeat misoprostol 200-800 mcg.
 
-**Maximum dose:** 1600 mcg.
+**Maximum dose:** misoprostol 1600 mcg.
 
-# काॅन्ट्राइन्डिकेशन्ज़
+# Contraindications
 
-प्रोस्टाग्लेन्डिन से एलर्जी।
-
-गर्भवती महिलाओं को प्रोस्टाग्लैंडिन नहीं दिया जाना चाहिए क्योंकि यह गर्भपात का कारण बन सकता है।
+Prostaglandin allergy.
 
 Prostaglandins should not be given to pregnant women as they cause abortion.
 
-# एडवर्स रिएक्शन्स
+# Adverse reactions
 
-सामान्य एडवर्स रिएक्शन्स: कंपकंपी या ठंड लगना, दस्त, पेट दर्द, शरीर का तापमान बढ़ना, नौजिया, उल्टी, पेट में गैस, कब्ज़, अपच, सिरदर्द और माहवारी की अनियमितता।
+1 in 3 treated with misoprostol will have diarrhoea or abdominal pain.
 
-गंभीर एडवर्स रिएक्शन्स:  लो ब्लड प्रेशर, दिल की तेज़ धड़कन, बच्चे की धीमी धड़कन, गर्भाशय में ज़्यादा संकुचन, दर्द और योनि से रक्तस्राव।
+It is also common to see a non-allergic rash.
 
 A few will experience a transient moderate increase in temperature.
 
 Some will have nausea, vomiting, constipation or flatulence.
 
-Less common: headache and dizziness is experienced.
+Less common: headaches and dizziness is experienced.
 
-Rarely Misoprostol can cause liver damage.
+Rarely misoprostol can cause liver damage.
 
 ---

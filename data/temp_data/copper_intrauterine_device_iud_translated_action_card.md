@@ -1,32 +1,29 @@
-## परिचय
+## Introduction
 
-एक छोटा, लचीला प्लास्टिक फ्रेम होता है जिसमें कॉपर कोइलेड होती हैं और बेरियम सल्फेट  मिला होता है। इसे गर्भाशय  में डाला जाता है। यह गर्भाशय और ट्यूब फ्लूइड के वातावरण को बदलकर स्पर्म की गति और कार्य  को कम करता है।
+A small, T-shaped plastic and copper device that is inserted into the uterus and prevents pregnancy by creating an environment that is toxic to sperm. 
 
-यह इम्प्लांटेशन को भी रोकता है।
+It can even be used for emergency contraception if placed within seven 5 days from unprotected intercourse.
 
-आईयूसीडी डालने के तुरंत बाद प्रभावी हो जाता है और ब्रांड के अनुसार 5 से 10 वर्ष तक प्रभावी रहता है।
+**Remember** that only condoms protect against sexually transmitted diseases!
 
-## उदाहरण
+An IUD works as soon as it is put in and lasts for 5-10 years, depending on the brand.
 
-कॉपर टी -380 ए , कॉपर-375
+## Examples of brands
 
-## कॉन्ट्राइंडिकेशन्स
+ParaGard, Liberté, FlexiT, and Monalisa.
 
-यदि किसी भी प्रकार के इन्फेक्शन के क्लिनिकल साइन हों, तो आईयूडी डालने से पहले जाँच और उपचार अवश्य करें।
+## Contraindications
 
-पिछली 3 महीनों के भीतर पेल्विक इंफ्लेमेटरी डिज़ीज़ (पीआईडी) होना।
+Any clinical signs of infection should be tested and treated before insertion of the IUD. 
 
-## सामान्य दुष्प्रभाव
+Pelvic inflammatory disease within the last three 3 months
 
-रक्तस्राव के पैटर्न में बदलाव (जैसे कि अधिक अनियमित, लंबे वक़्त तक और भारी रक्तस्राव, दर्दनाक ऐंठन)।
+## Common side-effects
 
-## कॉन्ट्राइंडिकेशन्स
+Changes in bleeding pattern (typically more irregular, longer and heavier bleeding, with more painful cramps)
 
-पेल्विक इंफ्लेमेटरी डिज़ीज़
+## More information
 
-किसी भी प्रकार के संक्रमण के लक्षण (आईयूसीडी डालने से पहले जाँच और इलाज आवश्यक है)
-
-जिन महिलाओं को कोरियोएम्नियोनाइटिस,
-प्रोलॉन्ग्ड रप्चर ऑफ मेंब्रेन (पीआरओएम) — 18 घंटे से अधिक, प्यूरपेरल सेप्सिस, या अनियमित प्रसवोत्तर रक्तस्राव  हो, उन्हें पोस्टपार्टम आईयूसीडी  (पीपीआईयूसीडी) नहीं लगाना चाहिए।
+See packaging for specific guidance on each medication.
 
 ---

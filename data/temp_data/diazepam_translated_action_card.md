@@ -1,14 +1,12 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-डायजेपाम एक बेन्ज़ोडायज़ेपाइन है।
+Diazepam is a benzodiazepine used to treat anxiety, agitation and convulsions.
 
-इसका उपयोग एंग्जायटी, बेचैनी और दौरे के इलाज में किया जाता है।
+Diazepam can also be used as analgesia before a painful procedure.
 
-इसे दर्दनाक प्रक्रिया से पहले एनाल्जेसिया के रूप में इस्तेमाल किया जा सकता है।
+# Dosage and Administration
 
-# डोज़ और देने की विधि
-
-##
+## Newborns (convulsions):
 
 Diazepam 0.5 mg/kg rectally once.
 
@@ -20,41 +18,45 @@ If convulsions persist after an additional 10 minutes, administer:
 
 Diazepam 0.4 mg/kg IV maximum once.
 
-## एडल्ट्स:
+## Adults:
 
-प्रक्रिया से पहले:
+**For pain relief**
 
-10 मि.ग्रा. आईवी  या
+Before procedure:
 
-10–20 मि.ग्रा. आईएम  या
+Diazepam 10 mg IV OR
 
-20 मि.ग्रा.  रेक्टली
+Diazepam 10-20 mg IM OR
 
-**दूसरी खुराक:**
+Diazepam 20 mg rectally
 
-10 मि.ग्रा. आईवी/आईएम/रेक्टली
+**Second dose:**
 
-दौरों के लिए:
+Diazepam 10 mg IV/IM/rectally
 
-यदि गर्भावस्था की शुरूआत में दौरे आते हैं या मैग्नीशियम सल्फे़ट से टाॅक्सिसिटी होती है या मैग्नीशियम सल्फे़ट उपलब्ध नहीं है।
+**For convulsions:**
 
-**आई वी लोडिंग डोज़**
+If convulsions occur in early pregnancy or if magnesium sulphate toxicity occurs or magnesium sulphate is not available.
 
-डायजेपाम 10 मि.ग्रा. आईवी धीरे-धीरे 2 मिनट में दें।
+Give the woman:
 
-यदि दौरे दोबारा आएं, तो 10 मि.ग्रा. दोहराएं।
+**Loading dose IV:**
 
-**मेनटेनेन्स डोज़:**
+Diazepam 10 mg IV slowly over 2 minutes.
 
-डायजेपाम 40 मि. ग्रा. को 500 एमएल  फ्लूइड (नॉर्मल सलाइन या रिंगर लैक्टेट) में मिलाकर 6–8 घंटे में टाइट्रेट करें, ताकि महिला सिडेटीड लेकिन जागी रहें।
+If convulsions reovcur, repeat diazepam 10 mg.
 
-यदि साँस लेने पर असर पड़ता है, तो मेंटेनेंस डोज़ रोक दें।
+**Maintenace dose:**
 
-आवश्यक होने पर मास्क और बैग से वेंटिलेशन में सहायता करें।
+Diazepam 40 mg diluted in 500 ml of normal saline or Ringer’s lactate IV infused over 6-8 hours to keep the woman sedated but rousable.
 
-24 घंटे में 100 मि.ग्रा. से अधिक न दें।
+Stop the maintenance dose if breathing is affected.
 
-यदि आई वी लगाना संभव  न हो (जैसे कि दौरों में), ताे डायजेपाम रेक्टली दें।
+Assist ventilation if necessary with bag and mask if necessary.
+
+Do not give more than 100 mg in 24 hours.
+
+If IV access is not possible (e.g. during convulsions), administer diazepam rectally.
 
 **Loading dose rectally:**
 
@@ -70,22 +72,20 @@ If convulsions recur, repeat diazepam 10 mg.
 
 Administer diazepam 10 mg (2 ml) hourly during transportation.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-अत्यधिक शराब सेवन
+Alcohol intoxication.
 
-सीवियर रेस्पिरेटरी या लिवर की बीमारी
+Severe respiratory or liver illness.
 
-डायजेपाम के प्रति हाइपरसेंसिटिविटी
+# Adverse reactions
 
-# एडवर्स रिएक्शन्स
+Common adverse reactions are drowsiness and confusion.
 
-सामान्य एडवर्स रिएक्शन है: बेहोशी, नींद आना, थकान, भ्रम, चिड़चिड़ापन, सिरदर्द, नौजिया और कब्ज।
+Uncommon reactions are muscle weakness, coordination difficulties, headache, concentration difficulty and dizziness.
 
-असामान्य एडवर्स रिएक्शन है: मांसपेशियों में कमजोरी, कोआर्डिनेशन में कठिनाई, सिरदर्द, ध्यान केंद्रित करने में कठिनाई और चक्कर।
+Rare reactions are respiratory depression or respiratory stop, aggression, hallucinations, psychosis, and allergic reactions.
 
-रेयर एडवर्स रिएक्शन है: श्वसन डिप्रेशन, आक्रामक व्यवहार, हलुसिनेशन्स, मानसिक रोग और एलर्जिक रिएक्शन।
-
-डायजेपाम का लंबे समय तक उपयोग नहीं करना चाहिए, क्योंकि इसके कारण सहनशीलता और लत आमतौर पर विकसित हो जाती है।
+Diazepam should not be used long term as tolerance and addiction occurs commonly.
 
 ---

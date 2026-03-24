@@ -1,23 +1,23 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-पोलियोमाइलाइटिस (पोलियो) की रोकथाम के लिए।
+Prevention of poliomyelitis
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-- 2 ओरल बूँदें ।
-- जन्म के समय 0 डोज़ (पहली डोज़), जिसे जन्म के तुरंत बाद या पहले 15 दिनों के भीतर दिया जाना चाहिए। इसके बाद 6, 10 और 14 हफ्ते की उम्र पर तीन डोज़ दी जाती हैं। ओपीवी 5 वर्ष की आयु तक दी जा सकती है।
+- OPV 2 oral drops orally 
+- 0 dose at birth (which is the first dose taken at birth) followed by 3 doses at 6, 10 and 14 weeks of age
 
-# कन्सिडरेशन
+# Consideration
 
-- लंबे समय तक स्टोरेज के लिए ओपीवी को फ्रीज़ किया जाना चाहिए।
-- डीफ्रॉस्ट करने के बाद इसे 2-8°C पर 6 महीने तक रखा जा सकता है।
-- ओपीवी अत्यधिक हीट सेंसिटिव होती है, इसलिए इसे वैक्सीन वायल मॉनिटर के साथ ही प्रयोग करना चाहिए।
+- For long term storage, OPV must be frozen
+- After thawing it can be stored for 6 months at 2-8°C 
+- OPV is highly heat sensitive and should be used with vaccine vial monitors
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindication
 
-- पहले डोज़ के बाद गंभीर एलर्जिक रिएक्शन (जानलेवा)
-- किसी भी वैक्सीन घटक से गंभीर एलर्जी (जानलेवा)
-- गंभीर इम्यूनोडिप्रेशन की स्थिति में इंजेक्टेबल वैक्सीन आईपीवी (आईपीवी) का उपयोग करें
-- हल्के बीमार नवजात शिशु वैक्सीन ले सकते हैं। मध्यम या गंभीर रूप से बीमार नवजात शिशुओं को तब तक प्रतीक्षा करनी चाहिए जब तक वे ठीक न हो जाएँ या जब जोखिम लाभ से अधिक न हो।
+- A severe allergic reaction (life-threatening) after a previous dose
+- A severe allergy (life-threatening) to any vaccine component
+- Severe immunodepression: use the injectable vaccine IPV
+- Newborns who are mildly ill can receive the vaccine. Newborns who are moderately or severely ill should wait until they recover unless the risk outweighs the benefits.
 
 ---

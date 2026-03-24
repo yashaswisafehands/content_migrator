@@ -1,22 +1,17 @@
-### यूटेराइन बैलून टैम्पोनेड
+### Uterine balloon tamponade
 
-### इंडिकेशन  (कब करें)
+### Indication
 
-यूटेराइन या कंडोम बैलून टैम्पोनेड एक इंट्रायूटेराइन टैम्पोनेड  तकनीक है, जिसका उपयोग अत्यधिक रक्तस्राव, विशेषकर एटोनी के कारण होने वाले ब्लीडिंग को कम या रोकने के लिए किया जाता है।
+Uterine balloon tamponade is recommended for the treatment of PPH due to uterine atony after vaginal birth in women who do not respond to standard first-line treatment (including the use of uterotonics, tranexamic acid, and intravenous fluids).
 
-### सामग्री:
+### Conditions for use
 
-- आईवी फ्लूड्स, आईवी फ्लूड सेट, आईवी स्टैंड
-- स्टेराइल ग्लव्स
-- कंडोम
-- स्टेराइल स्यूचर
-- फोलीज़ कैथेटर और यूरो बैग
-- स्पॉन्ज होल्डर – 1
-- आर्टरी फोर्सेप्स – 1
-- सिम्स / कस्को स्पेकुलम – 1
-- लाइट
+- The procedure must be performed by skilled health professionals who are trained in managing a PPH using a UBT.
+- Other causes of PPH (retained placenta, trauma) have been excluded.  
+- The maternal condition can be sufficiently monitored to identify any signs of deterioration.  
+- Blood products and immediate surgery is available and can be resorted to, if needed.
 
-###
+### Tools
 
 - Sterile Condom 
 - Sterile string 
@@ -31,47 +26,41 @@
 - Antibiotics: Inj. ampicillin OR cefazolin 
 - Marker/ pen
 
-### प्रक्रिया से पहले तैयारी
+### Preparation
 
-सभी आवश्यक उपकरण तैयार करें।
+Stop the bleeding with aortic compression (See Manual Removal of Placenta video).
 
-महिला को प्रक्रिया के बारे में समझाएँ, तथा उसके सभी प्रश्नों का उत्तर दें।
+Ask an assistant to continue the compression until the condom tamponade has been inserted.
 
-![Image](6a758f79d74643f8804b8ccfaad04315)
+![Image](faacbb42c11b4110be5a929cd050e3f8)
 
-सुनिश्चित करें कि ब्लैडर खाली है। आवश्यक होने पर कैथेटराइज करें।
+Perform hand hygiene and wear sterile gloves.
 
-प्रोफिलैक्टिक एंटीबायोटिक दें।
+Place a urinary catheter into her bladder if not already placed. The bladder should be empty.
 
 Place the condom over the catheter and roll it over the catheter until the condom is completely unrolled. Securely tie the end of the condom with the sterile string.
 
-### प्रक्रिया
+### Procedure
 
-हाथ धोएँ और स्टेराइल ग्लव्स पहनें।
+Place the speculum to visualize the cervix.
 
-कंडोम के निचले सिरे को फोलीज़ कैथेटर पर स्टेराइल स्यूचर से कसकर बाँधें।
+Insert the catheter with the condom through the cervix, high into the uterus, using a long ring forceps until the condom disappears into the uterus.
 
-ध्यान रखें कि बाँध इतना टाइट हो कि सलाइन लीक न हो, लेकिन इतना टाइट भी न हो कि फ्लूड का प्रवाह रुक जाए।
+Connect the catheter to the IV set and run 300 to 500 ml of IV fluid into the condom.
 
-वल्वा को साफ करें।
+As the condom fills with water, it presses against the inside of the uterus where the bleeding is coming from, and the pressure stops the bleeding.
 
-सिम्स स्पेकुलम को पोस्टीरियर वेजाइनल वोल में डालें।
+Inflate the condom until it is visible in the cervix.
 
-रिंग फोर्सेप्स से सर्विक्स पकड़ें।
+If 500 ml is not enough to stop the bleeding, infuse more.
 
-आर्टरी फोर्सेप्स का उपयोग करके कंडोम के सिरे को यूटेराइन कैविटी के ऊपरी भाग में रखें।
+![Image](290f4442661c4ee499f5989d15608d3f)
 
-![Image](ede4d346649147549252047d830542f4)
+![Image](18d5f777d631465cac40bd8408cea2bb)
 
-फोलीज़ कैथेटर के आउटलेट को आईवी सेट से जोड़ें, जो इन्फ्यूज़न बैग से जुड़ा हो।
+Fold the catheter and clamp it to keep the fluid inside.
 
-कंडोम को 300–500 मि.ली. सलाइन से फुलाएँ।
-
-![Image](000e65a254fa483abb8c50a92a4f24c7)
-
-निर्धारित मात्रा भर जाने या रक्तस्राव नियंत्रित होने पर कैथेटर के सिरे को क्लैंप कर दें।
-
-यदि रक्तस्राव नियंत्रित हो गया हो और महिला की स्थिति स्थिर हो, तो इसे 12–24 घंटे तक यथास्थान बनाए रखें।
+Record the amount of fluid used and the insertion time.
 
 Mark the level of the uterine fundus.
 
@@ -85,24 +74,20 @@ If bleeding is controlled, administer **oxytocin 20 units in 1 litre** of IV flu
 
 Administer a single dose of antibiotics to prevent infection ‒ **either ampicillin 2 grams IV OR cefazolin 1 gram IV.**
 
-### प्रक्रिया के पश्चात देखभाल
+### Post-procedure care
 
-ग्लव्स निकालें और हाथ धोएँ।
+Closely monitor the woman’s bleeding, the fundal height, and vital signs.
 
-वाइटल साइन, यूटराइन फंडल हाइट और योनि रक्तस्राव को हर 30 मिनट पर मॉनिटर करें।
+Monitor urine output every hour.
 
-पेट पर फंडस के लेवल पर रेखा चिन्हित करें।
+After 6 hours and up to 24 hours, if the woman is stable, with no vaginal bleeding and her fundal height is at the same level – start to slowly remove the fluid from the balloon.
 
-यदि चिन्हित रेखा के ऊपर गर्भाशय का आकार बढ़ता है, और वाइटल साइन बदल रहे हों, तो यह दर्शाता है कि टैम्पोनेड के ऊपर यूटेराइन कैविटी में रक्त जमा हो रहा है।
+Remove 100 to 200 ml every hour, monitoring her vitals and bleeding.
 
-केस रिकॉर्ड में प्रक्रिया और सभी पैरामीटर को डॉक्यूमेंट करें।
+If the woman starts to bleed when the balloon is slowly deflated, refill it, and continue the oxytocin infusion. Prepare for surgical interventions.
 
-यदि प्रारंभिक यूटेराइन टैम्पोनेड डालने के 15 मिनट के भीतर रक्तस्राव नियंत्रित नहीं होता है, तो प्रक्रिया बंद करें और सर्जिकल इंटरवेंशन की योजना बनाएं।
+If there is no further vaginal bleeding 30 minutes after the balloon is flat, remove the UBT.
 
-<color style="blue">**डिफ्लेट कब करें?**</color>
-
-जब रक्तस्राव नियंत्रित हो और महिला कम से कम 12 घंटे से स्थिर हो, तो हर घंटे लगभग 200 मि.ली. सलाइन निकालकर कंडोम को धीरे-धीरे डिफ्लेट करें।
-
-यदि पुनः रक्तस्राव शुरू हो जाए, तो बैलून को पहले जैसी मात्रा में फिर से इन्फ्लेट करें और यदि रक्तस्राव फिर भी नियंत्रित नहीं हो, तो सर्जिकल इंटरवेंशन पर विचार करें।
+Continue to monitor the woman for the next 6 hours.
 
 ---

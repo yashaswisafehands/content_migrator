@@ -1,42 +1,38 @@
 # Chapter: Oral Glucose Tolerance Test (OGTT)
 
-## उपयोग
+## Usage
 
-ओरल ग्लूकोज टॉलरेंस टेस्ट ( (ओजीटीटी ) शरीर के ग्लूकोज के प्रति प्रतिक्रिया को मापता है और गर्भावस्था और जीडीएम (जेस्टेशनल डायबिटीज़ मेलाइटस) की डायग्नोसिस के लिए उपयोग होता है।
+The Oral Glucose Tolerance Test (OGTT) measures the body’s response to glucose and is used to diagnose diabetes in pregnancy and gestational diabetes mellitus (GDM).
 
-## परीक्षण का समय
+## Time of testing
 
-- पहले एंटीनेटल विजिट के समय सभी गर्भवती महिलाओं की यूनिवर्सल स्क्रीनिंग।
-- यदि पहला परीक्षण नेगेटिव है, तो गर्भावस्था के 24-28 सप्ताह में एक दूसरी परीक्षण करें।
-- प्रसव के 6 हफ्ते बाद दोहराएं।
+- Universal screening of all pregnant women at first antenatal visit.
+- If the first test is negative, perform a second test at 24-28 weeks of gestation.
+- Repeat at 6 weeks after delivery.
 
-## सामग्री
+## Equipment and supplies
 
-- 75 ग्राम ग्लूकोज पाउच 
-- 300 मिलीलीटर पीने का पानी 
-- पानी के लिए मापी जाने वाली फ्लास्क
-- डिस्पोजेबल गिलास और चम्मच 
-- ग्लूकोमीटर किट
+- 75 gm glucose pouches
+- 300 ml drinking water
+- Measuring flask for water
+- Disposable glasses and spoon
+- Glucometer kit
 
-## प्रक्रिया
+## Procedure
 
-- 75 ग्राम ग्लूकोज का पैकेट एक गिलास में खाली करें, उसमें 300 मिलीलीटर पीने के पानी डालें और चम्मच से मिलाएं ताकि यह एक घोल बन जाए। 
-- महिला से कहें कि वह इस घोल को पीए भले ही उसने भोजन कर रखा हो (फास्टिंग या नॉन-फास्टिंग)। 
-- महिला से कहें कि वह घोल को 5-10 मिनट के भीतर पीए । 
-- महिला से कहें कि वह 2 घंटे के लिए प्रतीक्षा करें । 
-- 2 घंटे बाद ग्लूकोमीटर का उपयोग करके ब्लडशुगर स्तर का मूल्यांकन करें।
+- Empty a packet of 75 gm glucose in a glass, add 300 ml drinking water and stir it with a spoon to make it into a solution.
+- Ask the woman to drink it irrespective of her last meal (fasting or non-fasting). 
+- The woman should drink the solution within 5-10 minutes.
+- Ask the woman to wait for 2 hours.
+- Evaluate the blood sugar level after 2 hours using a glucometer.
 
-![Image](f70103b3d30b408693ad717e18da0282)
+## Diagnosis
 
-## डायग्नोसिस
+Blood sugar level of ≥140 mg/dL is taken as the cut off for the diagnosis of GDM.
 
-जीडीएम का डायग्नोसिस के लिए ब्लडशुगर स्तर ≥140 मिलीग्राम/डेसीलीटर को कटौती के रूप में लिया जाता है।
+## Considerations
 
-![Image](79671e2a8e2a40198e968db74d279331)
-
-## विचार
-
-- यदि महिला ओरल ग्लूकोज लेने के 30 मिनट के भीतर उल्टी करती है, तो परीक्षण को अगले दिन दोहराएं । 
-- यदि महिला ओरल ग्लूकोज लेने के 30 मिनट बाद उल्टी करती है, तो परीक्षण जारी रखा जा सकता है ।
+- If the woman vomits within 30 minutes of taking the oral glucose, repeat the test on the next day.
+- If the woman vomits after 30 minutes of taking the oral glucose, the test can be continued.
 
 ---
