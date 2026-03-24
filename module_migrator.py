@@ -61,6 +61,8 @@ class ModuleMigrator:
                         self._queued_module_data[slug] = row.copy()
             print(f"Loaded {len(self.queued_slugs)} queued module slugs")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load queued module slugs: {e}")
 
     def migrate_all_modules(self, language_filter: str = None) -> None:
@@ -96,6 +98,8 @@ class ModuleMigrator:
                         self._migrate_single_module(module_doc)
                         queued += 1
                     except Exception as exc:
+                        from error_logger import log_error
+                        log_error("Captured Exception", exc=exc)
                         name = module_doc.get("description") or module_doc.get(
                             "id", "unknown"
                         )
@@ -135,6 +139,8 @@ class ModuleMigrator:
                                 total_res = len(b_mod.get("actionCards", [])) + len(b_mod.get("procedures", [])) + len(b_mod.get("videos", [])) + len(b_mod.get("drugs", [])) + len(b_mod.get("keyLearningPoints", []))
                                 writer.writerow([b_mod.get("description", ""), mod_id, ac, proc, vid, drugs, klp, total_res])
                     except Exception as e:
+                        from error_logger import log_error
+                        log_error("Captured Exception", exc=e)
                         print(f"  ⚠️ Could not write translated module CSV: {e}")
 
                     for b_mod in bundle_modules:
@@ -179,8 +185,12 @@ class ModuleMigrator:
                             self._migrate_single_module(module_doc)
                             queued += 1
                         except Exception as exc:
+                            from error_logger import log_error
+                            log_error("Captured Exception", exc=exc)
                             print(f"❌ Error preparing module from bundle {mod_id} ({label}): {exc}")
                 except Exception as e:
+                    from error_logger import log_error
+                    log_error("Captured Exception", exc=e)
                     print(f"❌ Failed to process content-bundle.json for {cid}: {e}")
                     
         print("Queued module payloads: %d" % queued)
@@ -409,6 +419,8 @@ class ModuleMigrator:
                     self.module_slug_mapping[row["slug"]] = row["module_id"]
             print("Loaded %d existing module mappings" % len(self.module_slug_mapping))
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load module slug mapping: {e}")
 
     def _save_module_slug_mapping(self) -> None:
@@ -872,6 +884,8 @@ class ModuleMigrator:
                                 if version_id:
                                     print(f"  → Found latest version: {version_id}")
                         except Exception as e:
+                            from error_logger import log_error
+                            log_error("Captured Exception", exc=e)
                             print(f"  ⚠ Error fetching updated module details: {e}")
 
                 # Activate the version if we got a version_id
@@ -961,6 +975,8 @@ class ModuleMigrator:
                         if s and rid:
                             mapping[s] = rid
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"Warning: Could not load resource slug mapping: {e}")
         else:
             print("Warning: resource_slug_mapping.csv not found")
@@ -977,6 +993,8 @@ class ModuleMigrator:
                         if s and rid:
                             mapping[s] = rid
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"Warning: Could not load klp slug mapping: {e}")
         else:
             print("Warning: klp_slug_mapping.csv not found")
@@ -1001,6 +1019,8 @@ class ModuleMigrator:
                         "region": row.get("region") or "africa",
                     }
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load language mapping csv: {e}")
     
     # ------------------------------
@@ -1078,6 +1098,8 @@ class ModuleMigrator:
                         if mid:
                             return mid
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Error fetching module by slug: {e}")
         
         return None

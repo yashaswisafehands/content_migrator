@@ -83,6 +83,8 @@ class ResourceMigrator:
                         self.queued_slugs.add(row["slug"])
             print(f"Loaded {len(self.queued_slugs)} queued resource slugs")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load queued resource slugs: {e}")
 
     def _load_queued_klp_slugs(self) -> None:
@@ -98,6 +100,8 @@ class ResourceMigrator:
                         self.queued_klp_slugs.add(slug)
             print(f"Loaded {len(self.queued_klp_slugs)} queued KLP slugs")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load queued KLP slugs: {e}")
 
     def _load_klp_slug_mapping(self) -> None:
@@ -112,6 +116,8 @@ class ResourceMigrator:
                     self.klp_slug_mapping[row["slug"]] = row["klp_id"]
             print(f"Loaded {len(self.klp_slug_mapping)} existing KLP mappings")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load KLP slug mapping: {e}")
 
     def _append_klp_slug_mapping(self, slug: str, klp_id: str) -> None:
@@ -497,9 +503,9 @@ class ResourceMigrator:
                 resource_type="procedure"
             )
             
-            best_resource = self._select_best_resource_version(resources, cosmos_lang_id)
+            valid_resources = self._select_valid_resource_versions(resources, cosmos_lang_id)
             
-            if not best_resource:
+            if not valid_resources:
                 print(f"  ⚠ Warning: No valid Markdown payload created for procedure '{key}'")
                 continue
 
@@ -514,34 +520,41 @@ class ResourceMigrator:
             if cosmos_lang_id:
                 trans_key = f"procedure:{key}"
                 translated_desc = self._get_screen_translation(trans_key, cosmos_lang_id)
-                
-                if translated_desc:
-                    print(f"  ✓ Screens translation for procedure description: '{translated_desc[:50]}...'")
-                    best_resource.description = translated_desc
-                    best_resource.title = original_title  # Keep original
-                else:
-                    print(f"  ℹ️  No screens translation found for 'procedure:{key}', using original")
-                    best_resource.title = original_title
-                    best_resource.description = original_title
             else:
-                best_resource.title = original_title
-                best_resource.description = original_title
+                translated_desc = None
+                
+            for res in valid_resources:
+                if cosmos_lang_id:
+                    if translated_desc:
+                        if res == valid_resources[-1]:
+                            print(f"  ✓ Screens translation for procedure description: '{translated_desc[:50]}...'")
+                        res.description = translated_desc
+                        res.title = original_title  # Keep original
+                    else:
+                        if res == valid_resources[-1]:
+                            print(f"  ℹ️  No screens translation found for 'procedure:{key}', using original")
+                        res.title = original_title
+                        res.description = original_title
+                else:
+                    res.title = original_title
+                    res.description = original_title
 
-            # 6. Set LME metadata
-            best_resource.language_id = lme_lang_id or ""
-            best_resource.region = region
-            best_resource.content_type = "translated" if cosmos_lang_id else "original"
-            
-            slug = self._create_or_update_complex_resource(
-                best_resource, 
-                key, 
-                "procedure", 
-                cosmos_language_id=cosmos_lang_id,
-                slug_title_source=slug_title_source,
-                standalone=is_standalone,
-            )
-            if slug:
-                slugs.append(slug)
+                # 6. Set LME metadata
+                res.language_id = lme_lang_id or ""
+                res.region = region
+                if not cosmos_lang_id:
+                    res.content_type = "original"
+                
+                slug = self._create_or_update_complex_resource(
+                    res, 
+                    key, 
+                    "procedure", 
+                    cosmos_language_id=cosmos_lang_id,
+                    slug_title_source=slug_title_source,
+                    standalone=is_standalone,
+                )
+                if slug and slug not in slugs:
+                    slugs.append(slug)
 
         return slugs
 
@@ -613,9 +626,9 @@ class ResourceMigrator:
                 module_icon_asset_id=module_icon_asset_id  # PASS MODULE ICON
             )
             
-            target_resource = self._select_best_resource_version(resources, cosmos_lang_id)
+            valid_resources = self._select_valid_resource_versions(resources, cosmos_lang_id)
             
-            if not target_resource:
+            if not valid_resources:
                 print(f"Warning: Failed to create resource for drug '{key}'")
                 continue
 
@@ -631,43 +644,50 @@ class ResourceMigrator:
             if cosmos_lang_id:
                 trans_key = f"drug:{key}"
                 translated_desc = self._get_screen_translation(trans_key, cosmos_lang_id)
-                
-                if translated_desc:
-                    print(f"  ✓ Screens translation for drug description: '{translated_desc[:50]}...'")
-                    # CRITICAL: Only update DESCRIPTION, keep title as original
-                    target_resource.description = translated_desc
-                    target_resource.title = original_title
-                else:
-                    # No screens translation - use original for both
-                    print(f"  ℹ️  No screens translation found for 'drug:{key}', using original")
-                    target_resource.title = original_title
-                    target_resource.description = original_title
             else:
-                # Global module - use original for both
-                target_resource.title = original_title
-                target_resource.description = original_title
-            
-            # 6. Ensure LME metadata is set correctly
-            target_resource.language_id = lme_lang_id or ""
-            target_resource.region = region
-            target_resource.content_type = "translated" if cosmos_lang_id else "original"
-            
-            # 7. Set module icon for drug (drugs inherit parent module's icon)
-            if module_icon_asset_id:
-                target_resource.icon = module_icon_asset_id
+                translated_desc = None
+                
+            for res in valid_resources:
+                if cosmos_lang_id:
+                    if translated_desc:
+                        if res == valid_resources[-1]:
+                            print(f"  ✓ Screens translation for drug description: '{translated_desc[:50]}...'")
+                        # CRITICAL: Only update DESCRIPTION, keep title as original
+                        res.description = translated_desc
+                        res.title = original_title
+                    else:
+                        # No screens translation - use original for both
+                        if res == valid_resources[-1]:
+                            print(f"  ℹ️  No screens translation found for 'drug:{key}', using original")
+                        res.title = original_title
+                        res.description = original_title
+                else:
+                    # Global module - use original for both
+                    res.title = original_title
+                    res.description = original_title
+                
+                # 6. Ensure LME metadata is set correctly
+                res.language_id = lme_lang_id or ""
+                res.region = region
+                if not cosmos_lang_id:
+                    res.content_type = "original"
+                
+                # 7. Set module icon for drug (drugs inherit parent module's icon)
+                if module_icon_asset_id:
+                    res.icon = module_icon_asset_id
 
-            # 8. Post the resource — pass standalone flag
-            slug = self._create_or_update_complex_resource(
-                target_resource,
-                key,
-                "drug", 
-                cosmos_language_id=cosmos_lang_id,
-                slug_title_source=slug_title_source,
-                standalone=is_standalone,
-            )
-            
-            if slug:
-                slugs.append(slug)
+                # 8. Post the resource — pass standalone flag
+                slug = self._create_or_update_complex_resource(
+                    res,
+                    key,
+                    "drug", 
+                    cosmos_language_id=cosmos_lang_id,
+                    slug_title_source=slug_title_source,
+                    standalone=is_standalone,
+                )
+                
+                if slug and slug not in slugs:
+                    slugs.append(slug)
 
         return slugs
 
@@ -1030,6 +1050,8 @@ class ResourceMigrator:
 
             return None
         except Exception as exc:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=exc)
             print(f"Error fetching {table} '{key}': {exc}")
             return None
 
@@ -1071,6 +1093,8 @@ class ResourceMigrator:
             return None
             
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Error fetching screen translation for {base_key}: {e}")
             return None
 
@@ -1129,6 +1153,8 @@ class ResourceMigrator:
             return None
             
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Error in _get_resource_by_link for {link}: {e}")
             return None
 
@@ -1152,6 +1178,8 @@ class ResourceMigrator:
                 return results[0]
             return None
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Error fetching localized doc for {key}: {e}")
             return None
 
@@ -1222,12 +1250,12 @@ class ResourceMigrator:
                     resource_type="action-card"
                 )
 
-                best_resource = self._select_best_resource_version(
+                valid_resources = self._select_valid_resource_versions(
                     action_card_resources, 
                     cosmos_lang_id
                 )
                 
-                if not best_resource:
+                if not valid_resources:
                     print(f"Warning: No resource created for action-card '{action_card_key}'")
                     continue
 
@@ -1247,84 +1275,81 @@ class ResourceMigrator:
                 if cosmos_lang_id:
                     trans_key = f"action-card:{action_card_key}"
                     translated_desc = self._get_screen_translation(trans_key, cosmos_lang_id)
-                    
-                    if translated_desc:
-                        print(f"  ✓ Screens translation for action-card description: '{translated_desc[:50]}...'")
-                        # CRITICAL: Update description only, keep title original
-                        best_resource.description = translated_desc
-                        best_resource.title = original_title
-                    else:
-                        # No screens translation - use original for both
-                        print(f"  ℹ️  No screens translation found for '{trans_key}', using original")
-                        best_resource.title = original_title
-                        best_resource.description = original_title
                 else:
-                    # Global module - use original for both
-                    best_resource.title = original_title
-                    best_resource.description = original_title
+                    translated_desc = None
 
-                # 6. Set LME metadata (ensure language_id is set)
-                best_resource.language_id = lme_lang_id or ""
-                best_resource.region = region
-                best_resource.content_type = "translated" if cosmos_lang_id else "original"
+                for res in valid_resources:
+                    if cosmos_lang_id:
+                        if translated_desc:
+                            if res == valid_resources[-1]:
+                                print(f"  ✓ Screens translation for action-card description: '{translated_desc[:50]}...'")
+                            # CRITICAL: Update description only, keep title original
+                            res.description = translated_desc
+                            res.title = original_title
+                        else:
+                            # No screens translation - use original for both
+                            if res == valid_resources[-1]:
+                                print(f"  ℹ️  No screens translation found for '{trans_key}', using original")
+                            res.title = original_title
+                            res.description = original_title
+                    else:
+                        # Global module - use original for both
+                        res.title = original_title
+                        res.description = original_title
 
-                # 7. Create/update resource — pass standalone flag
-                resource_id = self._create_or_update_complex_resource(
-                    best_resource, 
-                    action_card_key, 
-                    "action-card", 
-                    cosmos_language_id=cosmos_lang_id,
-                    slug_title_source=slug_title_source,  # Global title for slug
-                    standalone=is_standalone,
-                )
-                
-                if resource_id:
-                    migrated_action_card_ids.append(resource_id)
+                    # 6. Set LME metadata (ensure language_id is set)
+                    res.language_id = lme_lang_id or ""
+                    res.region = region
+                    if not cosmos_lang_id:
+                        res.content_type = "original"
+
+                    # 7. Create/update resource — pass standalone flag
+                    resource_id = self._create_or_update_complex_resource(
+                        res, 
+                        action_card_key, 
+                        "action-card", 
+                        cosmos_language_id=cosmos_lang_id,
+                        slug_title_source=slug_title_source,  # Global title for slug
+                        standalone=is_standalone,
+                    )
+                    
+                    if resource_id and resource_id not in migrated_action_card_ids:
+                        migrated_action_card_ids.append(resource_id)
             else:
                 print(f"Warning: Could not fetch action card with key '{action_card_key}'")
 
         return migrated_action_card_ids
 
-    def _select_best_resource_version(
+    def _select_valid_resource_versions(
         self, resources: List[ResourcePostRequestData], cosmos_lang_id: str
-    ) -> Optional[ResourcePostRequestData]:
-        """Select the single best version from a list of resources.
+    ) -> List[ResourcePostRequestData]:
+        """Select all valid versions to migrate for a resource.
         
-        Priority:
-        1. Translated (if localized module)
-        2. Adapted (if localized module)
-        3. Original (Global fallback)
+        For global modules: returns only 'original'.
+        For localized modules: returns 'translated' and 'adapted' (discarding 'original' fallback).
         """
         if not resources:
-            return None
+            return []
             
         # If global module, just take original
         if not cosmos_lang_id:
             for r in resources:
                 if r.content_type == "original":
-                    return r
-            # Fallback to first if explicit original missing but others exist?
-            # Unlikely for global, but safe to return first.
-            return resources[0]
+                    return [r]
+            # Fallback to first if explicit original missing
+            return [resources[0]]
             
-        # Localized Module Priorities
-        # 1. Translated
+        # Localized module: we want both translated and adapted if they exist
+        valid_versions = []
         for r in resources:
-            if r.content_type == "translated":
-                return r
-        
-        # 2. Adapted
-        for r in resources:
-            if r.content_type == "adapted":
-                return r
+            if r.content_type in ("translated", "adapted"):
+                valid_versions.append(r)
                 
-        # 3. Original (Fallback)
-        for r in resources:
-            if r.content_type == "original":
-                return r
-                
-        # If no standard types found, return the first one available
-        return resources[0]
+        # If we somehow found neither, return what we have (fallback)
+        if not valid_versions:
+            return [resources[0]]
+            
+        return valid_versions
 
     def _get_or_create_video_asset(
         self, video_path: str, language_id: str, asset_name_prefix: Optional[str] = None, use_prefix: bool = True
@@ -1495,6 +1520,8 @@ class ResourceMigrator:
                 f"resource mappings"
             )
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load resource slug mapping: {e}")
 
     def _save_resource_slug_mapping(self) -> None:
@@ -1897,6 +1924,8 @@ class ResourceMigrator:
                 try:
                     questions = json.loads(questions_str)
                 except Exception as e:
+                    from error_logger import log_error
+                    log_error("Captured Exception", exc=e)
                     print(f"Error parsing questions for {slug}: {e}")
             
             # Resolve raw links (or pre-computed slugs) to resource IDs
@@ -1988,6 +2017,8 @@ class ResourceMigrator:
                             response.raise_for_status()
                             # Success, break out to process response
                         except Exception as retry_exc:
+                            from error_logger import log_error
+                            log_error("Captured Exception", exc=retry_exc)
                             print(f"Failed to {method} KLP {slug} after retry: {retry_exc}")
                             continue
                     else:
@@ -2031,6 +2062,8 @@ class ResourceMigrator:
                 else:
                     print(f"Warning: No klp_id in response for {slug}")
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"Error parsing response for {slug}: {e}")
 
     def _fetch_existing_klps(self) -> None:
@@ -2051,6 +2084,8 @@ class ResourceMigrator:
                     count += 1
             print(f"Fetched {count} existing KLPs from API")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Error fetching KLPs: {e}")
 
     def post_resources_from_csv(self) -> None:
@@ -2157,6 +2192,8 @@ class ResourceMigrator:
                     try:
                         questions = json.loads(questions_str)
                     except Exception as err:
+                        from error_logger import log_error
+                        log_error("Captured Exception", exc=err)
                         print(f"Error parsing questions for {slug}: {err}")
 
                 if questions:
@@ -2339,6 +2376,8 @@ class ResourceMigrator:
                     
                 offset += limit
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"  ⚠ Error in paginated fetch: {e}")
                 break
 
@@ -2361,6 +2400,8 @@ class ResourceMigrator:
                     count += 1
             print(f"Loaded {count} existing resource mappings from API.")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Error fetching existing resources: {e}")
 
     def _fetch_resource_id_by_slug(self, slug: str, tag: str) -> Optional[str]:
@@ -2392,6 +2433,8 @@ class ResourceMigrator:
                     if rid:
                          return rid
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Error fetching resource by slug: {e}")
         
         return None
@@ -2411,6 +2454,8 @@ class ResourceMigrator:
                     if cosmos_id and region:
                         result[cosmos_id] = region
         except Exception as exc:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=exc)
             print(f"Warning: could not load processed languages.csv for regions: {exc}")
         return result
 

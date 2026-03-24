@@ -9,7 +9,7 @@ from typing import Dict, List, Optional, Tuple, Any
 import requests
 from azure.cosmos import ContainerProxy
 
-from configs import LME_BASE_URL, JWT_TOKEN, ASSETS_BASE_URL
+from configs import LME_BASE_URL, JWT_TOKEN, _get_assets_base_url
 from factories import DataFactory
 from path_utils import ensure_parent_dir, get_mappings_file
 from md_converter_new import convert_about_to_md_versions
@@ -80,6 +80,8 @@ class SettingsScreenMigrator:
             if self._data_id_cache:
                 self.logger.info(f"Loaded {len(self._data_id_cache)} screen data mappings from CSV")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.warning(f"Error loading screen data mapping: {e}")
 
     def _save_mapping_to_csv(self, lme_language_id: str, data_id: str, content_type: str = "original"):
@@ -100,6 +102,8 @@ class SettingsScreenMigrator:
             self._data_id_cache[lme_language_id] = data_id
             self.logger.info(f"Saved screen data mapping: {lme_language_id} -> {data_id}")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"Error saving screen data mapping: {e}")
 
     def get_original_data_id(self) -> Optional[str]:
@@ -144,6 +148,8 @@ class SettingsScreenMigrator:
             
             return None
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"Error fetching existing data_id: {e}")
             return None
 
@@ -168,6 +174,8 @@ class SettingsScreenMigrator:
             
             return unique_items
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"Error fetching about sections: {e}")
             return []
 
@@ -205,13 +213,15 @@ class SettingsScreenMigrator:
             path_parts = [p for p in [region, icon_src] if p]
             joined_path = "/".join(path_parts)
             
-            base_url = ASSETS_BASE_URL.rstrip("/")
+            base_url = _get_assets_base_url().rstrip("/")
             img_url = f"{base_url}/images/{joined_path}.png"
             
             # Download and upload using DataFactory
             asset_id = DataFactory._download_and_upload_asset(img_url, None, "icon")
             return asset_id
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.warning(f"Failed to upload icon {icon_src}: {e}")
             return None
 
@@ -236,6 +246,8 @@ class SettingsScreenMigrator:
                 from md_converter_new import process_embedded_images
                 markdown_content = process_embedded_images(markdown_content)
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 self.logger.warning(f"process_embedded_images failed: {e}")
             
             # Write to temp file and upload
@@ -258,6 +270,8 @@ class SettingsScreenMigrator:
             
             return asset_id
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"Failed to upload markdown: {e}")
             return None
 
@@ -399,6 +413,8 @@ class SettingsScreenMigrator:
                                 curr = g_data.get("current_version") or {}
                                 version_id = curr.get("screen_data_version_id")
                     except Exception as ve:
+                        from error_logger import log_error
+                        log_error("Captured Exception", exc=ve)
                         self.logger.warning(f"   Fallback GET for version_id failed: {ve}")
 
                 if data_id and version_id:
@@ -420,6 +436,8 @@ class SettingsScreenMigrator:
                 return None
                 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"❌ Exception posting original: {e}")
             return None
 
@@ -456,6 +474,8 @@ class SettingsScreenMigrator:
             
             return None
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"Error fetching existing global data_id: {e}")
             return None
 
@@ -526,6 +546,8 @@ class SettingsScreenMigrator:
                                 curr = g_data.get("current_version") or {}
                                 version_id = curr.get("screen_data_version_id")
                     except Exception as ve:
+                        from error_logger import log_error
+                        log_error("Captured Exception", exc=ve)
                         self.logger.warning(f"   Fallback GET for version_id failed: {ve}")
 
                 if data_id and version_id:
@@ -539,6 +561,8 @@ class SettingsScreenMigrator:
                 return False
                 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"❌ Exception patching translated: {e}")
             return False
 
@@ -563,6 +587,8 @@ class SettingsScreenMigrator:
             
             return None
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"Error getting existing data_id: {e}")
             return None
 
@@ -587,6 +613,8 @@ class SettingsScreenMigrator:
                 self.logger.warning(f"   Could not activate version {version_id}: {resp.status_code} - {resp.text}")
                 return False
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.warning(f"   Exception activating version: {e}")
             return False
 
@@ -754,6 +782,8 @@ class SettingsScreenMigrator:
                 enable_cross_partition_query=True
             ))
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             self.logger.error(f"Error querying global about sections: {e}")
             return
         
@@ -827,6 +857,8 @@ class SettingsScreenMigrator:
                     continue
                 doc = items[0]
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 self.logger.error(f"Error querying screen: {e}")
                 continue
             

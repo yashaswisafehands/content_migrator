@@ -424,6 +424,8 @@ class OnboardingMigrator:
             try:
                 print(json.dumps(resp.json(), indent=2, ensure_ascii=False)[:500])
             except Exception:
+                from error_logger import log_error
+                log_error("Captured Exception")
                 print(resp.text[:500])
             return None, None
 
@@ -449,6 +451,8 @@ class OnboardingMigrator:
             try:
                 print(json.dumps(resp.json(), indent=2, ensure_ascii=False)[:500])
             except Exception:
+                from error_logger import log_error
+                log_error("Captured Exception")
                 print(resp.text[:500])
             return False
 

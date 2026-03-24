@@ -1,3 +1,6 @@
 cosmos_id,language_name,autonym_script,learning_platform,country_code,country,region,latitude,longitude,created_by,icon,image_prefix,video_prefix
 6a146956-9f21-206a-98cf-55db7b0a8301,French,French,TRUE,WHO,WHO,africa,0,0,nanna@maternity.dk,,africa,french
 6a146956-9f21-206a-98cf-55db7b0a8301,French,French,True,WHO,WHO,africa,africa,,0,0,nanna@maternity.dk,
+00bfd564-7d6f-59b6-b00d-df89bddfaabe,India - Marathi,India - Marathi,True,IN,IN,india,india,,20.593684,78.96288,natalia@maternity.dk,
+7cf6efab-a9d7-54d2-2cbd-ec82efe4a7da,English,English,True,WHO,WHO,africa,africa,,0,0,frederikke@maternity.dk,
+7cf6efab-a9d7-54d2-2cbd-ec82efe4a7da,English,English,True,WHO,WHO,africa,africa,,0,0,frederikke@maternity.dk,

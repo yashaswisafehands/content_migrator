@@ -7,7 +7,7 @@ import uuid
 
 import requests
 
-from configs import ASSETS_BASE_URL, POST_ASSET, JWT_TOKEN
+from configs import _get_assets_base_url, POST_ASSET, JWT_TOKEN
 from text_utils import clean_and_resolve_title, clean_metadata_text, format_mobile_markdown
 from data_models import LanguageData, ModuleData, ResourcePostRequestData
 from md_converter_new import convert_action_card_to_markdown_files
@@ -53,6 +53,8 @@ class DataFactory:
                         cls._asset_cache[asset_url] = (asset_id, asset_type)
             print(f"Loaded {len(cls._asset_cache)} asset mappings from file")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load asset mapping file: {e}")
 
     @classmethod
@@ -220,6 +222,8 @@ class DataFactory:
                         cls._media_config_cache[language_id] = result
                         return result
         except Exception:
+            from error_logger import log_error
+            log_error("Captured Exception")
             pass
 
         # 2. Try language_mapping.csv (fallback, likely only region)
@@ -238,6 +242,8 @@ class DataFactory:
                         cls._media_config_cache[language_id] = result
                         return result
         except Exception:
+            from error_logger import log_error
+            log_error("Captured Exception")
             pass
 
         result = (image_prefix, video_prefix)
@@ -342,6 +348,8 @@ class DataFactory:
                 response.raise_for_status()
                 response_json = response.json()
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Upload failed for {local_path}: {e}")
             return None
 
@@ -418,7 +426,7 @@ class DataFactory:
         if asset_type == "video":
             if not use_prefix:
                 path_no_ext = os.path.splitext(clean_path)[0]
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
                 return f"{base_url}/videos/{safe_path}.mp4"
             else:
@@ -429,13 +437,13 @@ class DataFactory:
                 path_enc = "/".join(quote(p) for p in path_no_ext.split("/"))
                 parts = [p for p in [prefix_enc, path_enc] if p]
                 middle = "/".join(parts)
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 return f"{base_url}/videos/{middle}.mp4"
 
         elif asset_type == "video_icon":
             if not use_prefix:
                 path_no_ext = os.path.splitext(clean_path)[0]
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
                 return f"{base_url}/videos/{safe_path}.png"
             else:
@@ -446,7 +454,7 @@ class DataFactory:
                 path_enc = "/".join(quote(p) for p in path_no_ext.split("/"))
                 parts = [p for p in [prefix_enc, path_enc] if p]
                 middle = "/".join(parts)
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 return f"{base_url}/videos/{middle}.png"
 
         else:
@@ -458,7 +466,7 @@ class DataFactory:
             path_enc = "/".join(quote(p) for p in path_no_ext.split("/"))
             parts = [p for p in [prefix_enc, path_enc] if p]
             middle = "/".join(parts)
-            base_url = ASSETS_BASE_URL.rstrip("/")
+            base_url = _get_assets_base_url().rstrip("/")
             return f"{base_url}/images/{middle}.png"
 
     @classmethod
@@ -501,6 +509,8 @@ class DataFactory:
             return temp_path
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error downloading {asset_type} asset {asset_url}: {e}")
             return None
 
@@ -537,6 +547,8 @@ class DataFactory:
             return asset_id
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error uploading markdown as asset {filename}: {e}")
             return None
         finally:
@@ -545,6 +557,8 @@ class DataFactory:
                 if temp_path.exists():
                     temp_path.unlink()
             except Exception as cleanup_error:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=cleanup_error)
                 print(f"Cleanup failed for {temp_path}: {cleanup_error}")
 
     @classmethod
@@ -603,6 +617,8 @@ class DataFactory:
             return asset_id
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error uploading asset {file_path}: {e}")
             return None
 
@@ -694,12 +710,16 @@ class DataFactory:
                 return None
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error processing asset {asset_path}: {e}")
             # Clean up temp file on error
             try:
                 if temp_path and os.path.exists(temp_path):
                     os.remove(temp_path)
             except Exception as cleanup_error:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=cleanup_error)
                 print(f"Cleanup failed for {temp_path}: {cleanup_error}")
             cls._asset_cache[asset_url] = (None, asset_type)
             return None
@@ -1085,6 +1105,8 @@ class DataFactory:
                 return None
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error fetching action-card with key '{action_card_key}': {e}")
             return None
 

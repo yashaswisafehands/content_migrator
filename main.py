@@ -242,6 +242,8 @@ class MigrationOrchestrator:
                     else:
                         skipped += 1
                 except Exception as e:
+                    from error_logger import log_error
+                    log_error("Captured Exception", exc=e)
                     print(f"  ❌ Error migrating onboarding for {cosmos_id}: {e}")
                     skipped += 1
             print(f"  Onboarding: {patched} patched, {skipped} skipped.")

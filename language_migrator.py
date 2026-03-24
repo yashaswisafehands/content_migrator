@@ -53,6 +53,8 @@ class LanguageMigrator:
             try:
                 self._migrate_single_language(language_doc)
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 desc = language_doc.get("description")
                 print(f"Error migrating language {desc}: {e}")
                 continue
@@ -132,10 +134,14 @@ class LanguageMigrator:
                             if cid and lang_name and cid in self.language_mapping:
                                 self.language_mapping[cid]["name"] = lang_name
                 except Exception:
+                    from error_logger import log_error
+                    log_error("Captured Exception")
                     pass
             mapping_count = len(self.language_mapping)
             print(f"Loaded {mapping_count} existing language mappings")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load language mapping: {e}")
 
     def get_language_mapping(self) -> Dict[str, Dict[str, str]]:
@@ -170,6 +176,8 @@ class LanguageMigrator:
                         "name": (row.get("language_name") or "").strip(),
                     }
         except Exception as exc:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=exc)
             print(f"Warning: could not preload processed languages mapping: {exc}")
 
         return self.language_mapping

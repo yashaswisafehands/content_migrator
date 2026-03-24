@@ -182,10 +182,14 @@ class GlobalContentMigrator:
                     self.module_migrator._migrate_single_module(mod)
                     migrated_count += 1
                 except Exception as e:
+                    from error_logger import log_error
+                    log_error("Captured Exception", exc=e)
                     print(f"Error migrating global module {mod.get('id')}: {e}")
                     
             print(f"Successfully queued {migrated_count}/{len(results)} global modules.")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error querying global modules from Cosmos: {e}")
 
     def _migrate_global_table(self, table_name: str, resource_tag: str) -> None:
@@ -199,6 +203,8 @@ class GlobalContentMigrator:
             try:
                 self._process_single_global_resource(doc, resource_tag, table_name)
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"Error migrating global {resource_tag} {doc.get('id')}: {e}")
 
     def _migrate_global_table_multi(self, table_names: list, resource_tag: str) -> None:
@@ -233,6 +239,8 @@ class GlobalContentMigrator:
             try:
                 self._process_single_global_resource(doc, resource_tag, table_name)
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"Error migrating global {resource_tag} {doc.get('id')}: {e}")
 
     def _process_single_global_resource(self, doc: Dict[str, Any], tag: str, table_name: str) -> None:

@@ -71,6 +71,8 @@ def generate_module_list() -> List[str]:
             print(f"  ✓ {lang_id}: {len(keys)} modules found")
             all_module_keys.update(keys)
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  ❌ Failed to process {lang_id}: {e}")
 
     if not all_module_keys:

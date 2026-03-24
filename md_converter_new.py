@@ -4,7 +4,7 @@ import html as html_module
 import urllib.parse
 from html.parser import HTMLParser
 from typing import Dict, List, Optional
-from configs import ASSETS_BASE_URL, POST_ASSET
+from configs import _get_assets_base_url, POST_ASSET
 # DataFactory is imported inside functions to avoid circular import
 
 
@@ -452,7 +452,7 @@ def process_embedded_images(markdown: str, language_id: str = "global") -> str:
         
         # Construct full URL for the image
         clean_path = image_path.lstrip("/")
-        base_url = ASSETS_BASE_URL.rstrip("/")
+        base_url = _get_assets_base_url().rstrip("/")
         
         # Add .png extension if missing
         if not clean_path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
@@ -482,6 +482,8 @@ def process_embedded_images(markdown: str, language_id: str = "global") -> str:
     try:
         return re.sub(pattern, replace_image, markdown)
     except Exception as e:
+        from error_logger import log_error
+        log_error("Captured Exception", exc=e)
         print(f"Error processing embedded images: {e}")
         return markdown
 
@@ -527,7 +529,7 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
             path_parts = [p for p in [asset_version, raw_src] if p]
             joined_path = "/".join(path_parts)
             
-            base_url = ASSETS_BASE_URL.rstrip("/")
+            base_url = _get_assets_base_url().rstrip("/")
             img_src = f"{base_url}/images/{joined_path}.png"
             file_path = f"media_storage/{extract_filename_from_path(img_src)}"
 
@@ -581,6 +583,8 @@ def save_markdown_file(path: str, parts: list, language_id: str = "global"):
             f.write(final)
         print(f"Saved Markdown: {path}")
     except Exception as e:
+        from error_logger import log_error
+        log_error("Captured Exception", exc=e)
         print(f"Failed to save Markdown: {e}")
 
 
