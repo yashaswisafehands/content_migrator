@@ -1768,18 +1768,9 @@ class ResourceMigrator:
             print(f"  ⚠ Could not find resource document for {link}")
             return None
         
-        # Determine allowed versions based on whether we found a localized doc
-        allowed_versions = None
-        if cosmos_language_id and source_doc and source_doc.get("langId") == cosmos_language_id:
-             # Found localized doc -> process translated content
-             pass
-        else:
-             # Global doc -> only original
-             allowed_versions = ["original"]
-
         # Generate Markdown / Resource Data
         if source_doc:
-            resource_data = DataFactory.create_resource_data(source_doc, allowed_versions=allowed_versions)
+            resource_data = DataFactory.create_resource_data(source_doc, table_type=tag)
         else:
             # Create placeholder data — for videos, include the uploaded asset content
             resource_data = ResourcePostRequestData(
