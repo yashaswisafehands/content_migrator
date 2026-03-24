@@ -1,0 +1,1578 @@
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+Starting Stage 2 (posting from CSVs), starting from: klps...
+Loaded 1 existing language mappings
+Loaded 298 queued resource slugs
+Loaded 511 existing resource mappings
+Loaded 608 queued KLP slugs
+Loaded 885 existing KLP mappings
+Loaded 17 queued module slugs
+
+=== STEP 1: Post Languages (SKIPPED) ===
+
+=== STEP 2: Post Resources (SKIPPED) ===
+
+=== STEP 3: Post KLPs ===
+Fetching existing KLPs from API...
+Fetched 2984 existing KLPs from API
+Posting 611 KLPs from klps.csv...
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/intro.mp4
+  ⚠ KLP klp-1-how-many-women-develop-a-mental-health-condition-during-the-perinatal-period not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/intro.mp4
+  ⚠ KLP klp-1-which-mental-health-condition-often-coexists-with-depression not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/risk_factors.mp4
+  ⚠ KLP klp-1-what-is-the-strongest-predictor-of-a-woman-getting-perinatal-mental-health-conditions not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-1-symptoms-of-perinatal-mental-health-conditions-include' -> 4a21a1ea41f24ec89356aca2d782ab38
+  ✓ Activated version: 2fa37dd261634f7dbb1079802dc24dc6
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/screening.mp4
+  ⚠ KLP klp-1-when-should-you-screen-for-perinatal-mental-illness not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-1-what-is-not-a-symptom-of-perinatal-depression' -> 36408182d59f4a3e8b537689c331c7d6
+  ✓ Activated version: 73396163d1674f04b43fe72cd5054e5e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-1-what-are-the-two-different-categories-of-bipolar-disorder' -> 0a4870d9b2204d268147f043c6c5e14f
+  ✓ Activated version: 068f069a866342309ec4518b14a7706a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/prevention_and_treatment.mp4
+  ⚠ KLP klp-1-talking-therapy-counselling-techniques-do-not-include not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-1-unmanaged-maternal-depression-can-lead-to-long-term-cognitive-and-emotional-developmental-impairment-of-the-infant-true-or-false' -> fa552743978b49119d18f4ab03473ea9
+  ✓ Activated version: 5295c75fe47945c5a815789dd99f8686
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/caring_for_the_carer.mp4
+  ⚠ KLP klp-1-what-can-caring-for-women-and-families-with-perinatal-mental-health-conditions-lead-to not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-1-puerperal-psychosis-usually-occurs' -> ab36cbe55bdd48a384532be923335b54
+  ✓ Activated version: c3bf2ffc89c2460e8329e156a7031cd5
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/intro.mp4
+  ⚠ KLP klp-1-how-many-partners-experience-postpartum-depression-or-anxiety not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/intro.mp4
+  ⚠ KLP klp-2-what-causes-perinatal-mental-health-conditions not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/risk_factors.mp4
+  ⚠ KLP klp-2-what-are-known-risk-factors-of-developing-a-mental-health-condition-in-the-perinatal-period not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/intro.mp4
+  ⚠ KLP klp-2-poverty-decreases-the-likelihood-of-women-experiencing-postpartum-depression-or-anxiety-true-or-false not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:screening_1669630707621' → a272b9d147cc45b2a904287a72fdb875
+Updated KLP 'klp-2-what-are-examples-of-useful-screening-tools-for-the-detection-of-perinatal-mental-health-conditions' -> 8ac077edbb37427d95ecb0ffbbd8afd6
+  ✓ Activated version: dd0d4df61963451c8ad6b15c98ce85b3
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-2-what-are-treatment-options-for-perinatal-depression' -> f5016ae2d81144e5ac1d8fe3ec36ff7f
+  ✓ Activated version: 8f10c8876ae249b4b904b45838e8f792
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/prevention_and_treatment.mp4
+  ⚠ KLP klp-2-the-provision-of-perinatal-mental-health-care-often-requires not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-2-what-is-the-first-line-management-of-a-woman-who-has-screened-positive-for-perinatal-depression' -> 5068a83e98804ffbafd2f9248bc6e160
+  ✓ Activated version: 919eb38827834a349665f4efc313884f
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/prevention_and_treatment.mp4
+  ⚠ KLP klp-2-psychoeducation-includes not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-2-what-are-not-symptoms-of-bipolar-disorder' -> 6e300d4867914e2b858456be1b1377a8
+  ✓ Activated version: b0f5383dd52a4a98a7dc1828519a6f3d
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-2-anxiety-disorders-are-a-group-of-related-conditions-that-include' -> 0c8fbe183d5e47cbabf8c92367859c24
+  ✓ Activated version: 30a8a2a234c34e7fb2f1e902af8e034b
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-2-symptoms-of-puerperal-psychosis-include-the-rapid-onset-of' -> ccc34884f58e4bcc8f110db7e6fb6a7b
+  ✓ Activated version: abbe99857bc548668f2a3c13b131f3af
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-2-infants-of-mothers-who-suffer-from-depression-have-higher-rates-of' -> 9bacc30288e1472e809aed523a88e463
+  ✓ Activated version: ead5c6e5735e4bc59a014633b0729118
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:caring-for-the-carer_1670840245862' → 4196d68b06f34c2a9fd825055af6c4e3
+Updated KLP 'klp-3-what-should-you-do-if-you-experience-negative-personal-consequences-of-caring-for-women-with-perinatal-mental-health-conditions' -> df4ecb00c19d4bcc8e55854b711a87a5
+  ✓ Activated version: c8327ae57b9f45daa18fbef792fa1ddd
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-3-people-with-schizophrenia-are-more-likely-to' -> 2cd5d33a538c484bb200ace1709fe699
+  ✓ Activated version: acaf471646f84bf6857bef80da09b35b
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-3-symptoms-of-general-anxiety-disorder-include' -> f5a06158e7114d32827805d292d1fbe1
+  ✓ Activated version: f35e9ed5d1b64f229a13a0fbeab5c4eb
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-3-people-with-anxiety-often-experience' -> d13c04bca5d543a081db54b7609a4645
+  ✓ Activated version: 0e94abe4bdd240beb3d6f597a2737915
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/screening.mp4
+  ⚠ KLP klp-3-why-may-women-not-want-to-disclose-a-history-of-mental-health-conditions not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/diagnosis_symptoms.mp4
+  ⚠ KLP klp-3-why-would-you-suspect-that-the-woman-has-depression-and-not-the-baby-blues not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:treatment-options_1670840222127' → 8a2b7a2bf7424a86bc802d2f1f250e9a
+Updated KLP 'klp-3-talking-therapy-empathetic-counselling-includes' -> a4aed2e016224519bc6277eda912b98b
+  ✓ Activated version: d21e15d473a14f0fa3a82f095d4883aa
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:treatment-options_1670840222127' → 8a2b7a2bf7424a86bc802d2f1f250e9a
+Updated KLP 'klp-3-which-of-the-following-are-guiding-principles-for-clinicians-to-adapt-their-practice-into-trauma-informed-care' -> ff9b0711ddb84d0d9413a96f39dbda1d
+  ✓ Activated version: c152224859cb4e4ca7ac0cf5f518b627
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-3-what-percentage-of-the-population-suffer-from-schizophrenia' -> 3413d558272d4bdea384850630444d03
+  ✓ Activated version: 65308410eaf1438f9385ad920921b85c
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:treatment-options_1670840222127' → 8a2b7a2bf7424a86bc802d2f1f250e9a
+Updated KLP 'klp-3-cognitive-behavioural-therapy-cbt-aims-to' -> 86d0de41266b4c39b310fa42fe34fe5f
+  ✓ Activated version: f916fb2543e84a9c8c0c6b2a05480504
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Perinatal%20Mental%20Health/prevention_and_treatment.mp4
+  ⚠ KLP klp-3-put-these-three-action-principles-of-psychological-first-aid-in-the-correct-order not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:perinatal-mental-health-conditions_1669630736165' → 3c1306cf4f214810a565712c66b12711
+Updated KLP 'klp-3-high-levels-of-cortisol-in-the-blood-due-to-prolonged-maternal-anxiety-can-be-damaging-to-the-foetus-s' -> 5336624adda541438c6df4d41ad70bb5
+  ✓ Activated version: 82de3d23cd69495eb88f551c23da56dd
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/contraceptive_methods.mp4
+  ⚠ KLP klp-1-short-acting-contraceptives-can-only-be-used-over-short-periods-of-time-true-or-false not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/implant_insertion.mp4
+  ⚠ KLP klp-1-implant-insertion-aseptic-procedure not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/implant_removal.mp4
+  ⚠ KLP klp-1-if-a-woman-needs-a-new-implant-after-having-one-removed-where-can-the-new-implant-be-inserted not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/IUD_insertion.mp4
+  ⚠ KLP klp-1-after-inserting-the-iud-ius-at-what-length-should-you-cut-the-strings not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve action-card link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634'. Candidates: ['res-action-card-india-long-acting-reversible-contraceptiveslarcs', 'res-action-card-long-acting-reversible-contraceptiveslarcs']
+  Warning: Link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634' could not be resolved, removing from question
+Updated KLP 'klp-1-implant-insertion-hiv' -> fe6ea2e23b4e4399970c44899345f520
+  ✓ Activated version: 0a4256e36b074c0ab8412d0427778c86
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/intro.mp4
+  ⚠ KLP klp-1-healthy-timing-and-spacing-of-pregnancy not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:short-acting-reversible-contraceptives-sarcs-_1756978113847' → 6c0ceda5fab84c56b716d687c1e6786d
+Updated KLP 'klp-1-combined-oral-contraceptives-cocs' -> ca9eb907c0c94a5e83f2e948cb1a895b
+  ✓ Activated version: 72a69bcb52a543b28c710ccb33d8c145
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve action-card link 'action-card:contraceptive-counsellingind_1757059094580'. Candidates: ['res-action-card-india-contraceptive-counsellingind', 'res-action-card-contraceptive-counsellingind']
+  Warning: Link 'action-card:contraceptive-counsellingind_1757059094580' could not be resolved, removing from question
+Updated KLP 'klp-1-before-deciding-contraceptive' -> 876bf6e576eb49fd863618cc292f8cda
+  ✓ Activated version: a261631d953049c096e805b9eae659d5
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve action-card link 'action-card:contraceptive-counsellingind_1757059094580'. Candidates: ['res-action-card-india-contraceptive-counsellingind', 'res-action-card-contraceptive-counsellingind']
+  Warning: Link 'action-card:contraceptive-counsellingind_1757059094580' could not be resolved, removing from question
+Updated KLP 'klp-1-successful-counselling' -> a4a87df5d75a47198f98601744a8cd75
+  ✓ Activated version: a22b73f942b640af9432ac57e7eb9210
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:short-acting-reversible-contraceptives-sarcs-_1756978113847' → 6c0ceda5fab84c56b716d687c1e6786d
+Updated KLP 'klp-1-effectiveness-of-pill' -> 3c18f2e157bb4238b521ebbad6972d8d
+  ✓ Activated version: a16eced589454d61b3ed5f390d5f9bed
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/IUD_insertion.mp4
+  ⚠ KLP klp-1-what-type-of-checks-need-to-be-done-before-inserting-an-intrauterine-device-iud-ius not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/implant_insertion.mp4
+  ⚠ KLP klp-2-which-piece-of-equipment-is-not-needed-when-inserting-an-implant not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/contraceptive_methods.mp4
+  ⚠ KLP klp-2-which-methods-are-categorised-as-long-acting-reversible-contraceptives not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/IUD_insertion.mp4
+  ⚠ KLP klp-2-when-does-a-woman-not-qualify-to-get-an-iud not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/implant_insertion.mp4
+  ⚠ KLP klp-2-when-can-a-women-get-an-implant not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve action-card link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634'. Candidates: ['res-action-card-india-long-acting-reversible-contraceptiveslarcs', 'res-action-card-long-acting-reversible-contraceptiveslarcs']
+  Warning: Link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634' could not be resolved, removing from question
+Updated KLP 'klp-2-iucd-380-a' -> 2521f985af7549cfb96a1966e331893b
+  ✓ Activated version: a299def0da384f69b0c0711c05855e58
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve procedure link 'procedure:iudius-insertion_1676541229560'. Candidates: ['res-procedure-india-iudius-insertion', 'res-procedure-iudius-insertion']
+  Warning: Link 'procedure:iudius-insertion_1676541229560' could not be resolved, removing from question
+Updated KLP 'klp-2-what-should-you-recommend-the-woman-to-look-out-for-following-iud-ius-insertion' -> 1b20dab9446a4e79958f22fc87d0be9e
+  ✓ Activated version: 8204d327f6ad4503b739bb723b99553e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:short-acting-reversible-contraceptives-sarcs-_1756978113847' → 6c0ceda5fab84c56b716d687c1e6786d
+Updated KLP 'klp-2-emergency-contraceptive-pill' -> ebb5ceb8bbbf4f45bdc9df2c967e66f5
+  ✓ Activated version: a0ab85f0e49546caa989b20b1a9062a7
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:short-acting-reversible-contraceptives-sarcs-_1756978113847' → 6c0ceda5fab84c56b716d687c1e6786d
+Updated KLP 'klp-2-mpa-return-to-fertility' -> 11b5c65e3a6843639f4e9f99e68e7c39
+  ✓ Activated version: ffb5d61929fd4488b680492ea56e3c0a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/ppiucd_insertion.mp4
+  ⚠ KLP klp-2-ppiucd-contraindication not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:permanent-methods_1676626421305' → b1b42744c38a416ab0c854e441b38e20
+Updated KLP 'klp-2-which-surgical-procedures-can-be-used-to-perform-tubal-ligation' -> 18601429426f4e7683f0ee60586ce149
+  ✓ Activated version: 3618692ed13a43308f0635b5d00c0391
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/counselling.mp4
+  ⚠ KLP klp-2-asking-woman-to-choose-right-contraception-for-her not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:implant-insertion_1676541142349' → b5c7ca01d161472da331d2682dd060e9
+Updated KLP 'klp-2-what-pain-relief-should-be-administered-before-inserting-a-contraceptive-implant' -> 3f6c434fd075471ba2cac6a8adc7d142
+  ✓ Activated version: 6ff8570e6b6042b2ac6a0a76488514bc
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mec-wheel_1753471804213' → 182df42f49424d6cb62f195d8f9b0eb1
+Updated KLP 'klp-3-mec-categories' -> 2f1133b4474e469ca8d0531f357b92c6
+  ✓ Activated version: 50ee9386271e478aa1d485ad9b9bfe7f
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:timing-of-initiation-of-contraceptive-methods_1753471086557' → 3cece4f8cef94b33a6f9d57193f2362b
+Updated KLP 'klp-3-interval-iucd-insertion' -> db49410c249847048de1f39856d2e4aa
+  ✓ Activated version: 6a175930fea44fa3becb33ec7b2b2cd5
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve action-card link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634'. Candidates: ['res-action-card-india-long-acting-reversible-contraceptiveslarcs', 'res-action-card-long-acting-reversible-contraceptiveslarcs']
+  Warning: Link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634' could not be resolved, removing from question
+Updated KLP 'klp-3-contraceptive-method-which-lasts-longest' -> b5d0325ab572473d99207978d7138760
+  ✓ Activated version: 55110b62bceb4972ad7fa7469bcb21f4
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:centchroman-pills_1755002096819' → a7e0969d10f24bc3b1fc84f7c7381cf0
+Updated KLP 'klp-3-centchroman' -> a5ca39e5fbe64a9590f9d6fbb5b880fe
+  ✓ Activated version: 3e7d2f6550ae445a87450c25aae62c0b
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:copper-intrauterine-device-iud_1687786030235' → c430c45019db4e2a839ae1e89d45367f
+Updated KLP 'klp-3-how-iucd-work' -> 21d81d16c1aa48fdbb1a37abd87257ff
+  ✓ Activated version: a530af2cf25d475da594ccc295080804
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:permanent-methods_1676626421305' → b1b42744c38a416ab0c854e441b38e20
+Updated KLP 'klp-3-from-the-moment-after-performing-vasectomy-no-contraception-is-needed-to-avoid-pregnancy-true-or-false' -> df69bac9ad494ed28f3e411ace3666ea
+  ✓ Activated version: 3e8e9c9306164c68bd82ef2b71a3c14a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve procedure link 'procedure:iudius-insertion_1676541229560'. Candidates: ['res-procedure-india-iudius-insertion', 'res-procedure-iudius-insertion']
+  Warning: Link 'procedure:iudius-insertion_1676541229560' could not be resolved, removing from question
+Updated KLP 'klp-3-put-these-steps-of-the-non-touch-technique-while-inserting-an-iud-in-the-correct-order' -> 4ea250b871b248d09d405b4f2ccb35ec
+  ✓ Activated version: 5b0466e2974241a38f86fbb81a5aa3f7
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve action-card link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634'. Candidates: ['res-action-card-india-long-acting-reversible-contraceptiveslarcs', 'res-action-card-long-acting-reversible-contraceptiveslarcs']
+  Warning: Link 'action-card:long-acting-reversible-contraceptiveslarcs_1756990932634' could not be resolved, removing from question
+Updated KLP 'klp-3-implant-side-effect' -> 40512e143b8248f38df1a4032b332409
+  ✓ Activated version: 5a3d397a99924b659385f2482271fe9e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/contraceptive_methods.mp4
+  ⚠ KLP klp-3-condom-benefits not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:short-acting-reversible-contraceptives-sarcs-_1756978113847' → 6c0ceda5fab84c56b716d687c1e6786d
+Updated KLP 'klp-3-emergency-contraception' -> 1b728889af3f44c6a06ecc53cfc62ac1
+  ✓ Activated version: 146b9760f9e24fcebcddf5cd38b83aeb
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/ppiucd_insertion.mp4
+  ⚠ KLP klp-3-ppiucd-insertion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Modern%20Contraceptives%20module/MEC.mp4
+  ⚠ KLP klp-3-what-is-the-medical-eligibility-criteria-wheel-used-for not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/antenatal_care_schedule.mp4
+  ⚠ KLP klp-1-how-many-antenatal-care-contacts-are-recommended-to-prevent-and-identify-complications not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/antenatal_care_schedule.mp4
+  ⚠ KLP klp-1-which-of-the-following-are-true-in-relation-to-the-womans-antenatal-record not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/respectful_maternity_care.mp4
+  ⚠ KLP klp-1-which-of-the-following-are-provided-as-a-part-of-respectful-maternity-care not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/first_contact_in_pregnancy.mp4
+  ⚠ KLP klp-1-what-should-you-do-during-the-first-contact-in-pregnancy not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/first_contact_in_pregnancy.mp4
+  ⚠ KLP klp-1-choose-the-tests-that-should-be-carried-out-for-all-pregnant-womean-during-the-first-contact not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:foetal-assessments_1696569981449' → 6d9181f8eb164f60b4db9bb7a4672201
+Updated KLP 'klp-1-identify-the-statement-that-describes-a-normal-foetal-palpation-at-34-weeks' -> d7fb171ed18a4a99b0dd293324f34d0b
+  ✓ Activated version: 873dc9d7ce664271816a28f406367ab5
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/first_contact_in_pregnancy.mp4
+  ⚠ KLP klp-2-which-of-the-following-statements-are-true-in-relation-to-calcium-supplementation-during-pregnancy not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/routine_antenatal_assessment_of_the_women.mp4
+  ⚠ KLP klp-2-while-screening-a-pregnant-woman-for-pre-eclampsia-which-of-the-following-parameters-will-you-check not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/routine_antenatal_assessment_of_the_women.mp4
+  ⚠ KLP klp-2-a-woman-comes-for-the-anc-contact-with-shortness-of-breath-and-weakness-what-will-you-check-for not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:threatened-preterm-labour_1696569397056' → 2da34a9130f34708a434317488b6e9c9
+Updated KLP 'klp-2-name-the-drug-of-choice-for-tocolysis-in-threatened-preterm-labour' -> 7891cef0611f40b9a3b41e625837a345
+  ✓ Activated version: 7deabfafbecf44b884d8b3ce5c5449fe
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/routine_antenatal_assessment_of_the_women.mp4
+  ⚠ KLP klp-2-which-of-the-following-are-signs-of-pre-eclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/routine_antenatal_assessment_of_the_women.mp4
+  ⚠ KLP klp-1-a-woman-with-urinary-tract-infection-usually-presents-with not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/routine_antenatal_assessment_of_the_women.mp4
+  ⚠ KLP klp-2-which-of-the-following-symptoms-indicate-complications-during-pregnancy not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/routine_antenatal_assessment_of_the_foetus.mp4
+  ⚠ KLP klp-3-what-is-true-about-the-foetal-heart-rate not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/routine_antenatal_assessment_of_the_women.mp4
+  ⚠ KLP klp-3-which-of-the-following-indicate-a-normal-pregnancy not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Antenatal%20Care/counselling.mp4
+  ⚠ KLP klp-2-what-are-the-signs-that-indicate-that-the-woman-is-going-into-labour not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:routine-maternal-screening-and-tests_1697121059112' → fcd37710b4444beb9108dda4f52c4f47
+Updated KLP 'klp-3-how-will-you-manage-a-woman-who-has-a-haemoglobin-concentration-of-100g-l' -> 60c2ef3458af494e9a2372696deb1946
+  ✓ Activated version: 913baa79421c4ba6aec1a54e61b69a9d
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:routine-maternal-screening-and-tests_1697121059112' → fcd37710b4444beb9108dda4f52c4f47
+Updated KLP 'klp-3-which-of-the-following-statements-are-true-in-relation-to-gestational-diabetes-mellitus' -> d9f2a6e164524d13a88eb70a586fd804
+  ✓ Activated version: 849f24b140d34368b24bea05cf61a9d4
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:nutrition-and-lifestyle_1695875701365' → 2db6c0420aee48ceb77ff3db4b3300d8
+Updated KLP 'klp-2-while-counselling-the-pregnant-woman-on-nutrition-and-lifestyle-modification-you-should-instruct-her-to' -> 2f0b96564b28462e91be2887587d5145
+  ✓ Activated version: ee88b76f5f3640b582d9d774382643a8
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:nutrition-and-lifestyle_1695875701365' → 2db6c0420aee48ceb77ff3db4b3300d8
+Updated KLP 'klp-2-how-much-weight-should-a-woman-with-a-bmi-of-27-gain-during-pregnancy' -> 51810b0f21cc46e8bee652fda9113dab
+  ✓ Activated version: e4ec41e3c8504924b674a8f91b3c375b
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:birth-and-emergency-plan_1696566889293' → 5f555df9b2204b7fa70f22e9e97fe324
+Updated KLP 'klp-1-what-are-the-components-of-a-birth-and-emergency-plan' -> b8087252a1e94983999805c067067e6c
+  ✓ Activated version: 151fed685a744712a06efca7f7f49dee
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:interventions-for-common-physiological-symptoms_1696567262737' → a243cc0f40734797aec019ca2ec648a4
+Updated KLP 'klp-2-when-a-pregnant-woman-complains-of-low-back-pain-and-pelvic-pain-what-should-you-recommend' -> e6bdfddb6e894b5eacc1cc6fc7ac6735
+  ✓ Activated version: 8d8caaa7911e4f33a14824614dce3dbd
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:interventions-for-common-physiological-symptoms_1696567262737' → a243cc0f40734797aec019ca2ec648a4
+Updated KLP 'klp-1-if-a-pregnant-woman-complains-of-constipation-what-will-be-your-response' -> f4659333bd7b4b4dbabee5429a5f2d4f
+  ✓ Activated version: e1413b69f8b74d29912b9a641590202e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:interventions-for-common-physiological-symptoms_1696567262737' → a243cc0f40734797aec019ca2ec648a4
+Updated KLP 'klp-2-how-can-you-help-a-pregnant-woman-who-is-having-leg-cramps' -> 86a642ef43144b8da933aa6727d2e097
+  ✓ Activated version: e868384a19144cd094194d55b9e55052
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:violence-against-women-_1696568467142' → afe8f9bdfde44fb8837277ebd792bd53
+Updated KLP 'klp-2-what-are-the-signs-that-indicate-that-a-woman-is-a-victim-of-gender-based-violence-or-intimate-partner-violence' -> 12ee2df8d2354a85bc340fbe3b89b40d
+  ✓ Activated version: 240d6cab14c840dc9466f577f240205d
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:threatened-preterm-labour_1696569397056' → 2da34a9130f34708a434317488b6e9c9
+Updated KLP 'klp-3-what-are-the-drugs-that-can-be-given-to-a-woman-with-suspected-preterm-labour-for-foetal-lung-maturity' -> 250ac0044d4040c7b6df687de3ecd756
+  ✓ Activated version: 1ccccebb21c84b81be1070bb9f71bc6a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:significant-symptoms-of-antenatal-complications_1696568894140' → f0847c3d4a7340ab83f18087d6f89634
+Updated KLP 'klp-3-if-a-pregnant-woman-complains-of-pain-swelling-and-tenderness-in-one-calf-muscle-what-will-you-suspect' -> 89c393cd40434423b0f473c66e42e695
+  ✓ Activated version: 46cefe88ca5640b6897bef4ce1d78a4c
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:foetal-assessments_1696569981449' → 6d9181f8eb164f60b4db9bb7a4672201
+Updated KLP 'klp-1-before-performing-an-abdominal-examination-you-have-to' -> 3835349c4f6b4dabaa0d596939f9ea8b
+  ✓ Activated version: 9738ef59320c4934ac3805cfb1cdf646
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:foetal-assessments_1696569981449' → 6d9181f8eb164f60b4db9bb7a4672201
+Updated KLP 'klp-3-which-of-the-following-foetal-heart-readings-indicate-foetal-asphyxia' -> 96c44911a2ce416095e219d918f22ab5
+  ✓ Activated version: e7419094af69405e8c607d659a64fa07
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:preventative-management-interventions_1697120176133' → ad2d097c70a14f9ebf77de8cfddfd9ed
+Updated KLP 'klp-1-what-is-the-drug-of-choice-for-the-intermittent-preventive-treatment-of-malaria-in-endemic-areas' -> d3ab5845553e4fc88582461ca8e71044
+  ✓ Activated version: dc84172c84934507b06e262295b619e2
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:foetal-assessments_1696569981449' → 6d9181f8eb164f60b4db9bb7a4672201
+Updated KLP 'klp-3-how-can-you-identify-multiple-pregnancy-by-abdominal-examination' -> 38a645b11ffc4b51af8bd14afbff5cdc
+  ✓ Activated version: c5e3933a59f8444f9f9f717fea615176
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:preventative-management-interventions_1697120176133' → ad2d097c70a14f9ebf77de8cfddfd9ed
+Updated KLP 'klp-3-identify-the-statements-that-are-true-in-relation-to-preventive-anthelmintic-treatment-during-pregnancy' -> 253c838dcb5b4184834432bdd09cd32d
+  ✓ Activated version: 59e43c61a67743a994420fa8cd944ca3
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:preventative-management-interventions_1697120176133' → ad2d097c70a14f9ebf77de8cfddfd9ed
+Updated KLP 'klp-3-a-pregnant-woman-comes-for-her-first-anc-contact-she-has-not-been-immunized-with-tetanus-toxoid-before-how-many-doses-should-be-given-during-pregnancy-and-at-what-interval' -> c2f505269f6244c5b9961ca8ac73d2dd
+  ✓ Activated version: 7a7b4afa7ffd4a1382e80a07609f754d
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:nutrition-and-lifestyle_1695875701365' → 2db6c0420aee48ceb77ff3db4b3300d8
+Updated KLP 'klp-1-what-is-the-dose-of-iron-and-folic-acid-supplement-recommended-during-the-antenatal-period' -> b481fc9c819e46ce9522848b0e2c03a2
+  ✓ Activated version: 6f4fb3530e4e4e56baf56f6a9bfb7397
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:nutrition-and-lifestyle_1695875701365' → 2db6c0420aee48ceb77ff3db4b3300d8
+Updated KLP 'klp-3-what-are-the-complications-that-can-be-prevented-by-taking-iron-and-folic-acid-tablets' -> 2b56e0a335ba477988944e92e99542e1
+  ✓ Activated version: 65b5c7f898a14bb0aa2c0780b8331859
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:foetal-assessments_1696569981449' → 6d9181f8eb164f60b4db9bb7a4672201
+Updated KLP 'klp-3-what-is-the-risk-that-may-occur-if-the-foetus-is-cephalic-and-the-head-is-not-engaged' -> 8ff6eeafaf0f4cb096d83788497e1ca3
+  ✓ Activated version: 7515612cf8534010a0458ee3c255c91f
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_schedule.mp4
+  ⚠ KLP klp-1-how-many-postnatal-care-visits-are-recommended not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/intro.mp4
+  ⚠ KLP klp-1-when-is-the-woman-in-the-postnatal-period not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_schedule.mp4
+  ⚠ KLP klp-1-which-statements-are-true-regarding-partner-involvement-in-postnatal-care not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/initial_postnatal_assessment.mp4
+  ⚠ KLP klp-1-what-does-the-regular-assessments-of-the-mother-include-during-the-first-24-hours-after-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_counselling.mp4
+  ⚠ KLP klp-2-pnc-bleeding-after-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_counselling.mp4
+  ⚠ KLP klp-1-what-is-part-of-the-initial-postnatal-care-counselling not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_counselling.mp4
+  ⚠ KLP klp-3-for-how-long-should-the-postnatal-woman-be-recommended-to-take-iron-in-anaemia-risk-settings not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_pain_management.mp4
+  ⚠ KLP klp-2-what-kind-of-pain-relief-can-you-offer-the-woman-postpartum-for-perineal-pain not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/routine_postnatal_assessment_and_care.mp4
+  ⚠ KLP klp-2-what-are-the-signs-of-postpartum-uterine-infection not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/routine_postnatal_assessment_and_care.mp4
+  ⚠ KLP klp-2-what-are-the-signs-of-thromboembolism not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mother_1707392875937' → eabd402497344009b157fdcfe095b3e7
+Updated KLP 'klp-2-dizziness-nausea-and-headache-three-days-postpartum' -> 49914be1791c4dc79b5a53fc676beb53
+  ✓ Activated version: 45089888d20d427f91bb0c1da5e0fd15
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mother_1707392875937' → eabd402497344009b157fdcfe095b3e7
+Updated KLP 'klp-3-what-statements-are-correct-regarding-disease-prevention-after-birth' -> ad0ead05a9864749bdc8898839380649
+  ✓ Activated version: a8eb5d5a73e347f3939f9cb54b1ad399
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_counselling.mp4
+  ⚠ KLP klp-1-upon-discharge-when-should-you-tell-the-mother-to-react-and-contact-you not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:comprehensive-breastfeeding_1732090907237' → 08e5376904794274b522f874cc384d19
+Updated KLP 'klp-1-newborn-feeding' -> 3ace163c4e254b77b8723b9016ea3775
+  ✓ Activated version: 2fbbc4c52a8149a585d30d35809deaa1
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:breastfeeding_1707321718729' → a820501be9ac43fb90bae727c181743e
+Updated KLP 'klp-2-which-of-the-following-statements-on-breastfeeding-are-true' -> 2dae6aa26b79459a8f64f19456184678
+  ✓ Activated version: dcb0c701f8ff40debd5a252f4b76d82e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:newborn_1707484087588' → 2f8f31a326a64b0c94c98ac527e549c8
+Updated KLP 'klp-3-how-much-weight-should-the-newborn-gain-during-the-first-2-4-weeks' -> 0d3265ce71224cdc87954092c6f4da77
+  ✓ Activated version: a998d6ee95904c3c97d98223af62dac5
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/care_of_the_newborn.mp4
+  ⚠ KLP klp-3-mother-and-newborn-discharge-criteria not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/newborn_care_counselling.mp4
+  ⚠ KLP klp-2-newborn-cord-care not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/newborn_care_counselling.mp4
+  ⚠ KLP klp-2-bring-newborn-to-healthcare-facility-immediately not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/routine_assessment_of_the_newborn.mp4
+  ⚠ KLP klp-1-what-is-the-normal-body-temperature-for-a-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:breastfeeding_1707321718729' → a820501be9ac43fb90bae727c181743e
+Updated KLP 'klp-3-if-a-woman-experience-breast-engorgement-what-should-you-advise-her-to-do-to-prevent-mastitis' -> 18b0cb039d8146d3a2077ea62b8b0519
+  ✓ Activated version: 089e66db2a884315a67a7730f5eada5f
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/newborn_care_counselling.mp4
+  ⚠ KLP klp-3-newborns-first-bath not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/newborn_care_counselling.mp4
+  ⚠ KLP klp-3-danger-signs-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/routine_postnatal_assessment_and_care.mp4
+  ⚠ KLP klp-1-what-indicates-postnatal-perineal-trauma-infection not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mother_1707392875937' → eabd402497344009b157fdcfe095b3e7
+Updated KLP 'klp-2-what-is-true-about-postpartum-blues' -> 5b2cdc35391b4c70b19c33a41e456c58
+  ✓ Activated version: 5167d8775d694ae9a0e1a0f4b1cb40dd
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_counselling.mp4
+  ⚠ KLP klp-3-postpartum-supplementation not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mother_1707392875937' → eabd402497344009b157fdcfe095b3e7
+Updated KLP 'klp-2-what-is-important-to-ask-and-know-when-counselling-the-woman-on-postpartum-contraceptives' -> dfc8ed7692ff45d6a1a8935e791bbe73
+  ✓ Activated version: 50af4fb9850b4762ba391d643bab2755
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mother_1707392875937' → eabd402497344009b157fdcfe095b3e7
+Updated KLP 'klp-3-contraceptive-methods-and-breastfeeding' -> 038182517923449fb4ac04803b33e0fe
+  ✓ Activated version: dbff1555ca734a86accb2126e8c46d98
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:breastfeeding_1707321718729' → a820501be9ac43fb90bae727c181743e
+Updated KLP 'klp-3-what-are-the-signs-of-an-effective-attachment-when-breastfeeding' -> e88ea31428d84250ae981e4c0cfa0ce4
+  ✓ Activated version: f064a83626e04d0d8efb66639aded397
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/care_of_the_newborn.mp4
+  ⚠ KLP klp-2-administration-of-vitamin-k1 not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mother_1707392875937' → eabd402497344009b157fdcfe095b3e7
+Updated KLP 'klp-3-what-is-true-about-hiv-infection-and-breastfeeding' -> 9f6bb4c1ea9f48bb9e1e0c5564e71f46
+  ✓ Activated version: 305fbdc1697f46c7b35b1c31b1f8369e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/initial_postnatal_assessment.mp4
+  ⚠ KLP klp-1-what-should-you-advice-and-support-the-woman-to-do-within-the-first-24-hours-after-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:mother_1707392875937' → eabd402497344009b157fdcfe095b3e7
+Updated KLP 'klp-1-what-questions-will-you-ask-a-postpartum-woman-during-the-routine-pnc-assessment' -> 76982bcd49d1413c8d71bef01e6d69a6
+  ✓ Activated version: 7c1d13e7a44e468fb77cfd50c31e5ee1
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/postnatal_care_schedule.mp4
+  ⚠ KLP klp-3-postnatal-visits-lbw-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/care_of_the_newborn.mp4
+  ⚠ KLP klp-2-when-should-the-mother-alert-you-regarding-the-newborn-within-the-first-24-hours-of-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postnatal%20Care/routine_assessment_of_the_newborn.mp4
+  ⚠ KLP klp-1-newborn-vomiting not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-gdm-is-an-excess-glucose-level-in-the-blood-with-onset-or-first-recognition-during-pregnancy-true-or-false' -> 2b1e4cacc6bb464b905cce5ee6c9639a
+  ✓ Activated version: 203d27ba4e1c48ec8816105bbc7ec5e4
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-when-can-we-say-that-the-woman-has-gdm' -> c2a966f9360742afb7d813914bb1b2a1
+  ✓ Activated version: f6501fa70a484d158dad2952221144a9
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-which-of-the-following-are-the-possible-maternal-complications-of-gdm' -> 9da472a320ad4814aa9e517d8387a2f5
+  ✓ Activated version: 93e57b42a0734e35bc3466d2789104c2
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-which-of-the-following-is-a-possible-foetal-risk-of-gdm' -> 35901dac5f3c4492a2f6227a4f40fe79
+  ✓ Activated version: c9b326dfa61947dc851fe0cbae6b04ea
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-3-which-of-the-following-statements-are-true-regarding-gestational-diabetes-mellitus' -> bd2a6a3295ad4ba7b5bbd9717e95b47b
+  ✓ Activated version: cf3e0a9257054acb8472b29bc0dbf3a3
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-which-of-the-following-are-risk-factors-of-gdm' -> a905e2ec7904430a8784d79e9914428d
+  ✓ Activated version: 8a0ed32df7a044e99fc8f97b450b1916
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-a-woman-with-a-family-history-of-diabetes-has-an-increased-risk-of-developing-gdm-during-her-pregnancy-true-or-false' -> 08e4b2bebc394e0786b93e206333a188
+  ✓ Activated version: 78065b0fd1d94e5db50b75d437050c75
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-what-is-the-recommended-test-for-diagnosis-of-gdm' -> 79e373b73a7545e498f8f20a3b0fb839
+  ✓ Activated version: 274be8b8a6d2472ea2d6aa8b3c1b3afb
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-when-should-the-first-testing-for-diagnosis-of-gdm-be-done' -> 8d7c6aeda62f4a29a709a7ab8e7f77e0
+  ✓ Activated version: f32c1a0110694b91a700d196801ea512
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-when-should-the-second-test-for-diagnosis-of-gdm-be-done' -> 6f505670540e424d9644935c705a7eae
+  ✓ Activated version: 60d95963b7dc485d905203df10e80cac
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-3-which-of-the-following-is-true-regarding-screening-for-gdm' -> 3466ea5e76884d70a4177cda0bf07193
+  ✓ Activated version: 3f407355db4a4809b8ee1746d151c6c2
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-what-is-the-2-hour-blood-sugar-cut-off-value-for-the-diagnosis-of-gdm-using-the-ogtt' -> 3b9a4c7e833347788dcd0fd56ffc2adc
+  ✓ Activated version: 4fd5e66ccce74fbfada9aead34b787dc
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-which-of-the-following-statements-are-correct-in-relation-to-ogtt' -> c551bb9ab1804e0286552fa04b581bda
+  ✓ Activated version: a065ce95e9024ddba16486fd0ff6dc33
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-what-is-the-initial-management-of-a-woman-with-gdm' -> bbadd53b14bb401ba4f139d3cca209f9
+  ✓ Activated version: 9a27051ed8b84d5ea485b85f0db9bef4
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-3-after-2-weeks-of-mnt-and-physical-exercise-the-2-hr-ppbs-of-a-gdm-woman-is-115-mg-dl-what-will-be-your-recommendations-for-her' -> ad46590ff78d44558a662f6ff0007903
+  ✓ Activated version: 9bf1206bc74e422ab38f6adb3573ecae
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-3-a-pregnant-woman-weighs-69-kg-and-her-height-is-157-cm-under-which-category-does-she-fall-based-on-her-body-mass-index-bmi' -> feb9580be662483c9ff701331cdafe43
+  ✓ Activated version: b674a3723b444d70854f99f003173281
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-what-advice-should-be-given-to-the-woman-when-starting-her-on-medical-nutrition-therapy-select-all-that-is-appropriate' -> 9d6901be05fa4127b943383f9fa9a612
+  ✓ Activated version: a92a9fd616064b54a15ce01f0f664d40
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-for-a-pregnant-woman-how-many-additional-calories-are-required-during-the-second-and-third-trimester' -> 6ea2378fd4924ab2a91398a34a8ce7f0
+  ✓ Activated version: bcd096e0afa64bc7a6d2468924f20280
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-which-is-the-first-drug-of-choice-for-the-management-of-gdm' -> 2e61d7d42c1a4b88b3907ee697cab78a
+  ✓ Activated version: 697c338cf9654d78b2495a3e94a3f6ea
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-2-which-of-the-following-statements-are-true-in-relation-to-insulin-administration' -> daf8d31ea74345a391e2c53cf2a1a415
+  ✓ Activated version: 54000b19b59d499e8250e321c9f77c14
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:administration-of-insulin_1710252795457' → 5b2cfa3c0e6a4987a8965f39165113e8
+Updated KLP 'klp-1-through-which-route-should-insulin-be-administered-daily-for-a-woman-with-gdm' -> a31719e104694fa592555b568e6cdd53
+  ✓ Activated version: 2f5060a9ab5945e8897e98701c10ea2a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus%20%20%20%20%20%20%20%20%20%20%20%20/medical_management.mp4
+  ⚠ KLP klp-3-which-of-the-following-statements-are-true-regarding-metformin-use-for-control-of-blood-sugar not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus%20%20%20%20%20%20%20%20%20%20%20%20/medical_management.mp4
+  ⚠ KLP klp-2-monitor-fasting-2-hour-post-prandial-blood-sugar-bi-weekly-if-the-woman-is-on-metformin-true-or-false not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:special-anc-for-women-with-gdm_1710251128980' → a0df51f815a546cfae95b107be5303a7
+Updated KLP 'klp-2-which-of-the-following-statements-are-correct-regarding-antenatal-care-of-pregnant-woman-with-gdm' -> ccec7dc3b4e849f48cda2681f3e92fe4
+  ✓ Activated version: 6adf5f2ac22547f6ad15fba49d3a6e01
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:administration-of-insulin_1710252795457' → 5b2cfa3c0e6a4987a8965f39165113e8
+Updated KLP 'klp-2-which-of-the-following-injection-sites-can-be-used-for-self-administration-of-insulin-injection-select-all-that-apply' -> 2c15d6555a504b588d44aa17c7845166
+  ✓ Activated version: d1eb97e5dce14f95b865e1641307f887
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus%20%20%20%20%20%20%20%20%20%20%20%20/referral.mp4
+  ⚠ KLP klp-3-which-of-the-following-are-an-indication-for-referral-of-the-woman-with-gdm-to-a-higher-centre not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:hypoglycemia-in-women-with-gdm_1710403955416' → 01a39a6314e141aba325c0d64b967dd1
+Updated KLP 'klp-3-which-of-the-following-are-the-symptoms-of-hypoglycemia-in-a-woman-with-gdm' -> e649e707669649d7bf1ea66c6efc8443
+  ✓ Activated version: 841617c663e34d1c9a76b18d6ca9f599
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:hypoglycemia-in-women-with-gdm_1710403955416' → 01a39a6314e141aba325c0d64b967dd1
+Updated KLP 'klp-1-what-steps-should-be-taken-to-manage-hypoglycemia-in-a-gdm-woman' -> b6fd3e89783346d0b6f4fa6277a83360
+  ✓ Activated version: c44b06832976450bb758c1370eaa724c
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus/immediate_newborn_care.mp4
+  ⚠ KLP klp-3-when-will-you-diagnose-hypoglycemia-in-a-newborn-based-on-the-capillary-blood-glucose-level not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:neonatal-hypoglycemia_1710416069403' → 06cc16393dcd443581161ead3e32d215
+Updated KLP 'klp-3-which-of-the-following-steps-should-be-taken-to-manage-hypoglycemia-in-a-newborn' -> 604ea52179c74f6d98def6a05b5dfeb7
+  ✓ Activated version: 1941cacc7c1c45aaa6fd7da45f9e5b45
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus/immediate_newborn_care.mp4
+  ⚠ KLP klp-2-which-of-the-following-statements-are-false-regarding-care-of-a-newborn-of-a-woman-with-gdm not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:neonatal-hypoglycemia_1710416069403' → 06cc16393dcd443581161ead3e32d215
+Updated KLP 'klp-3-which-of-the-following-are-signs-of-hypoglycemia-in-a-newborn-select-all-that-apply' -> ae64c64187cc40cabf6c06f040013881
+  ✓ Activated version: 8778eeb8229443afb654f29f9df2a306
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus%20%20%20%20%20%20%20%20%20%20%20%20/intrapartum_care.mp4
+  ⚠ KLP klp-3-which-of-the-following-are-appropriate-in-relation-to-management-of-labour-and-delivery-of-a-woman-with-gdm not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus%20%20%20%20%20%20%20%20%20%20%20%20/postpartum_care.mp4
+  ⚠ KLP klp-1-in-a-woman-with-gdm-maternal-blood-glucose-levels-usually-return-to-normal-after-delivery not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Gestational%20diabetes%20mellitus%20%20%20%20%20%20%20%20%20%20%20%20/postpartum_care.mp4
+  ⚠ KLP klp-1-which-of-the-following-test-is-recommended-for-after-delivery-of-a-woman-with-gdm-to-evaluate-her-glycaemic-status not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:pre-conception-counselling-of-diabetic-women_1710251914271' → 6c24bf2efb1144bc8a8c420220f0a7c5
+Updated KLP 'klp-3-if-a-woman-with-a-history-of-gdm-is-planning-her-next-pregnancy-what-should-be-her-desired-blood-sugar-level' -> a02566a6f3434f9bb7ac4fb9c1890515
+  ✓ Activated version: 3f869b1fffca42bb98fb289748de5c17
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20Prevention/hiv_hepatitis_b_prevention.mp4
+  ⚠ KLP klp-2-post-exposure-prophylaxis not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:antibiotic-prophylaxis-_1728909100025' → bcbfecf22c624df9bc0908e7f1af6557
+Updated KLP 'klp-3-antibiotic-prophylaxis' -> 0b18d075092741a5b9f8d9ab7b61ae70
+  ✓ Activated version: 2d40358714224eb58c649c53398000a3
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/intro.mp4
+  ⚠ KLP klp-2-infection-and-germs not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/intro.mp4
+  ⚠ KLP klp-2-healthcare-professionals-hands not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/intro.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/intro.mp4
+  ⚠ KLP klp-1-prevent-infections not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/hand_hygiene.mp4
+  ⚠ KLP klp-1-hand-hygiene-wash-and-alcohol not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20Prevention/hand_hygiene.mp4
+  ⚠ KLP klp-2-handrub not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/injection_safety_WHO.mp4
+  ⚠ KLP klp-3-injection-safety not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:-respiratory-infections-_1728912040153' → 89b050c556104ee7b2c6bf9c7be89181
+Updated KLP 'klp-2-five-steps-to-infection-prevention' -> 5daabc44928a4fde8747da49ccb38c27
+  ✓ Activated version: fdb8d18587bf491eae63c0f4540522f8
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/hand_hygiene.mp4
+  ⚠ KLP klp-2-no-jewellery-on-hands not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/procedure_for_handwash.mp4
+  ⚠ KLP klp-3-procedure-for-handwashing not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20Prevention/hand_hygiene.mp4
+  ⚠ KLP klp-3-best-soap-for-handwashing not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/procedure_for_handwash.mp4
+  ⚠ KLP klp-1-soap-wet-container not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/procedure_for_handwash.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/procedure_for_handwash.mp4
+  ⚠ KLP klp-2-towel not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/safe_reuse_of_instruments.mp4
+  ⚠ KLP klp-1-decontamination-of-instruments not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/procedure_for_handrub.mp4
+  ⚠ KLP klp-3-amount-of-handrub not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a609403e793c4080952febb83789bf7a
+Updated KLP 'klp-3-sterilization' -> d56f155ec9f341c9b08eba74802f3f7f
+  ✓ Activated version: 63924971bf5b4636846c509a38ee117b
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/prevention_of_respiratory_infections.mp4
+  ⚠ KLP klp-2-prevention-of-respiratory-infections-in-waiting-areas not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/prevention_of_respiratory_infections.mp4
+  ⚠ KLP klp-3-prevention-of-respiratory-infections-while-coughing not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a609403e793c4080952febb83789bf7a
+Updated KLP 'klp-2-handling-sterilized-items' -> 150cf7ed54e442289f958473317774bf
+  ✓ Activated version: 64077b0c974c41fbb4e035dcfe570aa9
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/personal_protective_equipment.mp4
+  ⚠ KLP klp-1-personal-protective-equipment not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/personal_protective_equipment.mp4
+  ⚠ KLP klp-3-gloves-for-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/personal_protective_equipment.mp4
+  ⚠ KLP klp-1-gloves-for-different-patients not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/personal_protective_equipment.mp4
+  ⚠ KLP klp-3-removing-gloves not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:biomedical-waste-management_1757679891060' → 2a11ea7de9e2418c9877f0dd0a627a01
+Updated KLP 'klp-1-segregation-of-bio-medical-waste-yellow' -> c3870fa6698f4cbcb127115a658c5143
+  ✓ Activated version: c23b9fc987174dc792abe5d03e588fd6
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:biomedical-waste-management_1757679891060' → 2a11ea7de9e2418c9877f0dd0a627a01
+Updated KLP 'klp-1-segregation-of-bio-medical-waste-sharps' -> 20787788f2ff48509616fd33823870d8
+  ✓ Activated version: ca8167d736ae41dda5cf5541881c70b1
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:sterilization_1757685337059' → 85d56f02546c4cdea95c37f37fc2ec01
+Updated KLP 'klp-1-time-for-sterilization' -> bf51d0a0fd0f45c4933ddcdccdb77f1f
+  ✓ Activated version: ef04213ba48a4a939f27c6196d0c4213
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:spill-management_1757684242284' → 188ba853aff240e99e143fd68fd0bb89
+Updated KLP 'klp-2-spill-management' -> 2ad47237e4b54f24b4ab7f9ce6cf87fb
+  ✓ Activated version: 5d1eaaf5d4d548d5ab15aeaebccaba9a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:sterilization_1757685337059' → 85d56f02546c4cdea95c37f37fc2ec01
+Updated KLP 'klp-2-chemical-sterilization' -> 81258b6739c84cd3b782ec7d00bb018f
+  ✓ Activated version: c64a5fe1a8174ad48526931ffebe797f
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:preparation-of-hypochlorite-solution-_1757917797061' → 749b26240277480eb256586b0d263f7f
+Updated KLP 'klp-3-preparation-of-0-5-sodium-hypochlorite-solution' -> 818af3adc950454c9d50f7370a358871
+  ✓ Activated version: 770da3cea5184794ae9bddd7d2ad6c9a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:cleaning-storage-and-housekeeping-_1728913386434' → a609403e793c4080952febb83789bf7a
+Updated KLP 'klp-1-cleaning-and-delivery-bed-ind' -> 91022bef27504ebeadf4e7d027e015f1
+  ✓ Activated version: 3b077a8d1ca84156818310cb8eaa5ade
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/hiv_hepatitis_b_prevention.mp4
+  ⚠ KLP klp-2-spread-of-hiv-and-hep-b not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20Prevention/hiv_hepatitis_b_prevention.mp4
+  ⚠ KLP klp-3-hepatitis-b-prophylaxis not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/hiv_hepatitis_b_prevention.mp4
+  ⚠ KLP klp-1-recommended-vaccination not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20Prevention/hiv_hepatitis_b_prevention.mp4
+  ⚠ KLP klp-1-nevirapine-prophylaxis not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Infection%20prevention/hand_hygiene.mp4
+  ⚠ KLP klp-3-when-hand-hygiene2 not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/intro.mp4
+  ⚠ KLP klp-2-unsafe-abortion-globally not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/intro.mp4
+  ⚠ KLP klp-1-septic-abortion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_diagnose.mp4
+  ⚠ KLP klp-1-complication-to-unsafe-abortion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_diagnose.mp4
+  ⚠ KLP klp-1-urine-test not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_diagnose.mp4
+  ⚠ KLP klp-2-complication-to-abortion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_diagnose.mp4
+  ⚠ KLP klp-1-fever-and-septic-abortion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_diagnose.mp4
+  ⚠ KLP klp-2-what-to-measure not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_diagnose.mp4
+  ⚠ KLP klp-1-signs-of-septic-abortion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_diagnose.mp4
+  ⚠ KLP klp-3-suspect-lower-abdominal-tenderness not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-1-septic-abortion-can-be-fatal not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-2-most-important-action-at-septic-abortion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-1-action-at-septic-abortion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-3-ab-and-evacuation-of-the-uterus not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-3-which-ab-to-give not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-1-urgent-management not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-3-correct-order-of-actions not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/how_to_manage.mp4
+  ⚠ KLP klp-1-peritonitis not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/evacuation_of_the_uterus.mp4
+  ⚠ KLP klp-1-evacuation-of-the-uterus not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/evacuation_of_the_uterus.mp4
+  ⚠ KLP klp-3-manual-vacuum-aspiration not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/evacuation_of_the_uterus.mp4
+  ⚠ KLP klp-3-uterus-size-in-week-12 not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-3-preparation-for-mva not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-3-analgesic-for-mva not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-3-valves-closed not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-vacuum-to-mva-syringe not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-tenaculum not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-dilate-the-cervix not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-no-touch-technique not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-3-size-of-cannula-for-mva not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-insert-of-the-cannula not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-attachment-of-the-syringe not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-rotate-and-move-cannula-back-and-forth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-1-end-of-suctioning not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-2-use-the-cannula-again not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-3-monitoring-after-mva not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-3-counselling not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20abortion%20care/manual_vacuum_aspiration.mp4
+  ⚠ KLP klp-1-advise-before-dismission not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-1-severe-preeclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-2-gestational-hypertension not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-2-preeclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-1-severely-elevated-blood-pressure not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-1-severe-headache-and-visual-disturbance not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-1-visual-disturbances-like-silver-lights-or-blurry-vision-eyes not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-1-upper-abdominal-pain-from-the-liver not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-3-cause-of-oliguria not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-2-eclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-2-eclampsia-normal-blood-pressure not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/causes.mp4
+  ⚠ KLP klp-1-causes-of-pre-eclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/how_to_diagnose.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/how_to_diagnose.mp4
+  ⚠ KLP klp-3-anc-blood-pressure not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/how_to_diagnose.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/how_to_diagnose.mp4
+  ⚠ KLP klp-3-confirm-bp not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/management_of_hypertension.mp4
+  ⚠ KLP klp-1-keep-systolic-bp-below-160 not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:labetalol_1490625535572' → 52f9ad2488654950ba445465de881d61
+Updated KLP 'klp-3-labetalol' -> 0cb55ed0a1e1497abda5ddac808e12b4
+  ✓ Activated version: 0cdc68cd6a034229950f4c5941f4496f
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:methyldopa_1487111904464' → 51499f0ed17e4ba7a09cc34aa46f2399
+Updated KLP 'klp-3-methyldopa' -> 675a662d6e474199be547726e49db042
+  ✓ Activated version: c6cb7cb606fe4e968d726f2a8766da36
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/management_of_hypertension.mp4
+  ⚠ KLP klp-1-iv-medication not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:hydralazine_1487109388353' → ba253949460f4fc68939ec4b739c9cf2
+Updated KLP 'klp-3-hydralazine' -> aa468819c2a34ed5b1f81c531ffa5745
+  ✓ Activated version: 4f10239fab4945adad97d36899eda89c
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ⚠ KLP klp-2-eclampsia-seizures not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ⚠ KLP klp-1-eclampsia-monitor-1-2-hour not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:magnesium-sulphate_1487111473832' → 42db1fcb8ec1467c92a24131d89df5a3
+Updated KLP 'klp-2-give-magnesium-sulphate' -> bfda4844f0b84a80b4f9f7563efdc453
+  ✓ Activated version: d1821fbbb6aa48959d3f0cbc218cbe80
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ⚠ KLP klp-2-toxicity not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:magnesium-sulphate_1487111473832' → 42db1fcb8ec1467c92a24131d89df5a3
+Updated KLP 'klp-2-maintain-dose-magnesium-sulphate' -> bcefd997e19d4f03bbbbf8bb8eff8331
+  ✓ Activated version: 7192ac39e5aa4dd7bcdbf41fc01895b3
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ⚠ KLP klp-3-refer-and-eclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:betamethasone_1487080183154' → 43406c6f5ba345bc9a126dbed5e58879
+Updated KLP 'klp-3-lung-maturity' -> aa2ef833c71642c382c1e1529cbef2a9
+  ✓ Activated version: c0f7124d227440f0951cda2cf2fc1538
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/definitions.mp4
+  ⚠ KLP klp-2-proteinuria not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/causes.mp4
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/causes.mp4
+  ⚠ KLP klp-2-cure-of-pre-eclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ⚠ KLP klp-3-action-eclampsia not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ⚠ KLP klp-3-fluid-overload not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/management_of_hypertension.mp4
+  ⚠ KLP klp-1-calcium-gluconate not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/severe_preeclampsia_eclampsia.mp4
+  ⚠ KLP klp-1-antidote-administration not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/management_of_hypertension.mp4
+  ⚠ KLP klp-3-dose-of-inj-labetalol not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/how_to_diagnose.mp4
+  ⚠ KLP klp-2-confirmed-elevated-bp not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Hypertension/management_of_hypertension.mp4
+  ⚠ KLP klp-2-we-start-antihypertensive-drugs not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:calcium-supplementation_1699431482391' → 2ae4a816fa9c48678c2aa2c2393565cb
+Updated KLP 'klp-1-prevention-of-htn-during-pregnancy' -> 4bab298420f84a4cb76c975f95caf4f5
+  ✓ Activated version: 260118ae5e744c8491717d09a035af7a
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/intro.mp4
+  ⚠ KLP klp-1-the-definition-of-a-normal-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/intro.mp4
+  ⚠ KLP klp-2-a-child-born-in-week-36 not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/intro.mp4
+  ⚠ KLP klp-3-start-of-a-spontaneous-normal-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/respectful_care.mp4
+  ⚠ KLP klp-1-what-is-respectful-care not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/respectful_care.mp4
+  ⚠ KLP klp-2-fear-of-being-mistreated not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/respectful_care.mp4
+  ⚠ KLP klp-3-the-elements-of-true-respectful-care not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/initial_assessment.mp4
+  ⚠ KLP klp-1-the-first-thing-you-do not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:initial-assessment_1591607594553' → 9b33744397a3460dab98e2e62dbf38da
+Updated KLP 'klp-2-what-kind-of-danger-signs-should-be-examined' -> 9c81c103889d46f49540f49c75182293
+  ✓ Activated version: bf4b0ac88535446194f3972b1cbadd13
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:calculate-due-date-and-ga-_1591608714797' → 319c89143e91455e9c7830af947e099c
+Updated KLP 'klp-3-when-is-her-due-date' -> 13a9033aaa584bc3992d421549fc620d
+  ✓ Activated version: 5bff1c559110410ca3474ae0016de756
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/1st_stage_latent_phase.mp4
+  ⚠ KLP klp-1-strong-contractions-5-6-minutes-apart not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:abdominal-examination-_1591608971713' → f9b953a0fa82475592563bbdc7e3d440
+Updated KLP 'klp-2-abdominal-examination' -> 08bf33dfeb794d0d911e2837637b7822
+  ✓ Activated version: 2fd53976af224297a18fb94af2715c95
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:vaginal-examination_1591619208367' → 92024ec83a0442c891a5fc08b0e401f5
+Updated KLP 'klp-3-when-performing-a-ve' -> e8c3eb3e15924364b9adc21c9e86d2a6
+  ✓ Activated version: 2f6f875f89b145168553ed0df6c578eb
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/1st_stage_active_phase.mp4
+  ⚠ KLP klp-1-good-contractions-with-3-minutes-apart not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/1st_stage_active_phase.mp4
+  ⚠ KLP klp-2-the-documentation-on-the-partograph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/1st_stage_active_phase.mp4
+  ⚠ KLP klp-1-help-the-woman-to-get-good-contractions not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/support.mp4
+  ⚠ KLP klp-2-when-the-woman-wants-to-stand-up not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/support.mp4
+  ⚠ KLP klp-3-the-woman-cannot-eat-or-drink-during-labour-and-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/support.mp4
+  ⚠ KLP klp-1-when-the-woman-is-in-an-upright-position not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-2-to-be-on-all-fours-and-give-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/support.mp4
+  ⚠ KLP klp-3-non-pharmacological-pain-relief not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_cervix_fully_dilated.mp4
+  ⚠ KLP klp-1-the-woman-can-push-when not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_cervix_fully_dilated.mp4
+  ⚠ KLP klp-2-what-needs-to-be-ready-for-the-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_cervix_fully_dilated.mp4
+  ⚠ KLP klp-3-what-should-you-do-during-the-second-stage not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-1-how-would-you-help-the-woman-to-push not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-2-the-woman-can-give-birth-in-any-position-she-wants not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-3-what-kind-of-practices-should-not-be-performed not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-1-before-the-babys-head-is-about-to-be-born not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-2-when-the-babys-head-is-crowning not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-3-after-the-head-is-born not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:abdominal-examination-_1591608971713' → f9b953a0fa82475592563bbdc7e3d440
+Updated KLP 'klp-1-the-order-of-the-four-steps-for-palpating-the-foetus' -> fa059bb025de44d4ae92324d64c61004
+  ✓ Activated version: 7fac3a0b64dd450cbf729a2517b1e35e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-2-if-you-feel-a-lose-cord-around-the-neck not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-3-when-the-baby-is-born-with-meconium-and-is-breathing not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-2-what-do-you-do-when-the-baby-is-born not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Normal%20labour%20and%20birth/2nd_stage_delivering_the_baby.mp4
+  ⚠ KLP klp-3-delivery-of-the-shoulders not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-3-first-component-to-be-plot' -> dda9d3e27d054634b7bfd308904ff4cf
+  ✓ Activated version: a88ece1a279f461fb7ab07428c2fcdae
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-partograph' -> 39221a1c8498477581f3ae4a14f8ab5e
+  ✓ Activated version: c6cb31818350435e8519339d1d00228c
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/intro.mp4
+  ⚠ KLP klp-2-active-management not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.mp4
+  ⚠ KLP klp-1-uterotonic-drug not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.mp4
+  ⚠ KLP klp-1-oxytocin not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:oxytocin_1487156988152' → db6cc6b2445b497685906332fc884118
+Updated KLP 'klp-1-dose-of-oxytocin' -> 5a61c9cf0082418d91f8349eb1da71a4
+  ✓ Activated version: 85694603c004479eb70f243ce490cd29
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/give_a_uterotonic_drug.mp4
+  ⚠ KLP klp-1-when-to-give-oxytocin not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:oxytocin_1487156988152' → db6cc6b2445b497685906332fc884118
+Updated KLP 'klp-3-storage-of-oxytocin' -> c22cbf667a484cb2bb57b0430ea35eb8
+  ✓ Activated version: ebbf8633d06a46c28c3842fc51ab102e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:oxytocin_1487156988152' → db6cc6b2445b497685906332fc884118
+Updated KLP 'klp-1-misoprostol' -> 96eb15931143453ba2a5fb8cbf7c2139
+  ✓ Activated version: 8ef011d11c374f0382917566a61bc615
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:misoprostol_1487112562173' → cabf485d7eb44a0791519567ec027682
+Updated KLP 'klp-1-heat-stable-carbetocin' -> f1768f89ee1e4dc198d25919597b36e7
+  ✓ Activated version: 59bafad5c8714d4682e8f5da6489484c
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+  ⚠ KLP klp-1-when-to-assess-the-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+  ⚠ KLP klp-2-thick-meconium not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+  ⚠ KLP klp-1-suction-thick-meconium not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+  ⚠ KLP klp-2-dry-of-the-baby not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+  ⚠ KLP klp-3-warm-baby not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+  ⚠ KLP klp-1-newborn-not-breathing-well not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/assess_the_newborn.mp4
+  ⚠ KLP klp-2-stable-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/clamp_and_cut_the_umbilical_cord.mp4
+  ⚠ KLP klp-3-clamp-umbilical-cord not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-2-cord-traction not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-3-counter-pressure-pubic-bone not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-3-rounded-uterus not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-3-push-for-the-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-1-check-uterus not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-2-measure-blood-loss not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.mp4
+  ⚠ KLP klp-1-examine-the-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/examine_the_placenta.mp4
+  ⚠ KLP klp-2-maternal-surface-of-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-2-no-unattended-mother-and-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-3-skin-to-skin-contact not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-1-check-mother-after-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-3-how-often-check-mother not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-3-how-often-check-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-2-check-the-newborn-after-birth not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-3-cord-monitor not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-2-apgar-score-and-vit-k not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-2-early-breastfeeding-newborn not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/monitoring.mp4
+  ⚠ KLP klp-3-early-breastfeeding-mother not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-3-delivery-of-membranes not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Active%20management%20of%20third%20stage%20labour/controlled_cord_traction.mp4
+  ⚠ KLP klp-2-estimation-of-blood-loss not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/intro.mp4
+  ⚠ KLP klp-1-complication-prolonged-mother not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/intro.mp4
+  ⚠ KLP klp-1-complication-prolonged-infant not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-2-causes not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-2-power not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-3-pelvis-passage not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-3-small-pelvis not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-2-know-small-pelvis not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-2-passenger not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-3-psyche not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_prolonged.mp4
+  ⚠ KLP klp-1-pushing not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_prolonged.mp4
+  ⚠ KLP klp-3-push-how-long not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-1-indication-for-vacuum not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-1-fhr not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-2-fhr-and-contractions not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:vacuum-extractor_1487245649303' → 2ba44212a025481bad0a8f9982e6dd52
+Updated KLP 'klp-3-prerequisites-for-vacuum' -> ca78bcd79f434668bb18c9d2020ebcd4
+  ✓ Activated version: b1511c40747b493ba1014a2950830072
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-2-complications-to-vacuum-extraction not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Warning: Could not resolve action-card link 'action-card:procedures-by-also_1486848037447'. Candidates: ['res-action-card-india-procedures-by-also', 'res-action-card-procedures-by-also']
+  Warning: Link 'action-card:procedures-by-also_1486848037447' could not be resolved, removing from question
+Updated KLP 'klp-2-preparation-for-vacuum' -> 7b3affea41f94def8a2fede79646866e
+  ✓ Activated version: 3d2c1c1985194d7f88b6c2d33218d0c6
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-1-give-up-vacuum not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-3-incision not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-2-cephalic-occiput-posterior not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/causes.mp4
+  ⚠ KLP klp-3-more-comfortable not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/1st_stage_latent_phase.mp4
+  ⚠ KLP klp-3-prolonged-first-stage-latent-phase not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/1st_stage_latent_phase.mp4
+  ⚠ KLP klp-3-contractions-causes-if-not-prolonged-latent-phase not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/1st_stage_active_phase.mp4
+  ⚠ KLP klp-1-prolonged-first-stage-active-phase not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/1st_stage_active_phase.mp4
+  ⚠ KLP klp-2-progress-of-labour not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/1st_stage_active_phase.mp4
+  ⚠ KLP klp-1-partograph-with-dilatation-between-alert-and-action-line not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/1st_stage_active_phase.mp4
+  ⚠ KLP klp-2-cervical-dilatation not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:foetal-heart-rate_1487245616159' → f846e229f26f43a29fa95b89db4e8e84
+Updated KLP 'klp-1-immediate-delivery' -> 083b842a518a45bcbe8e2de99119135c
+  ✓ Activated version: ecf0671190b24635bd1137601e924b01
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:vacuum-extractor_1487245649303' → 2ba44212a025481bad0a8f9982e6dd52
+Updated KLP 'klp-1-head-above-the-pubic-bone' -> 0c06ff00a00c4b98818019246dd83357
+  ✓ Activated version: 5a2b16a72e39461a98d32eded5a34567
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-3-posterior-fontanelle-where not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-2-posterior-fontanelle not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-1-placing-the-cup not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-1-check-for-maternal-tissue not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-3-flexion-point not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_vacuum_extraction.mp4
+  ⚠ KLP klp-3-intact-perineum not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Prolonged%20labour/2nd_stage_prolonged.mp4
+  ⚠ KLP klp-2-prolonged-second-stage not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:partograph-ind_1757583886010' → eeb55b124bd24e06801f12b6eaa0ada0
+Updated KLP 'klp-2-prolonged-labour-indication' -> 7716027f4df149f9bb7febf7476e3c2c
+  ✓ Activated version: 86b2d039bb5048a385da4ca2789ca40e
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/intro.mp4
+  ⚠ KLP klp-1-maternal-death not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/causes_of_pph.mp4
+  ⚠ KLP klp-1-common-cause-of-pph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/immediate_management.mp4
+  ⚠ KLP klp-1-steps-of-immediate-management not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/intro.mp4
+  ⚠ KLP klp-1-symptoms-for-pph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/aorta_compression.mp4
+  ⚠ KLP klp-1-aortic-compression not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/immediate_management.mp4
+  ⚠ KLP klp-1-volume-replacement not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/immediate_management.mp4
+  ⚠ KLP klp-3-immediate-management not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/immediate_management.mp4
+  ⚠ KLP klp-3-uterine-massage-immediate-management not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/tone.mp4
+  ⚠ KLP klp-2-oxytocin-dose not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/tone.mp4
+  ⚠ KLP klp-1-uterotonics not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/tone.mp4
+  ⚠ KLP klp-1-uncontrolled-bleeding not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/tone.mp4
+  ⚠ KLP klp-1-bimanual-compression-aortic-compression not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/bimanual_compression.mp4
+  ⚠ KLP klp-2-bimanual-compression-procedure not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postpartum%20haemorrhage/aorta_compression.mp4
+  ⚠ KLP klp-2-aorta-compression-procedure not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:tranexamic-acid_1490713231363' → ccb58ec214a54434a0194512658ed9fa
+Updated KLP 'klp-3-pph-drugs' -> 3fc593804fea45bca0910a4c8ee0b2f3
+  ✓ Activated version: 957e30b71f48482abe030752e144895f
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:ergometrine_1487103846814' → 04850a52690a4a8ab30b598a51fb326e
+Updated KLP 'klp-3-ergometrine' -> c6ef5086552043f1920b51054e9808ec
+  ✓ Activated version: 74a6c48745514021bfbf5802f0e4427b
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/trauma.mp4
+  ⚠ KLP klp-1-first-degree-tear not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/trauma.mp4
+  ⚠ KLP klp-2-bleeding-from-a-vaginal-tear not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/trauma.mp4
+  ⚠ KLP klp-2-always-do-a-rectal-exploration not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/tissue.mp4
+  ⚠ KLP klp-2-placental-tissue-missing not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/uterine_balloon_tamponade.mp4
+  ⚠ KLP klp-2-ubt not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/remove_the_placenta.mp4
+  ⚠ KLP klp-3-removal-of-tissue-list-the-actions-in-correct-order not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/monitoring_after_bleeding.mp4
+  ⚠ KLP klp-3-when-to-measure-hemoglobin not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/monitoring_after_bleeding.mp4
+  ⚠ KLP klp-2-ifa-dose-in-postpartum not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/trauma.mp4
+  ⚠ KLP klp-3-tear-management not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/causes_of_pph.mp4
+  ⚠ KLP klp-3-causes-of-pph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:emergency-referral---post-partum-hemorrhage_1527674790869' → 1b07e9dd54c04e4a8981b10d4942db81
+Updated KLP 'klp-2-correct-position-pph' -> 1df425e22d0245ec98f305278c90a19a
+  ✓ Activated version: 8c087a5ebbfa42b88a3ecbe0d96b5bf6
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/uterine_balloon_tamponade.mp4
+  ⚠ KLP klp-2-ubt-deflation not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/uterine_balloon_tamponade.mp4
+  ⚠ KLP klp-3-ubt-insertion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/intro.mp4
+  ⚠ KLP klp-3-pph-definition not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/monitoring_after_bleeding.mp4
+  ⚠ KLP klp-1-referral-pph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/intro.mp4
+  ⚠ KLP klp-2-types-of-pph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:oxytocin_1487156988152' → db6cc6b2445b497685906332fc884118
+Updated KLP 'klp-1-how-aorta-compression' -> aa6ef81b31c040bb8c73cacd71fba48d
+  ✓ Activated version: 680413268f0b401991186a7b7b3755d0
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Postpartum%20haemorrhage/monitoring_after_bleeding.mp4
+  ⚠ KLP klp-3-vital-signs-monitoring-pph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'drug:misoprostol_1487112562173' → cabf485d7eb44a0791519567ec027682
+Updated KLP 'klp-2-carbetocin' -> 8c1ea561bf5e45378db55054e7aa7774
+  ✓ Activated version: dfe8c7e898f94e87b98501bbc51baf3c
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Post%20partum%20hemorrage/intro.mp4
+  ⚠ KLP klp-1-mother-in-shock not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/intro.mp4
+  ⚠ KLP klp-1-time-before-placenta-is-born not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/intro.mp4
+  ⚠ KLP klp-1-remove-manually not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/intro.mp4
+  ⚠ KLP klp-1-life-threatening not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/intro.mp4
+  ⚠ KLP klp-1-overall-action not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/aorta_compression.mp4
+  ⚠ KLP klp-2-maintain-compression not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/resuscitation.mp4
+  ⚠ KLP klp-3-iv-fluid not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/resuscitation.mp4
+  ⚠ KLP klp-3-fluid-gives-fast not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/resuscitation.mp4
+  ⚠ KLP klp-3-blood-transfusion not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/gloves.mp4
+  ⚠ KLP klp-3-gloves-and-manual-removal-of-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/remove_the_placenta.mp4
+  ⚠ KLP klp-1-right-order-for-removal-of-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/remove_the_placenta.mp4
+  ⚠ KLP klp-1-the-overall-action-to-control-pph not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'procedure:condom-balloon-tamponade_1490714664807' → 77e84a8edd6b4d1eb39630a5774604c6
+Updated KLP 'klp-3-condom-balloon-tamponade' -> 3a701bc3db584c00beebe061b81781ac
+  ✓ Activated version: 0d320372a96b465a8880321b680938da
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/monitoring.mp4
+  ⚠ KLP klp-2-day-after-recommendations not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Resolved KLP link 'action-card:emergency-referral_1490716065855' → e756c123e37d4a729e1d27db0397b00c
+Updated KLP 'klp-1-refer-manual-removal' -> 02698ef3f5ea49efbf02be633b1cd1e6
+  ✓ Activated version: 546576a136f244bebd8ed677aafb96da
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-1-manual-removal-bemonc' -> 606d6a3beb0c4fd1b2ec0dfcc3b314e7
+  ✓ Activated version: 4ede3f802c474c8ba7d8a00cfb618afe
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/intro.mp4
+  ⚠ KLP klp-2-when-manual-removal not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/intro.mp4
+  ⚠ KLP klp-3-heavy-bleeding not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/intro.mp4
+  ⚠ KLP klp-2-excessive-bleeding not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/aorta_compression.mp4
+  ⚠ KLP klp-2-stop-bleeding-retained-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/resuscitation.mp4
+  ⚠ KLP klp-3-resuscitation not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/remove_the_placenta.mp4
+  ⚠ KLP klp-3-how-to-manually-remove-the-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/remove_the_placenta.mp4
+  ⚠ KLP klp-1-repeat-intrauterine-palpation not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+Updated KLP 'klp-3-after-removal-of-placenta' -> 688ff213f8bc445ea0d254eabeea3a24
+  ✓ Activated version: 3d592a3f389a4c32bb24f3a8201ffb93
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta/monitoring.mp4
+  ⚠ KLP klp-1-action-right-after-removal-of-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta%20/intro.mp4
+  ⚠ KLP klp-1-blood-inside-uterus-in not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta%20/drugs_before_removal.mp4
+  ⚠ KLP klp-3-broad-spectrum-antibiotics not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta%20/remove_the_placenta.mp4
+  ⚠ KLP klp-1-removal-of-placenta not found (404). Skipping translated version creation (No Identity).
+  → Recovered missing Language ID for KLP via mapping: fd789a60bea24f4fa4704b52f277f638
+  ✓ Converted KLP video link → https://sdacms.blob.core.windows.net/content/assets/videos/Manual%20removal%20of%20placenta%20/resuscitation.mp4
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/main.py", line 331, in <module>
+    main()
+  File "/home/azureuser/test/content_migrator/main.py", line 323, in main
+    orchestrator.migrate_all_content(
+  File "/home/azureuser/test/content_migrator/main.py", line 154, in migrate_all_content
+    self.module_migrator.resource_migrator.post_klps_from_csv()
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 2030, in post_klps_from_csv
+    response = self.session.request(method, api_url, json=request_payload)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 1448, in getresponse
+    response.begin()
+  File "/usr/lib/python3.12/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
