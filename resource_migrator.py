@@ -1688,6 +1688,8 @@ class ResourceMigrator:
         raw_id = None
         
         # Parse video:/path links
+        video_asset_id = None
+        video_icon_asset_id = None
         if link.startswith("video:/"):
             tag = "video"
             path = link[len("video:/"):]
@@ -1697,6 +1699,22 @@ class ResourceMigrator:
             title_slug = slugify(title)
             slug_tail = merge_slug_parts(title_slug, filename_slug)
             slug = f"res-video-{default_region}-{slug_tail}"
+
+            # Upload the actual video asset using the correct prefix
+            # For global migration: video prefix = "english WHO"
+            # For localized: use the language-specific prefix from _get_media_config
+            video_lang = cosmos_language_id or "global"
+            asset_prefix = f"{slugify(title)}"
+            video_asset_id = self._get_or_create_video_asset(
+                path, video_lang, asset_prefix, use_prefix=True
+            )
+            video_icon_asset_id = self._get_or_create_icon_asset(
+                path, video_lang, "video_icon", asset_prefix, use_prefix=True
+            )
+            if video_asset_id:
+                print(f"  ✓ Uploaded video asset for '{path}' → {video_asset_id}")
+            else:
+                print(f"  ⚠ Could not upload video asset for '{path}', creating placeholder without content")
         
         # Parse 'res-...' slugs (already converted in Stage 1)
         elif link.startswith("res-"):
@@ -1746,7 +1764,7 @@ class ResourceMigrator:
         if not source_doc:
             source_doc = self._get_resource_by_link(link)
 
-        if not source_doc:
+        if not source_doc and tag != "video":
             print(f"  ⚠ Could not find resource document for {link}")
             return None
         
@@ -1763,11 +1781,12 @@ class ResourceMigrator:
         if source_doc:
             resource_data = DataFactory.create_resource_data(source_doc, allowed_versions=allowed_versions)
         else:
-            # Create empty placeholder data
+            # Create placeholder data — for videos, include the uploaded asset content
             resource_data = ResourcePostRequestData(
                 title=title,
-                description=f"{title} - Auto-generated placeholder",
-                content="", 
+                description=title,
+                icon=video_icon_asset_id if tag == "video" else None,
+                content=video_asset_id if tag == "video" else "", 
                 questions=[]
             )
 

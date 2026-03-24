@@ -206,9 +206,12 @@ class DataFactory:
                 for row in reader:
                     cid = row.get("cosmos_id")
                     if cid == language_id:
-                        # Grab prefixes if available
-                        img = row.get("image_prefix")
-                        vid = row.get("video_prefix")
+                        # Grab prefixes if available, falling back to 'region' column
+                        img = (row.get("image_prefix") or "").strip()
+                        if not img:
+                            img = (row.get("region") or "").strip()
+                            
+                        vid = (row.get("video_prefix") or "").strip()
 
                         if img:
                             image_prefix = img
