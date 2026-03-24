@@ -4,15 +4,15 @@ The prerequisites for vacuum extraction in second stage of labour are:
 
 - Cephalic presentation, where the foetal head is no more than 1/5 palpable above pubic bone.
 
-![Image](dd64e335e0db4edbad4f38c89a18c3b3)
+![Image](dd38fa8ec1894fa4a1246b10a317a040)
 
 - Position occiput posterior.
 
-![Image](c075be8d66dd4678bcf81be3e1e68706)
+![Image](b9d2d68a6b3744d299dd51b3c5127cdd)
 
 - Position occiput anterior.
 
-![Image](e8854289527f48528c596e6040c57267)
+![Image](a763415a76414cd4a5117c20dd71d167)
 
 - Cervix fully dilated.
 

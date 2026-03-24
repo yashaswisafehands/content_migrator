@@ -25,35 +25,35 @@ WHO-recommended handrub formulations.
 
 ## Materials required
 
-![Image](0c996405717c40748a158162fc438a31)
+![Image](d37b70b1bd744738b3f05e28f488c960)
 
 - 10-litre glass or plastic bottles with screw-threaded stoppers, **OR**
 
-![Image](c3211a28db59448ab7e202df9fa3ee39)
+![Image](d63359e37e0f4846aa5babacc05254a7)
 
 - 50-litre plastic tanks (preferably in polypropylene or high-density polyethylene, translucent to see the liquid level), **OR**
 
-![Image](f3689b1e3c484fd88ce817a0bebaf9a8)
+![Image](91c30cc6351e418088a571165b0dce08)
 
 - Stainless steel tanks with a capacity of 80-100 litres (for mixing without overflowing)
 
-![Image](6c12526952714c92949343a40f5af7e7)
+![Image](f3d4bac6999044b3b396e3371f6095dc)
 
 - Wooden, plastic or metal paddles for mixing
 
-![Image](70a640b02b2e4b8da45f5c4c918ea482)
+![Image](224b47cf428847ceb2a3908cab84b32e)
 
-![Image](481f4b0346fd4fe787c22c0cfbe9652a)
+![Image](15f6981b53ef4c4ba31d8cd21ec3f2d6)
 
 - Measuring cylinders and measuring jugs
 - Plastic or metal funnel
 
-![Image](35dd69b8b7f74b339ca8574aec7a90bb)
+![Image](22d38b2c5f8145c1a034b6e0f2bf19d1)
 
 - 100 ml plastic bottles with leak-proof tops, **OR**
 - 500 ml glass or plastic bottles with screw tops.
 
-![Image](823d3356b04747ae85f307588975dbf9)
+![Image](f61dd9609cde423098ba0d4ede73c31e)
 
 - An alcoholmeter: the temperature scale is at the bottom and the **ethanol** concentration (percentage v/v) at the top.
 
@@ -117,33 +117,33 @@ Final concentrations:
 
 **1.<**color style="blue"> </color>The a**lcohol (eth**an**ol or isopropyl**) for the formula to be used is poured into the large bottle or tank up to the graduated mark.
 
-![Image](e9dc42a9fb5e441babe2949d4dafe8ac)
+![Image](37488dc4fb1c47679392a5fc4cf96545)
 
 **2.<color style="blue"> </col**or>Hydrogen peroxide is added using a measuring cylinder.
 
-![Image](7d87e5e72fbb47488a98657ab7dd558c)
+![Image](a9aac70ffe684e3fbbdd853c11169088)
 
 **3. Glycerol** is added using a measuring cylinder.
 
 As **glycerol** is very viscous and sticks to the wall of the measuring cylinder, which should be diluted with some sterile distilled or cold boiled water and then emptied into the bottle/tank.
 
-![Image](fa32af91cb6d4371a634e5f6a52eb0f7)
+![Image](fb86dc5a1d874e6b98d71b224fa0b57d)
 
 **4.**The bottle/tank is then topped up to the 10-litre mark with sterile distilled or cold boiled water.
 
 **5.**The lid or the screw cap is placed on the tank/bottle as soon as possible after preparation, to prevent evaporation.
 
-![Image](f92426f1fc4d485ea3b5202f200212c2)
+![Image](5edfee29c21e4c7781da61e1983e1985)
 
 **6.**The solution is mixed by shaking gently where appropriate or by using a paddle.
 
-![Image](62d49671320f4f82bfc77e225f86ab15)
+![Image](759b57934b82429c9270301d7fc2c34a)
 
 **7.**Immediately divide up the solution into its final containers (e.g. 500 or 100 ml plastic bottles) and place the bottles in quarantine for 72 hours before use.
 
 This allows time for any spores present in the alcohol or the new/re-used bottles to be destroyed.
 
-![Image](c8f3ba29ae3a477db0aa8b1dbf952e63)
+![Image](8c81709c6e694f6abef983bf95e5834d)
 
 ---
 
@@ -155,9 +155,9 @@ This allows time for any spores present in the alcohol or the new/re-used bottle
 
 Verify the alcohol concentration with an alcoholmeter and adjust the volumes in the preparation formulation to obtain the recommended final concentration.
 
-![Image](8d237a328e714d61a45fdb67466d19e5)
+![Image](8bdf938e39b343f281399bd33e910dac)
 
-![Image](c201b42b5213402fa5b3904a003699e2)
+![Image](6ed9363feb654aa7966783f4e82b8acb)
 
 **2.** Post-production analysis is mandatory when either **ethanol** or an **isopropanol solution** is used.
 
@@ -165,7 +165,7 @@ Use the alcoholmeter to control the alcohol  concentration of the final solution
 
 The accepted limits should be fixed to **± 5%** of the target concentration (**75%–85% for ethanol**).
 
-![Image](6f07388c94074e9a9e29fcb66b8be788)
+![Image](b63a360dbf0847c1bda676e14594744c)
 
 **3.** The alcoholmeter shown in the image above is for use with **ethanol**; if used to  control an **isopropanol solution**, a **75%** solution will show **77% (± 1%)** on the scale at 25°C.
 

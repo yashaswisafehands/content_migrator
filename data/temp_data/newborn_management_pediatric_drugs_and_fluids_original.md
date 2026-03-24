@@ -154,7 +154,7 @@ The reference weight is the birthweight until the birth weight is exceeded.
 
 Total daily fluid requirements in ml/kg/day (accumulated oral, nasogastric tube, IV)
 
-![Image](5131a56920d946b880f5348fc532856e)
+![Image](05aba760784e40c7b462957743a7fd61)
 
 If very low birth weight or not able to tolerate oral feeds give IV **10% glucose solution**.
 

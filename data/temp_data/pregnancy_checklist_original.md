@@ -1,5 +1,5 @@
 # Chapter: Pregnancy checklist 
 
-![Image](254ce7ebad18407c92a8c803ccdc2c5a)
+![Image](9d794a66f8824227bfbf187f26583ccc)
 
 ---

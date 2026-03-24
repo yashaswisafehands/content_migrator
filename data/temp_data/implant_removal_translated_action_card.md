@@ -14,7 +14,7 @@ Implants should be removed when its effectiveness expires or on the woman’s re
 - Gauze
 - Bandage
 
-![Image](5e901ac701b540de865c8164d36c5250)
+![Image](fde796d794e745208ce27a697ad18208)
 
 ## Non-sterile equipment
 
@@ -38,6 +38,6 @@ Implants should be removed when its effectiveness expires or on the woman’s re
 12. Cover site with a plaster and apply sterile gauze and compress to minimize bruising (stitches are not required).
 13. If the woman needs a new implant, place it above or below the previous incision or in the other arm.
 
-![Image](c35b4430fed54af488601ce01bdad161)
+![Image](999b1026b9234e07a46de21a42b1654e)
 
 ---

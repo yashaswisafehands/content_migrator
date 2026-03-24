@@ -15,7 +15,7 @@ Begin sterilization timing when steam escapes, pressure reaches 15 pounds, and t
 - 30 minutes for linen.
 - 20 minutes   for cotton and surgical dressings.
 
-![Image](faddffdcebb64396b960bf20314e8333)
+![Image](698781df27e343d7b23a4acd2d12bd53)
 
 After the cycle is complete, allow the autoclave to depressurize and cool (15-30 minutes) before opening.
 
@@ -23,7 +23,7 @@ After the cycle is complete, allow the autoclave to depressurize and cool (15-30
 
 Soak the instruments (such as sharps, laparoscope, endoscope etc ) in 2% Glutaraldehyde for atleast 10 hours.
 
-![Image](00aef31706364e349c36d9c97dccba01)
+![Image](fed8236e1cac4e0f85df577dfe98dc9d)
 
 Rinse with sterile water and dry.
 
@@ -42,7 +42,7 @@ High level disinfection (HLD) destroys all microorganisms except some spores and
 - Articles should be completely immersed in water.
 - Do not add or remove more instruments after the water starts boiling.
 
-![Image](1f03d5ba7b6a4db79bc3d9b1fa33feba)
+![Image](0d74a187c79946b38442f78839ccf793)
 
 ### 2. Chemical method
 

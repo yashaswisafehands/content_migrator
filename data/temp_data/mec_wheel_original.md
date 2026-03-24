@@ -4,7 +4,7 @@ The MEC Wheel **(Medical Eligibility Criteria Wheel)** is a practical tool for s
 
 It offers evidence-based guidance on initiating contraceptive methods safely, helping providers determine if a particular method is suitable for a woman with specific medical conditions or relevant health characteristics
 
-![Image](57df66d9a3b942d2be92d082e35831b9)
+![Image](7a4aec65fafc4c3a93dc27c50991aa13)
 
 While using the MEC wheel, matches up the contraceptive methods shown on the inner disk, with specific medical conditions shown around the outer rim.
 
@@ -12,6 +12,6 @@ The numbers shown in the viewing slots guides whether the woman with that condit
 
 ## The MEC has four categories:
 
-![Image](fbb5ded769274b11b468a43bf31d17b4)
+![Image](c44d761c48504e629b17dad3bf2d4f16)
 
 ---

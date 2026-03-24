@@ -8,7 +8,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility:**Fertility generally cannot be reversed.** Reversal surgery is difficult, expensive, and not available in most areas.
 
-![Image](2bb76c365761466eb665f97f6c257efd)
+![Image](b2c698df29324219bfac0283b4593862)
 
 ## Most common surgical approaches
 
@@ -64,7 +64,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility: **Fertility generally cannot be reversed.** Reversal surgery is difficult, expensive, and not available in most areas. When performed, reversal surgery often does not lead to pregnancy.
 
-![Image](919cb47a921a4760a185ad8fa3dd37b4)
+![Image](5e50c37acecb4d11a62244edf07bb362)
 
 ## Procedure
 

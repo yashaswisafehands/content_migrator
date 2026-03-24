@@ -18,6 +18,6 @@ Spill management of blood and body fluids should be managed immediately to reduc
 8. Repeat until all visible soiling is removed.
 9. Wet mop the area using 1% hypochlorite solution for small spills and 10% hypochlorite solution for large spills, and then allow it to dry naturally.
 
-![Image](7222cbe2c6694e2e83ab01832ff84bea)
+![Image](cf5cb82e629d44678301e4d220744632)
 
 ---

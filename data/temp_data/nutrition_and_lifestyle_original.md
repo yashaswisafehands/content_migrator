@@ -2,7 +2,7 @@
 
 ### Nutrition and lifestyle
 
-![Image](ec478579711044beab3a87ec5d3de065)
+![Image](116de6adbb134bd18a842d41f3e1d39a)
 
 **Counsel the pregnant women on:**
 
@@ -17,7 +17,7 @@
 - Rest and avoid heavy lifting of objects
 - NOT to take medications unless. prescribed at health centre/ hospital.
 
-![Image](18996b71266746d3988063b074da1c25)
+![Image](9e04be0d83a6409b92f2866051086f04)
 
 **Normal weight gain limits during pregnancy are defined but the woman's pre-pregnancy body mass index (BMI):**
 
@@ -36,7 +36,7 @@
 
 ### Iron and Folic Acid
 
-![Image](6e4783d0c06549db8d6b03be789f0141)
+![Image](538d663b15884313a2b769c364b09a9e)
 
 - Daily oral iron and folic acid supplementation is recommended to prevent maternal anaemia, low birth weight, puerperal sepsis, preterm birth, and neural tube defects.
 
@@ -46,7 +46,7 @@ See ‘Iron and Folic Acid Supplements’ in the Drug List
 
 ### Calcium
 
-![Image](2bbdea3a8df84e56bb160ed23099d5fa)
+![Image](bc65dea0314f47c3a211650e33410663)
 
 - Calcium supplementation is recommended in populations with low dietary calcium intake, to reduce the risk of pre-eclampsia.
 
@@ -56,7 +56,7 @@ See ‘Calcium supplementation’ in the Drug List
 
 ### Vitamin A
 
-![Image](d4503d9ec6a043838f5055482812439d)
+![Image](47e089dba8eb40569e525a7684b4c24f)
 
 - Vitamin A supplementation is recommended to prevent night blindness in areas where vitamin A deficiency is a severe public health problem, if:
 

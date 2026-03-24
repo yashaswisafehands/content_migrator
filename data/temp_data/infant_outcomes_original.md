@@ -10,7 +10,7 @@ Infants of mothers who suffer from depression have higher rates of:
 - Hospital admissions
 - Reduced completion of immunization schedules
 
-![Image](b5b5387fd33d4d8da6a29b00df1463f0)
+![Image](c18c70eb0d6940a79de3d71c50317940)
 
 Additionally, these infants can have a disrupted bonding and attachment process.
 

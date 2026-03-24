@@ -41,25 +41,25 @@ The perineum is thoroughly swabbed with antiseptic lotion and draped properly.
 
 **Local anaesthesia:** The layers of perineum is infiltrated with 10 ml of 1% solution of lignocaine.
 
-![Image](d0f454666f154931ad863884c085b27a)
+![Image](46bc8daf8b534c51a99fff6cfd3b31cf)
 
 ## Continuous suture
 
 Apex is identified and the first bite is taken 0.5-1 cm above the apex.
 
-![Image](43ca75ad81bf4e2d993c3f371bab902b)
+![Image](c8e0103da70547a6867d05aa205905f7)
 
 Apex, vaginal mucosa, and submucosal tissue is sutured in continuous or continuous interlocking manner.
 
 ## Intermittent suture
 
-![Image](70d336484f284397aacb0ecd1393e39f)
+![Image](ee0230a808e740d5910d15e18c193f44)
 
 Perineal muscles should be sutured in intermittent manner.
 
 ## Mattress suture
 
-![Image](96c5b2b838fb4980b54c4d18d0c16863)
+![Image](693d55e6d69d4f128198540bab6f8117)
 
 Skin and subcutaneous tissues are sutured in mattress manner.
 

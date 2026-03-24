@@ -2,7 +2,7 @@
 
 ## Asymptomatic bacteriuria (ABS)
 
-![Image](80f7f50d32d947bb82747e85e523a479)
+![Image](f9c8c63efeb4499aaa073a1d8f33349d)
 
 A seven-day antibiotic regimen is recommended for all pregnant women with  ASB to prevent persistent bacteriuria, preterm birth, and low birth weight.
 
@@ -18,7 +18,7 @@ Malaria infection during pregnancy is a major public health problem, with substa
 
 In malaria-endemic areas, intermittent preventative treatment with sulfadoxine-pyrimethamine (SP) is recommended for all pregnant women. At least three doses should be given at each antenatal care contact in the second trimester, at least one month apart. Additionally, promote the use of insecticide-treated nets and provide iron and folic acid supplements.
 
-![Image](136ea3790e794e2d84af3bec87815157)
+![Image](fe6d58aa457a465d9a20f59a1ef73c02)
 
 Consider supplying women with their first SP dose at the first ANC visit, instructing them to take it at 13 weeks of gestation.
 
@@ -30,7 +30,7 @@ See Drug List for further information.
 
 <color style="blue">**Pre-exposure prophylaxis for HIV prevention**</color>
 
-![Image](b38aa41bfc4a4067ba7501e1e6bc3f8e)
+![Image](a7e26469d77d44799019906d9d413cb0)
 
 Oral pre-exposure prophylaxis (PrEP) for HIV prevention containing tenofovir disoproxil fumarate (TDF) should be offered as an additional preventive choice for pregnant women who are at substantial risk of HIV infection (when HIV incidence is > 3 per 100 person-years without PrEP).
 
@@ -52,7 +52,7 @@ A single dose of albendazole (400mg) or mebendazole (500 mg) is given after the 
 
 <color style="blue">**Tetanus toxoid vaccination**</color>
 
-![Image](63e3c604f853425e9b89165a4cdf6a38)
+![Image](fab542ac11e84d94aa46990526498131)
 
 Tetanus toxoid vaccination is recommended for all pregnant women to prevent neonatal mortality from tetanus as the foetus receives maternal antibodies through the placenta.
 

@@ -12,7 +12,7 @@ Strategies to identify these include:
 
 - **Motivational interviewing** (where you, in a supportive manner, encourage the woman to talk about her need for change and reasons for wanting to change)
 
-![Image](20b2d0b8ebdf49419af2f9529962797e)
+![Image](95de7212423942cdab0cc82f3d9e29d8)
 
 ---
 
@@ -39,7 +39,7 @@ It is supposed that increased knowledge enables women to cope more effectively
 
 Where possible, psychoeducation should include partners and family members.
 
-![Image](14807c78d1df470cafbeb4dd04bbb023)
+![Image](d361dfc825c54b8e9f11e59a398c9ffa)
 
 Education involves not only information about the condition but useful strategies such as establishing good sleep patterns, maintaining optimum nutrition, alleviating stress and how to interact in relationships in constructive ways.
 
@@ -86,7 +86,7 @@ EMDR therapy is based on the idea that negative thoughts, feelings and behavior 
 
 Treatment involves standardized procedures to focus on associations of post-traumatic stress disorder while inducing bilateral stimulation in the form of repeated eye movements.
 
-![Image](927353f28aa24e71b119731b4a6708bf)
+![Image](40dd454285a247fd86375add0879788c)
 
 ---
 
@@ -96,6 +96,6 @@ Parental Skills training are useful intervention in woman with perinatal depress
 
 It is a group of treatment programmes to change caregiving behavior and strengthen confidence in using effective care-giving strategies. It involves teaching caregivers’ emotional communication, positive care giver–child interaction skills and positive reinforcement methods to improve the behavior and functioning of children.
 
-![Image](525fb9d4fb9840cc82390566497c01ed)
+![Image](e2b63db4dbe84b83859e2fa36348e2ac)
 
 ---

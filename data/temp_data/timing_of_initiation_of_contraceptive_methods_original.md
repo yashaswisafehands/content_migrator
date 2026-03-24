@@ -2,6 +2,6 @@
 
 ### Initiation of FP methods at different phases of reproductive life:
 
-![Image](166233023a35420284510d80cd796485)
+![Image](9d923f47a171460593fafd64559e2edd)
 
 ---

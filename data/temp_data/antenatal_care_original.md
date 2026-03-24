@@ -34,7 +34,7 @@ Maternity care providers need to perform hand hygiene:
 - After cleaning surfaces between every patient contact 
 - After coughing or sneezing
 
-![Image](63c5416f2f79477aae8e1781de17598f)
+![Image](b31ecf9d1d5d42629e68ee47cd271c96)
 
 ## ANC schedule
 
@@ -66,7 +66,7 @@ ALL contacts regarding of method should include Respectful Maternity Care:
 3. Freedom from discrimination
 4. Supporting women’s right to information and informed autonomous decision making
 
-![Image](1ecaed50bd8140a294968d450bb8e408)
+![Image](e4e55b1bcb064255b72d91b16fbdc57e)
 
 ## Suggested actions at every contact:
 
@@ -96,13 +96,13 @@ In addition to the standard first AN contact, assessments/activities (Comprehens
 - Ensure the woman has a contact number for midwife/practitioner providing remote AN contact or hospital/health service contact
 - Ensure woman enough iron, folic acid, calcium etc. to help avoid facility based AN contact just to obtain supplies
 
-![Image](eff6c4715a134a41a45f07823129d90c)
+![Image](f1ec818eca3a42a3b7bbb3a6e64dff28)
 
 ---
 
 # Chapter: Remote Contacts 2 and 3
 
-![Image](1ecaed50bd8140a294968d450bb8e408)
+![Image](e4e55b1bcb064255b72d91b16fbdc57e)
 
 1. Introduce self and friendly greeting 
 2. How are you feeling today?
@@ -132,13 +132,13 @@ In addition to the standard first AN contact, assessments/activities (Comprehens
 
 Standard subsequent AN contact (BP/Blood tests and Abdominal Palpation including FHR. Ongoing risk assessment).
 
-![Image](9f04e5f973f547cda406413bc83de607)
+![Image](4c743bf1b54745669b5c23466d942f9b)
 
 ---
 
 # Chapter: Remote Contact 5
 
-![Image](1ecaed50bd8140a294968d450bb8e408)
+![Image](e4e55b1bcb064255b72d91b16fbdc57e)
 
 1. Introduce self and friendly greeting
 2. How are you feeling today?
@@ -170,13 +170,13 @@ Standard subsequent AN contact (BP/Blood tests and Abdominal Palpation including
 
 Standard subsequent AN contact (BP/Blood tests and Abdominal Palpation including FHR. Ongoing risk assessment, Birth planning).
 
-![Image](4078261a808a4e8c82e81fa718148e59)
+![Image](65e94ab1be3442c29df560bba5609c76)
 
 ---
 
 # Chapter: Remote Contact 7
 
-![Image](1ecaed50bd8140a294968d450bb8e408)
+![Image](e4e55b1bcb064255b72d91b16fbdc57e)
 
 1. Introduce self and friendly greeting
 2. How are you feeling today?
@@ -210,6 +210,6 @@ Standard subsequent AN contact (BP/Blood tests and Abdominal Palpation including
 
 If further AN contacts required beyond 40 weeks, these must be face-to-face.
 
-![Image](9f04e5f973f547cda406413bc83de607)
+![Image](4c743bf1b54745669b5c23466d942f9b)
 
 ---

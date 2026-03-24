@@ -4,23 +4,23 @@ Septic abortion is diagnosed by the following signs:
 
 - Tender uterus, AND
 
-![Image](4da3bad9d33f4199bd3feb56364e2dbd)
+![Image](10a602e6c3fc45ca9c3a77397bc57804)
 
 - Signs of severe peritonitis (such as rebound tenderness), OR
 
-![Image](3f470c088adb460ead53ac957995d597)
+![Image](48795b0a544d48bd940bf7862fe5ab61)
 
 - Foul smelling vaginal discharge, OR
 
-![Image](886fa1f52ff44f4781136030462cd438)
+![Image](bc1bead3052248f3ba3552f14e7ba7cd)
 
 - Excessive vaginal bleeding, OR
 
-![Image](989b4f2ec82e4378b80ea15ac56a23a2)
+![Image](789aae006e3b47eab6ae705e3d5ff251)
 
 - Any signs of shock (systolic blood pressure below 90) or pre-shock (pulse above 90).
 
-![Image](ca84a83ddef4495bb9edacdbe4ffe94d)
+![Image](b2215b6e369a4280a49a6035fb0fb5cb)
 
 > WARNING
 

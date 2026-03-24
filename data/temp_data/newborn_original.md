@@ -1,6 +1,6 @@
 # Chapter: Routine postnatal assessments (up to 6 weeks)
 
-![Image](5566c275580642a1bc19176e17638216)
+![Image](d4f78724fffb4f719dad0e9d58cbd88a)
 
 ## Ask the mother
 
@@ -67,7 +67,7 @@ Prior to birth facility discharge, and at each postnatal contact, provide counse
 - **Hygiene**: Do not bath the newborn in the first 24 hours and do not remove vernix. Bathe in a warm room with warm water, then dry thoroughly, dress, and cover.  
 - **Infant growth and development**: Support parents to give responsive care and be aware of the newborn’s signals.
 
-![Image](6c47447abd04488b8c2cea4b5b4004d1)
+![Image](db6a2dde6fa54f3091afd08deeb0333d)
 
 ---
 
@@ -84,7 +84,7 @@ Prior to birth facility discharge, and at each postnatal contact, provide counse
 - Every day until 3 consecutive times of gaining weight (15 g/day) is observed.
 - Weekly until 4-6 weeks of age or until term is reached (in the case of preterm birth).
 
-![Image](4cce2cf7a88a4bd1b4cb3e8d324aa4dd)
+![Image](ae30c6331f914493bf9108fdd02eccbf)
 
 ## Assessing weight loss/gain in the first month of life:
 
@@ -92,7 +92,7 @@ For more information on management of newborns with low birth weight, go to the 
 
 **Assessing weight loss/gain in the first month of life:**
 
-![Image](2f645aac751e477f9d21470a1bfcca74)
+![Image](3617d95c87a046b8a2944496a3d20ebb)
 
 Daily/weekly weighing requires precise and accurate scales (10g increment).
 
@@ -130,7 +130,7 @@ Tell her to return to the clinic if the umbilical infection worsens or pustules 
 
 If the infection worsens, refer to a higher-level facility and treat with antibiotics according to national guidelines.
 
-![Image](1b45b03750384796ab745b9be3f6cd3f)
+![Image](4d8755d5bba94dd2af0ea83e62c9eb76)
 
 ## Eye infection
 
@@ -145,7 +145,7 @@ Tell the mother to return to the clinic if the infection worsens. Reassess after
 
 If the infection worsens, refer to higher-level facility.
 
-![Image](03757d94e2774d45a72cec942c533caf)
+![Image](349e3dc4f8fd4b0eab7f79fac8f5022a)
 
 ---
 
@@ -153,7 +153,7 @@ If the infection worsens, refer to higher-level facility.
 
 All newborns should be immunized based on the national immunization schedule.
 
-![Image](96da979630a74ee6bf49addcf3091a37)
+![Image](a2d447f5aef245eeaffa824c1c987ab7)
 
 **At birth**(within 24 hours or preferably before discharge):
 

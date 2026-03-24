@@ -36,7 +36,7 @@ everyone the chance to learn by carefully reviewing what happened. Coordinators 
 
 # Chapter: Session 1: Active Management of Third Stage of Labor (AMTSL) Role play
 
-![Image](314c02db8335412c9c7d051c4e3b3c2c)
+![Image](b4d74b9497a2426c8dbc2248223cd437)
 
 ## 20 minutes per provider
 
@@ -90,7 +90,7 @@ Coordinator should:
 
 # Chapter: Session 2: Retained Placenta Role play
 
-![Image](f3172b03252e4ee896c2ad56db4a15e1)
+![Image](2b9e6c90d7cd4971aebff812e6fdc284)
 
 ## 10 minutes per provider
 
@@ -129,7 +129,7 @@ Coordinator should:
 
 # Chapter: Session 3: Skills Practice and game, NASG
 
-![Image](98b9598f75cb4253bc29274bd5e33921)
+![Image](cacb502cadc84b97996801d02f2588d3)
 
 ## 10 minutes per provider pair
 
@@ -165,7 +165,7 @@ Peer practice coordinator is timekeeper and observes team performance. Determine
 
 # Chapter: Session 4: PPH Drill
 
-![Image](989b4f2ec82e4378b80ea15ac56a23a2)
+![Image](789aae006e3b47eab6ae705e3d5ff251)
 
 ## 15-25 minutes for the team
 
@@ -213,7 +213,7 @@ Coordinator should:
 
 # Chapter: Session 5: Shock management Drill
 
-![Image](ca84a83ddef4495bb9edacdbe4ffe94d)
+![Image](b2215b6e369a4280a49a6035fb0fb5cb)
 
 ## 20 minutes
 
@@ -258,7 +258,7 @@ Coordinator should:
 
 # Chapter: Session 6: Preparing Intrauterine Balloon Tamponade (UBT) Kits with Condoms
 
-![Image](5a5d72eb6dd74f75805f2315c9404a03)
+![Image](a4c7cb5533084d19a5c1bffed112631f)
 
 ## 10 minutes with discussion (may be combined with Session 7)
 
@@ -290,7 +290,7 @@ Find an airtight bag or box for the kit. Sterile instruments will also be needed
 
 # Chapter: Session 7: Skills Practice, UBT Insertion
 
-![Image](f7be3b342546464ba7a3054d40320995)
+![Image](b921958908844f42b9625d7bd7041591)
 
 ## 20 minutes per learner
 
@@ -327,7 +327,7 @@ Prepare uterine simulator in advance or use 500cc water bottle. Gather all instr
 
 # Chapter: Session 8: Skills Practice, Manual Removal of Placenta
 
-![Image](fe0c6cc878a14e36803c36812a84a37a)
+![Image](45f4d3b2846946f389088dde2418c5ab)
 
 ## 10 minutes per learner
 
@@ -370,7 +370,7 @@ Coordinator should:
 
 # Chapter: Session 9: Skills practice, Cervical Laceration Requiring Repair
 
-![Image](67a2fc53f249410cb32bcd4ff3ef03e3)
+![Image](e835b2487c2a40f9946929e0cc54375b)
 
 ## 15 - 20 minutes
 
@@ -414,7 +414,7 @@ Prepare foam simulator or rolled towel according to guidance in the Action Card 
 
 # Chapter: Session 10: Integrated Drill
 
-![Image](fc922511711e4c5eb7d03c344658aea9)
+![Image](05f2f78e23b549b9931d6e2e6a4c6872)
 
 ## 20 – 25 minutes per team
 

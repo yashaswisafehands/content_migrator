@@ -12,7 +12,7 @@
 - Timing may not be predictable 
 - May require more clinical visits
 
-![Image](b3d91efba13e48d893f833b9bed96eeb)
+![Image](286daf4a1430477ab00aff94442f40ff)
 
 **Vacuum aspiration:**
 
@@ -23,7 +23,7 @@
 - Small risk of uterine/cervical injury
 - Timing of abortion controlled by provider
 
-![Image](5740716f93c345a8a5a6fb26ce1326ff)
+![Image](6c121c37974b444192fcc4a1091792e6)
 
 ## >12-14 weeks:
 

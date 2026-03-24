@@ -1,6 +1,6 @@
 # Chapter: Perinatal depression
 
-![Image](e00e3d60b777429f81d7a66a09d1234c)
+![Image](42ad09e1993e4328ae85a8703f238da0)
 
 Perinatal depression is a common condition in both the antenatal and postnatal periods. It often co-exists with anxiety.
 
@@ -41,7 +41,7 @@ Estimates suggest that 1 in 5 women will experience depression in the perinatal 
 
 # Chapter: Anxiety disorders
 
-![Image](4da3bad9d33f4199bd3feb56364e2dbd)
+![Image](10a602e6c3fc45ca9c3a77397bc57804)
 
 Most people experience anxiety from time to time; it is a healthy response to stress and can keep us motivated and safe. However, if anxiety becomes severe or prolonged and disrupts daily life activities, it is referred to as an anxiety disorder.
 

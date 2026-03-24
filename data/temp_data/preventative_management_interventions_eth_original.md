@@ -1,6 +1,6 @@
 # Chapter: Antibiotic regimen for Asymptomatic Bacteriuria 
 
-![Image](80f7f50d32d947bb82747e85e523a479)
+![Image](f9c8c63efeb4499aaa073a1d8f33349d)
 
 <color style="blue">**Antibiotic regimen for SAB**</color>
 
@@ -20,7 +20,7 @@ In malaria-endemic areas, intermittent preventative treatment with sulfadoxine-p
 
 Consider supplying women with their first SP dose at the first ANC visit, instructing them to take it at 13 weeks of gestation.
 
-![Image](23fae1b4bd74429897eb1dcadc88311c)
+![Image](226750ef4edd4550b125d3872c27de6e)
 
 ---
 
@@ -32,7 +32,7 @@ Oral pre-exposure prophylaxis (PrEP) for HIV prevention containing**tenofovir di
 
 Individual risk varies depending on individual behaviour and the characteristics of sexual partners. Local evidence of risk factors and HIV incidence should be used to inform implementation.
 
-![Image](b38aa41bfc4a4067ba7501e1e6bc3f8e)
+![Image](a7e26469d77d44799019906d9d413cb0)
 
 ---
 
@@ -42,7 +42,7 @@ Individual risk varies depending on individual behaviour and the characteristics
 
 Preventive deworming treatment is recommended for pregnant women living in endemic areas of helminth infection and where anaemia is a severe public health problem. A single dose of albendazole (400mg) or mebendazole (500 mg) is given after the first trimester. In non-endemic areas anthelminthic treatment should be given on a case-to-case basis.
 
-![Image](67f9d03b802d48b988f49c39933a7a80)
+![Image](08e99413c14f4bf88f55b75afc4f1490)
 
 ---
 
@@ -60,7 +60,7 @@ Tetanus-diphtheria vaccination is recommended for all pregnant women to prevent 
 - A total of 5 doses offer protection during the childbearing years. 
 - If a woman is already vaccinated in the previous pregnancy, one dose is sufficient.
 
-![Image](3ceb7e86eafc4d99b0920b4c4068c22b)
+![Image](b2078c7b6b1f4d788770d7e37058ef30)
 
 ---
 
@@ -73,6 +73,6 @@ Offer a late ultrasound scan to women who have not had an early ultrasound scan,
 
 Routine Doppler ultrasound examination is not recommended to improve maternal and perinatal outcomes.
 
-![Image](3b32a040b9064af4b75aa95b67bd6ce3)
+![Image](c88e7c01c6134cb78fc2a07c6fe7aee4)
 
 ---

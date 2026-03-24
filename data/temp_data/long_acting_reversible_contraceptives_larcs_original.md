@@ -14,7 +14,7 @@ Protection against sexually transmitted infections (STIs):**None**
 
 Return of fertility after removal: **No delay**
 
-![Image](f1546886e72a4e30882608af9c29a320)
+![Image](06afa997e0a44bf1b47696cd45db504c)
 
 ## Insertion
 
@@ -29,13 +29,13 @@ A trained provider performs a minor surgical procedure to place the rod under th
 - **Slider:** It lies on top of the applicator. Once Implant is inserted, it is unlocked by pushing it slightly down and then pushed back to its full length. 
 - **Bi-bevelled needle:** The needle has two bevels at the tip - one to insert at a 30° angle and the other one to lift the skin after insertion.
 
-![Image](116e19f4754a4638aef9085287fa62be)
+![Image](387e07b216cf450b880dab6437489330)
 
 ## Removal
 
 A trained provider performs a minor surgical procedure to remove the implant(s).
 
-![Image](2658e2a0a8e34b28b4819238209ffcd3)
+![Image](045851e88d0542dba43ec97bcf2acdad)
 
 ## Women with HIV
 
@@ -100,7 +100,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after removal: **No delay**
 
-![Image](9bcbdb6490324ce5afb276590fabaab5)
+![Image](207fb7985fc54e4888c52f7fc029abcd)
 
 ## Insertion
 

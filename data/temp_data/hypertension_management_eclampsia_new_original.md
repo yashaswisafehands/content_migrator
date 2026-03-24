@@ -9,6 +9,6 @@
 3. Insert IV lines. 
 4. Give magnesium sulphate intravenously  to reach the therapeutic level. Give the drug in two steps directly following each other:
 
-![Image](5e5a38fdc42a47c1ba5fd41b69166556)
+![Image](a24a229167ad4cb2b7b14e7b261b08d5)
 
 ---

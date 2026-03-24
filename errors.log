@@ -691,3 +691,696 @@ Traceback (most recent call last):
 requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/https%3A//sdacms.blob.core.windows.net/content/assets/images/icon/module/active_management_of_third_stage_labour_alt.png
 
 ==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/hypoglycemia_in_the_newborn.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/PP_NLB_Vaginal_examination.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/neonatal%20resuscitation/blue_newborn.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20management/low_blood_sugar_baby.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20management/newborn_with_danger_signs.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/neonatal%20resuscitation/newborn_indrawings.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20management/newborn_blue_lips.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/assessment_with_pulse.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Low%20birth%20weight/ambulance_1.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/BMI_calculation.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/calculation_of_energy_requirement.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/hypoglycemia_in_women_with_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/insulin_therapy_during_labour.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/medical_nutrition_therapy_and_meal_plan.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/follow_up_care_of_women.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/pre-conception_care_and_counselling-.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/simple_and_complex_carbohydrate.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/special_ANC_for_women.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/administration_of_insulin_using_pen.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/administration_of_insulin.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/blood_glucose_measurement.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/collecting_capillary_blood_from_the_newborn.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/oral_glucose_tolerance_test.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/universal_testing_for_GDM-Protocol.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/module/gestational_diabetes_mellitus.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/weight_gain_during_pregnancy.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/risk_factors_of_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/average_weight_gain.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/excess_glucose_level_in_the_blood.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/stupor_or_apathy_jitteriness_or_tremors.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/postpartum_care_of_woman.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/medical_management.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/administration_of_insulin.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/2_hour_blood_sugar_level_is_140.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/initial_management_of_a_woman.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/screening_and_diagnosis_of_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/hypoglycemia_in_women_with_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/definition_of_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/first_test.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/second_test_for_diagnosis_of_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/hypoglycemia_in_a_newborn.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/first_drug_of_choice.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/referral.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/intrapartum_care.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/obesity.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/maternal_complications.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/symptoms_of_hypoglycemia.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/foetal_risk_of_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/tested_twice_during_pregnancy.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/visit_after_28_weeks_of_gestation.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/special_ANC_for_women_with_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/immediate_newborn_care.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/insulin_for_management_of_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/excess_glucose_level.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/hypoglycemia.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Gestational%20diabetes%20mellitus/postpartum_care_of_woman_with_GDM.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/surgical_handwashing.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/protocol_of_clamping_umbilical.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 615, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/logos/MSD%20for%20Mothers.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/logos/Developer%20logos.png
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 489, in _download_asset
+    response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/icon/module/active_management_of_third_stage_labour_alt.png
+
+==================================================

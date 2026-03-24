@@ -10,7 +10,7 @@
 - Test the ventilation bag, mask and suction supplies
 - Prepare a uterotonic for the mother
 
-![Image](d7376ab591fd4de2948a0a67792828a8)
+![Image](e69817e7e3b34afca252bdda7731895a)
 
 ---
 
@@ -26,7 +26,7 @@
 - Position on mother's chest to encourage breastfeeding
 - Continue with essential newborn care, identify the baby, and complete the birth record
 
-![Image](dfdc748aea464a0ebde273422e9f5024)
+![Image](39d0ada6c1e9404c9676bfdc899ccd9c)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### The Golden Minute
 
-![Image](3ec67e97b3ea4638a375a3fa67d464a8)
+![Image](3ca3c28f884345ddb5566ded246a9f92)
 
 - Call out the time of birth
 - Dry thoroughly
@@ -67,6 +67,6 @@
 - Continue with essential newborn care, identify the baby, complete the birth record, and review your actions
 - Disinfect equipment
 
-![Image](7020292068d14136b71ee72048132c70)
+![Image](a14ad5e123e048d68a5c9847fe4b30c6)
 
 ---

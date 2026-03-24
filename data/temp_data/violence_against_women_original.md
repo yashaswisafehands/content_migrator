@@ -2,14 +2,14 @@
 
 ### Violence against women
 
-![Image](30c78f8eaca941d3897e9cf41abeb42e)
+![Image](e382c68f9fb54e5bb933935d93b6b445)
 
 - Violence against women is any act of gender-based violence that results in, or is likely to result in, physical, sexual, or mental harm or suffering to women, including threats of such acts, coercion, or arbitrary deprivation of liberty, whether occurring in public or in private.
 - Intimate Partner violence (IPV) is any behaviour within an intimate relationship that causes physical, psychological or sexual harm.
 - It is a potentially preventable risk factor for various adverse outcomes, including maternal and foetal death. 
 - You as a health provider have an important role in early identification of women who are experiencing violence and providing appropriate referral and support and thereby improve health outcomes.
 
-![Image](598ab574e81c4eb598756e89d7c7c4f1)
+![Image](fed132ad43d34d1bb39335948cc308e7)
 
 ### At each contact in the perinatal period, it is important to create a safe and private setting, where you can assess the possibility of violence against the woman.
 
@@ -26,6 +26,6 @@ The setting should be private with confidentiality and appropriate time for disc
 
 A system of referral should be in place.
 
-![Image](8029d2d906344dc6b7db41e522e5f9da)
+![Image](bff535f5ff2944d9afe465b9a9d0bf85)
 
 ---

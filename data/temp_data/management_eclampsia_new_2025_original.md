@@ -1,5 +1,5 @@
 # Chapter: Management of Eclampsia
 
-![Image](013b670da395460fa2ebaf040e9cd174)
+![Image](aea7259b36fc4dfe8abde94a18d1caca)
 
 ---

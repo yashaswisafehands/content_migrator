@@ -7,7 +7,7 @@ Hypoxaemia (low levels of oxygen in the blood) is a life-threatening condition a
 
 It is recommended to help identify hypoxaemia and for guiding administration of oxygen therapy for neonates.
 
-![Image](62cd062f2f5b4856be8db19f41ca9a28)
+![Image](caf77b70827e44a79940f00e182b488c)
 
 ## Target saturation when giving oxygen therapy to newborns:
 

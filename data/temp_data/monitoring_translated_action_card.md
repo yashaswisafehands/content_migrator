@@ -31,6 +31,6 @@ Every 5 minutes:
 - Monitor contractions  
 - Visually check for descent of the foetus
 
-![Image](0ebb49f797a0481191f51cbb7b4ef5d1)
+![Image](7a33eb1991cc4e19ba29e8cce330f316)
 
 ---

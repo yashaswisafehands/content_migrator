@@ -18,6 +18,6 @@ Start ACT, even if you suspect that there is not enough time to complete the cou
 
 2 doses of 12 mg **betamethasone** (IM) given 24 hours apart
 
-![Image](297abce94c034eef94b7c0e7f4ae555f)
+![Image](52dda469ec17496caae2203eae1de144)
 
 ---

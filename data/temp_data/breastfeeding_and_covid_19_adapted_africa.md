@@ -4,7 +4,7 @@
 
 Women with COVID-19 can breastfeed if they wish to do so.
 
-![Image](75375a1adbb941a59a6c730f2fa41b81)
+![Image](3e078706311c4b1fad615943872fcd18)
 
 When breastfeeding, they should:
 

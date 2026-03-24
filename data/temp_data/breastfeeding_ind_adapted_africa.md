@@ -24,7 +24,7 @@ Inspect breasts for sore nipples, cuts and engorgement.
 
 The newborn is well attached to the mother’s breast when:
 
-![Image](955808c109d64cf6ba9c456b17f9709a)
+![Image](aa23e4f1b0f54bb89386e9853a672153)
 
 - Chin is touching the breast.
 - Mouth is wide open.
@@ -33,7 +33,7 @@ The newborn is well attached to the mother’s breast when:
 
 **Poor or wrong attachment usually leads to problems such as:**
 
-![Image](22ab65d9da7d42d380f4c44ebc442ea8)
+![Image](b8e882973127437e89ca8bc24aa4575c)
 
 - Sore nipple.
 - Breast engorgement.

@@ -29,7 +29,7 @@ The newborn is well attached when:
 - Their bottom lip is turned outward
 - More areola is visible above than below the mouth.
 
-![Image](75375a1adbb941a59a6c730f2fa41b81)
+![Image](3e078706311c4b1fad615943872fcd18)
 
 ## Ineffective attachment
 
@@ -44,7 +44,7 @@ Signs of ineffective attachement:
 - Nipples look pinched or flattened after feeding 
 - Breasts remain full or engorged after feeding
 
-![Image](719f4f4da9774c44b2fa0d48bb1fa16c)
+![Image](c1db107eb99f4455917fa02566fa2c2f)
 
 ## Feeding recommendations
 

@@ -6,7 +6,7 @@ Anaemia in pregnancy is blood haemoglobin (Hb) concentration below 11gm/dL which
 
 Screen women at all Antenatal Visits (or when symptomatic).
 
-![Image](ff46c763fd0742d1a8a4cad205e5f45b)
+![Image](f4fceca0e7044948ace3d1fd0e358a22)
 
 **Ask**– tiredness and weakness, breathlessness, lack of concentration, loss of appetite, palpitations, easy fatiguability.
 
@@ -75,7 +75,7 @@ Gestational Diabetes Mellitus (GDM) is hyperglycaemia first detected in pregnanc
 
 Women with diabetes in pregnancy have more severe hyperglycaemia which does not resolve after pregnancy as it does with GDM.
 
-![Image](d4779049c7e84b14a1b45c7af134510c)
+![Image](fc13efff3c97444ba3f24fc46c7a92c9)
 
 **Diagnostic methods**
 
@@ -91,7 +91,7 @@ Refer GDM module and action card on OGTT.
 
 ## HIV, syphilis and HBsAg
 
-![Image](7674055b3c1a4069abc6352281234c39)
+![Image](a1d6c963955b4b3cb664185928858ea4)
 
 All pregnant women should be tested for HIV, and syphilis during their first visit.
 
@@ -101,7 +101,7 @@ Rapid Diagnostic Test should be carried out for Syphilis and HBsAg.
 
 HBsAg is an optional investigation.
 
-![Image](16ef22a992914b399e6ed7e447d8327c)
+![Image](6721438ff83244b89df9f473ae7879d4)
 
 Refer women who test positive to the higher centre for further management.
 

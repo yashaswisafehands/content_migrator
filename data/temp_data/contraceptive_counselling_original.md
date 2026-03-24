@@ -78,7 +78,7 @@ Rule out pregnancy using the pregnancy exclusion checklist.
 
 Eliminate contraceptive methods that do not meet the woman’s medical eligibility or needs.
 
-![Image](60525be10ffc461e8c3b06439416cef6)
+![Image](05a96d48898c4e01acbc1b0ba8222255)
 
 ---
 
