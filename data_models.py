@@ -90,6 +90,5 @@ class ResourcePostRequestData(BaseModel):
     content_type: Optional[str] = None
     created_by: Optional[str] = "System"
     level: Optional[str] = None
-    level: Optional[str] = None
     questions: Optional[List[Dict[str, Any]]] = None
     derived_from_id: Optional[str] = None

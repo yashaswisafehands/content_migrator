@@ -9,7 +9,11 @@ COSMOS_ENDPOINT = "https://sdacms.documents.azure.com:443/"
 COSMOS_KEY = os.getenv("COSMOS_KEY")
 DATABASE_NAME = "production"
 CONTAINER_NAME = "content"
-ASSETS_BASE_URL = "https://sdacms.blob.core.windows.net/content/assets/"
+def _get_assets_base_url() -> str:
+    env = os.environ.get("MIGRATE_ENV", "content")
+    return f"https://sdacms.blob.core.windows.net/{env}/assets/"
+
+ASSETS_BASE_URL = _get_assets_base_url()
 
 LME_BASE_URL = "http://135.225.105.160:8004"
 

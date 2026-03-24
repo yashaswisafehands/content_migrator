@@ -567,6 +567,9 @@ class SettingsScreenMigrator:
             return None
 
     def _set_current_version(self, data_id: str, version_id: str) -> bool:
+        if os.environ.get("MIGRATE_ENV") == "devcontent":
+            print(f"  → Skipping screen data activation for devcontent.")
+            return True
         """Activate a screen data version using the settings-screen-specific endpoint."""
         try:
             url = f"{LME_BASE_URL}/settings-screens/versions/{version_id}/status"

@@ -133,8 +133,7 @@ class CategoryMigrator:
             if category_id:
                 processed_category_ids.append(category_id)
 
-        if processed_category_ids:
-            self._link_categories_to_language(language_id, processed_category_ids)
+        print(f"Category migration complete. {len(processed_category_ids)} categories processed.")
 
     def _get_category_id_by_slug(self, slug: str) -> Optional[str]:
         url = f"{LME_BASE_URL}/categories/"
@@ -155,6 +154,10 @@ class CategoryMigrator:
 
     def _activate_latest_version(self, category_data: dict) -> None:
         """Extract latest version from LME response and activate via universal endpoint."""
+        if os.environ.get("MIGRATE_ENV") == "devcontent":
+            print(f"  → Skipping activation for devcontent.")
+            return
+
         versions = category_data.get("versions", [])
         if not versions:
             # Fallback for older API versions that might not return 'versions' list
@@ -240,13 +243,7 @@ class CategoryMigrator:
         except Exception as e:
              print(f"  Failed to patch category: {e}")
 
-    def _link_categories_to_language(self, language_id: str, category_ids: List[str]):
-        url = f"{LME_BASE_URL}/languages/{language_id}/link/categories"
-        try:
-            requests.patch(url, json=category_ids, headers=self._headers(), timeout=15).raise_for_status()
-            print(f"Successfully linked {len(category_ids)} categories to language {language_id}")
-        except Exception as e:
-            print(f"Error linking categories: {e}")
+
 
     def _headers(self) -> Dict[str, str]:
         check = {}

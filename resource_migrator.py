@@ -62,9 +62,8 @@ class ResourceMigrator:
         self._klp_mapping_path = get_mappings_file("klp_slug_mapping.csv")
         ensure_parent_dir(self._klp_mapping_path)
         
-        # DEBUG: Check loaded constants
-        print(f"DEBUG: ResourceMigrator loaded ACTIVATE_KLP_VERSION: {ACTIVATE_KLP_VERSION}")
-        
+
+
         self._klp_queue_path = get_processed_file("klps.csv")
         ensure_parent_dir(self._klp_queue_path)
         self.queued_klp_slugs = set()
@@ -247,6 +246,9 @@ class ResourceMigrator:
             return None
 
     def _activate_version(self, version_id: str, is_klp: bool = False) -> bool:
+        if os.environ.get("MIGRATE_ENV") == "devcontent":
+            print(f"  → Skipping resource/KLP activation for devcontent.")
+            return True
         """Activate a resource or KLP version by calling status endpoint.
         
         Args:
@@ -264,7 +266,7 @@ class ResourceMigrator:
         else:
             url = ACTIVATE_RESOURCE_VERSION.format(version_id=version_id)
         
-        print(f"DEBUG: activating version {version_id} with url='{url}'")
+
         
         payload = {"status": "active", "updated_by": "System"}
         
@@ -377,10 +379,10 @@ class ResourceMigrator:
 
         lme_lang_id, region = self._map_language_info(cosmos_lang_id)
         slugs: List[str] = []
-        
-        # DEBUG: Show video count
-        print(f"  DEBUG: Found {len(video_paths)} videos in module")
-        
+
+        if video_paths:
+            print(f"  → Migrating {len(video_paths)} videos for module")
+
         lang_info = self.language_mapping.get(cosmos_lang_id, {})
         # Slugify the language name so "India - Hindi" → "india-hindi" (not "india_-_hindi")
         raw_lang_name = lang_info.get("name", cosmos_lang_id)
@@ -453,10 +455,10 @@ class ResourceMigrator:
         cosmos_lang_id = module_doc.get("langId") or ""
         lme_lang_id, region = self._map_language_info(cosmos_lang_id)
         slugs: List[str] = []
-        
-        # DEBUG: Show procedure count
-        print(f"  DEBUG: Found {len(procedure_keys)} procedures in module")
-        
+
+        if procedure_keys:
+            print(f"  → Migrating {len(procedure_keys)} procedures for module")
+
         for key in procedure_keys:
             if not key:
                 continue
@@ -556,12 +558,12 @@ class ResourceMigrator:
         drug_keys = module_doc.get("drugs", []) or []
         cosmos_lang_id = module_doc.get("language_id") or module_doc.get("langId") or ""
         lme_lang_id, region = self._map_language_info(cosmos_lang_id)
-        
-        # DEBUG: Show drug count
-        print(f"  DEBUG: Found {len(drug_keys)} drugs in module")
-        
+
         slugs: List[str] = []
-        
+
+        if drug_keys:
+            print(f"  → Migrating {len(drug_keys)} drugs for module")
+
         for key in drug_keys:
             if not key:
                 continue
@@ -1159,9 +1161,9 @@ class ResourceMigrator:
         is_global_module = not module_language_id
         action_card_keys = module_doc.get("actionCards", [])
         migrated_action_card_ids = []
-        
-        # DEBUG: Show action card count
-        print(f"  DEBUG: Found {len(action_card_keys)} action cards in module")
+
+        if action_card_keys:
+            print(f"  → Migrating {len(action_card_keys)} action cards for module")
 
         for action_card_key in action_card_keys:
             if not action_card_key:

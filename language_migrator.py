@@ -278,7 +278,6 @@ class LanguageMigrator:
             "longitude": _coerce_float(row.get("longitude")),
             "created_by": (row.get("created_by") or "System").strip(),
             "icon": row.get("icon") or None,
-            "categories": [],  # TODO: Populate if data available
         }
 
         return payload
@@ -294,7 +293,7 @@ class LanguageMigrator:
         headers = {"Content-Type": "application/json"}
         if JWT_TOKEN:
             headers["Authorization"] = f"Bearer {JWT_TOKEN}"
-        print(f"DEBUG: POST_LANGUAGE URL: {POST_LANGUAGE}")
+
         response = self._request_with_retry(
             method="POST",
             url=POST_LANGUAGE,

@@ -939,6 +939,9 @@ class CertificateMigrator:
         return None
 
     def _activate_version(self, version_id: str) -> bool:
+        if os.environ.get("MIGRATE_ENV") == "devcontent":
+            print(f"  → Skipping certificate activation for devcontent.")
+            return True
         """Activate the certificate version."""
         if not version_id:
             return False

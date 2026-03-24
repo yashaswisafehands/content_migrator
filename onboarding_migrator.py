@@ -36,7 +36,10 @@ from path_utils import get_processed_file, get_mappings_file, MAPPINGS_DIR, PROC
 
 # ── Constants ─────────────────────────────────────────────────────────────────
 
-BLOB_BASE = "https://sdacms.blob.core.windows.net/content"
+def _get_blob_base() -> str:
+    return f"https://sdacms.blob.core.windows.net/{os.environ.get('MIGRATE_ENV', 'content')}"
+
+BLOB_BASE = _get_blob_base()
 
 # English WHO uses the "en" cosmos id for bundles
 ENGLISH_COSMOS_LANG_ID = "en"

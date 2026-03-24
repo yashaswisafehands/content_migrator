@@ -16,8 +16,7 @@ import requests
 
 from path_utils import get_processed_file
 
-BLOB_BASE = "https://sdacms.blob.core.windows.net/content"
-
+# BLOB_BASE is evaluated dynamically inside _download_content_bundle
 
 def _get_language_ids_from_csv() -> List[str]:
     """Read languages.csv and return unique cosmos_id values."""
@@ -38,7 +37,9 @@ def _get_language_ids_from_csv() -> List[str]:
 
 def _download_content_bundle(lang_id: str) -> dict:
     """Download content-bundle.json for a language from Azure Blob Storage."""
-    url = f"{BLOB_BASE}/{lang_id}/content-bundle.json"
+    env = os.environ.get("MIGRATE_ENV", "content")
+    blob_base = f"https://sdacms.blob.core.windows.net/{env}"
+    url = f"{blob_base}/{lang_id}/content-bundle.json"
     print(f"  ⬇ Downloading: {url}")
     resp = requests.get(url, timeout=60)
     resp.raise_for_status()

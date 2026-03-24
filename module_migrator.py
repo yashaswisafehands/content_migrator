@@ -431,6 +431,9 @@ class ModuleMigrator:
         return self.module_slug_mapping
 
     def _activate_module_version(self, version_id: str) -> bool:
+        if os.environ.get("MIGRATE_ENV") == "devcontent":
+            print(f"  → Skipping module activation for devcontent.")
+            return True
         """Activate a module version by calling status endpoint.
         
         Args:

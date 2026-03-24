@@ -437,7 +437,6 @@ class DataFactory:
                 path_no_ext = os.path.splitext(clean_path)[0]
                 base_url = ASSETS_BASE_URL.rstrip("/")
                 safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
-                print(f"Video icon URL: {safe_path}")
                 return f"{base_url}/videos/{safe_path}.png"
             else:
                 prefix = video_prefix or ""
@@ -447,7 +446,6 @@ class DataFactory:
                 path_enc = "/".join(quote(p) for p in path_no_ext.split("/"))
                 parts = [p for p in [prefix_enc, path_enc] if p]
                 middle = "/".join(parts)
-                print(f"Video icon URL: {middle}")
                 base_url = ASSETS_BASE_URL.rstrip("/")
                 return f"{base_url}/videos/{middle}.png"
 

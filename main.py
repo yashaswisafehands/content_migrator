@@ -47,9 +47,7 @@ def setup_logging(stage_name: str):
     sys.stdout = Tee(log_file, sys.stdout)
     sys.stderr = Tee(log_file, sys.stderr)
 
-print(f"DEBUG: LME_BASE_URL = {configs.LME_BASE_URL}")
-print(f"DEBUG: POST_LANGUAGE = {configs.POST_LANGUAGE}")
-print(f"DEBUG: POST_ASSET = {configs.POST_ASSET}")
+
 
 class MigrationOrchestrator:
     """Orchestrates the migration workflow."""
@@ -273,11 +271,25 @@ def main():
         help="Filter Stage 1 migration to a specific Cosmos language ID",
     )
     parser.add_argument(
+        "--env",
+        choices=["content", "devcontent"],
+        default="content",
+        help="Target environment branch in blob storage (content or devcontent)",
+    )
+    parser.add_argument(
         "--migrate-global",
         action="store_true",
         help="Migrate GLOBAL data only (langId='') for modules/resources",
     )
     args = parser.parse_args()
+    
+    os.environ["MIGRATE_ENV"] = args.env
+    # Re-evaluate URL constants now that MIGRATE_ENV is set
+    # (Both modules evaluate these at import time, before env is available)
+    configs.ASSETS_BASE_URL = configs._get_assets_base_url()
+    import onboarding_migrator as _obm
+    _obm.BLOB_BASE = _obm._get_blob_base()
+
     if args.migrate_global:
         stage_name = "stage1_global" if not args.post_stage else "stage2_global"
     else:
