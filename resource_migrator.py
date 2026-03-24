@@ -1928,78 +1928,43 @@ class ResourceMigrator:
                     log_error("Captured Exception", exc=e)
                     print(f"Error parsing questions for {slug}: {e}")
             
-            # Resolve raw links to resource IDs or direct URLs
-            # This mirrors the logic in post_resources_from_csv for consistency
+            # Resolve raw links to Resource UUIDs
+            # The LME backend expects link to be a Resource UUID (creates LINKS_TO relationship)
+            # link_type is stored as a string property on the KLPQuestion node
             for q in questions:
                 if "link" not in q or not q["link"]:
                     continue
 
                 raw_link = q["link"]
 
-                # ── video:/ → direct Azure Blob URL (with language video_prefix) ──
-                if raw_link.startswith("video:/"):
-                    from configs import _get_assets_base_url
-                    from urllib.parse import quote
-                    from factories import DataFactory
-                    import os as _os
-
-                    path = raw_link[len("video:/"):]
-                    path_no_ext = _os.path.splitext(path)[0]
-                    base_url = _get_assets_base_url().rstrip("/")
-
-                    # Look up the language-specific video_prefix (e.g. 'India')
-                    _, vid_prefix = DataFactory._get_media_config(cosmos_lang)
-                    if vid_prefix and not path_no_ext.startswith(vid_prefix):
-                        safe_path = "/".join(quote(s) for s in ([vid_prefix] + path_no_ext.split("/")))
-                    else:
-                        safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
-                    video_url = f"{base_url}/videos/{safe_path}.mp4"
-
-                    q["link"] = video_url
-                    q["link_type"] = "video"
-                    print(f"  ✓ Converted KLP video link → {video_url}")
-                    continue
-
-                # ── image:/ → direct Azure Blob URL (with language image_prefix) ──
-                if raw_link.startswith("image:/"):
-                    from configs import _get_assets_base_url
-                    from urllib.parse import quote
-                    from factories import DataFactory
-                    import os as _os
-
-                    path = raw_link[len("image:/"):]
-                    path_no_ext = _os.path.splitext(path)[0]
-                    base_url = _get_assets_base_url().rstrip("/")
-
-                    # Look up the language-specific image_prefix
-                    img_prefix, _ = DataFactory._get_media_config(cosmos_lang)
-                    if img_prefix and not path_no_ext.startswith(img_prefix):
-                        safe_path = "/".join(quote(s) for s in ([img_prefix] + path_no_ext.split("/")))
-                    else:
-                        safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
-                    image_url = f"{base_url}/images/{safe_path}.png"
-
-                    q["link"] = image_url
-                    q["link_type"] = "image"
-                    print(f"  ✓ Converted KLP image link → {image_url}")
-                    continue
-
-                # ── action-card:, drug:, procedure: or res- slug → UUID lookup ──
                 # Derive link_type from the raw prefix before we overwrite the link value
                 if ":" in raw_link:
                     q["link_type"] = raw_link.split(":", 1)[0]
 
+                # Step 1: Try to resolve to an existing Resource UUID
                 resource_id = self._resolve_link_ref(raw_link, default_region=final_region)
                 if resource_id:
                     q["link"] = resource_id
-                    # link_type is already set above from the prefix
                     print(f"  ✓ Resolved KLP link '{raw_link}' → {resource_id}")
-                else:
-                    # Resource not found – remove link to avoid API 400 error
-                    print(f"  Warning: Link '{raw_link}' could not be resolved, removing from question")
-                    del q["link"]
-                    if "link_type" in q:
-                        q["link_type"] = None
+                    continue
+
+                # Step 2: Resource not found – try to create it on-the-fly
+                created_id = self._create_resource_from_link(
+                    raw_link,
+                    default_region=final_region,
+                    cosmos_language_id=cosmos_lang,
+                    lme_language_id=final_lang,
+                )
+                if created_id:
+                    q["link"] = created_id
+                    print(f"  ✓ Created & linked KLP resource for '{raw_link}' → {created_id}")
+                    continue
+
+                # Step 3: All resolution failed – remove link to avoid API error
+                print(f"  ⚠ Warning: Link '{raw_link}' could not be resolved or created, removing from question")
+                del q["link"]
+                if "link_type" in q:
+                    q["link_type"] = None
 
             
             # Build KLP payload matching KeyLearningPointCreateRequest schema
@@ -2259,66 +2224,42 @@ class ResourceMigrator:
                 if questions:
                     # Resolve links in questions - remove unresolved links
                     res_cosmos_lang = e.get("cosmos_lang") or ""
+                    res_final_region = e.get("final_region") or "india"
+                    res_final_lang = e.get("final_lang") or ""
                     for q in questions:
                         if "link" in q:
                             link_val = q.get("link") or ""
-                            if link_val.startswith("video:/"):
-                                from configs import _get_assets_base_url
-                                from urllib.parse import quote
-                                from factories import DataFactory
-                                import os
-                                
-                                path = link_val[len("video:/"):]
-                                path_no_ext = os.path.splitext(path)[0]
-                                base_url = _get_assets_base_url().rstrip("/")
+                            if not link_val:
+                                continue
 
-                                # Look up the language-specific video_prefix (e.g. 'India')
-                                _, vid_prefix = DataFactory._get_media_config(res_cosmos_lang)
-                                if vid_prefix and not path_no_ext.startswith(vid_prefix):
-                                    safe_path = "/".join(quote(s) for s in ([vid_prefix] + path_no_ext.split("/")))
-                                else:
-                                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
-                                video_url = f"{base_url}/videos/{safe_path}.mp4"
-                                
-                                q["link"] = video_url
-                                q["link_type"] = "video"
-                                print(f"  ✓ Converted KLP video link to direct URL: {video_url}")
-                                
-                            elif link_val.startswith("image:/"):
-                                from configs import _get_assets_base_url
-                                from urllib.parse import quote
-                                from factories import DataFactory
-                                import os
-                                
-                                path = link_val[len("image:/"):]
-                                path_no_ext = os.path.splitext(path)[0]
-                                base_url = _get_assets_base_url().rstrip("/")
+                            # Derive link_type from the raw prefix
+                            if ":" in link_val:
+                                q["link_type"] = link_val.split(":", 1)[0]
 
-                                # Look up the language-specific image_prefix
-                                img_prefix, _ = DataFactory._get_media_config(res_cosmos_lang)
-                                if img_prefix and not path_no_ext.startswith(img_prefix):
-                                    safe_path = "/".join(quote(s) for s in ([img_prefix] + path_no_ext.split("/")))
-                                else:
-                                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
-                                image_url = f"{base_url}/images/{safe_path}.png"
-                                
-                                q["link"] = image_url
-                                q["link_type"] = "image"
-                                print(f"  ✓ Converted KLP image link to direct URL: {image_url}")
-                                
-                            else:
-                                # Derive link_type from prefix before overwriting
-                                if ":" in link_val:
-                                    q["link_type"] = link_val.split(":", 1)[0]
+                            # Step 1: Try to resolve to an existing Resource UUID
+                            resolved = self._resolve_link_ref(link_val, default_region=res_final_region)
+                            if resolved:
+                                q["link"] = resolved
+                                print(f"  ✓ Resolved resource KLP link '{link_val}' → {resolved}")
+                                continue
 
-                                resolved = self._resolve_link_ref(link_val, default_region=e.get("final_region") or "india")
-                                if resolved:
-                                    q["link"] = resolved
-                                else:
-                                    # Remove unresolved links to avoid 400 errors
-                                    del q["link"]
-                                    if "link_type" in q:
-                                        del q["link_type"]
+                            # Step 2: Try to create the Resource on-the-fly
+                            created_id = self._create_resource_from_link(
+                                link_val,
+                                default_region=res_final_region,
+                                cosmos_language_id=res_cosmos_lang,
+                                lme_language_id=res_final_lang,
+                            )
+                            if created_id:
+                                q["link"] = created_id
+                                print(f"  ✓ Created & linked resource KLP for '{link_val}' → {created_id}")
+                                continue
+
+                            # Step 3: All resolution failed – remove link
+                            print(f"  ⚠ Warning: Link '{link_val}' could not be resolved or created, removing")
+                            del q["link"]
+                            if "link_type" in q:
+                                q["link_type"] = None
 
                 # Fallback: API requires language_id for translated/adapted.
                 # If missing, downgrade to original to allow migration (assuming English/Global).
