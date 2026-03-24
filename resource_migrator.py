@@ -1936,16 +1936,23 @@ class ResourceMigrator:
 
                 raw_link = q["link"]
 
-                # ── video:/ → direct Azure Blob URL ──
+                # ── video:/ → direct Azure Blob URL (with language video_prefix) ──
                 if raw_link.startswith("video:/"):
                     from configs import _get_assets_base_url
                     from urllib.parse import quote
+                    from factories import DataFactory
                     import os as _os
 
                     path = raw_link[len("video:/"):]
                     path_no_ext = _os.path.splitext(path)[0]
                     base_url = _get_assets_base_url().rstrip("/")
-                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+
+                    # Look up the language-specific video_prefix (e.g. 'India')
+                    _, vid_prefix = DataFactory._get_media_config(cosmos_lang)
+                    if vid_prefix and not path_no_ext.startswith(vid_prefix):
+                        safe_path = "/".join(quote(s) for s in ([vid_prefix] + path_no_ext.split("/")))
+                    else:
+                        safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
                     video_url = f"{base_url}/videos/{safe_path}.mp4"
 
                     q["link"] = video_url
@@ -1953,16 +1960,23 @@ class ResourceMigrator:
                     print(f"  ✓ Converted KLP video link → {video_url}")
                     continue
 
-                # ── image:/ → direct Azure Blob URL ──
+                # ── image:/ → direct Azure Blob URL (with language image_prefix) ──
                 if raw_link.startswith("image:/"):
                     from configs import _get_assets_base_url
                     from urllib.parse import quote
+                    from factories import DataFactory
                     import os as _os
 
                     path = raw_link[len("image:/"):]
                     path_no_ext = _os.path.splitext(path)[0]
                     base_url = _get_assets_base_url().rstrip("/")
-                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+
+                    # Look up the language-specific image_prefix
+                    img_prefix, _ = DataFactory._get_media_config(cosmos_lang)
+                    if img_prefix and not path_no_ext.startswith(img_prefix):
+                        safe_path = "/".join(quote(s) for s in ([img_prefix] + path_no_ext.split("/")))
+                    else:
+                        safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
                     image_url = f"{base_url}/images/{safe_path}.png"
 
                     q["link"] = image_url
@@ -2192,6 +2206,7 @@ class ResourceMigrator:
                         "row": row,
                         "final_lang": final_lang,
                         "final_region": final_region,
+                        "cosmos_lang": cosmos_lang,
                         "content_type": row_ct,
                         "priority": priority.get(row_ct, 99),
                         "index": idx,
@@ -2243,18 +2258,26 @@ class ResourceMigrator:
 
                 if questions:
                     # Resolve links in questions - remove unresolved links
+                    res_cosmos_lang = e.get("cosmos_lang") or ""
                     for q in questions:
                         if "link" in q:
                             link_val = q.get("link") or ""
                             if link_val.startswith("video:/"):
                                 from configs import _get_assets_base_url
                                 from urllib.parse import quote
+                                from factories import DataFactory
                                 import os
                                 
                                 path = link_val[len("video:/"):]
                                 path_no_ext = os.path.splitext(path)[0]
                                 base_url = _get_assets_base_url().rstrip("/")
-                                safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+
+                                # Look up the language-specific video_prefix (e.g. 'India')
+                                _, vid_prefix = DataFactory._get_media_config(res_cosmos_lang)
+                                if vid_prefix and not path_no_ext.startswith(vid_prefix):
+                                    safe_path = "/".join(quote(s) for s in ([vid_prefix] + path_no_ext.split("/")))
+                                else:
+                                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
                                 video_url = f"{base_url}/videos/{safe_path}.mp4"
                                 
                                 q["link"] = video_url
@@ -2264,12 +2287,19 @@ class ResourceMigrator:
                             elif link_val.startswith("image:/"):
                                 from configs import _get_assets_base_url
                                 from urllib.parse import quote
+                                from factories import DataFactory
                                 import os
                                 
                                 path = link_val[len("image:/"):]
                                 path_no_ext = os.path.splitext(path)[0]
                                 base_url = _get_assets_base_url().rstrip("/")
-                                safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+
+                                # Look up the language-specific image_prefix
+                                img_prefix, _ = DataFactory._get_media_config(res_cosmos_lang)
+                                if img_prefix and not path_no_ext.startswith(img_prefix):
+                                    safe_path = "/".join(quote(s) for s in ([img_prefix] + path_no_ext.split("/")))
+                                else:
+                                    safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
                                 image_url = f"{base_url}/images/{safe_path}.png"
                                 
                                 q["link"] = image_url
