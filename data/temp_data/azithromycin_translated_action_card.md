@@ -1,29 +1,27 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indication and usage
 
-एज़िथ्रोमाइसिन एक ब्रॉड-स्पेक्ट्रम मैक्रोलाइड एंटीबायोटिक है, जिसका उपयोग विभिन्न बैक्टीरियल संक्रमणों के उपचार के लिए किया जाता है।
+Azithromycin is a macrolide antibiotic used to treat a variety of bacterial infections.
 
-मैनुअल वैक्यूम एस्पिरेशन (एमवीए) या मेडिकल एबॉर्शन (एमएमए) से पहले प्रोफिलैक्टिक एंटीबायोटिक के रूप में दिया जाता है।
+# Dosage and Administration
 
-# डोज़ और देने की विधि
+## Antibiotic prophylaxis for surgical abortion
 
-## सर्जिकल एबॉर्शन के लिए एंटीबायोटिक प्रोफिलैक्सिस
+Before the procedure, administer a single dose of:
 
-एमवीए प्रक्रिया से पहले 1 ग्राम का सिंगल ओरल  खुराक रिकम्मेंडेड  की जाती है।
+Azithromycin 500 mg orally
 
-मेडिकल एबॉर्शन (एमएमए ) के साथ खुराक: 500 मिलीग्राम ओरल, दिन में एक बार, तीन दिनों तक।
+# Contraindications
 
-# कॉन्ट्राइंडिकेशन्स
+Hypersensitivity to any macrolide drugs
 
-हाइपरसेंसिटिविटी टू एनी मैक्रोलाइड ड्रग्स
+Previous jaundice or liver problems caused by taking azithromycin
 
-प्रीवियस जॉन्डिस या लिवर प्रॉब्लम्स कॉज़्ड बाय टेकिंग एज़िथ्रोमाइसिन
+# Adverse reactions
 
-# एडवर्स रिएक्शन्स
+Common side effects include nausea, diarrhoea, vomiting, loss of appetite, headaches, feeling dizzy or tired.
 
-सामान्य एडवर्स रिएक्शन्स : नौजिया, दस्त, उल्टी, भूख में कमी, सिरदर्द, चक्कर या थकान महसूस होना शामिल हैं।
+Serious side effects are rare and include irregular heartbeat (arrhythmia), signs of liver or gallbladder problems (such as skin turning yellow or dark urine), tinnitus, severe stomach pain, and diarrhoea that contains blood.
 
-सीवियर एडवर्स रिएक्शन्स : बहुत ही कम होते हैं और इनमें अनियमित हार्टबीट (एरिथ्मिया), लिवर या गॉलब्लैडर की समस्या के लक्षण (जैसे त्वचा का पीला होना या पेशाब का गहरा रंग), टिनिटस, तेज पेट दर्द, खून वाला दस्त शामिल हो सकते हैं।
-
-बहुत ही रेयर मामलों में एज़िथ्रोमाइसिन से गंभीर एलर्जिक रिएक्शन (एनेफिलैक्सिस) संभव है।
+In rare cases it is possible to have a serious allergic reaction (anaphylaxis) to azithromycin.
 
 ---

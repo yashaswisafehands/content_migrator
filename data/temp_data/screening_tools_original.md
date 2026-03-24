@@ -16,7 +16,7 @@ If the score is significant, or other signs or risk factors for PMH are present,
 
 Many women under-report their stress levels. It is therefore important to use screening tools together with history taking and clinical judgment.
 
-![Image](38826dd1e7d9492589f6e7e76c6e2a61)
+![Image](f62d44003d6540808996505bf4ddf7cb)
 
 ---
 
@@ -28,7 +28,7 @@ The GAD-2 is a brief and easy to use initial screening tool for Generalized Anxi
 
 A score of 3 points is the recommended cut-off for identifying possible cases and in which further diagnostic evaluation for generalized anxiety disorder is indicated.
 
-![Image](2ae08d2cdd8344eda5eeae9573759a97)
+![Image](72b82f75b32940b9862fe6854e5d42f4)
 
 ---
 
@@ -40,6 +40,6 @@ Scores of 5, 10, and 15 represent cut-points for mild, moderate, and severe anxi
 
 When used as a screening tool, further evaluation is recommended when the score is 10 or greater.
 
-![Image](e1add30ddd264599a6eb4478253e3930)
+![Image](3342b0ba9e354b019aadaa3b94c50e1a)
 
 ---

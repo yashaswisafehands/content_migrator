@@ -24,14 +24,14 @@ Referral note.
 
 ## Essential emergency drugs:
 
-- **Oxytocin**(alternatively m**isoprostol**) for treatment of post partum haemorrhage
-- **Hydralazine** for IV treatment of elevated blood pressure
-- **Magnesium sulphate** for eclampsia
-- **Calcium gluconate** for intoxication with **Magnesium sulphate**
-- **Ampicillin**, g**entamicin**and  m**etronidazole** for infections
-- **Diazepam** for pain relief
-- **Phenobarbital** for the newborn in case of convulsions
-- **Adrenaline** for the newborn in case of cardiac arrest
+- **Oxytocin**(alternatively m**isoprostol**) for treatment of post partum haemorrhage.
+- **Hydralazine** for IV treatment of elevated blood pressure.
+- **Magnesium sulphate** for eclampsia.
+- **Calcium gluconate** for intoxication with **Magnesium sulphate.**
+- **Ampicillin**, **gentamicin**and  **metronidazole** for infections.
+- **Diazepam** for pain relief.
+- **Phenobarbital** for the newborn in case of convulsions.
+- **Adrenaline** for the newborn in case of cardiac arrest.
 
 ## Supplies:
 
@@ -46,7 +46,7 @@ Referral note.
 
 ### During Transport
 
-![Image](1f08910072824d3dae9da6780fa75aea)
+![Image](e18bf99b9b1d4c1f9b58327e9cff054b)
 
 Observe vital signs and level of consciousness.
 

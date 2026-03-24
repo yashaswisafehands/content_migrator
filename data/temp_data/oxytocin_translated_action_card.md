@@ -1,39 +1,37 @@
-# Chapter: इन्डिकेशन्ज़ और उपयोग
+# Chapter: Indications and usage
 
-ओक्सीटोसिन पिट्यूट्री ग्लैन्ड का हाॅर्मोन है।
+Oxytocin is a pituitary gland hormone.
 
-ओक्सीटोसिन इंजेक्शन का उपयोग प्रसव के तीसरे चरण में गर्भाशय को संकुचित करने और पीपीएच को नियंत्रित करने के लिए किया जाता है।
+Oxytocin injection is indicated to produce uterine contractions during the third stage of labor and to control postpartum haemorrhage.
 
-# डोज़ और देने की विधि
+# Dosage and administration
 
-पीपीएच से बचाव के लिए (सभी डिलिवर कर चुकी महिलाओं में):
+**Prevention of postpartum haemorrhage** (recommended for all women immediately after birth, after checking for multiple pregnancy):
 
-10 आईयू (1 मि.ली.) ऑक्सिटोसिन को बच्चे के जन्म के तुरंत बाद इंट्रामस्क्युलर (आईएम) रूप से दें।
+Oxytocin 10 units IU (1 ml) IM/IV
 
-**पीपीएच का उपचार :**
+**Treatment of postpartum haemorrhage:**
 
-1 लीटर इंट्रावेनस फ्लूइड (नॉर्मल सलाइन या रिंगर लैक्टेट) में 20 आईयू ऑक्सिटोसिन मिलाकर, 40–60 ड्रॉप प्रति मिनट की दर से दें।
+Oxytocin 20 IU in 1 L diluent (normal saline or Ringer’s lactate) IV as fast as possible (STAT)
 
-**इंट्रावेनस डोज़ जारी रखें:**
+**Maintenance IV dose:**
 
-1 लीटर आईवी फ्लूइड में  20 आईयू ऑक्सिटोसिन मिलाकर 40–60 ड्रॉप प्रति मिनट की दर से दें।
+Oxytocin 20 IU in 1 L of normal saline or Ringer’s lactate IV at 40 drops/minute.
 
-**अधिकतम डोज़:**
+**Maximum dose:**
 
-24 घंटे में ऑक्सिटोसिन की कुल डोज़ 100 आईयू से अधिक न दें।
+Do not exceed 3 litres of IV fluids containing oxytocin.
 
-ऑक्सिटोसिन तापमान के प्रति संवेदनशील दवा होती है और 30°C (86°F) से अधिक तापमान पर तीन महीने से ज़्यादा रखने पर इसकी प्रभावशीलता कम हो जाती है।
+Store oxytocin at a temperature between 2 and 8°C.
 
-ऑक्सिटोसिन को 2 से 8°सेल्सियस तापमान पर स्टोर करें।
+# Contraindications
 
-# कॉन्ट्राइंडिकेशन्स
+Hypersensitivity to oxytocin.
 
-ऑक्सिटोसिन के प्रति हाइपरसेंसिटिविटी
+# Adverse reactions
 
-# एडवर्स रिएक्शन्स
+Common adverse reactions are cardiac arrhythmia, nausea, and vomiting.
 
-सामान्य एडवर्स रिएक्शन्स: गर्भाशय के तेज़ या बार-बार संकुचन, नौजिया, उल्टी, पेट दर्द और भूख में कमी।
-
-गंभीर एडवर्स रिएक्शन्स: दिल की धड़कन की अनियमितता, दौरे पड़ना, भ्रम या उलझन, मतिभ्रम (हैलुसिनेशन), रक्तचाप का अत्यधिक बढ़ना और धुंधला दिखाई देना।
+Rare complications are severe water intoxication (which can lead to convulsions, coma and even death), anaphylactic reaction and the loss of clotting factors (fibrinogen) in the blood leading to bleeding complications.
 
 ---

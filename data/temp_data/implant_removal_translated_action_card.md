@@ -1,49 +1,43 @@
-# Chapter: इम्प्लांट निकलना
+# Chapter: Implant removal
 
-महिला के अनुरोध पर इम्प्लांट को बिना देरी हटाया जाना चाहिए, चाहे वह मासिक धर्म चक्र में कहीं भी हो। इम्प्लांट हटाने के तुरंत बाद उसकी फर्टिलिटी वापस आ जाती है। पहले महिला की इच्छा को पुष्टि करें और प्रक्रिया समझाएँ।
+Implants should be removed when its effectiveness expires or on the woman’s request. It can be removed anytime regardless of where she is in her menstrual cycle. Her fertility will return immediately following removal.
 
-## स्टेराइल उपकरण
+## Sterile equipment
 
-- स्टेराइल ट्रे
-- रिंग/स्पॉन्ज होल्डिंग फोर्सेप्स
-- मस्किटो फोर्सेप्स – स्ट्रेट और कर्व्ड
-- बाउल (कॉटन बॉल्स के साथ)
-- स्टेराइल स्कैलपेल (11 नंबर ब्लेड के साथ)
-- स्टेराइल गॉज़
-- स्टेराइल कट शीट
-- स्टेराइल दस्ताने
-- नया इम्प्लांट (यदि एक साथ रीइंसर्शन करना हो)
+- Sterile surface
+- Ring forceps
+- Curved forceps
+- Sterile gloves
+- Metal bowl with cotton balls
+- Scalpel
+- Syringe with needle
+- Gauze
+- Bandage
 
-![Image](7fef150fd121470cb13e83665c4116f1)
+![Image](6dc1ff449c7547f4a319cec6308d73f4)
 
-## अन्य उपकरण:
+## Non-sterile equipment
 
-- मार्कर पेन
-- मेज़रिंग स्केल
-- एंटिसेप्टिक सॉल्यूशन
-- प्रेशर बैंडेज
-- 1% लिग्नोकेन वाली सिरिंज (22 गेज नीडल के साथ)
-- सर्जिकल एडहेसिव टेप
+- Pen
+- Antiseptic solution
+- Local anaesthetic (1% lidocaine)
 
-## रिमूवल प्रक्रिया
+## Removal procedure
 
-1. यह जांचें कि जिस हाथ में इम्प्लांट डाला जाएगा वह साफ है या नहीं। यदि नहीं, तो महिला से कहें कि वह साबुन और पानी से हाथ धोकर सुखा ले।
-2. महिला को पीठ के बल लिटाएँ, उसकी बांह को कोहनी से मोड़ें और हाथ को सिर के पीछे रखें।
-3. इम्प्लांट को महसूस कर उसकी स्थिति निर्धारित करें और कोहनी के पास वाले यानि डिस्टल टिप को मार्क करें।
-4. जब तक इम्प्लांट का सटीक स्थान पहचान न लें, उसे निकालने का प्रयास न करें।
-5. हाथ धोएं और स्टेराइल दस्ताने पहनें।
-6. त्वचा को एंटीसेप्टिक सोल्यूशन से साफ़ करें।
-7. इम्प्लांट के डिस्टल टिप के ठीक नीचे, चीरे की जगह पर लगभग 0.5 -1 मिलीलीटर 1% लिग्नोकेन त्वचा के नीचे इंजेक्ट करें, और 2 मिनट इंतज़ार करें।
-8. त्वचा को समतल रखते हुए इम्प्लांट के निचले सिरे 2 मिलीमीटर का लंबाई में चीरा लगाएँ। 
-9. उंगली की सहायता से इम्प्लांट को चीरे की ओर धीरे-धीरे दबाएँ और जब टिप दिखाई दे, तो उसे मोस्कीटो फोर्सेप्स से पकड़ें और बाहर निकालें। 
-10. यदि इम्प्लांट इनकैप्सुलेटेड है, तो धीरे-धीरे स्केलपेल का उपयोग करके आस-पास के फाइब्रस टिशू को खोलें।
-11. इम्प्लांट के दूसरे सिरे पर हल्का दबाव डालने से यह कैप्सूल से ‘पॉप’ आउट यानि बाहर निकल आता है।
-12. जब इम्प्लांट का कुछ हिस्सा दिखाई दे, तो दूसरे मोस्कीटो फोरसेप्स से पकड़कर उसे पूरी तरह बाहर निकालें।
-13. अगर इम्प्लांट का टिप बिलकुल दिखाई नहीं दे रहा हो, तो कर्व मोस्कीटो फोर्सेप्स को चीरे के अंदर डालें, फिर इंप्लांट को पकड़ें और फोर्सेप्स को महिला के कंधे की दिशा में पलटें। इंप्लांट के चारों ओर के फाइब्रस टिशू को अलग करने और उसे निकालने के लिए दूसरे मोस्कीटो फोरसेप्स का उपयोग करें।
-14. सुनिश्चित करें कि निकाला गया इंप्लांट पूरा है, और इसे महिला को दिखाएं। यदि महिला को नया इंप्लांट लगवाना है, तो उसे उसी साईट पर या इच्छानुसार किसी अन्य साईट पर डाला जा सकता है।
-15. ब्लीडिंग की जांच करें। एंटीसेप्टिक लगाएं, स्टेराइल ड्रेसिंग करें और उस पर प्रेशर बैंडेज बांधें।
-16. यदि इंप्लांट को पकड़ना संभव न हो, तो प्रक्रिया रोक दें और महिला को किसी अनुभवी स्वास्थ्यकर्मी या उच्चतर स्वास्थ्य केंद्र में रेफर करें।
+1. Gently locate the implant and mark the end closest to the elbow on the woman’s skin. Pushing down on the other end should cause the implant to ‘pop-up’ (If implant cannot be felt, refer the woman for localization and removal). 
+2. Do not attempt to remove the implant until its exact location is identified.  
+3. Follow infection prevention technique.  
+4. Clean the skin with antiseptic solution. 
+5. Inject a small amount of local anaesthetic under the skin at the incision site and wait for 2-3 minutes. 
+6. Make a shallow 4 mm incision in the skin close to the end of the implant, keeping the skin flat.
+7. Gently push the implant towards the incision and use curved forceps to grasp it when the tip of it becomes visible.
+8. With a scalpel, open the fibrous tissue capsule around the implant rod.
+9. Apply light pressure on the other end of the implant. This will cause it to ‘pop’ out of the capsule.
+10. Pull out the implant rod gently with the forceps.
+11. If more rods are there, push and remove them also through the same incision.
+12. Cover site with a plaster and apply sterile gauze and compress to minimize bruising (stitches are not required).
+13. If the woman needs a new implant, place it above or below the previous incision or in the other arm.
 
-![Image](b216c42963ea43d38fa5cbedb12838e6)
+![Image](2a226ccb894948da93a3328c85a75121)
 
 ---

@@ -22,7 +22,7 @@ Increasing evidence on the safety and effectiveness of COVID-19 vaccination duri
 
 COVID-19 vaccination before or during pregnancy is especially important for pregnant women at highest risk from COVID-19, such as frontline health workers, people living in areas of high transmission, and those with health conditions like hypertension (high blood pressure) and diabetes that add to their risk of severe disease.
 
-![Image](8707eb31c24246de8d3022d695c1e60d)
+![Image](89763ac0adba4e74a0822c4c1d33c04c)
 
 Please be advised that COVID-19 is a rapidly evolving situation. This guidance will be updated continuously in accordance with WHO guidelines.  
 
@@ -36,7 +36,7 @@ Latest update: July 7, 2022
 
 Discussion with health care providers can help pregnant women inform their decision about receiving the vaccine and assess personal risks and benefits.
 
-![Image](8707eb31c24246de8d3022d695c1e60d)
+![Image](89763ac0adba4e74a0822c4c1d33c04c)
 
 Pregnant women who decline vaccination should be supported in their decision.
 
@@ -60,7 +60,7 @@ None of the currently approved vaccines use the live virus, so there is no risk 
 
 There is some evidence that, after vaccination, antibodies are found in the breastmilk, which may help protect the baby against COVID-19.
 
-![Image](3e078706311c4b1fad615943872fcd18)
+![Image](46fbcc3487214261a1195479331326db)
 
 Please be advised that COVID-19 is a rapidly evolving situation. This guidance will be updated continuously in accordance with WHO guidelines.  
 

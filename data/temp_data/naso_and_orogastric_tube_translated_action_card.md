@@ -1,46 +1,35 @@
-# Chapter: नेसो- और ओरोगैस्ट्रिक ट्यूब - उपयोग
+# Chapter: Naso- and Orogastric Tube - Usage
 
-नेसोगैस्ट्रिक (एनजी) या ओरोगैस्ट्रिक (ओजी) ट्यूब शिशु के पेट और उसके पदार्थों तक पहुँच प्रदान करती है, और इसका उपयोग शिशुओं को एंटरल फीडिंग देने के लिए भी किया जा सकता है।
+A nasogastric (NG) or orogastric tube (OG) provides access to the stomach and its contents.
 
 NG/OG tubes can also be used for enteral feeding of infants.
 
-यह गैस्ट्रिक कंटेंट निकालने, पेट का दबाव कम करने, गैस्ट्रिक कंटेंट का सैंपल प्राप्त करने, या जीआई ट्रैक्ट में मार्ग स्थापित करने में मदद करता है।
+It also enables you to drain gastric contents, decompress the stomach, obtain a specimen of the gastric contents, or introduce a passage into the  gastrointestinal (GI) tract.
 
-सभी आवश्यक उपकरण नेसो - या ओरोगैस्ट्रिक ट्यूब शुरू करने से पहले तैयार, एकत्रित और टेबल पर उपलब्ध होने चाहिए।
+All necessary equipment should be prepared, assembled and available at the table prior to starting the naso- or orogastric tube.
 
-उपकरण और सामग्री:
+Basic equipment includes:
 
-- पर्सनल प्रोटेक्टिव इक्विपमेंट
-- नेसो और ओरोगैस्ट्रिक ट्यूब 5–6 फ्रेंच
-- एस्पिरेशन के लिए 2-5 मि.ली. सिरिंज
-- फीडिंग के लिए स्टेराइल 10 मि.ली. या 20 मि.ली. सिरिंज
-- कैथेटर टिप इरिगेशन के लिए 60 मि.ली. सिरिंज
-- नॉर्मल सलाइन
-- कैंची
-- किडनी डिश या बाउल
-- एडहेसिव टेप
-- पीडियाट्रिक स्टेथोस्कोप
+- Personal protective equipment
+- NG/OG tube
+- Catheter tip irrigation 60 ml syringe
+- Water-soluble lubricant, preferably 2% **Xylocaine jelly**. Alternatively use water.
+- Adhesive tape
+- Stethoscope
+- pH indicator strips
 
 ---
 
-# Chapter: नेसो और ओरोगैस्ट्रिक ट्यूब - प्रैक्टिकल जानकारी
+# Chapter: Naso- and Orogastric tube - Practical information
 
-## नेसो और ओरोगैस्ट्रिक टूयूब - डालने की विधि :
+## Insertion of a naso- or orogastric tube:
 
-- शिशु की गर्भावधि और वजन के अनुसार 5–6 फ्रेंच का कैथेटर लें।
-- **ओरोगैस्ट्रिक टूयूब के लिए :** मुँह के कोने से ट्रैगस तक, और वहाँ से नाभि व ज़िफ़िस्टरनम के बीच के मध्य बिंदु तक की लंबाई मापें।
-- **नेसोगैस्ट्रिक ट्यूब के लिए:**नाक की टिप से ट्रैगस तक, और फिर वहाँ से नाभि और ज़िफ़िस्टरनम के बीच के मध्य बिंदु तक की लंबाई मापें।
-- ट्यूब को मुँह/नाक के माध्यम से तब तक डालें जब तक कि  वह निर्धारित लंबाई तक अंदर न पहुँच जाए।
-- सिरिंज और स्टेथोस्कोप का उपयोग करके हवा की आवाज़ (गश ऑफ़ एयर) सुनकर ट्यूब की पोज़िशन जाँचें।
-- ट्यूब को मुँह के साइड में टेप से चिपकाएँ, और सिरिंज निकालने के बाद ट्यूब के बाहरी सिरे को बंद कर दें।
-- **फीड देने की प्रक्रिया:**10 मि.ली. की सिरिंज का बैरल लें (प्लंजर के बिना)।फीडिंग ट्यूब के खुले सिरे में सिरिंज की नोज़ल लगाएँ।सिरिंज में दूध डालें और ग्रेविटी के सहारे उसे धीरे-धीरे नीचे जाने दें।
-- फीड देने के बाद, खुले सिरे को बंद कर दें।
-- नवजात शिशु को रिगर्जिटेशन से बचाने के लिए 15–20 मिनट के लिए राइट लेटरल स्थिति में रखें।
-- गवाज़ फीड के बाद शिशु को बर्प कराने की आवश्यकता नहीं होती।
-- अगली फीडिंग सेशन में एब्डोमिनल गर्थ जांचें और यदि गर्थ में कोई वृद्धि न हो तो फीडिंग जारी रखें।
-- यदि एब्डोमिनल गर्थ 2 सेमी बढ़ जाए, तो प्री-फीड गैस्ट्रिक एस्पिरेट कर मात्रा और कंटेंट्स का विश्लेषण करके फीड जारी रखने या रोकने का निर्णय लें।
-- फीडिंग ट्यूब निकालते समय इसे दबाकर रखें और धीरे-धीरे बाहर खींचें।
-- फीड देने से पहले हमेशा ट्यूब की स्थिति की पुष्टि करें।
-- <color style="blue">**सामान्य प्री-फीड गैस्ट्रिक एस्पिरेट्स की सलाह नहीं दी जाती।**</color>
+- Nasogastric tube: Holding the tip of the tube against the child´s nose, measure the distance to the ear lobe, then to the xiphisternum (epigastrium). Mark the tube at this point. 
+- Orogastric tube: Holding the tip of the tube against the child's mouth, measure the distance to the ear lobe, then to the xiphisternum (epigastrium). Mark the tube at this point.
+- Hold the child firmly. Lubricate the tip of the catheter with water, and pass it directly into one nostril (nasogastric) or the mouth (orogastric), pushing it slowly in. It should pass easily down into the stomach without resistance. When the measured distance is reached, fix the tube with tape at the nose/mouth).
+- Aspirate a small amount of stomach contents with a syringe to confirm that the tube is in place (if available check that it turns blue lithmus paper pink). If no aspirate is obtained, inject air down the tube and listen over the abdomen with a stethoscope. 
+- If there is any doubt about the location of the tube, withdraw it and start again. 
+- When the tube is in place, fix a 20 ml syringe (without the plunger) to the end of the tube, and pour food or fluid into the syringe, allowing it to flow by gravity. 
+- If oxygen therapy is to be given by nasopharyngeal catheter at the same time, pass both tubes down the same nostril and try to keep the other nostril patent by wiping away crusts and secretions, or pass the feeding tube through the mouth.
 
 ---

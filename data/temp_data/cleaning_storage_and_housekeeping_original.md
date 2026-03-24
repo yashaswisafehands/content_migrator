@@ -7,7 +7,7 @@
 5. All items should be individually inspected and visibly clean. 
 6. Rinse items with clean, running water and air-dry before sterilization or high-level disinfection.
 
-![Image](9d47348227bb40e58ee3c2190734d4d9)
+![Image](f65694671ba84cf180a48a69029c4a71)
 
 ---
 
@@ -25,7 +25,7 @@ Arrange cleaning and storage so that items flow in an organized way, from contam
 
 Keep dirty and clean areas separated.
 
-![Image](fb9a7cb56acc4c188c780c4ded0ceccf)
+![Image](304cbc5168b34aed89985c3665abb3f5)
 
 ---
 
@@ -35,7 +35,7 @@ Clean high-risk areas with solutions of detergent and water.
 
 Dry off with a clean dry cloth and wipe over with 70% alcohol.
 
-![Image](c90d2e7754bc46cbaa697ccacee54779)
+![Image](3e0c60ec396f4b2ab2ac69b96e08418f)
 
 Clean the washable bed, table, delivery bed, walls, ceiling, floor, and toilet.
 
@@ -43,6 +43,6 @@ Always clean the delivery bed, even if there was no birth.
 
 Consistent and disciplined hygiene practices prevent the spread of germs.
 
-![Image](27c1715eb83f4401a95fe0f39fb03df5)
+![Image](8091b4e395df437c80ff97d7e3de5260)
 
 ---

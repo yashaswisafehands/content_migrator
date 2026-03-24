@@ -8,7 +8,7 @@
 4. **Distance:** Stay at least one metre distance from others - avoid physical contact (e.g., shaking hands, hugging, or kissing). 
 5. **Feel:** If you feel unwell, stay home.
 
-![Image](d5959e920f044e01920338c488159388)
+![Image](12026827347146258949f886dc9ff572)
 
 *Alcohol-based handrub is the fastest and most effective hand hygiene method and better tolerated by your skin than handwash.
 

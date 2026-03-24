@@ -1,6 +1,6 @@
 # Chapter: Short Acting Reversible Contraceptives (SARCs)
 
-![Image](469be068bf7b4a85a6c32b6bd4e866d6)
+![Image](b16e3da207cb447ea83036ab9fee21b1)
 
 Condoms - can be used as soon as sexual activity resumes.
 
@@ -23,7 +23,7 @@ Combined Oral Contraceptives (COCs), Injectables (MPA – Medroxyprogesterone Ac
 
 # Chapter: Long Acting Reversible Contraceptives (LARCs)
 
-![Image](c9b87f9d7ef94b47bbb7473772ffcbf4)
+![Image](51ff84c05f514468aaf98dfa067c0628)
 
 ## 1. Implant
 
@@ -71,7 +71,7 @@ Combined Oral Contraceptives (COCs), Injectables (MPA – Medroxyprogesterone Ac
 - Minilap can be done immediately or up to 7 days post-expulsion, if no infection/severe bleeding.
 - Laparoscopic sterilization is not recommended.
 
-![Image](2c219d5ba1c145b4a8ed485bfc86e280)
+![Image](65b4888fbfc247438c8db1ba22f7ef42)
 
 ## 2. Male Sterilization
 

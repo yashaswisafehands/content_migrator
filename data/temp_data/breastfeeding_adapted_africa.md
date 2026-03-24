@@ -36,11 +36,11 @@ The newborn is well attached to the mother’s breast when:
 - Lower lip is turned outward.
 - More areola is visible above than below the mouth.
 
-![Image](3e078706311c4b1fad615943872fcd18)
+![Image](46fbcc3487214261a1195479331326db)
 
 ### Wrong attachment
 
-![Image](c1db107eb99f4455917fa02566fa2c2f)
+![Image](3400e7c424c14b008444c0bb0f2c7455)
 
 Exclusive breastfeeding for 6 months; continue breastfeeding for two years.
 

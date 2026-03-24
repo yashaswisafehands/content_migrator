@@ -13,7 +13,7 @@ Expressing and storing breast milk is important for small and low birth weight (
 
 The main steps of manual expression of breast milk shown in the figure below.
 
-![Image](a0bec90a7c454f42812bac541335e579)
+![Image](86a90bc6bb0445638d7b6c98513662e7)
 
 ## Storage
 

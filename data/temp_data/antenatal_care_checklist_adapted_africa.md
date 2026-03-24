@@ -4,7 +4,7 @@
 
 Regular antenatal care throughout the antenatal period improves health outcomes for both women and newborns.
 
-![Image](f113f2caa347487ba7d80b30c398500f)
+![Image](6b0b2a01c5994774bd769c8e94c5e471)
 
 A minimum of 8 antenatal care contacts is recommended to prevent and identify complications and take appropriate action.
 
@@ -26,7 +26,7 @@ Women, who have not given birth by their expected due date, should return for an
 - Ask about exposure to tobacco, second-hand smoke, use of alcohol or other substances.and depression)..
 - In privacy, ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card on Violence against women).
 
-![Image](dfa207d8f64d44d9a81049c488532513)
+![Image](17a1684a1d794a9b8484383b73b34c87)
 
 **Examine**
 
@@ -41,7 +41,7 @@ Women, who have not given birth by their expected due date, should return for an
 - Glucosuria
 - Bacteriuria
 
-![Image](3fa98a55e5a24c80ac0421d5b251f3d6)
+![Image](321cac7b6ca74a1c841ddfd99083c9b1)
 
 <color style="blue">Blood </color>
 
@@ -51,7 +51,7 @@ Women, who have not given birth by their expected due date, should return for an
 - Syphilis 
 - Tuberculosis (if relevant)
 
-![Image](b09ea2685cfb4d01b04de5a9f0262786)
+![Image](5209fef383c647b4be8d464864732cf6)
 
 **Treat/Refer**
 Follow local guidelines for referral and management of any abnormal findings.
@@ -63,7 +63,7 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Covid-19 vaccination 
 - Tetanus toxoid vaccination
 
-![Image](53fee6f8a2544c82aa73e13fb543d355)
+![Image](e8d9fe7714a04eccbabd8aa1def851c0)
 
 <color style="blue">Context specific:</color>
 
@@ -103,7 +103,7 @@ See 'Normal Labour & Birth' practical procedures for calculation of EDD and gest
 - Exposure to tobacco, second-hand smoke, and use of alcohol and other substances.
 - Ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card 'Violence against women' for further information).
 
-![Image](dfa207d8f64d44d9a81049c488532513)
+![Image](17a1684a1d794a9b8484383b73b34c87)
 
 ## Examine
 
@@ -120,7 +120,7 @@ See 'Normal Labour & Birth' practical procedures for calculation of EDD and gest
 - Miscarriage/Stillbirth
 - Gestational diabetes
 
-![Image](d0ec6478ae7c47ee83a7f2de4a8e6d9b)
+![Image](9d35db01c2444bdf927f003e3c3b26d1)
 
 <color style="blue">Foetal examination:</color>
 
@@ -128,7 +128,7 @@ See 'Normal Labour & Birth' practical procedures for calculation of EDD and gest
 - Measure symphysial-fundal height (from week 24)
 - Ask about foetal movements (from week 28)
 
-![Image](9b0dbf63b01c4a13922ce3a8c1e1206a)
+![Image](31cb4ded188e4b9bb363b040cd48787b)
 
 ## Screen or Test
 
@@ -138,13 +138,13 @@ See 'Normal Labour & Birth' practical procedures for calculation of EDD and gest
 - Glucosuria
 - Bacteriuria
 
-![Image](3fa98a55e5a24c80ac0421d5b251f3d6)
+![Image](321cac7b6ca74a1c841ddfd99083c9b1)
 
 <color style="blue">Blood </color>
 
 - Haemoglobin (week 26)
 
-![Image](b09ea2685cfb4d01b04de5a9f0262786)
+![Image](5209fef383c647b4be8d464864732cf6)
 
 **Treat/Refer**
 Follow local guidelines for referral and management of any abnormal findings.
@@ -161,7 +161,7 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Exposure to tobacco, second-hand smoke, and use of alcohol and other substances.
 - Ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card 'Violence against women' for further information).
 
-![Image](a52a17b78a84443785e9f7b6fd420aaa)
+![Image](f2d9a94283914565979337c073ba738c)
 
 ## Examine
 
@@ -186,9 +186,9 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Palpate for multiple pregnancy 
 - Palpate for malposition (from week 34)
 
-![Image](e0003ed0e4274e99b8052adbc51f934b)
+![Image](83b699fbe4634e498cee44569d10c9af)
 
-![Image](83c0f382044c4d168dee75647135bc10)
+![Image](aca266cfc3eb47928eb0ff5d9c2dbdf1)
 
 ## Screen/Test
 

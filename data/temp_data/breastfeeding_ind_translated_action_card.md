@@ -1,52 +1,50 @@
-# Chapter: स्तनपान
+# Chapter: Breastfeeding
 
-- सभी नवजात शिशुओं को 6 महीने की आयु तक केवल स्तनपान कराना चाहिए।
-- प्रसव के बाद जल्द से जल्द स्तनपान शुरू करना अति आवश्यक है।
-- नवजात शिशु को दिन और रात में (24 घंटे में) कम से कम 8-10 स्तनपान कराना चाहिए और किसी भी रात के फीड कभी न छोड़ें।
+- All newborns must be exclusively fed breast milk till the age of 6 months.
+- It is essential to establish breastfeeding, as soon as possible after delivery.
+- A newborn should be fed at least 8-10 times during the day and night (in 24 hours) and should not omit any night feeds.
 
-## प्रैक्टिकल जानकारी
+## Practical Information
 
-हमेशा सुनिश्चित करें कि नवजात क्लिनिकली स्थिर और सतर्क हो।
+Always ensure that the newborn is clinically stable and alert.
 
-सुनिश्चित करें कि माँ आरामदायक स्थिति में हो और सहज हो।
+Make sure that mother is in a comfortable position and relaxed.
 
-स्तन और निप्पल की सफाई के लिए माँ को सलाह दें।
+Advice for cleaning of nipple and breast. 
+Inspect breasts for sore nipples, cuts and engorgement.
 
-स्तनों की जाँच करें कि कहीं निप्पल में घाव, कट या सूजन तो नहीं है।
+**Describe and ensure correct position:**
 
-**सही स्थिति को समझाएँ और सुनिश्चित करें:**
+- Newborn’s body is well supported. 
+- Head, neck and the body of the newborn are kept in same plane.
+- Entire body of the newborn faces to the mother.
+- Newborn’s abdomen touches mother’s abdomen.
 
-- नवजात शिशु के शरीर को पूरा सहारा मिला हो। 
-- नवजात शिशु का सिर, गर्दन और शरीर एक सीधी रेखा में हों।
-- नवजात शिशु का पूरा शरीर माँ की ओर (सामने ) हो।
-- नवजात शिशु का पेट माँ के पेट से संपर्क में हो।
+**Describe and ensure correct attachment**
 
-**सही जुड़ाव (अटैचमेंट)**
-**समझाएँ और सुनिश्चित करें।**
+The newborn is well attached to the mother’s breast when:
 
-नवजात शिशु माँ के स्तन से अच्छी तरह लगा (अटैच) होता है, जब:
+![Image](4ac17aecc4684a6b9bd0db18818e27a5)
 
-![Image](b702371c3e52490ba5afa9d02ab332e4)
+- Chin is touching the breast.
+- Mouth is wide open.
+- Lower lip is turned outward.
+- More areola is visible above than below the mouth.
 
-- ठोड़ी स्तन को छू रही हो।
-- मुँह पूरी तरह खुला हो।
-- निचला होंठ बाहर की ओर मुड़ा हो।
-- मुँह के ऊपर की ओर एरिओला नीचे की तुलना में अधिक दिखाई दे।
+**Poor or wrong attachment usually leads to problems such as:**
 
-**गलत या कमजोर जुड़ाव (अटैचमेंट) आमतौर पर निम्न समस्याओं का कारण बनता है:**
+![Image](3a4dfa3f19a94c16a71da7bf6cf6dca5)
 
-![Image](bf9c59b7c93940e6b29a22b09903a6a0)
+- Sore nipple.
+- Breast engorgement.
+- Poor milk supply.
+- Breast produces less milk resulting frustrated newborn and refusal to suck.
+- Poor weight gain.
 
-- निप्पल में दर्द
-- स्तन में सूजन या एंगोर्जमेंट
-- दूध की अपर्याप्त सप्लाई
-- स्तन कम दूध बनाता है, जिससे नवजात चिड़चिड़ा हो जाता है और चूसने से मना कर सकता है।
-- वजन बढ़ने में कमी
+Describe and ensure effective suckling- slow, deep sucks with pauses.
 
-सकलिंग की प्रभावी प्रक्रिया को समझाएँ और सुनिश्चित करें — जिसमें धीमे, गहरे चूसने के साथ बीच-बीच में ठहराव हों।
+Counsel on advantages of colostrum feeding and advantage of exclusive breastfeeding.
 
-कोलोस्ट्रम (पहला गाढ़ा पीला दूध) पिलाने के लाभों और केवल स्तनपान (एक्सक्लूसिव ब्रेस्टफीडिंग) के लाभों के बारे में परामर्श दें।
-
-माँ को सही आहार, पर्याप्त विश्राम और तनावमुक्त वातावरण के बारे में परामर्श दें।
+Counsel regarding correct diet, adequate rest and stress-free environment.
 
 ---

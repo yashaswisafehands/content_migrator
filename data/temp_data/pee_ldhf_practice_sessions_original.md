@@ -37,7 +37,7 @@ everyone the chance to learn by carefully reviewing what happened. Coordinators 
 # Chapter: Session 1: Creating a PE&E emergency kit and 
 referral plan
 
-![Image](c5e4e5d81c8549e599ccbefe414d2a5f)
+![Image](969f14d29ec2401c87d26a4c1886a258)
 
 ## 15 – 30 minutes
 
@@ -92,7 +92,7 @@ For facilities that refer for any reason, review the referral plan. Be sure to p
 
 # Chapter: Session 2: Blood pressure (BP) measurement and testing reflexes
 
-![Image](7be756ddd0da4d5e86fa42eaeab682da)
+![Image](1aa65d7a77494040812f60f5f7fe9b97)
 
 ## 10 minutes
 
@@ -149,7 +149,7 @@ Once providers successfully elicit reflexes a few times, switch roles. If someon
 
 # Chapter: Session 3: Labor Role Play
 
-![Image](0afcb104296b43788e3b904736065920)
+![Image](beb7f396bd4f429a880851c785f3591e)
 
 ## 30 minutes
 
@@ -210,7 +210,7 @@ Note the answers are in the “Session answers” section. Ask:
 
 # Chapter: Session 4: Gestational age (GA) assessment by LMP
 
-![Image](d883fb41f8ab435496945db41b2ad1f0)
+![Image](607e73f4f8cc4dd8be7588ff62b99789)
 
 ## 15 minutes
 
@@ -258,7 +258,7 @@ Providers should work on calculations on their own first. Use 10th April as toda
 
 # Chapter: Session 5: GA assessment by fundal height measurement
 
-![Image](f8f610d2de114667adcd6f3bf15a9b66)
+![Image](a707227f839049a6b3e39d0ddc6d00ca)
 
 ## 10 minutes
 
@@ -295,7 +295,7 @@ Provider can repeat measurement if needed. If more practice is needed, the coord
 
 # Chapter: Session 6: ANC Role Play 1
 
-![Image](8707eb31c24246de8d3022d695c1e60d)
+![Image](89763ac0adba4e74a0822c4c1d33c04c)
 
 ## 30 minutes
 
@@ -355,7 +355,7 @@ Note the answers are in the “Session answers” section. Ask:
 
 # Chapter: Session 7: Postpartum Role Play
 
-![Image](d26dbd58699d47ee91628e0dacd65ed3)
+![Image](04533a064151489c8239d54b19728281)
 
 ## 30 minutes
 
@@ -408,7 +408,7 @@ Note the answers are in the “Session answers” section. Ask:
 
 # Chapter: Session 8: ANC Role Play 2
 
-![Image](82e4493fa7b54f34b4963537bdec3450)
+![Image](d34fe7ffff44404ea4143f4ee214e25b)
 
 ## 30 minutes
 

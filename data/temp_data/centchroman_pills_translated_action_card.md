@@ -1,17 +1,17 @@
-## परिचय
+## Introduction
 
-- सेंटक्रोमैन ( ऑरमेलॉक्सिफीन) एक नॉन-स्टीरॉइडल, नॉन-हॉर्मोनल, सप्ताह में एक बार ली जाने वाली ओरल कॉन्ट्रासेप्टिव पिल है।
-- यह एक सेलेक्टिव एस्ट्रोजेन रिसेप्टर मॉड्युलेटर (एसईआरएम) की तरह कार्य करती है और डेवलपिंग ज़ायगोट तथा एंडोमेट्रियल मैच्युरेशन के बीच असिंक्रोनी पैदा करके इम्प्लांटेशन को रोकती है।
-- शुरुआत में एक गोली लें, फिर तीन दिन बाद दूसरी गोली (यानी पहले तीन महीनों तक सप्ताह में 2 गोलियाँ)। चौथे महीने से सप्ताह में केवल एक गोली लेनी होती है।
+- Centchroman (Ormeloxifene) is a non-steroidal, non- hormonal once a week oral contraceptive pill.
+- It acts as selective oestrogen receptor modulator (SERM) and works by creating asynchrony between developing zygote and endometrial maturation leading to prevention of implantation.
+- Take one pill at initiation and take another pill three days later (2 pills in a week) for 3 months. Then fourth month onwards, only one pill per week is to be taken.
 
-**डोज़-** 30 मि.ग्रा. ऑरमेलॉक्सिफीन
+**Dosage –** 30 mg of Ormeloxifene
 
-## दुष्प्रभाव
+## Side-effects
 
-महिलाओं को माहवारी देर से आना या सामान्य से कम रक्तस्राव होना अनुभव हो सकता है।
+Women may experience delayed periods and lighter-than-usual menstrual flow.
 
-## कॉन्ट्राइंडिकेशन्स
+## Contraindications
 
-पॉलीसिस्टिक ओवेरियन डिज़ीज, सर्वाइकल हाइपरप्लासिया, पीलिया या लिवर डिज़ीज का रीसेंट इतिहास, सीवियर एलर्जिक स्टेट, और क्रॉनिक बीमारी जैसे ट्यूबरकुलोसिस या रीनल डिज़ीज।
+Contraindications include polycystic ovarian disease, cervical hyperplasia, recent history of jaundice or liver disease, severe allergic conditions, and chronic illnesses such as tuberculosis or renal disease.
 
 ---

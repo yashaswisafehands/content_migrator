@@ -1,54 +1,42 @@
 # Chapter: Administration of Insulin using pen
 
-## इंजेक्शन साइट
+## Injection Site
 
-- ऊपरी बांह, जांघ और कूल्हे के एंटेरोलेटरल पहलुओं
-- पेट - नैवेल के चारों ओर 2-इंच के त्रिज्या को बाहर रखकर
-- प्रत्येक खुराक के लिए, इंजेक्शन के स्थान को घूमाएं
+- Upper arm, anterolateral aspects of the thigh and hip.
+- Abdomen – excluding a circle of 2- inch radius around the navel. 
+- For each dose rotate the site of injection
 
-![Image](7c7cd80cf7964b7395d1c6b7befae37d)
+## Loading the insulin pen
 
-## इंसुलिन पेन लोड करना
+- Check the pen and insert the insulin cartridge into it. 
+- Check for any clumps or particles.
+- Roll the cartridge horizontally between the palms without shaking it. 
+- Load the needle on the pen.
+- Prepare and load the pen.
 
-- पेन की जाँच करें और उसमें इंसुलिन कार्ट्रिज डालें। 
-- कोई थक्के या कणों के लिए जाँच करें
-- कार्ट्रिज को हॉरिजॉन्टली पैम्स के बीच सीधे तौर पर घुमाएं (इसे हिलाएं नहीं)
--   पेन पर सुई लोड करें
--  पेन को तैयार करें और लोड करें
+## Prime the insulin pen
 
-![Image](a41480efea99481097c90966a13bbd30)
+- Turn the dose selector knob at end of the pen to 1 or 2 units (watch dose markings change with turning of knob)
+- Hold the pen with the needle pointing upward. Press dose knob up completely while watching for insulin drop or stream to appear. Repeat, if necessary, until insulin is seen at the needle tip to clear the air.
+- The dial should be back at zero after completing the priming step.
 
-![Image](3168a95b2a404ba9a107f9284ac80f53)
+## Measure the insulin dose
 
-## इंसुलिन पेन को प्राइम करें
+- Turn the dose knob to “dial in” your insulin dose. (You can dial backward, too.) The pen will allow you to receive only the amount that you have set. 
+- Double-check the dose window to assure a proper dose.
 
-- पेन के अंत में डोज सिलेक्टर नॉब को 1 या 2 यूनिट्स पर घुमाएं (नॉब घुमाने पर डोज मार्किंग्स का परिवर्तन देखें) 
--  पेन को सुई के साथ ऊपर की दिशा में पकड़ें, डोज नॉब को पूरी तरह से धकेलें जब तक इंसुलिन ड्रॉप या स्ट्रीम दिखाई नहीं देती है। यदि आवश्यक हो तो पुनः करें, जब तक सुई की टिप पर इंसुलिन दिखाई नहीं देती है 
-- प्राइमिंग स्टेप पूरा करने के बाद डायल को शून्य पर लाना चाहिए
+## Inject insulin
 
-![Image](6553f8a22bf4452ab1ccd54d0407341b)
+- Use water swabs to clean the skin.
+- Curl fingers around the upper end of the pen to hold secure. And place thumb above the dose knob
+- Gently pinch up skin with the free hand
+- Quickly insert the needle at a 90-degree angle
+- Release the pinch. Use thumb to press down on the dose knob until it stops (the dose window will be back at zero)
+- Count to 10 before removing the needle from the skin to prevent insulin from leaking out of the injection site.
 
-## इंसुलिन खुराक को मापें
+## After care
 
-- डोज नॉब को "डायल इन" करने के लिए डोज नॉब को घुमाएं (आप पीछे भी घुमा सकते हैं)। पेन आपको सिर्फ वह मात्रा प्राप्त करने की अनुमति देगा जो आपने सेट की है। 
-- एक सही डोज सुनिश्चित करने के लिए डोज विंडो की जाँच करें इंसुलिन इंजेक्शन
-
-![Image](f2eb403886f7438a9aff1aa6fb1fceb0)
-
-## इंसुलिन इंजेक्ट करें
-
-- त्वचा को साफ करने के लिए वाटर स्वैब का उपयोग करें
-- पेन के ऊपरी भाग को मजबूती से पकड़ें। और डोज नॉब के ऊपर अंगूठा रखें
-- धीरे से दुसरे हाथ के साथ त्वचा को उठाएं
-- तेज़ी से सुई को 90-डिग्री कोण में डालें
-- पिंच को छोड़ें। अंगूठे का उपयोग करें ताकि डोज नॉब पर नीचे दबाएं जब तक यह रुक जाए (डोज विंडो फिर से शून्य पर होगी)।"
--  इंसुलिन को इंजेक्शन वाली जगह से बाहर निकलने से रोकने के लिए त्वचा से सुई निकालने से पहले 10 तक गिनें
-
-![Image](758e4ea24ce74346b3023e063ef65c73)
-
-## देखभाल के बाद
-
-- सुई के ऊपर बाहरी सुई कवर रखें और पेन से सुई निकालने के लिए घुमाएं
-- इस्तेमाल की गई सुई को हार्ड पंचर-प्रूफ कंटेनर में फेंक दें
+- Place outer needle cover over needle and twist to unscrew needle from pen.
+- Discard the used needle away in a hard puncture-proof container.
 
 ---

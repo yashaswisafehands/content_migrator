@@ -1,254 +1,259 @@
-# Chapter: स्तनपान परामर्श
+# Chapter: Breastfeeding counselling
 
-- सभी गर्भवती महिलाओं और शिशु वाली माताओं को स्तनपान परामर्श देना चाहिए।
-- परामर्श आमने-सामने दिया जाना चाहिए; आवश्यकता होने पर टेलीफोन के माध्यम से भी दिया जा सकता है।
-- छोटे नवजात शिशु को स्तनपान कराने की जानकारी हेतु लो बर्थ वेट मॉड्यूल में फीडिंग वीडियो देखें।
+- Breastfeeding counselling should be provided to all pregnant women and mothers with newborns.  
+- Counselling should be provided face-to-face, complemented telephonically if needed. 
+- For information on breastfeeding a small newborn - See the Low Birth Weight Module video on feeding.
 
-![Image](885cb6b377bb4364b274d363ea4ece6e)
+![Image](0e6aa70959d942df99f6bea4da547c6d)
 
-## माँ को दी जाने वाली जानकारी:
+## Information to the mother
 
-- माँ का दूध नवजात शिशु के लिए सभी आवश्यक पोषक तत्वों से भरपूर होता है और संक्रमण से बचाव करता है।
-- नवजात शिशु को जन्म के पहले 1 घंटे के भीतर जितना जल्दी हो सके, स्तनपान शुरू करवाना चाहिए।
-- नवजात शिशु को पहले 6 महीने तक केवल स्तनपान ही कराना चाहिए (एक्सक्लूसिव ब्रेस्टफीडिंग)।
-- स्तनपान को दिन और रात में मिलाकर (24 घंटे में) कम से कम 8-10 बार करवाने के लिए प्रोत्साहित करें — जब भी शिशु चाहे।
-- जब शिशु स्तन खोजने के संकेत दे, मुंह खोले या सांत्वना चाहता हो, तब स्तनपान करवाएं।
-- स्तनपान नवजात शिशु के शारीरिक और मानसिक विकास में मदद करता है और माँ-बच्चे के बीच संबंध को मजबूत बनाता है।
-- पहला दूध गाढ़ा और पीला होता है (जिसे कोलोस्ट्रम कहते हैं)। लगभग तीसरे दिन से यह पतला, अधिक मात्रा में और सफेद दिखाई देने लगता है।
-- जितना अधिक और प्रभावी रूप से शिशु स्तनपान करेगा या माँ दूध निकालेगी, उतना ही अधिक दूध बनेगा।
-- माँ और नवजात शिशु को हमेशा साथ रखें।
-- शिशु को स्तनपान के लिए जबरदस्ती न करें।
-- स्तनपान तब तक जारी रखें जब तक शिशु स्वयं स्तन छोड़ न दे।
-- स्तनपान के दौरान जब शिशु पहला स्तन छोड़ दे, तब उसे दूसरा स्तन दें। किसी भी प्रकार का अन्य दूध या पानी न दें।
-- स्तनपान के दौरान शराब और तंबाकू का सेवन न करें।
-- 6 महीने के बाद कम्प्लीमेंटरी फीडिंग शुरू करें और 2 वर्ष तक स्तनपान जारी रखें।
+- Breastmilk contains all the nutrients that a newborn needs, and protects against infections. 
+- Newborns should start breastfeeding as soon as possible within the first hour after birth.  
+- Newborns should be exclusively breastfed for the first 6 months of life.
+- Encourage breastfeeding at least 8 times in 24 hours, whenever the newborn wants.
+- Newborns should be fed responsively when they are showing signs of searching for the breast or "routing", have their mouth open, or suck/lick on their hands.
+- Breastfeeding supports the newborn’s development and maternal bonding.
+- The first breastmilk is thick and yellow (colostrum) and then becomes thinner, larger in volume and whiter around day 3 after delivery. 
+- The more the breast is stimulated by effective feeding and expressing, the more milk it will produce. 
+- The newborn and the mother should be kept together.
+- Do not force the newborn to take the breast.
+- Do not interrupt the feeding before the newborn stops.
+- While feeding, let the newborn release the breast, then offer the second breast. Do not give any other feeds or water.
+- Avoid alcohol and tobacco while breastfeeding.
+- Complementary feeding can start after 6 months while continuing to breastfeed for up to 2 years.
 
-## प्रभावी पोज़िशनिंग और अटैचमेंट
+## Effective positioning and attachment
 
-महिला को  निम्नलिखित चरण समझाएँ और पालन करने में मदद करें:
+Guide the woman in the following steps:
 
-नवजात शिशु का पोजीशन
+**Positioning the newborn**
 
-- सुनिश्चित करें कि नवजात शिशु का सिर, गर्दन और शरीर एक सीध (लाइन) में हों।
-- सुनिश्चित करें कि शिशु का पूरा शरीर सहारा लिए हुए हो — केवल गर्दन और कंधे नहीं।
-- शिशु का चेहरा स्तन की ओर होना चाहिए, और उसकी नाक निप्पल के सामने हो।
-- नवजात का पेट माँ के पेट से सटा हो।
+- Make sure the newborn’s head and body are in a straight line.  
+- Make sure the newborn is facing the breast, the newborn’s nose is opposite the nipple.  
+- Place the newborn skin-to-skin. 
+- Support the newborn’s whole body, not just the neck and shoulders.
 
-अटैचमेंट की शुरुआत
+**Initiating attachment**
 
-- शिशु के होंठ निप्पल को स्पर्श करें।
-- इंतज़ार करें जब तक शिशु का मुंह पूरी तरह खुल न जाए।
-- नवजात को सही अटैचमेंट में मदद करने के लिए स्तन और निप्पल का आकार बनाएं: स्तन के नीचे चार उंगलियाँ रखें और ऊपर अंगूठा रखें।
-- नवजात को जल्दी से स्तन पर लगाएँ, सुनिश्चित करें कि नीचे का होंठ बाहर की ओर मुड़ा हो।
+- The newborn’s lips should touch the nipple. 
+- Shape the breast and nipple to help the newborn with correct attachment: Place four fingers below and the thumb on top of the breast.  
+- Wait until the newborn's mouth is opened wide.
+- Move the newborn quickly onto the breast, making sure the lower lip is turned outward.
 
-सही अटैचमेंट के संकेत:
+**Signs of effective attachment**
 
-- नवजात के मुँह के ऊपर एरिओला अधिक दिखाई दे और नीचे कम दिखाई दे।
-- मुँह पूरी तरह खुला हो
-- नीचे का होंठ बाहर की ओर मुड़ा हो
-- नवजात की ठुड्डी स्तन से लगी हो
+- More of the areola is visible above the newborn’s mouth compared to below
+- Mouth is wide open  
+- Lower lip turned outwards 
+- Newborn’s chin is touching the breast  
+- No clicking sounds are heard when the newborn is sucking 
+- Newborn’s cheeks are full, not pulled in  
+- Breastfeeding should not be painful throughout  
+- Nipples are not misshapen after a feed
 
-**प्रभावी सकलिंग के संकेत:**
+**Signs of effective suckling:**
 
-- धीरे और गहरी चूसने की गति
-- समय-समय पर रुकना
-- नवजात के दूध पीते समय निगलने की आवाज़ सुनाई देना
-- नवजात के गाल भरें हुई हों, अंदर की ओर खीचें हुए नहीं
+- Slow, deep sucks 
+- Occasional pausing 
+- Swallowing sounds when the newborn feeds
 
-यदि अटैचमेंट या सकलिंग सही न हो, तो नवजात को स्तन से हटाएँ और फिर से प्रयास करें। फिर दोबारा जाँच करें।
+If the attachment or the sucking is ineffective, take the newborn off the breast and try again. Then reassess.
 
-यदि महिला के स्तन में सूजन (एंगॉर्जमेंट) हो रही है, तो स्तनपान से पहले थोड़ी मात्रा में दूध निकालें ताकि निप्पल के आसपास का हिस्सा नरम हो जाए और नवजात के लिए अटैचमेंट आसान हो सके।
+If the woman is experiencing breast engorgement, express a small amount of breast milk before breastfeeding to soften nipple area making it is easier for the newborn to attach.
 
-![Image](884ae4c200984dceb38ee1b3d58ccd0a)
+![Image](a4cf4fd85d2a4b629921dbb08a1da535)
 
-## नवजात को पर्याप्त मात्रा में दूध मिलने के संकेत:
+## Signs of the newborn receiving enough milk
 
-- नवजात प्रभावी रूप से दूध चूस और निगल रहा है।
-- दूध पीने के बाद तृप्त होने पर नवजात स्वयं स्तन छोड़ देता है।
-- जीवन के पहले सप्ताह में वजन में कमी 10% से कम होती है।
-- अगले हफ्तों में नवजात का वजन कम से कम 160 ग्राम या पहले महीने में कुल लगभग 300 ग्राम बढ़ता है।
-- नवजात प्रतिदिन लगभग उतनी ही बार पेशाब करता है, जितनी बार वह दूध पीता है।
-- जन्म के तीसरे दिन तक मल का रंग गहरे से हल्के भूरे या पीले रंग में बदल जाता है।
-- नवजात दिनभर में सतर्क और सक्रिय रहता है।
+- Newborn is sucking and swallowing the milk effectively. 
+- When satisfied with the feed, the newborn comes off the breast on its own. 
+- Weight loss is less than 10% in the first week of life.  
+- Newborn gains at least 160g in the following weeks or a minimum of 300g in the first month. 
+- Newborn urinates every day approximately as frequently as the newborn is feeding.  
+- Newborn’s stool is changing from dark to light brown or yellow by day 3. 
+- Newborn has alert and active periods throughout the day.
 
-## एचआईवी-संक्रमित माताएँ
+## The HIV infected mother
 
-**एचआईवी-संक्रमित माताओं के लिए स्तनपान पर परामर्श :**
+**Breastfeeding counselling for HIV-infected mothers:**
 
-- माँ को यह समझाएँ कि एचआईवी संक्रमण का जोखिम स्तनपान के दौरान और बिना स्तनपान के दोनों स्थितियों में मौजूद होता है।
-- यदि कोई इंटरवेंशन न किया जाए, तो माँ से बच्चे में एचआईवी संक्रमण का जोखिम लगभग 20–45% होता है।
-- यदि माँ एआरटी उपचार ले रही है, तो संक्रमण का जोखिम काफी हद तक कम हो जाता है। ऐसी स्थिति में माँ को स्तनपान जारी रखने में सहयोग दें।
-- यह जोखिम और भी कम किया जा सकता है यदि स्तनपान सही पोज़िशनिंग और अटैचमेंट के साथ किया जाए तथा सुरक्षित स्तनपान प्रथाओं का पालन किया जाए।
-- मेस्टाइटिस और सोर निपल्स से संक्रमण का खतरा बढ़ जाता है।
-- संभव हो तो इन्फ़ैंट फ़ॉर्मूला फीड का उपयोग न करें।
+- Explain the risks of HIV transmission both when breastfeeding and not breastfeeding. 
+- Three out of 20 babies born to HIV-infected mothers without anti-retroviral therapy (ART) will become infected while breastfeeding. 
+- The risk of infection is significantly reduced when the mother receives ART. If she is on ART, she should be supported in breastfeeding. 
+- This risk is reduced further by effective breastfeeding positioning and attachment, and safe practices. 
+- Mastitis and sore nipples increase the risk of transmission.  
+- Avoid using infant formula if possible.
 
-माँ को तुरंत स्वास्थ्य केंद्र आने की सलाह दें यदि—
+Recommend that the mother returns to the facility immediately if:
 
-- उसे स्तनपान से संबंधित कोई जटिलता हो, या
-- नवजात को दूध पीने में कठिनाई हो।
+- She has any breastfeeding complications. 
+- The newborn has any difficulty feeding.
 
-यदि वह स्तनपान बंद करने का निर्णय लेती है, तो उसे एआरटी लेते हुए एक महीने के भीतर धीरे-धीरे स्तनपान बंद करना चाहिए। उसके एआरटी योजना के अनुसार, वह या तो एआरटी जीवनभर जारी रखेंगी, या स्तनपान पूरी तरह बंद होने के एक सप्ताह बाद एआरटी बंद कर देंगी।
+If she decides to stop breastfeeding, she must stop gradually within 1 month while taking ART. Depending on her ART regimen, she will either continue taking ART (for life) or will stop ART one week after breastfeeding is fully stopped.
 
-यदि माँ की एचआईवी स्थिति अज्ञात है, तो एचआईवी जांच के महत्व के बारे में परामर्श दें और जांच करवाने के स्थान की जानकारी दें। प्रभावी स्तनपान स्थिति और अटैचमेंट के साथ केवल स्तनपान करने के लिए प्रोत्साहित करें।
-
----
-
-# Chapter: लैक्टेशन कॉम्प्लिकेशन्स
-
-![Image](e76db331f57f44b098455250bc860af2)
-
-## सोर या फटे हुए निप्पल
-
-**कारण:**
-
-- अप्रभावी पोज़िशनिंग और अटैचमेंट
-- टंग टाई 
-- थ्रश
-
-**उपचार और सलाह:**
-
-माँ को स्तनपान जारी रखने के लिए प्रोत्साहित करें।
-
-सही पोज़िशनिंग और अटैचमेंट सिखाएँ।
-
-निप्पल्स पर थोड़ा मां का दूध लगाकर उन्हें खुले में सूखने दें, इससे हीलिंग होती है।
-
-2 बार फीड (या 1 दिन) के बाद पुनः आकलन करें। यदि सुधार न हो, तो माँ को सिखाएँ कि प्रभावित स्तन से दूध निकालकर कप से नवजात को पिलाएँ, और स्वस्थ स्तन से स्तनपान जारी रखें।
-
-यदि टंग टाई या थ्रश हो, तो उच्च केंद्र पर रेफर करें।
-
-![Image](2a2947bf035945fb8b879d1da75b872e)
-
-## ब्रेस्ट एन्गॉर्जमेंट
-
-**संकेत:**
-
-- दोनों स्तन सूजे हुए, चमकदार और कुछ हिस्सों में लाल दिखाई देते हैं।
-- तापमान 38°C से अधिक 
-- नवजात का अटैचमेंट सही नहीं है
-- अभी तक स्तनपान शुरू नहीं हुआ है।
-
-**कारण:**
-
-- स्तन से दूध का पर्याप्त रूप से न निकलना — यह माँ और नवजात के अलग रहने, सीमित स्तनपान, नवजात के अप्रभावी चूसने या कभी-कभी अत्यधिक दूध बनने के कारण हो सकता है।
-
-**उपचार और सलाह:**
-
-- माँ को लगातार स्तनपान (ब्रेस्टफीडिंग) जारी रखने के लिए प्रोत्साहित करें।
-- सही पोज़िशनिंग और अटैचमेंट सिखाएँ।
-- अधिक बार दूध पिलाने की सलाह दें।
-- 2 फीड (या 1 दिन) के बाद पुनः मूल्यांकन करें। यदि सुधार नहीं होता, तो माँ को सिखाएँ कि कैसे ब्रेस्ट की हल्की मालिश करें और फीड से पहले थोड़ा दूध निकाल लें ताकि दर्द कम हो सके।
-- दर्द के लिए पैरासिटामॉल दें।
-- महिला की सुविधा के अनुसार गर्म या ठंडी सिकाई (कम्प्रेस) करने की सलाह दें।
-
-![Image](2443d78e09224c4390e8aef71851e8a1)
-
-## मैस्टाइटिस
-
-**संकेत:**
-
-- स्तन के किसी हिस्से में दर्द, सूजन और लालिमा दिखाई देना।
-- निप्पल से स्राव (सफेद या रक्त की धारियों के साथ)।
-- तापमान 38°C से अधिक।
-- फ्लू जैसे लक्षण (बुखार, बदन दर्द, थकान)।
-
-**कारण:**
-
-- अनट्रीटेड एंगॉर्जमेंट और  ब्रैस्ट मिल्क का जमाव
-
-**उपचार और सलाह:**
-
-- माँ को स्तनपान (ब्रेस्टफीडिंग) जारी रखने के लिए प्रोत्साहित करें।
-- सही पोज़िशनिंग और अटैचमेंट सिखाएँ।
-- फीड के बीच में प्रभावित ब्रेस्ट से दूध निकालने (एक्सप्रेस करने) की सलाह दें।
-- दूध के  ऑब्स्ट्रक्टेड  डक्ट्स को खोलने के लिए ब्रेस्ट की हल्की मालिश करें, दर्द या गांठ वाले हिस्से से निप्पल की ओर स्ट्रोक करें।
-- एम्पिसिलिन 500 मि.ग्रा. मुँह से दिन में तीन बार 10 दिनों तक दें।
-- 2 दिनों में पुनः मूल्यांकन करें। यदि सुधार न हो या स्थिति बिगड़े, तो अस्पताल रेफर करें।
-- यदि माँ एचआईवी पॉज़िटिव है, तो स्वस्थ ब्रेस्ट से फीड कराएँ और प्रभावित ब्रेस्ट से दूध निकालकर फेंक दें, जब तक बुखार न उतर जाए।
-- दर्द के लिए पैरासिटामॉल दें।
-- वॉर्म डैम्प कम्प्रेस करने की सलाह दें।
-- पर्याप्त आराम और फ्लुइड्स का सेवन सुनिश्चित करें।
+If HIV status is unknown, counsel on the importance of HIV testing and where to get tested. Encourage exclusive breastfeeding with effective positioning and attachment.
 
 ---
 
-# Chapter: ऑल्टरनेटिव फीडिंग मेथड्स
+# Chapter: Lactation complications(Global)
 
-## एक्सप्रेस्ड ब्रेस्ट मिल्क
+![Image](589e69b6d0604af98f82c0a26fd496a4)
 
-यदि नवजात शिशु का सकिंग का तरीका ठीक से स्थापित नहीं हुआ है या फीडिंग में कोई कठिनाई है, तो निकाले हुए  ब्रेस्ट मिल्क से शिशु को फीड करना महत्वपूर्ण है।
+## Sore or cracked nipples
 
-स्तन से दूध निकालना हुए  ब्रेस्ट एंगॉर्जमेंट को कम करने, तथा मास्टाइटिस या एब्सेस होने पर स्तन को खाली करने और शिशु को स्तन से सही ढंग से लगने में मदद करता है।
+**Causes:**
 
-![Image](b3037e312f834152a909e34c289e4462)
+- Ineffective positioning and attachment (latch)
+- Tongue-tie 
+- Thrush
 
-माँ को दूध निकालने का तरीका सिखाएं:
+**Treat and advise:**
 
-- हाथों को अच्छी तरह से धोएं।
-- आराम से बैठें या खड़ी हों और स्तन के नीचे एक साफ बर्तन रखें।
-- इंडेक्स फिंगर और अंगूठा को एरिओला के दोनों ओर रखें और हल्के से स्तन की ओर दबाएं।
-- एक स्तन से तब तक दूध निकालें जब तक दूध का बहाव धीमा न हो जाए। फिर दूसरे स्तन से दूध निकालें।
-- कम से कम 20–30 मिनट तक दूध निकालें और निकाला गया दूध तुरंत नवजात को पिलाएं।
-- हर 2–3 घंटे में, 24 घंटों में कम से कम 8 बार दूध निकालें।
+Encourage the mother to continue breastfeeding.
 
-यदि दूध ठीक से नहीं निकल रहा है:
+Teach correct positioning and attachment rubbing breastmilk on nipples and let them air dry can support the healing.
 
-- वार्म कॉम्प्रेस लगाएं।
-- साथी/परिवार के किसी सदस्य से पीठ और गर्दन की मालिश करवाने के लिए कहें, इससे दूध निकालने में मदद मिलती है।
-- स्तन और निप्पल की मालिश करना सिखाएं।
+Reassess after 2 feeds (or 1 day). If no improvement, teach the mother how to express breast milk from the affected breast and feed by cup, and continue breastfeeding on the healthy breast.
 
-##
+If tongue tie or thrush, refer to a higher-level facility.
+
+![Image](5d7a4cb72c4041a7818c8545cde1ca6a)
+
+## Breast engorgement
+
+**Signs:**
+
+- Both breasts are swollen, shiny and patchy red. 
+- Temperature >38°C. 
+- Newborn not well attached.
+- Not yet breastfeeding.
+
+**Causes:**
+
+- Inadequate removal of milk from the breast, either from separation of the mother and newborn, restrictive feeding practices and/or ineffective sucking or, less commonly, over production.
+
+**Treat and advise:**
+
+- Encourage continued breastfeeding.  
+- Teach correct positioning and attachment. 
+- Advise to feed more frequently.  
+- Reassess after 2 feeds (or 1 day). If no improvement, teach the mother how to massage the breast and to express breast milk before feeding to relieve the pain. 
+- Give paracetamol for the pain. 
+- Suggest the use of warm or cold breast compresses according to the woman’s preferences.
+
+![Image](d6ae79c1946c49d393292c090f5a1e32)
+
+## Mastitis
+
+**Signs:**
+
+- Parts of breast are painful, swollen and red. 
+- Nipple discharge (white or having streaks of blood). 
+- Temperature > 38°C. 
+- Flu-like symptoms.
+
+**Causes:**
+
+- Untreated engorgement and build-up of milk.
+
+**Treat and advise:**
+
+- Encourage the mother to continue breastfeeding. 
+- Teach correct positioning and attachment.  
+- Express milk from the affected breast between feeds (to relieve pressure and prevent worsening).
+- Before feeding or expressing:
+- Apply warm compress or take warm shower to soften the breast. 
+- Gently massage the neck and back to promote relaxation and lymp drainage. 
+- Encourge  the mother the express some milk manually before feeding and wet the nipple area to soften the areola to help the baby latch on properly and easily.
+- After feeding or expressing:
+- Support the breasts with a bra or binder. 
+- Apply cold compresses between feeds to reduce swelling and pain. 
+- Give cloxacillin 500 mg orally every 6 hours for 10 days, or erythromycin 250 mg every 8 hours if allergi to penicillin. 
+- Give pain relief (paracetamol or ibuprofen). 
+- Encourage rest and hydration. 
+- Reassess in 3 days; if no improvement refer to hospital. 
+- Note: If the mother is HIV-infected, she may breastfeed from the healthy breast. Express and discard milk from the affected breast until fever resoves.
+
+---
+
+# Chapter: Alternative feeding methods(Global)
+
+## Expressed breast milk
+
+You can feed the newborn with expressed breast milk if the sucking is not well established or there are other feeding difficulties.
+
+To express milk from the breast can also relieve engorgement and help the newborn to attach or drain the breast when there is mastitis or abscess.
+
+![Image](19f8d52c303d4837a32a4f300c1f0834)
+
+**Teach the mother how to express:**
+
+- Wash hands thoroughly. 
+- Sit or stand comfortably and hold a clean container under the breast. 
+- Put the first finger and thumb on either side of areola and press slightly inwards towards the breast.
+- Express from one breast until the milk flow slows. Then express the breastmilk from the other breast. 
+- Express for at least 20-30 min. and feed the newborn immediately afterwards. Express milk at least 8 times in 24 hours, every 2-3 hours.
+
+**If the milk does not flow well:**
+
+- Apply warm compresses.
+- Encourage partner/a relative to massage her back and neck before expressing.
+- Teach breast and nipple massage.
+
+## The newborn can either be fed by cup or directly into the newborn’s mouth.
 
 **Expressing milk into the newborn’s mouth**
 
-- Hold the newborn in skin-to-skin contact with their mouth close to the nipple, and express until drops of milk appear
-- Wait until the newborn is alert and opens the mouth and eyes or stimulate lightly
+- Hold the newborn in skin-to-skin contact with their mouth close to the nipple, and express until drops of milk appear.
+- Wait until the newborn is alert and opens the mouth and eyes or stimulate lightly.
+- Let the newborn smell and lick the nipple and try to suck.
 - Let the newborn smell and lick the nipple and try to suck
-- Let some milk fall into the newborn’s mouth 
-- Wait until the newborn swallows and then express more drops of milk 
-- Repeat until the newborn has had enough and closes the mouth
-- Check their weight to make sure the newborn is feeding adequately
+- Let some milk fall into the newborn’s mouth. 
+- Wait until the newborn swallows and then express more drops of milk. 
+- Repeat until the newborn has had enough and closes the mouth.
+- Check their weight to make sure the newborn is feeding adequately.
 
-**कप या पेलाडाई द्वारा नवजात को दूध पिलाना:**
+**Feeding the newborn by cup**
 
-- नवजात शिशु को सेमी- अपराइट स्थिति में गोद पर बैठाएं।
-- पेलाडाई  या कप में दूध को नवजात के होंठों के पास रखें, और इसे नीचे के होंठ पर टिकाएँ।
-- नवजात के मुँह में दूध सीधे नहीं डालना चाहिए; बल्कि इंतजार करें जब तक नवजात सचेत हो, मुँह खोले और खुद स्तनपान शुरू करे।
-- जब नवजात पर्याप्त दूध पी लेता है, तो उसका मुँह स्वयं बंद हो जाता है।
-- प्रत्येक फीड के बाद पेलाडाई  या कप को पानी और साबुन से धोएं।
-- यदि लिया गया दूध कम है, तो अधिक बार फीड कराएं।
-- दूध की पर्याप्त मात्रा जानने के लिए शिशु के वजन बढ़ने की निगरानी करें।
-- एक्सप्रेस्ड मिल्क से फीड कराएं। यदि उपलब्ध न हो, तो  डोनेटेड, हीट-ट्रीटेड  ब्रेस्ट मिल्क, या घर का तैयार किया हुआ या फॉर्मूला मिल्क इस्तेमाल करें।
+- The newborn should sit semi-upright on a lap. 
+- Hold the cup of the milk to the newborn’s lips, and rest on the lower lip.
+- You should not pour the milk into the newborn’s mouth, but wait until the newborn becomes alert, opens its mouth and starts to feed. 
+- The mouth closes when the newborn has had enough. 
+- Wash the cup with water and soap after each feed. 
+- If the quantity taken is small, feed often. 
+- Monitor weight gain to know the sufficiency of milk intake. 
+- Feed with expressed milk. If not available, use donated, heat-treated breast milk or home-made or commercial formula.
 
-![Image](7b14cf41aefd4092aea048ddfb4fb13f)
+![Image](a3f6892eee4949998edeb0bfe8ef56b0)
 
-**दूध की मात्रा:**
+**Quantity of feed**
 
-- पहले दिन शरीर के प्रत्येक किलो वजन के लिए 60–80 मिलीलीटर दूध दें।
-- कुल मात्रा को प्रतिदिन 10–20 मि.ली./किलो बढ़ाएँ, जब तक नवजात 150 मि.ली./किलो/दिन नहीं ले लेता।
-- कुल दूध को 8 फीड्स में बाँटें।
-- नवजात का 24 घंटे का दूध सेवन जांचें। प्रत्येक फीड  की मात्रा भिन्न हो सकती है।
-- फीडिंग जारी रखें जब तक नवजात आवश्यक मात्रा का दूध न ले ले।
+- Start with 80 ml/kg body weight per day for day 1.  
+- Increase total volume by 10-20 ml/kg/day until the newborn takes 150 ml/kg/day. 
+- Divide total into 8 feeds. 
+- Check the newborn’s 24-hour intake. Size of individual feeds may vary. 
+- Continue until the newborn takes the required quantity.
 
-**एक्सप्रेस्ड मिल्क का स्टोरेज और उपचार:**
+**Storage and treating expressed milk**
 
-- एक्सप्रेस्ड मिल्क साफ और सुरक्षित स्थान पर कमरे के तापमान पर 6 घंटे तक रखें।
-- एक्सप्रेस्ड मिल्क फ्रिज में 24 घंटे तक रखा जा सकता है।
+- Store expressed milk in a clean and safe place at room temperature for 8 hours.
+- Expressed milk can be refrigerated for 24 hours.
 
 ---
 
-# Chapter: स्तनपान न कराने वाली माँ का सपोर्ट करें।
+# Chapter: Support a mother who is not breastfeeding(Global)
 
-## यदि नवजात की मृत्यु हो जाए, मृत जन्म हो या माँ रिप्लेसमेंट फ़ीडिंग चुनती है, तो आपको:
+## If the newborn dies, is stillborn or the mother chooses replacement feeding, you should:
 
-- कुछ समय के लिए स्तन असहज महसूस हो सकते हैं।
-- स्तनों को उत्तेजित करने से बचें।
-- अच्छे से फिट होने वाली ब्रा या कपड़े से स्तनों को सहारा दें; कसकर बांधें नहीं।
-- सूजन कम करने के लिए पसंद के अनुसार गर्म या ठंडी सेक लगाएँ।
-- केवल असुविधा दूर करने के लिए थोड़ा दूध निकालना सिखाएँ; स्तन को पूरी तरह न खाली करें।
-- दर्द कम करने के लिए एनाल्जेसिक – पेरासिटामोल या आइबुप्रोफेन लें।
-- यदि स्तन दर्दनाक, सूजे हुए, लाल हो जाए, या महिला अस्वस्थ महसूस करे, या तापमान > 38°C हो, तो चिकित्सकीय सहायता लेने की सलाह दें।
-- दूध की मात्रा कम करने के लिए दवाओं का उपयोग करने की सलाह नहीं दी जाती।
+- Tell that breasts may be uncomfortable for a while. 
+- Avoid stimulating the breasts. 
+- Support breasts with a well-fitting bra or cloth. Do not bind tightly. 
+- Apply compress, warm or cold as per preference to reduce swelling. 
+- Teach to express milk just enough to relieve discomfort. Don’t empty the breast.  
+- Relieve pain with paracetamol or ibuprofen.  
+- Recommend seeking care if breasts become painful, swollen, red, if she feels ill or temperature is > 38.0°C.
 
-![Image](3866954057ce49949e402020f7cec10a)
+![Image](fb5159b5e46347438017bacebc0b93ad)
 
 ---

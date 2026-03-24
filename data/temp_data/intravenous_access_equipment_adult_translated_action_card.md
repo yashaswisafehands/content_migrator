@@ -19,6 +19,6 @@ Use the grey (gauge 16) and green (gauge 18) cannulas which have a large diamete
 - An assistant should hold the limb steady and act as a tourniquet by obstructing the venous return with their fingers lightly closed around the limb. Alternatively, use a tourniquet above the insertion site.
 - Clean the surrounding skin with an antiseptic solution (such as spirit, iodine, isopropyl alcohol or 70 % alcohol solution), then insert and advance the cannula into the vein. Fix the cannula securely with tape. Apply a splint, ensuring the limb is in an appropriate position (e.g. elbow extended, wrist slightly flexed).
 
-![Image](c256612d74b048c7ab779b4a6f55f02e)
+![Image](cb57e5ca56a248aea35acd17d59e6453)
 
 ---

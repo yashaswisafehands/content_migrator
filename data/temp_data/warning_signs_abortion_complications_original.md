@@ -6,7 +6,7 @@ Tell the woman to contact you immediately if they experience any of the followin
 
 Women with signs of a continuing pregnancy or symptoms of a failed abortion, such as minimal bleeding, should be offered a uterine evacuation without delay.
 
-![Image](42ad09e1993e4328ae85a8703f238da0)
+![Image](bbe76b01e4aa47a79261f246efe08fb6)
 
 ## Ectopic pregnancy:
 
@@ -19,7 +19,7 @@ Tell the woman to call for help if they have not had any bleeding one to two day
 
 If an ectopic pregnancy is detected, treat the woman with either methotrexate or emergency surgery if the pregnancy has ruptured a tube OR arrange for emergency transfer.
 
-![Image](fc145f976d374728ad11c74d7b7c6ac5)
+![Image](d77910d22c97459293cb72203586d1ba)
 
 ## Incomplete abortion:
 
@@ -33,13 +33,13 @@ Clinically stable patients have the following three options:
 
 The decision should be based upon the clinical condition of the woman and her preferences for treatment.
 
-![Image](8fb9a78556214968820e8a1b59342195)
+![Image](925d12ed0054421fbc21cf3f22421a85)
 
 ## Haemorrhage
 
 - **Excessive bleeding:**soaking more than 2 sanitary pads per hour for 2 consecutive hours, treatment should be expedited especially if accompanied by prolonged dizziness, light-headedness, and increasing fatigue.
 
-![Image](096b1b7335e34d4aa965e880eaf38144)
+![Image](37667bdd67044740b3b8752b82727ab6)
 
 Perform acute MVA to remove the products of conception to reduce the bleeding, and in severe cases, combine with manual compression manoeuvres. See **Aort compression and Bimanual compression** subchapters in the PPH module.
 
@@ -51,7 +51,7 @@ Symptoms of infection include:
 - **Feeling very sick**with or without fever, and persistent, severe nausea or vomiting in the days after misoprostol is used.
 - **Unusual or foul-smelling vaginal discharge**, especially if accompanied by severe cramps or abdominal pain.
 
-![Image](3156f2ab326d4af281d8379e947f4f9b)
+![Image](b7f1ee01c71945a1945e03f50089ac8c)
 
 Women with an infection require treatment with antibiotics and may need hospitalization.
 

@@ -4,8 +4,6 @@
 
 The type, amount and frequency of carbohydrate intake has a major influence on blood sugar readings.
 
-![Image](0bd14f1534164cab9302cd232400bdbf)
-
 Food sources of carbohydrate:
 
 - Cereals - wheat, bajra, ragi, corn, rice etc.
@@ -22,7 +20,5 @@ She should spread them over 3 small meals and 2–3 snacks each day, each meal c
 - Complex carbohydrates are preferred over simple carbohydrates. 
 - Complex carbohydrates are whole-grain cereals like oats, bajra, jowar, ragi, whole pulses, vegetables and fruits with skins. 
 - Simple carbohydrates are sweets, cakes, puddings, sweet biscuits, pastry, juice, soft drinks, chips, white bread, naan, pizza etc.
-
-![Image](192736eecc2e4352a1c2798ba7b21150)
 
 ---

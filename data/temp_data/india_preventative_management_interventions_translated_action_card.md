@@ -1,70 +1,64 @@
 # Chapter: Malaria prevention
 
-## मलेरिया रोकथाम
+## Malaria prevention
 
-गर्भावस्था के दौरान मलेरिया संक्रमण एक प्रमुख सार्वजनिक स्वास्थ्य समस्या है, जिसमें माँ, भ्रूण और नवजात शिशु के लिए काफी रिस्क होता है
+Malaria infection during pregnancy is a major public health problem, with substantial risks for the mother, foetus and the newborn.  
 
+No prophylaxis is recommended. But in malaria-endemic areas, insecticide-treated bed nets or long-lasting insecticidal nets (LLIN) should be given to pregnant women. 
 
-किसी प्रोफिलैक्सिस की अनुशंसा नहीं की जाती है लेकिन मलेरिया-स्थानिक क्षेत्रों में, गर्भवती महिलाओं को इंसेक्टिसाइड-संबंधित बेड नेट्स या लॉन्ग-लास्टिंग इंसेक्टिसाइडल नेट्स (एलएलआईएन) प्रदान करना चाहिए
+Counsel them on the use of LLINs.
 
-एल एल आई एन के उपयोग पर उन्हें परामर्श दें
+In high malaria-endemic areas, test pregnant women routinely for malaria at the first antenatal visit. 
 
-उच्च मलेरिया-स्थानिक क्षेत्रों में, नियमित रूप से गर्भवती महिलाओं की पहली प्रसव पूर्व जांच में मलेरिया का परीक्षण करें
+Screen women every month by conducting rapid diagnostic test(RDT) even if she does not manifest symptoms of malaria.
 
-महिलाओं की हर माह आरडीटी जांच कराएं भले ही उनमें मलेरिया के लक्षण न दिखें
-
-यदि किसी भी समय जांच में उसमें मलेरिया के लक्षण दिखते हैं तो परीक्षण करें और उसे इलाज के लिए हायर सेंटर पर रेफर करें
-
-![Image](8fbb8367e081467ea7fddf0a200f2c6a)
+If she shows symptoms of malaria at any time test and refer to higher centre for treatment.
 
 ---
 
 # Chapter: Preventative anthelminthic (deworming) treatment
 
-## रोकथाम एंथेलमिंथिक (डीवर्मिंग) उपचार
+## Preventative anthelminthic (deworming) treatment
 
-सभी गर्भवती महिलाओं के लिए रोकथाम एंथेलमिंथिक (डीवर्मिंग) उपचार की सिफारिश की जाती है
+Preventive deworming treatment is recommended for all pregnant women.
 
-![Image](8fb25a2def854891ac35e1b5f5c28dda)
+![Image](036bbf9fe8f34691823e35f07f8eaa2b)
 
-एल्बेंडाजोल 400 मिलीग्राम की एक खुराक दूसरी तिमाही में दी जाती है।
+Single dose of albendazole 400 mg is given preferably in 2nd trimester.
 
-
-जूते पहनने और सुरक्षित पीने योग्य पानी पीने की सलाह दें
-
-भोजन से पहले और शौचालय का उपयोग करने के बाद व्यक्तिगत स्वच्छता और हाथ धोने की सलाह
+Recommend using footwear and drinking safe potable water.
+ 
+Advice on personal hygiene and handwashing before meals and after using the toilet.
 
 ---
 
 # Chapter: Tetanus and diphtheria vaccination
 
-## टेटनस और डिप्थीरिया का टीकाकरण
+## Tetanus and diphtheria vaccination
 
-![Image](6eb638d30a7e40f3878396f73d9fa7ee)
+![Image](af15d60e161b4619b0b8eed452c8eadd)
 
-मातृ एवं नवजात शिशु को टेटनस और डिप्थीरिया से बचाने के लिए टेटनस और डिप्थीरिया टीकाकरण की सिफारिश की जाती है.
+Tetanus and diphtheria vaccination is recommended to all pregnant women  to protect against maternal and neonatal tetanus and diphtheria.
 
-- खुराक = 0.5 मिली गहराई तक इंट्रामस्क्युलर, ऊपरी भुजा
-- यदि पहले टीकाकरण नहीं कराया गया है या टीकाकरण की स्थिति अज्ञात है, तो गर्भावस्था की शुरुआत में या पहली एएनसी विजिट के दौरान पहली खुराक दें
-- दूसरी खुराक पहली खुराक के 4 सप्ताह बाद दी जाती है
-- यदि गर्भावस्था पिछली गर्भावस्था के 3 वर्ष के भीतर हुई हो और 2 टीडी/टीटी
+- Dose = 0.5 ml deep intramuscularly, Upper Arm
+- If not immunized previously or immunization status is unknown, give first dose in early in pregnancy or at first ANC visit. 
+- The second dose is given after 4 weeks of the1st dose.
+- Give Td booster, if pregnancy occurs within 3 years of last pregnancy and 2 Td/TT doses were received.
 
 ---
 
 # Chapter: Ultrasound scan
 
-## अल्ट्रासाउंड स्कैन
+## Ultrasound Scan
 
-नियमित प्रसव पूर्व देखभाल (एएनसी) पैकेज के हिस्से के रूप में गर्भावस्था के दौरान एक प्रसूति अल्ट्रासाउंड किया जाना चाहिए। यदि चिकित्सकीय रूप से संकेत दिया जाए तो अतिरिक्त अल्ट्रासाउंड जांच की जा सकती है । 
+One obstetric ultrasound should be done during pregnancy as part of routine Ante natal Care (ANC)package. Additional ultrasound examinations can be done if clinically indicated.
 
-यदि गर्भावस्था में एक भी स्कैन किया जाना है, तो आदर्श रूप से इसे गर्भधारण के 18 से 22 सप्ताह के बीच किया जाना चाहिए।
+If a single scan is to be performed in pregnancy, ideally it should be done between 18 to 22 weeks of gestation.
 
-यू एस जी गर्भकालीन आयु का अनुमान लगाने, भ्रूण संबंधी विसंगतियों और एकाधिक गर्भधारण का पता लगाने, पोस्ट-टर्म गर्भावस्था के लिए प्रसव पीड़ा को कम करने और महिला .
+USG is done to estimate gestational age, detect foetal anomalies and multiple pregnancies, reduce induction of labour for post-term pregnancy, and improve the woman’s pregnancy experience.
 
-![Image](3ebdebf99a42461f9d7bf2ff69791afe)
+Offer a late ultrasound scan to women who have not had an early ultrasound scan, to identify the number of foetuses, presentation and placental location.
 
-जिन महिलाओं का प्रारंभिक अल्ट्रासाउंड स्कैन नहीं हुआ है, उन्हें देर से अल्ट्रासाउंड स्कैन की पेशकश करें, ताकि भ्रूण की संख्या, प्रस्तुति और प्लेसेंटल स्थान की पहचान की जा सके।
-
-मातृ एवं प्रसवकालीन परिणामों में सुधार के लिए नियमित डॉपलर अल्ट्रासाउंड जांच की अनुशंसा नहीं की जाती है
+Routine Doppler ultrasound examination is not recommended to improve maternal and perinatal outcomes.
 
 ---

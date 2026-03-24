@@ -22,7 +22,7 @@ If she shows symptoms of malaria at any time test and refer to higher centre for
 
 Preventive deworming treatment is recommended for all pregnant women.
 
-![Image](67b3265e79b14bc48411f99ede5df2b6)
+![Image](036bbf9fe8f34691823e35f07f8eaa2b)
 
 Single dose of albendazole 400 mg is given preferably in 2nd trimester.
 
@@ -36,7 +36,7 @@ Advice on personal hygiene and handwashing before meals and after using the toil
 
 ## Tetanus and diphtheria vaccination
 
-![Image](fab542ac11e84d94aa46990526498131)
+![Image](af15d60e161b4619b0b8eed452c8eadd)
 
 Tetanus and diphtheria vaccination is recommended to all pregnant women  to protect against maternal and neonatal tetanus and diphtheria.
 

@@ -1,43 +1,43 @@
-# Chapter: संकेत एवं उपयोग
+# Chapter: Indication and usage
 
-गर्भावस्था के दौरान डायबिटीज और जेस्टेशनल डायबिटीज़ मेलाइटस के लिए किसी भी समय ब्लड शुगर को कम करने वाली एजेंट का उपयोग किया जा सकता है.
+Blood sugar lowering agent can be used at any time during pregnancy for diabetes in pregnancy and gestational diabetes mellitus.
 
-जीडीएम के चिकित्सा (मेडिकल) प्रबंधन के लिए इंसुलिन पहली चयन की जाने वाली दवा है .
+Insulin is the first drug of choice for medical management of GDM.
 
-# खुराक और एडमिनिस्ट्रेशन
+# Dosage and Administration
 
-जेस्टेशनल डायबिटीज़ मेलाइटस के लिए:
+For Gestational Diabetes Mellitus:
 
-- प्रारंभिक खुराक: पूर्व-मिश्रित इंसुलिन की 4 इकाइयाँ
-- खुराक को समायोजित करें और ब्लड शुगर के स्तर के अनुसार बनाए रखे
-- भोजन से 30 मिनट पहले त्वचा के नीचे सुबक्यूटेनियसली प्रबंधित करें
-- इंसुलिन की खुराक की गणना ब्लड शुगर स्तर के आधार पर की जानी चाहिए
+- Starting dose: 4 units of pre-mixed insulin
+- Adjust the dose and maintain as per the blood glucose levels.
+- Administer subcutaneously 30 minutes before food. 
+- Dose of insulin should be calculated by blood sugar level:
 
-ब्लड शुगर (2 घंटे पीपीबीएस) और इंसुलिन की खुराक 
+Blood Sugar(2 hour PPBS) & Dose of insulin
 
 
-120-160 के बीच = 4 इकाइयाँ
-160-200 के बीच = 6 इकाइयाँ
-> 200 =8 इकाइयाँ
+Between 120-160 = 4 units 
+Between 160-200 = 6 units
+> 200 = 8 units
 
-# कॉन्ट्रइंडिकेशन
+# Contraindications
 
-हाइपोग्लाइसीमिया, रक्त में पोटैशियम की कमी,  लीवर संबंधित समस्याएं, किडनी की कार्यक्षमता में कमी
+Hypoglycemia, low amount of potassium in the blood, liver problems, decreased kidney function.
 
-पूर्व में इंसुलिन के प्रति अतिरिक्तता.
+Hypersensitivity to insulin in the past.
 
-# प्रतिकूल प्रतिक्रियाएँ
+# Adverse reactions
 
-सामान्य दुष्प्रभाव हाइपोग्लाइसीमिया, लालिमा, सूजन, खुजली और इंजेक्शन स्थल पर दर्द, वजन बढ़ना और कब्ज हैं.
+Common side effects are hypoglycaemia, redness, swelling,itching and pain in the injection site, weight gain and constipation.
 
-गंभीर लेकिन दुर्लभ दुष्प्रभावों में पूरे शरीर पर रैश या खुजली, सांस की तकलीफ, घरघराहट, चक्कर आना, धुंधली दृष्टि, असामान्य दिल की धड़कन का तेज होना, पसीना आना, सांस लेने या निगलने में कठिनाई, कमजोरी, मांसपेशियों में ऐंठन, हाइपोकैलिमिया, शीघ्र समय में बड़ा वजन बढ़ना , हाथ, पैर, और टांगों की सूजन.
+Sever but rare side effects include rash or itching all over the body, shortness of breath, wheezing, dizziness, blurred vision, fast or abnormal heartbeat, sweating, difficulty breathing or swallowing, weakness, muscle cramps, hypokalemia, large weight gain within a short period, swelling of arms, hands, feet, and lower legs.
 
-यदि त्वचा के नीचे इंजेक्शन की साइट को घुमाया नहीं जाता है तो स्थानीय त्वचीय लिपो-डिस्ट्रोफिक प्रतिक्रियाएं हो सकती हैं
+Local dermal lipo-dystrophic reactions can occur if the site of subcutaneous injection is not rotated.
 
-# याद दिलाने के संकेत
+# Points to remember
 
-इंसुलिन को 2-80C पर रेफ्रिजरेट करें.  इसे फ्रीज न करें
-सीधे धूप/गर्मी के संपर्क में न आएं। 
-यदि नियमित इंसुलिन धुंधलापन और बादल जेसे दिखाता है तो इसका उपयोग न करें
+Refrigerate insulin at 2-80C. Do not freeze it.
+Do not expose to direct sunlight / heat. 
+Do not use, if regular insulin shows haziness and cloudiness.
 
 ---

@@ -1,27 +1,29 @@
 # Chapter: Disinfection of surroundings
 
-### नवजात शिशु देखभाल इकाई का डिसइंफेक्शन
+### Disinfection of Newborn Care Unit:
 
-## आसपास के क्षेत्र का डिसइंफेक्शन
+## Disinfection of surroundings:
 
-- प्रतिदिन एक बार 3% फिनॉल या 5% लाइज़ॉल से साफ़ करें।
-- वेट मॉपिंग दिन में कम से कम 3 बार की जानी चाहिए।
-- ड्राई डस्टिंग नहीं करनी चाहिए।
-- वार्ड की सतहों की सफाई 2% ग्लूटाराल्डिहाइड से की जा सकती है।
+- Clean with 3% phenol or 5% Lysol once a day.
+- Wet mopping should be done at least 3 times a day. 
+- Dry dusting should be avoided. 
+- Surface cleaning for the wards may be done using 2 percent Bacillocid (100 ml in 5 litres of water).
 
 ---
 
 # Chapter: Disinfection of equipment
 
-### नवजात शिशु देखभाल इकाई का डिसइंफेक्शन :
+### Disinfection of Newborn Care Unit:
 
-## उपकरणों का डिसइंफेक्शन:
+## Disinfection of equipment:
 
-1. **उपकरण:** रेडिएंट वार्मर. **डिसइंफेक्शन/स्टेरिलाइज़ेशन प्रक्रिया:**कैनोपी और मैट्रेस को डिटर्जेंट सॉल्यूशन से साफ करें और सुखाएँ।**फ्रीक्वेंसी :**प्रतिदिन तथा प्रत्येक नवजात को शिफ्ट करने के बाद।
-2. **उपकरण :** कॉट्स **डिसइंफेक्शन/स्टेरिलाइज़ेशन प्रक्रिया:**3% फिनॉल / 5% लाइज़ॉल / 2% ग्लूटाराल्डिहाइड से साफ करें।**फ्रीक्वेंसी :**प्रतिदिन।
-3. **उपकरण:** सक्शन एपराटस **डिसइंफेक्शन/स्टेरिलाइज़ेशन प्रक्रिया:**सक्शन जार को डिटर्जेंट से साफ करें। सक्शन ट्यूबिंग प्रतिदिन बदली जाए। **फ्रीक्वेंसी :**प्रतिदिन।
-4. **उपकरण:**ऑक्सीजन हुड **डिसइंफेक्शन/स्टेरिलाइज़ेशन प्रक्रिया:**डिटर्जेंट से साफ करें। **फ्रीक्वेंसी :**प्रतिदिन तथा प्रत्येक उपयोग के बाद।
-5. **उपकरण:** बैग और मास्क **डिसइंफेक्शन/स्टेरिलाइज़ेशन प्रक्रिया: डिसइंफेक्शन:**डिटर्जेंट से साफ करें और धोएँ।**स्टेरिलाइज़ेशन:** 2% ग्लूटाराल्डिहाइड में 4–6 घंटे डुबोएँ, फिर पानी से अच्छी तरह धोएँ। **फ्रीक्वेंसी : डिसइन्फेक्ट:** प्रतिदिन और प्रत्येक उपयोग के बाद। **स्टेरिलाइज़:** सप्ताह में एक बार।
-6. **उपकरण:**थर्मामीटर **डिसइंफेक्शन/स्टेरिलाइज़ेशन प्रक्रिया:**अल्कोहल स्वैब से पोंछें। **फ्रीक्वेंसी :**प्रत्येक उपयोग के बाद।
+1. **Equipment:** Radiant warmer. **Disinfection/sterilization process**: Clean canopy and matress with detergent solution and dried. **Frequency:** Daily. Every time after shifting a baby. 
+2. **Equipment:** Cots. **Disinfection/sterilization process:**Clean with 3% phenol/5% Lysol. **Frequency:** Daily.
+3. **Equipment:** Suction apparatus. **Disinfection/sterilization process:** Suction jar should contain with 3% phenol/ 5% Lysol and cleaned with detergent. Suction should be changed daily. **Frequency:**Daily.
+4. **Equipment:** Oxygen hood. **Disinfection/sterilization process:** Clean with detergent. **Frequency:** Daily and after every use.
+5. **Equipment:** Bag and mask. **Disinfection/sterilization process:** Disinfect-Clean with detergent and wash Sterilize-Immerse in 2% gluteraldehyde for 4 hours followed by rinsing with water. **Frequency:** Disinfect daily and after every use. Sterilize weekly.
+6. **Equipment:** IV set. **Disinfection/sterilization process:** Maintain asepsis during connecting/disconnecting. Avoid ends to touch surrondings. **Frequency:** Change every 24 hours
+7. **Equipment:** Feeding utensils. **Disinfection/sterilization process:** Clean with soap and water and boil in water for 10 minutes. **Frequency:** After every feed. 
+8. **Equipment:** Thermometer. **Disinfection/sterilization process:** Wipe with alcohol. **Frequency:** After every use.
 
 ---

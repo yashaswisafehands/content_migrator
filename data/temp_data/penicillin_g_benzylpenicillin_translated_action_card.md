@@ -1,13 +1,20 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-पेनिसिलिन का उपयोग विभिन्न संक्रमणों के उपचार में किया जाता है, जैसे निमोनिया, प्ल्यूरल एम्पायिमा, एरिसिपेलस, एंडोकार्डाइटिस, ऑस्टियोमाइलाइटिस, और आर्थराइटिस — जो पेनिसिलिन-सेंसिटिव बैक्टीरिया द्वारा होते हैं, जैसे: स्ट्रेप्टोकॉकस न्यूमोनिया, बीटा-हीमोलिटिक स्ट्रेप्टोकॉकस, कुछ मामलों में स्टैफिलोकोकस ऑरियस  (हालांकि अधिकांश स्ट्रेन रेसिस्टेंट होते हैं), क्लोस्ट्रिडियम  स्पीशीज (सिवाय क्लोस्ट्रिडियम डिफिसाइल  के), बैसिलस एन्थ्रासिस, कोरिनेबैक्टेरियम डिफ्थीरिया, एक्टिनोमाइसीज़, नीसेरिया गोनोरिया, नीसेरिया मेनिन्जिटिडिस, ट्रेपोनेमा पैलिडम, पाश्चुरेला मल्टोसिडा और बोरेलिया बर्गडोर्फरी  की कुछ स्ट्रेन।
+Penicillin G or (benzylpenicillin) is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections. 
 
-# डोज़ और देने की विधि
+**General use:**Treatment of bacterial infections such as streptococcal pharyngitis, pneumonia and syphilis.
 
-## एडल्ट्स:
+**Obstetric use:** Antibiotic prophylaxis for confirmed vaginal colonisation with Group B Streptococcus (GBS) during labour**.**
 
-1–2 मिलियन इंटरनेशनल यूनिट (आईयू) हर 6 घंटे पर आईवी रूप से दें। आईएम या ओरल  से भी दिया जा सकता है, लेकिन यह कम प्रभावी होता है।
-गंभीर संक्रमणों में अधिक खुराक की आवश्यकता हो सकती है। अधिकतम दैनिक खुराक 20 मिलियन IU है।
+# Dosage and administration
+
+## Adults:
+
+**General bacterial infections:**
+
+Standard dose: penicillin G 1-2 million IU  IV every 6 hours.
+
+Alternative routes: IM/orally (less effective)
 
 With severe infections, higher doses may be needed: the daily maximum dose is 12 g (20 million IU) of penicillin G.
 
@@ -19,7 +26,7 @@ If labour lasts longer than 18 hours:
  
 Penicillin G 1 million IU orally every 8 hours until birth may be considered.
 
-##
+## Newborns:
 
 **Under 7 days:**
 
@@ -29,18 +36,18 @@ Penicillin G 50.000 IU/kg IV every 12 hours.
 
 Penicillin G 50.000 IU/kg IV every 6 hours.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-पेनिसिलिन से एलर्जी।
+Allergy to penicillin.
 
-अन्य बी-लैक्टम एंटीबायोटिक्स (जैसे सेफालोस्पोरिन्स) से गंभीर एलर्जी (टाइप 1 हाइपरसेंसिटिविटी)।
+Severe allergy (type 1) to other β-lactamantibiotika (like cephalosporins).
 
-# एडवर्स रिएक्शन्स
+# Adverse reactions
 
-सामान्य एडवर्स रिएक्शन्स: त्वचा पर रैश।
+Common adverse reactions are a skin rash.
 
-असामान्य एडवर्स रिएक्शन्स: अर्टिकेरिया (त्वचा पर खुजलीदार फफोले)।
+Uncommon adverse reactions are urticaria.
 
-कभी - कभी होने वाले एडवर्स रिएक्शन्स : हीमोलाइटिक एनीमिया और एनाफिलेक्टिक रिएक्शन।
+Rare adverse reactions are haemolytic anaemia and anaphylactic reactions.
 
 ---

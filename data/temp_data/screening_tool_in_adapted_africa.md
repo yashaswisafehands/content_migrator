@@ -16,7 +16,7 @@
 
 - Many women under-report their stress levels. It is therefore important to use screening tools together with history taking and clinical judgment.
 
-![Image](38826dd1e7d9492589f6e7e76c6e2a61)
+![Image](f62d44003d6540808996505bf4ddf7cb)
 
 ---
 
@@ -28,7 +28,7 @@ The GAD-2 is an ultra brief and easy to perform initial screening tool for Gener
 
 A score of 3 points is preferred cut-off for identifying possible cases and in which further diagnostic evaluation for generalized anxiety disorder is warranted.
 
-![Image](03e16b3f5503411c87228ae86cc7d298)
+![Image](f18071ebe5194be4a6756a1256adb232)
 
 ---
 
@@ -42,7 +42,7 @@ Scores of 5, 10, and 15 represent cut-points for mild, moderate, and severe anxi
 
 When used as a screening tool, further evaluation is recommended when the score is 10 or greater.
 
-![Image](3d181b93808544d5893beacc2c4211e2)
+![Image](7c7d05c030dc4b65acd9ac78f556849d)
 
 ---
 
@@ -64,6 +64,6 @@ The tool has 9 items and each of them corresponds to one of the criteria for dep
 - **Monitoring:** Repeated use over time can track treatment response or symptom progression.
 - **Suicidality:** Item 9 is critical—any score >0 on this item requires follow-up for suicidal ideation risk.
 
-![Image](9e7d9613f915448aaf391c3c3082a3f0)
+![Image](536a4d7d25194ac7900d66b9593c1a76)
 
 ---

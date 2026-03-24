@@ -1,33 +1,34 @@
-# Chapter: इन्डिकेशन्ज़ और उपयोग
+# Chapter: Indications and Usage
 
-आइबुफ्रोफे़न एक नाॅन स्टेराॅइड एंटीइन्फ्लैमेट्री (एनएसएआईडी) दवा है।
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID).
 
-यह शरीर में दर्द और सूजन करने वाले हाॅर्मोनस को कम करता है।
+It works by inhibiting hormones that cause inflammation and pain in the body.
 
-आइबुफ्रोफे़न का प्रयोग बुखार को कम करने के लिए और सिर दर्द, दांत में दर्द, कमर में दर्द, आर्थिराइटिस, मेनस्ट्रुअल दर्द या छोटी-मोटी चोटों के कारण हुए दर्द या सूजन को कम करने के लिए होता है।
+Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury.
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-दर्द कम करने के लिए 400 मि.ग्रा. आइबुफ्रोफेन ओरल दें।
+**Pain relief:**
+Ibuprofen 400-600 mg orally.
 
-एडल्ट्स के लिए **अधिकतम डोज़** 800 मि. ग्रा. प्रति डोज़ है।
+**Maximum dose (adults):**
+Ibuprofen 800 mg/dose, OR
+Ibuprofen 3200 mg/day (4 doses)
 
-दर्द, सूजन या बुखार कम करने के लिए सबसे कम डोज़ का प्रयोग करें।
+Do not exceed the dose needed for relief from pain, swelling or fever.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-**आइबुप्रोफेन का उपयोग निम्न परिस्थितियों में नहीं करना चाहिए:**
+Known hypersensitivity or idiosyncratic reaction to ibuprofen (or any of the other ingredients in the product) known hypersensitivity to aspirin and other NSAIDs.
 
-आइबुप्रोफेन (या दवा के किसी अन्य घटक) के प्रति ज्ञात हाइपरसेंसिटिविटी या असामान्य (इडियोसिनक्रेटिक) रिएक्शन। एस्पिरिन या अन्य एनएसएआईडी के प्रति ज्ञात हाइपरसेंसिटिविटी।
+Asthma that is aspirin or NSAID sensitive.
 
-एस्पिरिन या एनएसएआईडी को सेन्सिटिव अस्थमा।
+Active gastrointestinal bleeding or peptic ulceration.
 
-एक्टिव गैस्ट्रोइंटेस्टाइनल ब्लीडिंग या पेप्टिक अल्सर।
+# Adverse Reactions
 
-# एडवर्स रिएक्शन्स
+Adverse effects include nausea, dyspepsia, diarrhoea, constipation, gastrointestinal ulceration/bleeding, headache, dizziness, rash, salt and fluid retention, and hypertension.
 
-एडवर्स रिएक्शन्स जैसे जी मितलाना, डिस्पेप्सिया, दस्त, कब्ज़, गेस्ट्रोइन्टेसटाइनल अल्सेरेशन, सिर दर्द, चक्कर आना, रैश, साल्ट और फ्लुइड का शरीर में रूकना और हाईपरटेन्शन हैं।
-
-कम होने वाले एडवर्स रिएक्शन्स हैं: इसोफेजियल अल्सेरेशन हार्ट फेल्यर हाईपरकेलिमिया, रीनल खराबी, भ्रान्ति और ब्रोन्कोस्पाज़म। आइबुफ्रोफे़न से अस्थमा बढ़ सकता है, जो कभी-कभी जानलेवा भी हो सकता है।
+Infrequent adverse effects include oesophageal ulceration, heart failure, hyperkalaemia, renal impairment, confusion, and bronchospasm. Ibuprofen can exacerbate asthma, sometimes fatally.
 
 ---

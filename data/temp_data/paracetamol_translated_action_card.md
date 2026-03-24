@@ -1,35 +1,23 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and usage
 
-यह एक हल्की एनाल्जेसिक (दर्द निवारक) दवा है, जिसे नॉन-स्टेरॉइडल एंटी-इंफ्लेमेटरी ड्रग्स (एनएसएआईडी) और ओपिओइड्स के साथ भी दिया जा सकता है।
+Mild analgetic that can be combined with non steroid anti-inflammatory drugs (NSAID) and opioids.
 
-# डोज़ और देने की विधि
+# Dosage and administration
 
-**एडल्ट्स :** 1 ग्राम (500 मि.ग्रा. की 2 टैबलेट) दिन में 4 बार।
+Paracetamol 1 g (2 tablets of 500 mg) 4 x daily.
 
-**बच्चों के लिए:** यदि टीकाकरण के बाद बुखार होता है तो हर 4–6 घंटे में दें (24 घंटे में अधिकतम 4 खुराक)।
+# Contraindications
 
-6 सप्ताह – 6 महीने: 2.5 मि.ली.
+Allergy to paracetamol. Severe liver or renal failure.
 
-6 महीने – 24 महीने: 5 मि.ली.
+# Adverse reactions
 
-2 – 4 वर्ष: 7.5 मि.ली.
+Paracetamol in therapeutic doses might cause affection of liver transaminases.
 
-4 – 6 वर्ष: 10 मि.ली.
+The consumption of Paracetamol during pregnancy is suspected to double the risk of cryptorchism in male newborns.
 
-# कॉन्ट्राइंडिकेशन्स
+Overdose can cause severe liver failure that can lead to death within days from consumption.
 
-पेरासिटामोल से एलर्जी। गंभीर लिवर या किडनी फेलियर।
-
-2 किलोग्राम से कम वजन वाले बच्चों में पेरासिटामोल नहीं देनी चाहिये।
-
-# एडवर्स रिएक्शन्स
-
-उपचारी डोज़ में पेरासीटामाॅल से लिवर ट्रान्सएमाइनेज़ पर प्रभाव पड़ सकता है।
-
-गर्भावस्था के दौरान पेरासिटामोल का सेवन करने से पुरुष नवजात में क्रिप्टोरकिज़्म का जोखिम दोगुना होने का संदेह है।
-
-भारी मात्रा में लेने से सिवियर लिवर फेलियर हो सकता है, जिससे दवा लेने के कुछ दिनों में मृत्यु भी हो सकती है।
-
-10 ग्रा. की डोज़ भी जानलेवा हो सकती है, पर साधारण रूप से यह मात्रा काफी अधिक होनी चाहिए।
+A lethal dose can be as little as 10 g though usually it is considerably higher.
 
 ---

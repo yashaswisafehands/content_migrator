@@ -1,26 +1,22 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-गर्भावस्था में हाईपरटेंशन के इलाज के लिए एड्रीनर्जिक α- और β-रेसेप्टर एंटागोनिस्ट का उपयोग किया जाता है।
+An adrenergic a- and b- receptor antagonist used to treat hypertension in pregnancy.
 
-यदि सिस्टोलिक ब्लड प्रेशर 150 एमएमएचजी या उससे अधिक, या डायस्टोलिक ब्लड प्रेशर 100 एमएमएचजी या उससे अधिक लगातार बना रहे, तो उपचार किया जाना चाहिए।
+A persistent BP ≥ 140/100 mmHg should be treated.
 
-**सावधान:**
+**CAUTION:**
 
-फीटल सर्कुलेशन पर प्रभाव न पड़े, इसके लिए डायस्टोलिक ब्लड प्रेशर को 90 एमएमएचजी से नीचे नहीं गिराना चाहिए।
+Diastolic BP should not be reduced < 80-90 mmHg to avoid affecting foetal circulation.
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-**नॉन- सीवियर हाईपरटेंशन**
+**Non-severe hypertension (BP ≥ 140/90 mmHg)**
 
-सिस्टोलिक ब्लड प्रेशर ≥ 150 एमएमएचजी या डायस्टोलिक ≥ 100 एमएमएचजी।
+Labetalol 200 mg orally every 6 -12 hours.
 
-हर 8-12 घंटे में 100 मि.ग्रा. ओरल दें।
+Maximum dose: labetalol 1.2 g / 24 hours
 
-अधिकतम डोज़ 24 घंटे में 2.4 ग्राम।
-
-**सीवियर हाईपरटेंशन**
-
-सिस्टोलिक ब्लड प्रेशर ≥ 160 एमएमएचजी या डायस्टोलिक ≥ 110 एमएमएचजी ।
+**Severe hypertension (BP ≥ 160/110 mmHg)**
 
 Labetalol 200 mg orally.
 
@@ -30,32 +26,33 @@ Maintain BP above the lower limits of normal.
 
 Maximum dose: labetalol 1.2 mg / 24 hours
 
-**इंट्रावेनस उपचार:**
+**Intravenous treatment:**
 
-20 मि.ग्रा. आईवी बॉलस दें।
+Labetalol 10 mg IV.
 
-यदि 10 मिनट के बाद भी बी.पी. ठीक नहीं है, तो 40 मि.ग्रा. आईवी दें।
+If the response is inadequate after 10 minutes, administer: labetalol 20 mg IV.
 
-डोज़ को 80 मि.ग्रा. तक दोगुना किया जा सकता है, प्रत्येक बढ़ी हुई डोज़ के बीच 10 मिनट का अंतर रखते हुए, जब तक कि ब्लड प्रेशर थ्रेशोल्ड से नीचे न आ जाए।
+Double the dose of labetalol (to 40 mg and then 80 mg) until BP is reduced to the treatment goal.
 
-अधिकतम कुल डोज़ 300 मि.ग्रा. है
+Maximum IV dose: labetalol 300 mg IV
+Thereafter, switch to oral treatment.
 
-एक बार जब बी.पी. नाॅन सिवियर स्तर (160/110 एमएमएचजी से कम) तक घट जाए, तो ओरल इलाज जारी रखें।
+Once blood pressure is reduced to non-severe levels (< 160/110 mmHg), ongoing treatment should be continued using oral medication.
 
 **In the case of severe preeclampsia:**
 
 Delivery within 24 hours (48 hours if condition is stable and there is a need for awaiting lung matuaration of the foetus).
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-जिन महिलाओं में कंजेस्टिव हार्ट फेल्योर, हाइपोवोलेमिक शॉक, या ब्रॉन्कोस्पाज्म (अस्थमा) की प्रवृत्ति हो, उन्हें लैबेटालॉल नहीं दिया जाना चाहिए।
+Women with congestive heart failure, hypovolaemic shock or predisposition to bronchospasm (asthma) should not receive Labetalol.
 
-# एडवर्स रिएक्शन्स
+# Adverse Reactions
 
-सामान्य एडवर्स रिएक्शन है: नौजिया, सुस्ती, ऑर्थोस्टैटिक हाइपोटेंशन, श्वास की कमी, चक्कर, सिरदर्द, खोपड़ी में झुनझुनी, त्वचा पर चकत्ते और खुजली, और धुंधली दृष्टि।
+Common adverse reactions are nausea, lethargy, orthostatic hypotension, dyspnoea, dizziness, headaches, prickling sensation in the scalp, skin rash and itching, and blurry vision.
 
-असामान्य एडवर्स रिएक्शन है: उल्टी, पेट दर्द, ब्रॉन्कियल संकुचन, और कंपकंपी।
+Uncommon adverse reactions are vomiting, abdominal pain, bronchial constriction, and shivering.
 
-रेयर एडवर्स रिएक्शन है: ब्रैडीकार्डिया (धीमी हृदय गति)।
+Rare adverse reactions are bradycardia.
 
 ---

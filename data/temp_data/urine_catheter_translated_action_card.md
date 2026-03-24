@@ -1,79 +1,82 @@
 # Chapter: Usage
 
-### यूरिनरी कैथेटराइज़ेशन - उपयोग
+### Urinary catheter - usage
 
-कैथेटर केवल तभी लगाएँ जब अत्यंत आवश्यक हो।
+Catheterize only when necessary. 
 
-ब्लैडर को कैथेटर द्वारा खाली करने की आवश्यकता निम्न स्थितियों में होती है:
+Emptying the bladder with a urinary catheter is indicated:
 
-1. लेबर में महिला खुद से पेशाब नहीं कर पा रही और उसके लेबर की प्रोग्रेस संतोषजनक नहीं है, **या** 
-2. वैक्यूम एक्सट्रैक्शन से पहले, **या**
-3. प्रसव-पश्चात् अधिक रक्तस्राव (पीपीएच) है, **और** 
-4. किसी भी गंभीर अवस्था वाली महिला (जैसे सेप्सिस, सीवियर प्री-एक्लैम्पसिया, एक्लैम्पसिया, रक्तस्राव या शॉक) में स्थिति सुधरने तक इंडवेलिंग कैथेटर डालना आवश्यक है, और साथ ही प्रति घंटे यूरिन आउटपुट कम से कम 30 मि.ली. होना चाहिए।
-
----
-
-# Chapter: इंडवेलिंग यूरिनरी कैथेटर
-
-![Image](2c315129f64749aab433ca28aec27ec7)
-
-## प्रैक्टिकल जानकारी
-
-इंडवेलिंग यूरिनरी कैथेटर वह कैथेटर है जिसे  यूरेथ्रा के माध्यम से ब्लैडर में डाला जाता है और यूरिन निकालने के कुछ समय तक वहीं छोड़ा जाता है।
-
-किसी भी गंभीर अवस्था वाली सभी महिलाओं (जैसे सेप्सिस, सीवियर प्री-एक्लैम्पसिया, एक्लैम्पसिया, रक्तस्राव या शॉक) में स्थिति सुधरने तक इंडवेलिंग यूरिनरी कैथेटर डालना आवश्यक है, तथा प्रति घंटे यूरिन आउटपुट कम से कम 30 मि.ली. होना चाहिए।
-
-यदि यूरिन आउटपुट 30 मि.ली. से कम हो, तो कारण का उपचार करें और आवश्यकता होने पर फ्लूइड दें, परंतु प्री-एक्लैम्पसिया के मामलों में 75 मि.ली./घंटा से अधिक (ओरल या आई.वी.) न दें, क्योंकि इन महिलाओं में फ्लूइड ओवरलोड और पल्मोनरी एडीमा का खतरा बढ़ जाता है।
-
-## प्रक्रिया
-
-1. महिला को प्रक्रिया समझाएँ और सभी उपकरण तैयार करें।
-2. गोपनीयता बनाए रखें; महिला को पीठ के बल लिटाएँ, घुटने मोड़े और जाँघें ढीली रखें।
-3. यदि उपलब्ध हो, तो महिला को स्टेराइल ड्रेप से ढकें।
-4. प्रक्रिया से पहले हाथ धोएं और स्टेराइल दस्ताने पहनें।
-5. एक हाथ से लैबिया अलग करें और यूरेथ्रल ओपनिंग देखें।
-6. यूरेथ्रा के आस-पास के क्षेत्र को  गॉज़ स्वैब्स व एंटिसेप्टिक सॉल्यूशन से दो बार साफ करें।
-7. कैथेटर को लुब्रिकेट करें।
-8. कैथेटर को धीरे-धीरे यूरेथ्रल ओपनिंग में डालें।
-9. जब यूरिन निकलने लगे, तब बलून को  स्टेराइल वॉटर से धीरे-धीरे फुलाएँ और कैथेटर पर दिए गए रिकमेंडेड वॉल्यूम तक भरें।
-10. बलून फुलाने से पहले हमेशा सुनिश्चित करें कि यूरिन निकल रहा हो।
-11. कैथेटर को हल्का पीछे खींचें जब तक रेज़िस्टेंस महसूस न हो, और इसे यूरिन बैग वाले ड्रेनेज सिस्टम से जोड़ें।
-12. कैथेटर को बाहर निकलने से रोकने के लिए जाँघ के ऊपरी सामने के हिस्से में फिक्स करें।
-13. दस्ताने निकालें, हाथ धोएं और प्रक्रिया की तारीख और समय केस शीट में दर्ज करें, और इनपुट-आउटपुट चार्ट बनाएँ।
-
-## निकालना
-
-**निकालने की प्रक्रिया**
-
-1. महिला को प्रक्रिया के बारे में समझाएँ।
-2. गोपनीयता सुनिश्चित करें और महिला को पीठ के बल लिटाएँ या शौचालय पर बैठाएँ। 
-3. हाथ धोएं और स्टेराइल दस्ताने पहनें। 
-4. बैलून को पूरी तरह से डिफ्लेट(खाली) करें।
-5. कैथेटर को धीरे-धीरे पीछे खींचकर निकालें।
-6. दस्ताने निकालें और हाथ धोएं।
-7. कैथेटर निकालने के बाद यूरिन आउटपुट पर ध्यान दें।
-8. कैथेटर निकालने के 4-6 घंटे बाद महिला को  स्वयं यूरिन करने में सक्षम होना चाहिए।
+1. If a woman in labour fails to urinate spontaneously and the progress of labour is dissatisfactory, **OR**
+2. Prior to applying vacuum extraction **OR**
+3. In cases of postpartum haemorrhage, **AND**
+4. With any severe condition, such as **maternal sepsis or severe preeclampsia/ eclampsia,**urine output must be monitored.****In these cases, an indwelling urinary catheter should remain inserted until the woman’s condition improves.
 
 ---
 
-# Chapter: इंटरमिटेंट यूरिनरी कैथेटर
+# Chapter: Indwelling Urinary Catheter
 
-## प्रैक्टिकल जानकारी
+![Image](2ef94dc2f51a4696a7fd891d3bafb38e)
 
-इंटरमिटेंट यूरिनरी कैथेटर को नियमित अंतराल पर या जब महिला स्वयं ब्लैडर खाली नहीं कर पा रही हो, तब डाला जाता है।
+## Practical information
 
-## प्रक्रिया
+An indwelling urinary catheter is a catheter that is inserted into the bladder via the urethra and left in the bladder to drain urine.****
 
-1. महिला को प्रक्रिया समझाएँ और सभी उपकरण तैयार करें।
-2. गोपनीयता बनाए रखें; महिला को पीठ के बल लिटाएँ, घुटने मोड़े और जाँघें ढीली रखें।
-3. यदि उपलब्ध हो, तो महिला को स्टेराइल ड्रेप से ढकें।
-4. प्रक्रिया से पहले हाथ धोएं और स्टेराइल दस्ताने पहनें।
-5. एक हाथ से लैबिया अलग करें और यूरेथ्रल ओपनिंग देखें।
-6. यूरेथ्रा के आस-पास के क्षेत्र को गॉज़ स्वैब्स व एंटिसेप्टिक सॉल्यूशन से दो बार साफ करें।
-7. कैथेटर को लुब्रिकेट करें।
-8. कैथेटर को धीरे- धीरे यूरेथ्रल ओपनिंग में डालें।
-9. महिला का ब्लैडर खाली करें और कैथेटर निकाल दें।
-10. दस्ताने निकालें और  हाथ धोएं।
-11. यूरिन वॉल्यूम नोट करें।
+All women in a critical condition (sepsis, severe pre-eclampsia, eclampsia, bleeding, shock) must have an indwelling urinary catheter to monitor urinary output. The hourly urine output should be at least 30 ml.
+
+If the urinary output is less than 30 ml/hour, treat the underlying cause and consider fluid replacement. However, women with preeclampsia should not be given more an 80 ml/hour (oral and IV) to minimise the risk of fluid overload and pulmonary oedema.
+
+## Procedure
+
+1. Explain the procedure to the woman.
+2. Perform hand hygiene prior to the procedure. 
+3. Ensure privacy. The woman should be lying on her back with knees flexed and thighs open and relaxed. 
+4. Place a blanket/sheet to cover the woman  as much as possible. 
+5. If available, cover the woman in a sterile drape.
+6. Apply sterile gloves.
+7. Separate the labia with one hand and expose the urethral opening. 
+8. With the other hand, clean the area around the urethra twice with gauze and normal saline water.   
+9. Lubricate the catheter. 
+10. Gently insert the catheter into the urethral opening. 
+11. Inflate the balloon slowly with sterile water to the volume recommended on the catheter. 
+12. **ALWAYS** ensure that urine is flowing into the catheter before inflating the balloon.
+13. Pull back the catheter slightly until resistance is felt and attach it to the drainage system with the urine bag.
+14. Remove gloves and perform hand hygiene.
+
+## Removal
+
+**Procedure**
+
+1. Explain the procedure to the woman.
+2. Ensure privacy and have the woman laying on her back or sitting on a toilet. 
+3. Perform hand hygiene and put on gloves. 
+4. Deflate the balloon completely or cut the catheter at the ballon inflation point to ensure the ballon is deflated. 
+5. Gently pull back to remove the catheter. 
+6. Remove gloves and perform hand hygiene. 
+7. Observe urine output after removal of the catheter.  
+8. The woman should urinate spontaneously within 4-6 hours.
+
+---
+
+# Chapter: Intermittent Urinary Catheter
+
+## Practical Information
+
+Intermittent urinary catheter is inserted at regular intervals or when urination is required but the woman is not able to empty her bladder herself.
+
+## Procedure
+
+1. Explain the procedure to the woman.
+2. Perform hand hygiene prior to the procedure.
+3. Ensure privacy. The woman should be lying on her back with knees flexed and thighs relaxed. 
+4. Place a blanket/sheet to cover the woman as much as possible.
+5. If available, cover the woman in a sterile drape. 
+6. Apply sterile gloves.
+7. Separate the labia with one hand and expose urethral opening.
+8. With the other hand, clean the area around the urethra twice with gauze and normal saline water.
+9. Lubricate the catheter. 
+10. Gently insert the catheter into the urethral opening.  
+11. Empty the woman bladder and remove the catheter. 
+12. Remove gloves and perform hand hygiene. 
+13. Document the urine output.
 
 ---

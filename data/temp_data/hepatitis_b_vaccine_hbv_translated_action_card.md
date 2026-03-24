@@ -1,21 +1,24 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-हेपेटाइटिस बी वायरस संक्रमण की रोकथाम
+Prevention of Hepatitis B Virus (HBV)  infection in newborns.
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-- 0.5 मि.ली. मिड-थाई के एन्टेरोलेटरल हिस्से में इंट्रामस्क्युलर दिया जाता है
-- जन्म के समय या 24 घंटों के भीतर जितना जल्दी संभव हो पहली डोज़ दें
+- HBV vaccine 0.5 ml IM in the anterolateral aspect of the thigh
+- **Vaccination schedule:** 
+- 1st dose at birth
+- 2nd dose at 6 weeks 
+- 3rd dose at 10 weeks (HBV vaccinations can be given in combination with DTP, Hib and IPV vaccines)
 
-# कन्सिडरेशन
+# Consideration
 
-वैक्सीन को 2-8°C तापमान पर स्टोर करें। इसे फ्रीज़ न करें।
+Vaccines should be stored at 2-8°C. They  should not be frozen.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindication
 
-- पिछले डोज़ के बाद गंभीर एलर्जिक रिएक्शन (जानलेवा रिएक्शन)
-- किसी भी वैक्सीन घटक के प्रति गंभीर एलर्जी (जानलेवा एलर्जी)
-- यीस्ट के प्रति हाइपरसेंसिटिविटी
-- हल्के बीमार नवजात शिशु वैक्सीन ले सकते हैं। मध्यम या गंभीर रूप से बीमार नवजात शिशुओं को तब तक प्रतीक्षा करनी चाहिए जब तक वे ठीक न हो जाएँ या जब जोखिम लाभ से अधिक न हो।
+- A severe allergic reaction (life-threatening) after a previous dose
+- A severe allergy (life-threatening) to any vaccine component
+- Hypersensitivity to yeast
+- Newborns who are mildly ill can receive the vaccine. Newborns who are moderately or severely ill should wait until they recover unless the risk outweighs the benefits.
 
 ---

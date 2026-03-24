@@ -22,7 +22,7 @@ If gasping or not breathing, ventilate with bag and mask.
 
 Insert 2 wide bore IV cannulas.
 
-Administer normal saline or Ringer’s lactate **≥ 2 L IV within 1 hour**
+Administer normal saline or Ringer’s lactate **≥ 2 L IV within 1 hour.**
 
 Insert an indwelling urinary catheter to monitor fluid balance.
 

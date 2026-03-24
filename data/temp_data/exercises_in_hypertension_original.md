@@ -20,7 +20,7 @@ Divide the participants into small groups (4 people, if possible):
 <color style="blue">A woman presents at your health facility with strong and frequent contractions. She is about to give birth to her</color>
 <color style="blue">first child. She is complaining about a severe headache and visual disturbances. What do you do?</color>
 
-![Image](b772237253cf45be918a545943b4da1e)
+![Image](155fafe7aa4f470c8f746a173db27da4)
 
 Play the scenario until the woman has given birth. The assistant can look at the action card “Management of
 Hypertension” and guide the midwife on how to handle the case.

@@ -2,7 +2,7 @@
 
 When a woman is seeking abortion care at your health facility, make sure to welcome her by making her comfortable and explain what will be involved during the visit.
 
-![Image](f229bbbd192a400194db1cba7a485798)
+![Image](451ca0709bb14f7582cf12e551ee0cee)
 
 Record the woman’s medical history.
 

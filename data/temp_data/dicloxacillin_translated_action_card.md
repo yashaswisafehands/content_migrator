@@ -1,31 +1,34 @@
-# Chapter: इन्डिकेशन्ज़ और उपयोग
+# Chapter: Indications and usage
 
-ऐसे स्टेफ़ायलोकोकल इंफेक्शन जो अक्सर स्किन कनेक्टिव टिशु और हड्डी में होते हैं।
+Infections caused by staphylococcal infections that usually have it’s origin in skin, connective tissue and bones.
 
-# डोज़ और देने की विधि
+# Dosage and administration
 
-## वयस्क:
+## Adults:
 
-1 ग्रा. हर 6 घंटे में आई वी या मुँह से।
+Dicloxacillin 1 g IV or orally every 6 hours.
 
-## बच्चे:
+## Newborns:
 
-50 मि.ग्रा. / किलो प्रति 24 घंटे, 3 विभाजित डोज़ में आई वी या मुँह से।
+Dicloxacillin 50 mg/kg/24 hours IV/orally divided into 3 doses.
 
-यदि मुँह से ली है, तो खाने से 1 घंटा पहले या खाने के 2 घंटे बाद लेनी चाहिए।
+**Example**:
+If a newborn weighs 3 kg: total daily dose = 150 mg/day → give 50 mg every 8 hours.
 
-# काॅन्ट्राइन्डिकेशन्ज़
+If taken orally, it should be at least 1 hour before or 2 hours after a meal.
 
-पेनिसिलिन से एलर्जी।
+# Contraindications
 
-अन्य बीटा - लेक्टमएन्टीबायोक्टिस (जैसे सेफ़ेलोस्पोरिनज़) से सिवियर एलर्जी।
+Allergy to penicillin.
 
-# प्रतिकूल प्रतिक्रियाएँ
+Severe allergy (type 1) to other β-lactam antibiotics (like cephalosporins).
 
-सामान्य प्रतिकूल प्रतिक्रियाएँ हैं: जी मितलाना, उलटी, हार्टबर्न, दस्त, स्किन रैश।
+# Adverse reactions
 
-असामान्य प्रतिकूल प्रतिक्रियाएँ हैं: आर्टीकेरिया, खुजली, यूरीन में रक्त आना रीनल फेल्यर।
+Common adverse reactions are nausea, vomiting, heartburn, diarrhoea, and skin rash.
 
-कभी-कभी होने वाली प्रतिकूल प्रतिक्रियाएँ हैं: बुखार, सुडोमेम्ब्रेनस कोलाइट्सि, हेपेटाइटिस, ब्रोन्कोस्पासम, हाईपोटेन्शन (लो बी पी), सर्कुलेटरी कोलैप्स, एनीमिया, सुस्ती और दौरे आना।
+Uncommon adverse reactions are urticaria, itching, haematuria, and renal failure.
+
+Rare adverse reactions are fever, pseudomembraneous colitis, hepatitis, bronchospasm, hypotension, circulatory collapse, anaemia, lethargy, and convulsions.
 
 ---

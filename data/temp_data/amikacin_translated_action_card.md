@@ -1,23 +1,23 @@
-# Chapter: इंडिकेशन्स और उपयोग
+# Chapter: Indications and Usage
 
-एमिकासिन एक एमिनोग्लाइकोसाइड है, जो ग्रैम-नेगेटिव और कुछ ग्रैम-पॉज़िटिव बैक्टीरिया के अधिक रेज़िस्टेंट इंफेक्शन्स के इलाज में प्रयोग किया जाता है।
+Amikacin is an aminoglycoside used to treat infections caused by more resistant strains of Gram-negative bacteria and some Gram-positive bacteria.
 
-# डोज़ और देने की विधि
+# Dosage and Administration
 
-**नवजात शिशु:**
+**Newborns:**
 
-0–7 दिनों और 2000 ग्राम से कम वजन  – 15 मिलीग्राम/किलोग्राम/दिन इंट्रावेनसली दें।
+Age 0-7 days and weighing < 2000gm: 15mg/kg/day Intravenously
 
-नोट: 7 दिन से अधिक आयु  और 2 किलोग्राम से अधिक वजन वाले नवजात शिशुओं को भी एमिकासिन इंजेक्शन समान डोज़ और अंतराल पर दें।
+Note: For newborns older than 7days and weighing more than 2kg, administer amikacin injections in the same dose and frequency.
 
-# कॉन्ट्राइंडिकेशन्स
+# Contraindications
 
-एमिकासिन से एलर्जी का इतिहास।
+History of hypersensitivity to amikacin.
 
-# एडवर्स रिएक्शन्स
+# Adverse Reactions
 
-सामान्य एडवर्स रिएक्शन्स: बुखार, त्वचा पर चकत्ते (स्किन रैश), झुनझुनी और सुन्नपन।
+Common adverse reactions are fever, skin rash, tingling and numbness.
 
-असामान्य एडवर्स रिएक्शन्स:  नेफ्रोटॉक्सिसिटी और ओटोटॉक्सिसिटी।
+Uncommon reactions are nephrotoxicity and ototoxicity.
 
 ---

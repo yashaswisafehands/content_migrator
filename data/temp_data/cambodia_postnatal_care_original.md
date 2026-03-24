@@ -11,7 +11,7 @@ They should:
 - Perform hand hygiene before and after contact with the baby  
 - Consider wearing a mask when feeding, providing skin to skin or kangaroo mother care for her baby.
 
-![Image](34c5e7761fba44c0bd7aed842441da87)
+![Image](19928f3f044c4d2fb7409494714c27bb)
 
 Routine cleaning and disinfecting of all surfaces that the mother has had contact with, should also be undertaken at regular intervals.
 
@@ -35,7 +35,7 @@ Routine cleaning and disinfecting of all surfaces that the mother has had contac
 
 The following guidance is for remote postnatal contacts – standard practice should continue for all face-to-face visits. Where necessary, refer to local guidance on what should occur at routine postnatal contacts.
 
-![Image](e4e55b1bcb064255b72d91b16fbdc57e)
+![Image](7884a834e345488babf1527f1331f33f)
 
 ALL contacts regardless of method should include Respectful Maternity Care:
 

@@ -1,139 +1,155 @@
-# Chapter: परिचय
+# Chapter: IUD/IUS insertion introduction
 
-आईयूसीडी को महिला के मासिक चक्र के किसी भी समय डाला जा सकता है, अगर यह सुनिश्चित हो कि महिला गर्भवती नहीं है और उसे यौन संचारित संक्रमण (जैसे क्लैमाइडिया, गोनोरिया) नहीं है। 
+An IUD/IUS can be inserted at any time in the menstrual cycle if it is certain the woman is not pregnant and does not have any sexually transmitted infection.
 
-डिलीवरी के 48 घंटे के भीतर आईयूसीडी डाला जा सकता है। अगर 48 घंटे से ज़्यादा हो गए हों तो 6 हफ्ते बाद डालें। सर्जिकल एबॉर्शन के तुरंत बाद या मेडिकल एबॉर्शन के बाद भी, जब यह सुनिश्चित हो जाए कि गर्भावस्था से संबंधित सभी उत्पाद, आईयूसीडी डाला जा सकता है।
+## Documentation
 
-## डॉक्यूमेंटेशन
+A consent form should be signed by the woman.
 
-महिला की एलिजिबिलिटी के लिए रिकॉर्ड की जाँच करें। सुनिश्चित करें कि उसे काउंसल करें और सूचित सहमति प्राप्त की जा रही है। महिला को आईयूसीडी कार्ड दें, जिसमें निम्नलिखित हो :
-
-- आईयूसीडी का प्रकार ( 380 ए/ 375) और डालने की तारीख
-- इंसर्शन का समय- अंतराल, पोस्टपार्टम (वेजाइनल प्रसव), पोस्टपार्टम और गर्भपात के बाद
-- रिमूवल / रिप्लेसमेंट की तारीख
-- समस्या होने पर कहाँ जाएँ, और पोस्ट- फॉलो अप सलाह के बारे में जानकारी।
-- खतरे के लक्षणों के बारे में जानकारी।
+- Document the following information:
+- Type of IUD/IUS and date of insertion.
+- Date when the IUD/IUS will need to be removed or replaced.
+- Where to go if they have problems with or questions about their IUD/IUS.
 
 ---
 
-# Chapter: पोस्टपार्टम आईयूसीडी (पीपीआईयूसीडी) इंसर्शन
+# Chapter: Immediate postpartum IUD/IUS insertion
 
-## स्टेराइल उपकरण
+## Sterile equipment
 
-- स्टेराइल ट्रे 
-- सिम्स स्पेकुलम
-- स्पोंज होल्डिंग या रिंग फोरसेप्स
-- पीपीआईयूसीडी इंसर्शन फोरसेप्स 
-- कॉटन बॉल्स बाउल 
-- स्टेराइल दस्ताने
+- Sterile surface
+- Sterile gloves
+- Ring forceps
+- Long kelly forceps 
+- Scissors
+- Bowl with cotton balls
+- Bowl with antiseptic solution
+- IUD/IUS pack
 
-![Image](1d4f740f5b27459cadb79e5c7a024031)
+![Image](ad454c44c24d4c95b6475d1d4b4728d3)
 
-## अन्य उपकरण
+## Non-sterile equipment
 
-- हेड लाइट या सर्जिकल लैंप 
-- एंटीसेप्टिक घोल
-- आईयूसीडी 380 ए या आईयूसीडी 375 एक सीलबंद पैक में।
+- Headlight or surgical lamp
 
-## इंसर्शन प्रक्रिया
+## Insertion procedure
 
-1. किसी भी डिलीवरी से संबंधित कॉण्ट्राइंडिकेशन (जैसे कोरियोएम्नियोनाइटिस, प्रोलोंगड़ रपचर ऑफ़ मेम्ब्रेन (>18 घंटे), अनियंत्रित पोस्ट-पार्टम हेमरेज, प्यूपेरिअल सेप्सिस, अत्यधिक जेनाइटल ट्रोमा) की जाँच करें।
-2. पीपीआईयूसीडी को प्लेसेंटा निकलने के बाद डाला जाता है।
-3. यह पुष्टि करें कि महिला को काउंसल किया गया है और उसने सहमति दी है। हाथ धोएँ और स्टेराइल दस्ताने पहनें।
-4. सर्विक्स और योनि को एंटीसेप्टिक सोल्यूशन से कम से कम 2 बार साफ करें और 2 मिनट तक प्रतीक्षा करें।
-5. स्पेकुलम लगाकर सर्विक्स का एंटीरियर हिस्सा स्पष्ट रूप से देखें।
-6. सर्विक्स के एंटीरियर लिप को रिंग फोरसेप्स से पकड़ें और फोरसेप्स को धीरे से वही छोड़ दें। 
-7. नीचे से आईयूसीडी पैक को एक-तिहाई (1/3) तक खोलें। 
-8. आईयूसीडी को पैक के ऊपर से पकड़े और उसे स्थिर करें।पैकेज से प्लंजर रॉड और इंसर्टर ट्यूब निकालें। 
-9. नो-टच तकनीक का उपयोग करते हुए पीपीआईयूसीडी फोर्सेप्स से आईयूसीडी को पकड़ें। 
-10. आईयूसीडी को फोरसेप्स के किनारे पर इस प्रकार पकड़ें कि उसे आसानी से रिलीज़ किया जा सके।
-11. रिंग फोर्सेप्स से सर्विक्स की एंटीरियर लिप को धीरे से उठाएं और सर्विक्स को स्थिर करने के लिए हल्का खिंचाव दें।
-12. आईयूसीडी को धीरे से गर्भाशय की निचली कैविटी में डालें। जैसे ही थोड़ी रुकावट महसूस हो, रिंग फोर्सेप्स को धीरे से हटा लें। 
-13. सर्विक्स को रिट्रैक्ट करने वाला हाथ रिलीज करें और उसे एब्डॉमेन पर रखें।
-14. हाथ से यूटेरस को स्टेबिलाइज़ करें, योनि और गर्भाशय के बीच की कर्वेचर को सीधा करने के लिए हल्का ऊपर की ओर प्रेशर दें।
-15. पीपीआईयूसीडी फोर्सेप्स से आईयूसीडी को कसकर पकड़े और धीरे- धीरे गर्भाशय के फंडस तक बढ़े।
-16. एब्डॉमिनल हैंड और इंसर्टिंग हैंड दोनों से यूटेराइन फंडस पर फोर्सेप्स की रेज़िस्टेंस महसूस करके फंडल प्लेसमेंट कन्फर्म करें।
-17. फोर्सेप्स को हल्का मिडलाइन की ओर टिल्ट करके 	आईयूसीडी को फोर्सेप्स से रिलीज करें।
-18. फोरसेप्स  को गर्भाशय की साइड की दीवार के साथ सरकाते हुए खुली अवस्था में बाहर निकालें और गर्भाशय को स्थिर रखें।
-19. यह सुनिश्चित करें कि कोई रक्तस्राव नहीं हो रहा है और आईयूसीडी या उसकी स्ट्रिंग्स (धागे) सर्विक्स के बाहर दिखाई नहीं दे रही हैं।
+An IUD/IUS can be inserted within 48 hours following birth (including caesarean section) or after4 weeks postpartum. It can also be inserted immediately after a surgical abortion, and after passage of products of conception following medical abortion has been confirmed.
 
----
+1. Check for any delivery related contraindications for IUD/IUS (e.g., prolonged rupture of membranes (>18 hours), continuing postpartum haemorrhage, and corioamnionitis.
 
-# Chapter: अंतराल आईयूसीडी इंसर्शन
+2. The IUD/IUS is inserted after removal of placenta. 
 
-## स्टेराइल उपकरण
+3. Standard options for analgesia in labour and delivery can be used for the IUD insertion.
 
-- स्टेराइल ट्रे 
-- स्टेराइल दस्ताने 
-- सिम्स या कस्कोस स्पेकुलम 
-- एंटीरियर वेजाइनल वोल रिट्रेक्टर  
-- स्पंज होल्डिंग या रिंग फोरसेप्स
-- वल्सेलम या टेनाकुलम
-- युटेराइन साउंड 
-- कैंची
-- कॉटन बॉलस बाउल
+4. Clean the perineal área.
 
-![Image](2ed02f12f6714451a4fa08fe6ee474fc)
+5. Palpate abdomen to assess the uterine height.
 
-## अन्य उपकरण
+6. Using a speculum, expose and visualise the anterior cervix.
 
-- हेड लाइट या सर्जिकल लैंप 
-- एंटीसेप्टिक घोल
-- एक सीलबंद पैक में आईयूसीडी 380 ए या आईयूसीडी 375
+7. Clean the cervix and vagina with antiseptic solution.
 
-## इंसर्शन प्रक्रिया
+8. Gently grasp the anterior cervix with a ring forceps, do not lock it.
 
-1. महिला की आईयूसीडी के लिए योग्यता देखने के लिए रिकॉर्ड की जांच करें। यह सुनिश्चित करें कि महिला की काउंसिलिंग हो गयी है और उससे इन्फोर्मेड कंसेंट प्राप्त किया गया है।
-2. महिला से पेशाब करके आने के लिए कहें और पेरिनियल एरिया को साफ करने कहें। हाथ धोएं और स्टेराइल दस्ताने पहनें। गर्भाशय के आकार, स्थिति और टेंडरनेस का आंकलन करने के लिए हमेशा इंसर्शन से पहले पैल्विक जांच कराएं।
-3. बाइ – मैन्युअल तरीके से जांच करें और फिर स्पेकुलम को वेजाइना में डालकर सर्विक्स का निरीक्षण करें।
-4. सर्विक्स और वेजाइना की दीवार को एंटीसेप्टिक से साफ करें।
-5. वल्सेलम या टेनेकुलम की सहायता से सर्विक्स के एंटीरियर लिप को 11 बजे और 1 बजे की स्थिति में धीरे से पकड़ें और हल्का खिंचाव दें, ताकि सर्विक्स और गर्भाशय स्थिर रहें।
-6. “नो-टच तकनीक” का पालन करते हुए, सर्विक्स के माध्यम से युटेराइन साउंड पास करें और गर्भाशय के आकार तथा स्थिति की पुष्टि करें।
-7. 'नो टच तकनीक' से आईयूसीडी 380 A को उसके स्टेराइल पैकेज में लोड करें। गर्भाशय की माप के अनुसार ब्लू लेंथ – गेज़ को सेट करें। आईयूसीडी 375 में लोडिंग की प्रक्रिया की आवश्यकता नहीं होती।
-8. लोडेड आईयूसीडी को सावधानीपूर्वक युटेराइन कैविटी में इन्सर्ट करें।
-9. वल्सेलम और प्लंजर रॉड को स्थिर रखते हुए, इंसर्शन ट्यूब को धीरे-धीरे नीचे खींचें, ताकि आईयूसीडी को गर्भाशय में रिलीज किया जा सके। (विड्रॉल विधि)
-10. प्लंजर रॉड को हटा दें
-11. आईयूसीडी के सही फंडल प्लेसमेंट के लिए इंसर्शन ट्यूब को धीरे-धीरे ऊपर की ओर तब तक धकेलें।
-12. वल्सेलम को पकड़ें और इंसर्शन ट्यूब को थोडा सा पीछे खींचें, जब तक कि धागे सर्विक्स से बाहर दिखाई देने ना लगें।
-13. धागों को इस तरह काटें कि वे सर्विक्स से बाहर 3 से 4 सेंटीमीटर तक दिखें।
-14. वल्सेलम को धीरे से हटाएं और रक्तस्राव की जांच करें। फिर स्पेकुलम निकाल दें।
-15. महिला को 6 सप्ताह के बाद या उसके अगले माहवारी के बाद, जो भी पहले हो, फॉलो-अप के लिए वापस आने के लिए कहें।
+9. Open the sterile package of IUD from bottom by pulling back plastic cover approximately 1/3 upwards and remove the plunger and insertion rod.
 
-![Image](c79f02bacd2b420693f25cbb986aad14)
+10. Grasp the IUD/IUS with the long Kelly forceps at the T junction as so that the stem and the stings are parallel with the forceps – do not lock the forceps as this may damage the IUD/IUS.
 
-![Image](20f53a44ef7b4675a5881712dcbfa410)
+11. Some brands of IUD/IUS have applicators that are long enough to use in the immediate postnatal period, so forceps may not always be needed for insertion.
+
+12. Gently lift the anterior lip of cervix using ring forceps and apply gentle traction to steady the cervix.
+
+13. Insert the PPIUD insertion forceps holding IUD into lower uterine cavity up to the point of feeling slight resistance against back wall of the uterus.
+
+14. Gently remove ring forceps from the cervix and leave it on the sterile tray or drape area.
+
+15. Move the other hand to the lower part of abdomen and gently push the uterus upward in the abdomen to reduce the angle and curvature between the uterus and vagina.
+
+16. Advance the IUD/IUS to the uterine fundus. 
+
+17. Confirm fundal placement with both abdominal hand and the inserting hand.
+
+18. Release the IUD/IUS from the forceps, opening them as wide as possible and tilting it. 
+
+19. Withdraw the forceps along the right wall of the uterus keeping it open not to pull out the device.
+
+20.  Strings may or may not be visible at the cervical OS.
 
 ---
 
-# Chapter: पोस्ट- इंसर्शन फॉलो– अप
+# Chapter: Standard IUD/IUS insertion
 
-महिला से पूछें कि क्या वह इस विधि से संतुष्ट है और क्या उसके कोई प्रश्न हैं। उससे पूछें कि क्या उसे कोई चेतावनी संकेत महसूस हुए हैं :
+## Sterile equipment
 
+- Sterile field
+- Gloves
+- Ring forceps
+- Speculum
+- Tenaculum
+- Uterine sound 
+- Scissors
+- Bowl with cotton balls
+- IUD/IUS pack (including the device and inserter)
 
-**पीएआईएनएस (PAINS)**
+![Image](a7f1dd724603413381f456b5687bc1b8)
 
-- **पी:** माहवारी संबंधी समस्याएं या प्रेगनेंसी के लक्षण
-- **ए:**पेट दर्द या संभोग के दौरान दर्द
-- **आई:** संक्रमण या योनि  से असामान्य स्राव
-- **एन:** अच्छा महसूस ना होना, बुखार, ठंड या कंपन
-- **एस:** धागों की समस्या
+## Non-sterile equipment
 
-**नोट:**पहली फॉलो-अप विज़िट में पेल्विक एग्ज़ाम करें ताकि आईयूसीडी की स्थिति की पुष्टि हो सके और इंफेक्शन के संकेत देखें जा सकें।आगे की फॉलो-अप विज़िट्स में पेल्विक एग्ज़ाम केवल तभी करें जब इंफेक्शन का संदेह हो।
+- Headlight or surgical lamp
+- Antiseptic solution
+
+## Insertion procedure
+
+1. Provide oral paracetamol or ibuprofen 30 minutes before insertion.
+2. Use infection prevention (non-touch) technique.
+3. Do a bimanual examination to determine the position of the uterus. 
+4. Gently insert speculum into the vagina to inspect the cervix.
+5. Clean cervix and vagina with antiseptic.
+6. Slowly insert the tenaculum through the speculum and gently grasp the cervix with the tenaculum.
+7. Confirm the uterine size and position by passing the sound through the cervix using no-touch technique.
+8. Load the chosen IUD/IUS into inserter while both are still in the sterile package, inserting the insertion rod up to the base of the IUD/IUS.
+9. Set the flange to the uterine sound measurement.
+10. Insert the inserter loaded with the IUD/IUS into the uterus until the flange is against the cervical os or until you meet resistance.  
+11. Withdraw the inserter tube approximately 2cm backwards while keeping the inner rod fixed in place, and wait 10 seconds so that the IUD/IUS arms can spread open in a ‘T’ shape. 
+12. Remove insertion rod from the inserter.
+13. Move the insertion tube gently up to the fundus to ensure that the IUD/IUS is placed at the fundus.
+14. Withdraw the insertion tube to leave the IUD/IUS in the uterine cavity.
+15. Cut strings on the IUD/IUS, leaving about 3 cm hanging out of the cervix.
+
+![Image](41fe9237dc4842bba6e0dc042a0800aa)
+
+![Image](305e311e4a3c4fb0909c153048c96f09)
 
 ---
 
-# Chapter: नो-टच तकनीक
+# Chapter: Post-insertion follow-up (3-6 weeks)
 
-## आईयूसीडी इंसर्शन के दोरन
+Ask the woman if she is satisfied with the method and if she has questions. Ask her if she has:
 
-नो-टच तकनीक का मतलब है कि आईयूसीडी इंसर्शन के दोरन युटेराइन साउंड या लोडेड आईयूसीडी किसी भी अनस्टेराइल सतह (जैसे हाथ, स्पेकुलम, योनि की दीवार, टेबल आदि) को ना छुए।
+- Bleeding changes.
+- Pain during sex/urination.
+- Unusual vaginal discharge.
+- Fever.
+- Signs/symptoms of pregnancy.
+- Routine pelvic examination is not required at the follow up.
 
-- अंतराल आईयूसीडी या पीएआईयूसीडी (12 सप्ताह से कम गर्भपात) डालते समय सीधा संपर्क से बचने के लिए आईयूसीडी 380- ए को उसके स्टेराइल पैक में ही लोड करें।
-- इंसर्शन से पहले सर्विक्स को एंटीसेप्टिक से अच्छी तरह साफ करें।
-- या लोडेड आईयूसीडी को योनि की दीवार या स्पेकुलम के ब्लेड्स से ना छुएं।
-- युटेराइन साउंड और लोडेड आईयूसीडी को केवल एक ही बार सर्वाइकल कैनाल से पास करें।
-- पीपीआईयूसीडी इंसर्शन के समय आईयूसीडी को पीपीआईयूसीडी फोर्सेप की मदद से स्टेराइल पैक में ही ग्रास्प करें, ताकि सीधा संपर्क न हो।
+Only conduct a pelvic examination if the woman describes signs of  infection or signs that the IUD has partially or completely come out.
 
-![Image](458ce8a4445d4787baba10d4d797bbe0)
+---
+
+# Chapter: The non-touch technique
+
+## IUD/IUS insertion
+
+During IUD/IUS insertion, a non-touch technique means not letting the loaded inserter or uterine sound touch any unsterile surface (hands, speculum, vagina, tabletop, etc.).
+
+- Non-touch technique involves:
+- Loading the IUD/IUS into the inserter while the device is still in the sterile package, to avoid direct contact. 
+- Cleaning the cervix thoroughly with antiseptic before insertion.
+- Being careful not to touch the vaginal wall or speculum blades with the uterine sound or loaded inserter.
+- Passing the uterine sound and loaded inserter only once each through the cervical canal.
+
+![Image](be75532ec1224616a4eaf5f0ccfc7b95)
 
 ---

@@ -1,62 +1,48 @@
-# Chapter: उपकरणों की डी-कॉन्टैमिनेशन और सफाई
+# Chapter: Cleaning of equipment
 
-1. छींटों से बचाव के लिए उचित पीपीई पहनें और सभी उपकरणों को अलग-अलग करें।
-2. सभी उपयोग किए गए उपकरणों को 0.5% सोडियम हाइपोक्लोराइट सॉल्यूशन में 10 मिनट तक डी-कॉन्टैमिनेट करें।इसके बाद उन्हें डिटर्जेंट सॉल्यूशन में रखकर अच्छी तरह साफ करें।
-3. यदि तुरंत सफाई संभव न हो, तो उपकरणों को बाल्टी में रखें और सफाई संभव होने तक गीले तौलिये से ढक दें।
-4. उपकरणों को डिटर्जेंट सॉल्यूशन में ब्रश की सहायता से साफ करें ताकि छींटे कम पड़ें।उपकरणों की सफाई के लिए बार साबुन का उपयोग न करें।
-5. सफाई के लिए उपयोग किए गए उपकरण जैसे ब्रश को उपयोग के बाद साफ और डिसइन्फेक्ट करें।
-6. उपकरणों को साफ बहते पानी से धोएँ और हवा में सुखाएँ, फिर स्टेरिलाइजेशन या हाई – लेवल डिसइन्फेक्शन के लिए तैयार करें।
-7. सभी उपकरणों की व्यक्तिगत रूप से जाँच करें। यदि कोई उपकरण साफ नहीं है, तो सफाई दोहराएँ ।
+1. Wear gloves and an apron to protect yourself from splashes and disassemble all items.
+2. All items should be cleaned after use by placing them in a solution made of warm water and the correct concentration of detergent.
+3. If cleaning is not possible immediately after use, place the items in an empty basket and cover the items with a moist towel until cleaning is possible. 
+4. Clean items with a toothbrush in the solution. Do not use a bar of soap.  
+5. All items should be individually inspected and visibly clean. 
+6. Rinse items with clean, running water and air-dry before sterilization or high-level disinfection.
 
-![Image](35ecd4f299414dd1b43cb1bfd8c1aae5)
-
----
-
-# Chapter: उपकरणों का स्टोरेज
-
-इंस्ट्रूमेंट्स  और इक्विपमेंट्स  का सही स्टोरेज उनकी स्टेरिलिटी  या  डिसइन्फेक्शन बनाए रखने के लिए अत्यंत आवश्यक है।
-
-यदि स्टेरिलाइज़्ड कंटेनर बार-बार खोला और बंद किया जाता है, तो संक्रमण का जोखिम बढ़ जाता है।
-
-यदि कोई उपकरण संक्रमित हो जाता है, तो उसे पुनः स्टेरिलाइज करना आवश्यक है।
-
-इसलिए, उपकरणों को प्रत्येक प्रक्रिया के अनुसार अलग-अलग बाँटकर स्टेरिलाइज करें, या तो डबल-रैप्ड नॉन-वोवन फैब्रिक में रखें या सूखे, ढके हुए, स्टेराइल कंटेनर में रखें।
-
-स्टेरिलाइज़्ड वस्तुओं को साफ, सूखी जगह पर रखें और उन्हें किसी प्रकार की क्षति से सुरक्षित रखें।
-
-स्टेराइल उपकरण को स्टेराइल ट्रे में बिना खुले रखें, और उन्हें 7 दिनों तक उपयोग किया जा सकता है। 7वें दिन के बाद फिर से स्टेरिलाइज करें। 
-
-एक बार ढक्कन खोलने के बाद, ट्रे का उपयोग 24 घंटे के भीतर किया जाना चाहिए। 
-
-उबालने या स्टीम से प्रोसेस किए गए उपकरणों को, यदि उपयोग न किए जाएँ, तो 24 घंटे बाद पुनः स्टीरिलाइज़ करें।
-
-उपकरणों को संभालते समय, ऑटोक्लेव्ड पैड और लिनेन को ड्रम से निकालने के लिए स्टेराइल चिटल फोर्सेप का उपयोग करें।
-
-चिटल फोर्सेप को स्टेराइल मेटल जार में रखें और हर 24 घंटे में ऑटोक्लेव्ड या हाई -लेवल डिसइन्फेक्ट किया जाना चाहिए।
-
-नोट: उपकरणों जैसे स्कैल्पेल ब्लेड  और स्यूचर नीडल्स को किसी सॉल्यूशन  में स्टोर न करें  इन्हें हमेशा सूखी अवस्था में ही रखें।
-
-![Image](c6faf69576b84947bc485b482e8c2bd6)
+![Image](f65694671ba84cf180a48a69029c4a71)
 
 ---
 
-# Chapter: हाउसकीपिंग
+# Chapter: Storage of equipment
 
-प्रत्येक डिलीवरी के बाद लेबर टेबल और सतहों को एल्डिहाइड प्रिपरेशन से डिसइन्फेक्ट करें।
-फ़्लोर और सिंक को डिटर्जेंट और पानी / हॉस्पिटल ग्रेड फिनाइल से साफ करें।
+The risk of contamination is high when sterile items are in a sterilized container that is repeatedly opened and closed each time an item is removed.
 
-पूरे सुविधा क्षेत्र को दिन में दो बार डिसइन्फेक्ट करें: फ़्लोर और सिंक को डिटर्जेंट और पानी / हॉस्पिटल ग्रेड फिनाइल से साफ करें, साथ ही लेबर टेबल, सतहें और फर्नीचर को 2% एल्डिहाइड सॉल्यूशन से पोंछें और टॉयलेट को उचित तरीके से डिसइन्फेक्ट करें।
+If an item is contaminated it must be re-sterilized.
 
-सप्ताह में एक बार, दीवारें, छत, फर्श, फर्नीचर और फिटिंग्स की पूरी सफाई और धुलाई करें।
+Therefore, divide and sterilize items for each procedure. Either double wrap them in nonwoven fabric or place them in a small, covered, dry, sterile container.
 
-![Image](b110c684162744b681dc56d38fd6e1e3)
+Keep the sterilized items in a closed cabinet.
 
-लेबर रूम में संक्रमण नियंत्रण के लिए सख्त अनुशासन बनाए रखें, इसके लिए बाहरी व्यक्तियों का प्रवेश  सीमित रखें, बाहरी फुटवियर की अनुमति न दें, स्वास्थ्यकर्मी हमेशा पीपीई पहने रहें एवं बायोमेडिकल वेस्ट का प्रबंधन हमेशा  गाइडलाइन के अनुसार करें।
+Arrange cleaning and storage so that items flow in an organized way, from contaminated to clean: contaminated items → cleaning → sterilization or high-level disinfection → storage.
 
-चाहे डिलीवरी हुई हो या नहीं, डिलीवरी बेड की सफाई हमेशा करें।
+Keep dirty and clean areas separated.
 
-संक्रमण का प्रसार सरल स्वच्छता प्रक्रियाओं से रोका जा सकता है, यदि आप नियमित और अनुशासित रहें।
+![Image](304cbc5168b34aed89985c3665abb3f5)
 
-![Image](b6d7f4346432408985f087c195b87559)
+---
+
+# Chapter: Housekeeping in facility
+
+Clean high-risk areas with solutions of detergent and water.
+
+Dry off with a clean dry cloth and wipe over with 70% alcohol.
+
+![Image](3e0c60ec396f4b2ab2ac69b96e08418f)
+
+Clean the washable bed, table, delivery bed, walls, ceiling, floor, and toilet.
+
+Always clean the delivery bed, even if there was no birth. 
+
+Consistent and disciplined hygiene practices prevent the spread of germs.
+
+![Image](8091b4e395df437c80ff97d7e3de5260)
 
 ---

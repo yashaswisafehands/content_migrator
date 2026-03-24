@@ -6,7 +6,7 @@ Anaemia in pregnancy is blood haemoglobin (Hb) concentration below 11gm/dL which
 
 Screen women at all Antenatal Visits (or when symptomatic).
 
-![Image](f4fceca0e7044948ace3d1fd0e358a22)
+![Image](223156b32baf475f83c140e56a9b8631)
 
 **Ask**– tiredness and weakness, breathlessness, lack of concentration, loss of appetite, palpitations, easy fatiguability.
 
@@ -89,7 +89,7 @@ Refer GDM module and action card on OGTT.
 
 ## HIV, syphilis and HBsAg
 
-![Image](a1d6c963955b4b3cb664185928858ea4)
+![Image](92e7f1969f524f2a90ac983c34d0f86e)
 
 All pregnant women should be tested for HIV, and syphilis during their first visit.
 
@@ -99,7 +99,7 @@ Rapid Diagnostic Test should be carried out for Syphilis and HBsAg.
 
 HBsAg is an optional investigation.
 
-![Image](6721438ff83244b89df9f473ae7879d4)
+![Image](1f5e7932892d4ebead0c8c564459128b)
 
 Refer women who test positive to the higher centre for further management.
 

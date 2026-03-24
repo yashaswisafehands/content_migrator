@@ -4,7 +4,7 @@
 
 The Golden Minute
 
-![Image](58350c2f8b7c439d868b76a98ad23910)
+![Image](b3f4ed2d3b0340af9b335a869b9e055e)
 
 By one minute of age, every newborns should either be able to breathe on their own - or should be ventilated with a bag and a mask.
 

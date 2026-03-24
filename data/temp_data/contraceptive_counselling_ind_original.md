@@ -16,7 +16,7 @@ Contraceptive counselling is a client-centred process that helps individuals and
 
 ### G - Greet
 
-![Image](a0c3804b0dfa4d0cbac84e313aa838cd)
+![Image](466fafeb9b76404194599d9efebb449a)
 
 - Welcome the client respectfully, introduce self, offer a seat, and ensure she feels comfortable.
 - Provide privacy, confirm basic details, explain confidentiality, and ask the purpose of her visit.
@@ -56,7 +56,7 @@ Contraceptive counselling is a client-centred process that helps individuals and
 
 # Chapter: Key Information For Women
 
-![Image](657525018fcd4faf8729e787cf8b89d0)
+![Image](dea05adca01445cbac0eac0e0ee8e439)
 
 Key information for women choosing a contraceptive method should include:
 

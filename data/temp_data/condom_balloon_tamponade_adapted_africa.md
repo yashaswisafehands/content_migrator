@@ -32,7 +32,7 @@ Stop the bleeding with aortic compression (See Manual Removal of Placenta video)
 
 Ask an assistant to continue the compression until the condom tamponade has been inserted.
 
-![Image](a4c7cb5533084d19a5c1bffed112631f)
+![Image](faacbb42c11b4110be5a929cd050e3f8)
 
 Perform hand hygiene and wear sterile gloves.
 
@@ -54,9 +54,9 @@ Inflate the condom until it is visible in the cervix.
 
 If 500 ml is not enough to stop the bleeding, infuse more.
 
-![Image](9fcf552312e941b09ea0d461b01f6993)
+![Image](290f4442661c4ee499f5989d15608d3f)
 
-![Image](b921958908844f42b9625d7bd7041591)
+![Image](18d5f777d631465cac40bd8408cea2bb)
 
 Fold the catheter and clamp it to keep the fluid inside.
 

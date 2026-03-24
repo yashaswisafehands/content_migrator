@@ -1,23 +1,19 @@
 # Chapter: Assessment of postpartum blood loss
 
-विज़ुअल ब्लड लॉस एस्टीमेशन  अक्सर गलत और कम आंका जाता है। पोस्टपार्टम हैमरेज की पहचान और उपचार में सुधार के लिए, सभी प्रसव वाली महिलाओं में प्रसव के बाद रक्तस्राव का रूटीन माप किया जाना चाहिए।
+Visual estimation of blood loss is often inaccurate and tends to underestimate the actual volume. It is recommended to utilise standardised tools or methods for more precise measurement. 
 
-यदि उपलब्ध हो तो कैलिब्रेटेड ड्रेप का उपयोग करें:
+To improve detection and treatment of postpartum haemorrhage, **ALL women giving birth should receive routine measurement of postpartum blood loss.**
 
-![Image](8ed7ed1c488e4f10880c362a78b46b4f)
+Use a **calibrated drape,** if available:****
 
-या फिर ग्रैविमेट्रिक तकनीक का उपयोग करें जिसमें ब्लड लोस को तराजू पर तौला जाता है:
+![Image](38f1321a824341fb8e974822a008e6b7)
 
-ध्यान रखें कि ब्लड एकत्र करने के लिए उपयोग किए गए सामग्री के वजन को घटाना आवश्यक है।
+Or by **weighing** the blood loss on a scale:
 
-प्रसव के बाद रक्तस्राव का सटीक मूल्यांकन, पीपीएच की प्रारंभिक पहचान और प्रबंधन के लिए महत्वपूर्ण है, क्योंकि कई बार वाइटल साइन तब तक सामान्य रह सकते हैं जब तक रक्तस्राव 1000 मि.ली. तक नहीं पहुँच जाता।
+![Image](4a5860c87f8b417c82b5b68fe4e4623d)
 
-नीचे दिए गए चित्र प्रत्येक परिस्थिति में होने वाले रक्तस्राव की अनुमानित मात्रा को दर्शाते हैं:
+Remember to subtract the weight of the material used to collect the blood.
 
-![Image](e35ef5c467e645f9b1f0af4d1011ad01)
-
-Remember to subtract the weight of the bloody material.
-
-हर 30 मिनट पर ब्लड लॉस, ब्लड फ्लो, यूटेराइन टोन, वाइटल साइन्स और सामान्य स्थिति का अवलोकन करें। प्रसव के बाद प्रारंभिक 2 घंटे तक ब्लड प्रेशर और पल्स मॉनिटर करें। सभी फाइंडिंग को केस शीट पर डॉक्यूमेंट करें।
+Observe blood loss, blood flow, uterine tone every 15 minutes and blood pressure and pulse within the first hour after birth. Document the findings on a blood loss monitoring chart.
 
 ---

@@ -1,37 +1,33 @@
 # Chapter: Capillary blood glucose testing on newborns
 
-एड़ी के पंचर से केपिलरी ब्लड का सैंपल प्राप्त किया जाता है
+Capillary blood sample is obtained from a heel puncture.
 
-![Image](e6dc85cb5d7b41eaae02dea1e9c0cd91)
+## Preparation
 
-## तैयारी
+Keep the following equipment and supplies ready:
 
-निम्नलिखित उपकरणों को तैयार रखें :
+- Gloves
+- Glucometer
+- Glucose testing strip
+- Lancet/sterile needle 
+- Sterile/clean swab
 
-- दस्ताने  
-- रूई
-- कैपिलरी ट्यूब/और ब्लड बोतल 
-- साफ़ ट्रे उपकरणों को रखने के लिए 
-- शार्प्स डिस्पोज़ल बॉक्स
+## Procedure
 
-## प्रक्रिया
-
-- हाथ धोएं और दस्ताने पहनें .
-- टीके के लिए हील स्थान का चयन करें  हील के पीछे से बचें और पहले के चोट से मुक्त स्थान का चयन करें 
-- उपयुक्त लैंसेट का चयन करें
-- सुनिश्चित करें कि नवजात  सुरक्षित स्थान पर लेटा हुआ है
-- नवजात शिशु की एड़ी को गैर-प्रमुख हाथ से पकड़ें
--   नवजात शिशु के पैर को स्थिर करने के लिए टखने को तर्जनी और मध्यमा उंगली से पकड़ें और अन्य उंगलियों का उपयोग करें नवजात शिशु की एड़ी को अंगूठे से आंशिक रूप से घेरें
-- प्रस्तावित पंचर स्थल को गर्म पानी और  गौज से साफ करें
-- क्षेत्र के सूखने के बाद, धीरे से एड़ी को दबाएं और त्वचा को तनाव में रखें
-- त्वचा को स्थिर तरीके से पंचर करें
-- तनाव कम करें और रूई से शुरुआती खून की बूंद को पोंछ लें
-- एक बड़ी बूंद बनाने के लिए एड़ी को धीरे से लेकिन मजबूती से दबाएं
-- परीक्षण पट्टी के संकेतक पर रक्त की बूंद को धीरे से छूएं और परिणाम पढ़ें
-- यदि अन्य प्रयोगशाला जांचों के लिए आवश्यक हो तो रक्त को केशिका ट्यूब में भी एकत्र करें
-- नमूना प्राप्त करने के बाद, उस स्थान पर गौज से दबाव डालें, जब तक कि रक्तस्राव बंद न हो जाए
-- बच्चे को आराम से रखें और माँ को सौंप दें
-
-![Image](2ca20e5e86ce4011af823b34e5863f2f)
+- Wash hands and wear gloves
+- Select the heel site for puncture. Avoid the back of the heel and choose a site free from a previous injury
+- Select the appropriate lancet
+- Ensure that the newborn is laying in a safe and secure place.
+- Hold the newborn’s heel with the non-dominant hand.
+- Hold the ankle with index and middle finger and use other fingers to steady the newborns foot. Partly encircle the newborns heel with thumb.
+- Clean the proposed puncture site with warm water and gauze.
+- After the area is dry, gently compress the heel and hold the skin under tension.
+- Puncture the skin in a steady manner.
+- Relax the tension and wipe away the initial blood drop with cotton.
+- Gently but firmly press the heel to form a large droplet.
+- Gently touches the blood droplet at the indicator of the test strip and reads the result.
+- Also collect the blood into capillary tube if required for other laboratory investigations. 
+- After obtaining the sample, apply pressure to the site with a gauze, until the bleeding has stopped.
+- Keep the baby comfortable and hand over to mother.
 
 ---

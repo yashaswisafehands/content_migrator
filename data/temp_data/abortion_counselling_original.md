@@ -2,7 +2,7 @@
 
 This checklist can be used to provide abortion counselling.
 
-![Image](9f03a62c2fce4005a4b5a5697b27dba0)
+![Image](5a3f161c8e8d444cb7a84e6661af698e)
 
 ## Guiding principles of respectful abortion care:
 

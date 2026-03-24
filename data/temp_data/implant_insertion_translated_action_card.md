@@ -1,58 +1,54 @@
-# Chapter: इम्प्लांट लगाना
+# Chapter: Implant insertion
 
-महिला यदि गर्भवती न हो, तो इम्प्लांट महीने के किसी भी समय डाला जा सकता है। यदि इम्प्लांट मासिक धर्म चक्र के पहले 7 दिनों के भीतर डाला जाए, तो किसी बैकअप गर्भनिरोधक की आवश्यकता नहीं होती। यदि सातवें दिन के बाद डाला जाए, तो महिला को 7 दिन तक बैकअप कॉन्ट्रासेप्शन (जैसे कंडोम) का उपयोग करना चाहिए।
+An implant can be inserted anytime during a woman’s menstrual cycle if it is reasonably certain that she is not pregnant. If inserted within the first 7 days of the menstrual cycle, no back up contraception method is needed. If inserted after day 7, the woman should use back up contraception (e.g., condoms) for 7 days. 
 
-इम्प्लांट प्रसव के तुरंत बाद (चाहे महिला स्तनपान करा रही हो या नहीं) डाला जा सकता है।
-सर्जिकल एबॉर्शन के 7 दिनों के भीतर और मेडिकल एबॉर्शन प्रोटोकॉल के अनुसार तीसरे दिन के बाद डाला जा सकता है।
+Implants can be inserted immediately after birth, even if the woman is breastfeeding. If inserted after 21 days postpartum, exclude pregnancy and advise back-up contraception for 7 days. 
 
-## स्टेराइल उपकरण
+Implants can also be provided after miscarriage, or abortion.
 
-- स्टेराइल ट्रे
-- रिंग/स्पॉन्ज होल्डिंग फोर्सेप्स
-- बाउल (कॉटन बॉल्स के साथ)
-- स्टेराइल गॉज़
-- स्टेराइल कट शीट
-- स्टेराइल दस्ताने
-- प्री-लोडेड इम्प्लांट वाला स्टेराइल एप्लीकेटर
+## Sterile equipment
 
-## अन्य उपकरण
+- Sterile surface
+- Ring forceps
+- Metal bowl with cotton balls
+- Implant rod (one or two tods) and trocar or scalpel. 
+- Syringe with needle
+- Gauze
+- Bandage
+- Sterile gloves
 
-- एंटिसेप्टिक सॉल्यूशन
-- सिरिंज (22 गेज नीडल के साथ)
-- 1% लिग्नोकेन
-- प्रेशर बैंडेज
-- मेज़रिंग स्केल
-- स्किन पर निशान लगाने के लिए पेन
+## Clean equipment
 
-## इंसर्शन प्रक्रिया
+- Antiseptic solution 
+- Local anaesthetic (1% lidocaine)
+- Pen to mark the skin
 
-महिला का अभिवादन करें, एलिजिबिलिटी सुनिश्चित करें, सहमति लें, प्रक्रिया समझाएँ और सवालों का उत्तर दें।
+## Insertion procedure
 
-1. यह जांचें कि जिस हाथ में इम्प्लांट डाला जाएगा वह साफ है या नहीं। यदि नहीं, तो महिला से कहें कि वह साबुन और पानी से हाथ धोकर सुखा ले।
-2. महिला को पीठ के बल लिटाएँ, उसकी बांह को कोहनी से मोड़ें और हाथ को सिर के पीछे रखें।
-3. महिला के नॉन- डोमिनेंट हाथ की ऊपरी हिस्से के अंदरूनी भाग में, इम्प्लांट डालने के स्थान को मार्क करें। इसके लिए ह्यूमरस की मेडियल एपिकॉन्डाइल से 8–10 सेंटीमीटर की दूरी मापें और मार्क करें। यह सुनिश्चित करें कि इंसर्शन साईट, सलकस से 3–5 सेंटीमीटर नीचे हो। इसके बाद, इंसर्शन पॉइंट से कंधे की दिशा में 5 सेंटीमीटर लंबी सीधी रेखा खींचें, ताकि इम्प्लांट को सही दिशा और स्थान पर डाला जा सके।
-4. हाथ धोएं और स्टेराइल दस्ताने पहनें। उपकरण को स्टेराइल स्तान पर रखें और बाँह के मिडियल हिस्से को एंटीसेप्टिक से दो बार साफ़ करें और 2 मिनट तक प्रतीक्षा करें।
-5. इम्प्लांट डालने की जगह की त्वचा के ठीक नीचे 1% लिग्नोकेन की 1 से 2 मिलीलीटर मात्रा डालें। बहुत गहराई तक न डालें।
-6. 2 मिनट तक प्रतीक्षा करें और एनेस्थीसिया के प्रभाव की जाँच करें।
-7. इम्प्लांट एप्लीकेटर को टेक्सचर्ड यानि खुरदुरी सतह से पकड़ें। नीडल शील्ड को स्लाइड करते हुए हटाएँ और सुनिश्चित करें कि नीडल के अंदर इम्प्लांट मौजूद है।
-8. इंसर्शन साईट की त्वचा को खाली हाथ से हल्का खींचें।
-9. नीडल की नोक से त्वचा को लगभग 30 डिग्री एंगल पर पंक्चर करें और नीडल को केवल बेवल तक ही अंदर डालें।
-10. इम्प्लांट को बहुत गहराई तक न डालें। एप्लीकेटर को त्वचा के समानांतर रखते हुए नीचे लाएँ और नीडल को सबडर्मल त्वचा में ही आगे बढ़ाएँ।
-11. इम्प्लांट पूरी तरह डालने के बाद, एप्लीकेटर को स्थिर रखते हुए स्लाइडर को नीचे दबाकर अनलॉक करें और रॉड छोड़ दें। स्लाइडर को नीचे दबाकर अनलॉक करें और एप्लीकेटर को हॉरिजॉन्टल स्थिति में बाहर निकालें।
-12. एक बार जब रॉड अपनी जगह पर लग जाए, एप्लीकेटर को धीरे से हॉरिजॉन्टल स्थिति में बाहर निकालें । दोनों सिरों को महसूस करके इम्प्लांट की उपस्थिति की पुष्टि करें।
-13. पंक्चर साईट को स्टेराइल गौज से ढकें और रक्तस्राव की जांच करें। बांह के चारों ओर प्रेशर बैंडेज कस कर बांधें।
-14. महिला 15–20 मिनट तक निगरानी में रखें और इम्प्लांट कार्ड दें। महिला को समझाएँ कि इंसिजन साईट को 5 दिनों तक सूखा रखें और पाँच दिन बाद अंदर की पट्टी को हटा दें।
+Implants can also be provided immediately after birth, miscarriage, or abortion if no infection is present.
 
-![Image](eef5c042cbc6460b867c0e6d814ffd01)
+1. Follow infection prevention techniques. 
+2. Mark the skin at 2 points.  First point at 6 to 8 cms up from the bony process of the inner elbow of the woman’s upper arm and the second about 4 cm apart in the direction of insertion.
+3. Clean the local area with antiseptic and wait for 2-3 minutes.
+4. Inject local anaesthesia under the skin along the intended insertion line(s) of the implant(s). Do not go too deep.
+5. Wait for 2-3 minutes before checking anaesthetic with point of the needle.
+6. Make a small incision with a scalpel or use the applicator to directly puncture the skin.
+7. Enter the skin at a shallow angle with the applicator and lift and straighten it to ‘tent’ the skin while gently pushing the device under the skin towards the second mark.
+8. Do not to insert the implant too deep. If you feel any resistance, stop and try a different direction.
+9. Hold the device still and insert the rod. If using 2 rods, insert the second rod at 30 degree angle in a ‘V’ shape. 
+10. Once the rod(s) are in place, gently remove the applicator.
+11. Apply pressure with gauze and wrap with a bandage. Stitches are not needed.
+12. Advise the woman to keep the incision area dry for 4 days.
 
-## डॉक्यूमेंटेशन
+![Image](4510bdecbfa34b1082e00c6bb9e30c6b)
 
-सभी विवरण सही तरीके से दर्ज करें। महिला को एक रिकॉर्ड इम्प्लांट कार्ड दें और उसमें यह जानकारी लिखें:
+## Documentation
 
-- इम्प्लांट का प्रकार और डालने की तारीख
-- इंसर्शन साइट
-- किस तारीख को इसे हटाना या बदलना है
-- पोस्ट-इंसर्शन निर्देश
-- यदि उन्हें इम्प्लांट से संबंधित कोई समस्या हो या उसके बारे में कोई प्रश्न हो तो क्या करें?
+A consent form should be signed by the woman before the procedure.
+
+- Document the following correctly:
+- Type of implant and date of insertion.
+- Date when the implant will need to be removed or replaced.
+- What to do if they have problems with or questions about the implant.
 
 ---

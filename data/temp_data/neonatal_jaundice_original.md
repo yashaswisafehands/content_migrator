@@ -2,9 +2,9 @@
 
 ### Neonatal Jaundice
 
-![Image](6cc8a9412b4f41a8b23e3c991b5ac0b6)
+![Image](1bdd2961cc9340a69d6931a5ab43f850)
 
-Ensure that all newborns are routinely monitored for the development of jaundice
+Ensure that all newborns are routinely monitored for the development of jaundice.
 
 Measure serum bilirubin levels for those at risk:
 
@@ -12,7 +12,7 @@ Measure serum bilirubin levels for those at risk:
 - Preterm newborns (<35 weeks) if jaundice appears on day 2.
 - Newborns with yellowing palms and soles at any age.
 
-Treat hyperbilirubinemia with phototherapy
+Treat hyperbilirubinemia with phototherapy:
 
 [TableStart]
 |         | Phototherapy              | Phototherapy                                             |

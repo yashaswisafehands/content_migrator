@@ -9,6 +9,6 @@
 3. Insert IV lines.
 4. Give **Magnesium Sulphate**. You give the drug in two steps:
 
-![Image](a24a229167ad4cb2b7b14e7b261b08d5)
+![Image](6d5490bae42241df989a3d49799a1fb9)
 
 ---

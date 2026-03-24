@@ -4,7 +4,7 @@
 - Counselling should be provided face-to-face, complemented telephonically if needed. 
 - For information on breastfeeding a small newborn - See the Low Birth Weight Module video on feeding.
 
-![Image](b9d99d406c0a45d0b86bbcaf06a5a267)
+![Image](0e6aa70959d942df99f6bea4da547c6d)
 
 ## Information to the mother
 
@@ -62,7 +62,7 @@ If the attachment or the sucking is ineffective, take the newborn off the breast
 
 If the woman is experiencing breast engorgement, express a small amount of breast milk before breastfeeding to soften nipple area making it is easier for the newborn to attach.
 
-![Image](9dcde0ff092e44a3ae5d201d5a2be694)
+![Image](a4cf4fd85d2a4b629921dbb08a1da535)
 
 ## Signs of the newborn receiving enough milk
 
@@ -98,7 +98,7 @@ If HIV status is unknown, counsel on the importance of HIV testing and where to 
 
 # Chapter: Lactation complications(Global)
 
-![Image](570f1eb430f4430e99210d5a5980fc62)
+![Image](589e69b6d0604af98f82c0a26fd496a4)
 
 ## Sore or cracked nipples
 
@@ -118,7 +118,7 @@ Reassess after 2 feeds (or 1 day). If no improvement, teach the mother how to ex
 
 If tongue tie or thrush, refer to a higher-level facility.
 
-![Image](1facc34ee6bb463790271ed72e85d6fc)
+![Image](5d7a4cb72c4041a7818c8545cde1ca6a)
 
 ## Breast engorgement
 
@@ -142,7 +142,7 @@ If tongue tie or thrush, refer to a higher-level facility.
 - Give paracetamol for the pain. 
 - Suggest the use of warm or cold breast compresses according to the woman’s preferences.
 
-![Image](132d71b588ba40329c5e39ddd77ac122)
+![Image](d6ae79c1946c49d393292c090f5a1e32)
 
 ## Mastitis
 
@@ -185,7 +185,7 @@ You can feed the newborn with expressed breast milk if the sucking is not well e
 
 To express milk from the breast can also relieve engorgement and help the newborn to attach or drain the breast when there is mastitis or abscess.
 
-![Image](b01bf1f2218642379242d9efe7c93643)
+![Image](19f8d52c303d4837a32a4f300c1f0834)
 
 **Teach the mother how to express:**
 
@@ -225,7 +225,7 @@ To express milk from the breast can also relieve engorgement and help the newbor
 - Monitor weight gain to know the sufficiency of milk intake. 
 - Feed with expressed milk. If not available, use donated, heat-treated breast milk or home-made or commercial formula.
 
-![Image](f472a14c4ca74f63b86f81affdda524d)
+![Image](a3f6892eee4949998edeb0bfe8ef56b0)
 
 **Quantity of feed**
 
@@ -254,6 +254,6 @@ To express milk from the breast can also relieve engorgement and help the newbor
 - Relieve pain with paracetamol or ibuprofen.  
 - Recommend seeking care if breasts become painful, swollen, red, if she feels ill or temperature is > 38.0°C.
 
-![Image](43c6edc950024d9aa17c9fcb5ba63566)
+![Image](fb5159b5e46347438017bacebc0b93ad)
 
 ---

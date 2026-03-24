@@ -2,39 +2,45 @@
 
 ### Manual vacuum aspiration - usage
 
-Manual vacuum aspiration, or MVA, is a simple and low cost technique for uterine evacuation.
+Manual vacuum aspiration, or MVA, is a simple and low-cost technique for uterine evacuation.
 
-MVA is used for evacuation of the uterus at incomplete first trimester abortions up to a gestational age of 12-14 weeks.
+MVA is used for evacuation of the uterus for incomplete abortions in the first trimester up to a gestational age of 12-14 weeks.
 
-Especially during septic abortion and strong bleeding in relation to abortion the procedure is a life saving emergency procedure that must be performed without delay.
+In cases of septic abortion and heavy bleeding related to abortion, the procedure is a life-saving emergency procedure that must be performed without delay.
 
-Ideally antibiotics are given at the start of the procedure, but must not delay it. The procedure can be performed without antibiotics.
+Antibiotics should ideally be given before an MVA procedure, but must not delay it. The procedure can be performed without antibiotics.
 
 ---
 
 # Chapter: Practical information
 
 ### Cleaning manual vacuum aspirator - practical information
+(This information applies to MVAs registered for reuse)
 
-![Image](e3bf5ef01b804138864a088d780fe704)
+![Image](d0bbc3423f724c4dbfc9b3e012eeef82)
 
 ### Cleaning after use
 
 ## Step 1:
 
-Always wear utility gloves and an apron to protect from any splashes.
+Always wear utility gloves and an apron to protect yourself from any splashes.
 
-Immediately after use; discard the cannula and disassemble all items and soak instruments in a solution made of water and the correct concentration of detergent.
+Immediately after use:
+ 
+Remove the cannula from the valve by twisting the cannula base and pulling it out. 
 
-Clean items with a tooth brush in the solution.
+Discard the cannula and disassemble the aspirator and soak the parts and reusable equipment in a solution made of water and the correct concentration of detergent.
+(Some cannulas, such as ‘Easy Grib’ are reusable. Check the cannula brand to find out whether it is reusable or not)
 
-Do not use bar soap for cleaning items.
+Clean items with a toothbrush in the solution.
 
-If cleaning is not possible immediately, place the items in an empty basket and cover the items with a moist towel until cleaning is possible.
+Do not use bar soap for cleaning the items.
+
+If cleaning is not possible immediately, place the items in an empty basket and cover the items with a moist towel until cleaning is possible, do not let them dry.
 
 All items should be individually inspected and visibly clean.
 
-Rinse items with clean, running water, and air-dry before sterilisation or high-level disinfection.
+Rinse the items with clean, running water, and air-dry before sterilisation or high-level disinfection.
 
 ## Step 2:
 
@@ -46,7 +52,7 @@ Remove the cannula from the valve by twisting the cannula base and pulling it ou
 
 Grip the wings to aid.
 
-The base of the cannula is permanently attached – do not attempt to remove.
+The base of the cannula is permanently attached (EasyGrip) – do not attempt to remove.
 
 Disassemble the aspirator by pulling the cylinder out of the valve.
 
@@ -56,20 +62,20 @@ Open the hinged valve by pulling open the clasp.
 
 Place right thumb alongside the right valve button and left thumb on the valve latch.
 
-With the left thumb, pull up and to the left on the valve latch while pushing down and out on the valve body with the right thumb.
+Open the valve latch to the left with your left thumb while providing resistance on the valve body with the right thumb.
 
 Remove the valve liner.
 
-Disengage the collar stop by sliding it sideways under the retaining clip, or remove the collar stop completely.
+Disengage the collar stop by removing the prongs from the cylinder and sliding it sideways under the retaining clip, or remove the collar stop completely.
 
-Pull the plunger completely out.
+Pull out the plunger completely.
 
 Displace the plunger O-ring by squeezing its sides and rolling it into the groove below.
 
 It is not necessary to completely remove it.
 
-![Image](a60ccbf5e8254b1b9d51c9638e86c1aa)
+![Image](08d023a385f646bab778ec140e89795d)
 
-![Image](5c970e5ab41c4b0fbfd173a7bdd176d8)
+![Image](5f6af8aeb76d49948cb50ed394357f69)
 
 ---

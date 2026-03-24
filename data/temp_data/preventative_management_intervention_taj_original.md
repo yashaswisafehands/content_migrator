@@ -1,6 +1,6 @@
 # Chapter: Antibiotic regimen for ASB
 
-![Image](f9c8c63efeb4499aaa073a1d8f33349d)
+![Image](bd0612d638fd401e916c63f048c25934)
 
 A seven-day antibiotic regimen is recommended for all pregnant women with asymptomatic bacteriuria (ASB) to prevent persistent bacteriuria, preterm birth and low birth weight.
 
@@ -10,7 +10,7 @@ For more information on medication see Drug List.
 
 # Chapter: Covid-19 Vaccination
 
-![Image](427854d28a5442769d5a2f4bd16768aa)
+![Image](731aa97a0560435c86868c2c99dd8272)
 
 To protect the pregnant woman and her newborn from serious disease, particularly for women with underlying clinical conditions, COVID-19 vaccination is recommended as soon as possible during pregnancy, depending on previous vaccinations.
 
@@ -18,7 +18,7 @@ To protect the pregnant woman and her newborn from serious disease, particularly
 
 # Chapter: Pre-exposure prophylaxis for HIV prevention (context specific)
 
-![Image](a7e26469d77d44799019906d9d413cb0)
+![Image](7786a082fc194d98997ff3bd6f168806)
 
 Oral pre-exposure prophylaxis (PrEP) for HIV prevention containing tenofovir disoproxil fumarate (TDF) should be offered as an additional preventive choice for pregnant women who are at substantial risk of HIV infection (when HIV incidence is > 3 per 100 person-years without PrEP).
 
@@ -30,7 +30,7 @@ Individual risk varies depending on individual behaviour and the characteristics
 
 Preventive deworming treatment is recommended for pregnant women living in endemic areas of helminth infection and where anaemia is a severe public health problem.
 
-![Image](67b3265e79b14bc48411f99ede5df2b6)
+![Image](036bbf9fe8f34691823e35f07f8eaa2b)
 
 A single dose of albendazole (400mg) or mebendazole (500 mg) is given after the first trimester. In non-endemic areas anthelminthic treatment should be given on a case-to-case basis.
 
@@ -55,7 +55,7 @@ Two ultrasound examinations are recommended during pregnancy:
 
 A first ultrasound scan from 10-14 weeks  of gestation (early ultrasound) and a second ultrasound scan from 18-20 weeks of gestation is recommended to estimate gestational age, detect foetal anomalies and multiple pregnancies, reduce induction of labour for post-term pregnancy, and improve the woman’s pregnancy experience.
 
-![Image](c9a7003729a1446f91cc7691d15725a0)
+![Image](f328a7a5fb0a4399ad4cf6667cb3f464)
 
 Offer a late ultrasound scan to pregnant women who have not had an early ultrasound scan, to identifying the number of foetuses, presentation and placental location.
 

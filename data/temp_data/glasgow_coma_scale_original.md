@@ -18,7 +18,7 @@ Below 15 points means any kind of affected cerebral condition.
 
 1 point: No response
 
-![Image](7fdf43419ec5497d8160614ab3021473)
+![Image](24f7f94dd8e147ee925382721a9c8902)
 
 ### Verbal response
 
@@ -32,7 +32,7 @@ Below 15 points means any kind of affected cerebral condition.
 
 1 point: No response
 
-![Image](2a8138148e2643a5855beb80554d81c2)
+![Image](d89192e346a64d318f5f669e535aed53)
 
 ### Motor response
 
@@ -48,7 +48,7 @@ Below 15 points means any kind of affected cerebral condition.
 
 1 point: No response
 
-![Image](ad98f73f544e4d57927b8e71592f413e)
+![Image](9c26c6cfb81d4075b4d997555f4930a6)
 
 <color style="blue">Put the numbers in every category together:</color>
 
