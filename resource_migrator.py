@@ -2200,12 +2200,46 @@ class ResourceMigrator:
                     # Resolve links in questions - remove unresolved links
                     for q in questions:
                         if "link" in q:
-                            resolved = self._resolve_link_ref(q["link"], default_region=e.get("final_region") or "india")
-                            if resolved:
-                                q["link"] = resolved
+                            link_val = q.get("link") or ""
+                            if link_val.startswith("video:/"):
+                                from configs import _get_assets_base_url
+                                from urllib.parse import quote
+                                import os
+                                
+                                path = link_val[len("video:/"):]
+                                path_no_ext = os.path.splitext(path)[0]
+                                base_url = _get_assets_base_url().rstrip("/")
+                                safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+                                video_url = f"{base_url}/videos/{safe_path}.mp4"
+                                
+                                q["link"] = video_url
+                                q["link_type"] = "video"
+                                print(f"  ✓ Converted KLP video link to direct URL: {video_url}")
+                                
+                            elif link_val.startswith("image:/"):
+                                from configs import _get_assets_base_url
+                                from urllib.parse import quote
+                                import os
+                                
+                                path = link_val[len("image:/"):]
+                                path_no_ext = os.path.splitext(path)[0]
+                                base_url = _get_assets_base_url().rstrip("/")
+                                safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
+                                image_url = f"{base_url}/images/{safe_path}.png"
+                                
+                                q["link"] = image_url
+                                q["link_type"] = "image"
+                                print(f"  ✓ Converted KLP image link to direct URL: {image_url}")
+                                
                             else:
-                                # Remove unresolved links to avoid 400 errors
-                                del q["link"]
+                                resolved = self._resolve_link_ref(link_val, default_region=e.get("final_region") or "india")
+                                if resolved:
+                                    q["link"] = resolved
+                                else:
+                                    # Remove unresolved links to avoid 400 errors
+                                    del q["link"]
+                                    if "link_type" in q:
+                                        del q["link_type"]
 
                 # Fallback: API requires language_id for translated/adapted.
                 # If missing, downgrade to original to allow migration (assuming English/Global).

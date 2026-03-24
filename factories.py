@@ -384,6 +384,9 @@ class DataFactory:
         cls, asset_path: str, language_id: str = "global", asset_type: str = "icon", use_prefix: bool = True
     ) -> str:
         """Construct the full authenticated URL for an asset matching utility behavior."""
+        if asset_path and (asset_path.lower().startswith("http://") or asset_path.lower().startswith("https://")):
+            return asset_path
+
         from urllib.parse import quote
         
         if not language_id:
