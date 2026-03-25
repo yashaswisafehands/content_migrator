@@ -10,8 +10,9 @@ COSMOS_KEY = os.getenv("COSMOS_KEY")
 DATABASE_NAME = "production"
 CONTAINER_NAME = "content"
 def _get_assets_base_url() -> str:
-    env = os.environ.get("MIGRATE_ENV", "content")
-    return f"https://sdacms.blob.core.windows.net/{env}/assets/"
+    # Assets (images/videos) are never pushed to devcontent container,
+    # they are always read from the central 'content/assets' path.
+    return "https://sdacms.blob.core.windows.net/content/assets/"
 
 ASSETS_BASE_URL = _get_assets_base_url()
 
