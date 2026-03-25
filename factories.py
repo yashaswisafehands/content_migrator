@@ -900,7 +900,7 @@ class DataFactory:
         # Extract derived_from_id (source LME ID for adaptations)
         derived_from_id = cosmos_doc.get("derived_from_id") or cosmos_doc.get("derivedFromId")
 
-        # Determine content type based on table type
+        # Determine tag based on table type
         content_type_mapping = {
             "videos": "video",
             "actionCards": "action-card",
@@ -909,7 +909,7 @@ class DataFactory:
             "key-learning-points": "key-learning-point",
             "keyLearningPoints": "key-learning-point",
         }
-        content_type = content_type_mapping.get(table_type, "unknown")
+        tag_name = content_type_mapping.get(table_type, "unknown")
 
         # Get language_id and region from language mapping if available
         # CRITICAL FIX: If caller explicitly passes language_id="" (global content),
@@ -949,6 +949,8 @@ class DataFactory:
             icon_asset_id = (
                 cls._download_and_upload_icon(icon_path, language_id) if icon_path else None
             )
+
+        resolved_content_type = "translated" if language_id else "original"
 
         # For text-based resources (drugs/procedures/KLPs), handle accordingly
         questions = None
@@ -1000,6 +1002,14 @@ class DataFactory:
             if not cards and ("content" in cosmos_doc or "translated" in cosmos_doc or "adapted" in cosmos_doc):
                 cards = [cosmos_doc]
 
+            if language_id:
+                has_translated = any(c.get("translated") and isinstance(c.get("translated"), dict) and c["translated"].get("blocks") for c in cards)
+                has_adapted = any(c.get("adapted") and isinstance(c.get("adapted"), dict) and c["adapted"].get("blocks") for c in cards)
+                if has_translated:
+                    resolved_content_type = "translated"
+                elif has_adapted:
+                    resolved_content_type = "adapted"
+
             for card in cards:
                 # Determine which version to process
                 # If we're targeting a localized doc (e.g. drugs table with langId), the content is usually in 'translated' block
@@ -1034,8 +1044,8 @@ class DataFactory:
             # DISTINCT ASSET FILENAME LOGIC
             safe_base = slugify(title_candidate) or table_type
             asset_filename = f"{table_type}-{safe_base}"
-            if content_type != "original":
-                asset_filename += f"-{content_type}"
+            if resolved_content_type != "original":
+                asset_filename += f"-{resolved_content_type}"
             
             asset_id = cls._upload_markdown_as_asset(text_content, asset_filename)
             
@@ -1051,7 +1061,7 @@ class DataFactory:
             content=content,
             language_id=language_id,
             region=region,
-            content_type=content_type,
+            content_type=resolved_content_type,
             created_by=cosmos_doc.get("LastUpdatedBy", "System"),
             questions=questions,
             derived_from_id=derived_from_id,

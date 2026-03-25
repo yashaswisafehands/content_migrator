@@ -224,19 +224,26 @@ class _HTMLToMarkdownParser(HTMLParser):
         if self._in_code:
             text = f"`{text}`"
             
-        # Do not apply bold/italic if inside blockquote (frontend parser doesn't support nested styles here)
-        if not self._in_blockquote:
-            if self._in_bold:
-                stripped = text.strip()
-                if stripped:
-                    text = text.replace(stripped, f"**{stripped}**")
-            if self._in_italic:
-                stripped = text.strip()
-                if stripped:
-                    text = text.replace(stripped, f"*{stripped}*")
+        # Apply standard inline styles
+        if self._in_bold:
+            stripped = text.strip()
+            if stripped:
+                text = text.replace(stripped, f"**{stripped}**")
+        if self._in_italic:
+            stripped = text.strip()
+            if stripped:
+                text = text.replace(stripped, f"*{stripped}*")
                     
+        # Replace blockquote grey bar styling with specific #CF0048 bold pink text
         if self._in_blockquote:
-            text = "> " + text
+            stripped = text.strip()
+            # If the text was already made bold above, we don't need to double-bold it, 
+            # but usually it isn't. To be safe, we just wrap whatever text in the pink color.
+            # And we add bold if it wasn't already wrapped in **.
+            if stripped and not stripped.startswith("**"):
+                text = text.replace(stripped, f'<font color="#CF0048">**{stripped}**</font>')
+            elif stripped:
+                text = text.replace(stripped, f'<font color="#CF0048">{stripped}</font>')
 
         self._inline_buf += text
 

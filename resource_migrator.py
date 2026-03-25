@@ -1027,9 +1027,7 @@ class ResourceMigrator:
             # Set level for KLP
             resource_data.level = level
             
-            # Normalize content type
-            resource_data.content_type = self._resolve_content_type(cosmos_lang_id)
-
+            # Note: content_type is pre-populated by DataFactory based on adapted/translated presence
             # 4.5 SCREENS TABLE - For DESCRIPTION only
             if cosmos_lang_id:
                 trans_key = f"key-learning-point:{key}"
@@ -1550,7 +1548,6 @@ class ResourceMigrator:
             standalone: If True, this resource exists only in a localized module
                         and has no global original. Passed through to CSV.
         """
-        resource_data.content_type = self._resolve_content_type(cosmos_language_id)
 
         # Generate slug from title (or explicit source)
         # For resource slug, do not include version words
@@ -2339,12 +2336,16 @@ class ResourceMigrator:
                             if "link_type" in q:
                                 q["link_type"] = None
 
-                # Fallback: API requires language_id for translated/adapted.
-                # If missing, downgrade to original to allow migration (assuming English/Global).
+                # Fallback: API requires language_id for translated, and region for adapted.
                 r_ct = row.get("content_type") or e["content_type"]
                 r_lang = e["final_lang"] or None
-                if not r_lang and r_ct in ("translated", "adapted"):
+                r_region = e["final_region"] or None
+                
+                if r_ct == "translated" and not r_lang:
                      print(f"Warning: '{slug}' is {r_ct} but has no language_id. Defaulting to 'original'.")
+                     r_ct = "original"
+                elif r_ct == "adapted" and not r_region:
+                     print(f"Warning: '{slug}' is {r_ct} but has no region. Defaulting to 'original'.")
                      r_ct = "original"
 
                 payload = ResourcePostRequestData(
