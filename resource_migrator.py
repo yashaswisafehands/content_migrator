@@ -828,6 +828,74 @@ class ResourceMigrator:
                 if slug in self.resource_slug_mapping:
                     return self.resource_slug_mapping[slug]
             
+            # ── Suffix-based fallback ──
+            # Slugs in the mapping may include a module name prefix that the link doesn't have.
+            # E.g., link = "action-card:identify-cause_..." → slug_tail = "identify-cause"
+            # but mapping has "res-action-card-maternal-sepsis-identify-cause"
+            suffix = f"-{slug_tail}"
+            type_prefix = f"res-{target_slug_type}-"
+            suffix_matches = [s for s in self.resource_slug_mapping
+                              if s.startswith(type_prefix) and s.endswith(suffix)]
+            
+            if len(suffix_matches) == 1:
+                print(f"  ✓ Resolved {res_type} link '{link}' via suffix match → {suffix_matches[0]}")
+                return self.resource_slug_mapping[suffix_matches[0]]
+            elif len(suffix_matches) > 1:
+                # Multiple matches — try narrowing by region
+                if default_region:
+                    regional = [s for s in suffix_matches if f"-{default_region}-" in s]
+                    if len(regional) == 1:
+                        print(f"  ✓ Resolved {res_type} link '{link}' via regional suffix match → {regional[0]}")
+                        return self.resource_slug_mapping[regional[0]]
+                    if regional:
+                        suffix_matches = regional
+                
+                # Still multiple — use first match as best effort
+                print(f"  ⚠ Ambiguous {res_type} link '{link}', {len(suffix_matches)} suffix matches: {suffix_matches}. Using first.")
+                return self.resource_slug_mapping[suffix_matches[0]]
+            
+            # ── Substring containment fallback ──
+            # Handles cases like "counsellingind" vs "counselling-ind" where
+            # hyphenation differs but the characters are the same.
+            slug_tail_nohyphens = slug_tail.replace("-", "")
+            contains_matches = [s for s in self.resource_slug_mapping 
+                                if s.startswith(type_prefix) and 
+                                slug_tail_nohyphens in s.replace("-", "")]
+            if len(contains_matches) == 1:
+                print(f"  ✓ Resolved {res_type} link '{link}' via substring match → {contains_matches[0]}")
+                return self.resource_slug_mapping[contains_matches[0]]
+            elif len(contains_matches) > 1:
+                if default_region:
+                    regional = [s for s in contains_matches if f"-{default_region}-" in s]
+                    if len(regional) == 1:
+                        print(f"  ✓ Resolved {res_type} link '{link}' via regional substring match → {regional[0]}")
+                        return self.resource_slug_mapping[regional[0]]
+                # Use first match
+                print(f"  ⚠ Ambiguous {res_type} link '{link}', {len(contains_matches)} substring matches. Using first: {contains_matches[0]}")
+                return self.resource_slug_mapping[contains_matches[0]]
+            
+            # ── Token-overlap fallback ──
+            # For edge cases where the key name differs (e.g., "procedures-by-also" vs 
+            # "procedure-as-by-also"). Score by token overlap.
+            slug_tokens = set(slug_tail.split("-"))
+            if len(slug_tokens) >= 2:
+                type_candidates = [s for s in self.resource_slug_mapping 
+                                   if s.startswith(type_prefix)]
+                
+                def token_score(candidate):
+                    candidate_tokens = set(candidate[len(type_prefix):].split("-"))
+                    return len(slug_tokens & candidate_tokens)
+                
+                scored = [(s, token_score(s)) for s in type_candidates]
+                scored.sort(key=lambda x: x[1], reverse=True)
+                
+                # Only accept if the top match has high overlap (>= 60% of slug tokens)
+                min_score = max(2, int(len(slug_tokens) * 0.6))
+                if scored and scored[0][1] >= min_score:
+                    best = scored[0][0]
+                    print(f"  ✓ Resolved {res_type} link '{link}' via token overlap ({scored[0][1]}/{len(slug_tokens)} tokens) → {best}")
+                    return self.resource_slug_mapping[best]
+            
             print(f"Warning: Could not resolve {res_type} link '{link}'. Candidates: {candidates}")
             return None
         
