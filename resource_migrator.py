@@ -193,15 +193,7 @@ class ResourceMigrator:
         """
         try:
             data = response.json() if response.content else {}
-            
-            # Check for direct version_id fields first
-            version_id = (
-                data.get("resource_version_id")
-                or data.get("klp_version_id")
-                or data.get("version_id")
-            )
-            if version_id:
-                return version_id
+
             
             # PRIORITY: Check versions array FIRST — pick the latest version
             # (highest version number). For PATCH responses creating translated
@@ -232,6 +224,17 @@ class ResourceMigrator:
                         vid = best_draft.get("resource_version_id") or best_draft.get("klp_version_id")
                         if vid:
                             return vid
+
+            # ROOT FALLBACK: Check for direct version_id fields
+            # This is intentionally placed below the versions arrays, because on PATCH the
+            # root ID might refer to the older, currently active original version.
+            version_id = (
+                data.get("resource_version_id")
+                or data.get("klp_version_id")
+                or data.get("version_id")
+            )
+            if version_id:
+                return version_id
             
             # Fallback: current_original_version (POST of a brand-new resource)
             current_original = data.get("current_original_version")
@@ -1012,63 +1015,92 @@ class ResourceMigrator:
             # Existing code used "klp" in build_slug call: slug = build_slug("klp", level, title_slug)
             slug = build_slug("klp", level, title_slug)
             
-            # 4. Create Resource Data from GLOBAL doc (for identity + original content)
-            # Slug already calculated from global doc above
-            # klp_doc used for questions/content only
-            resource_data = DataFactory.create_resource_data(
-                klp_doc, 
-                "key-learning-points", 
-                language_id=cosmos_lang_id,
-                global_doc=identity_doc
-            )
+            # 4. Create Resource Data from GLOBAL doc & LOCAL doc
             
-            resource_data.language_id = lme_lang_id or ""
-            resource_data.region = region
-            # Set level for KLP
-            resource_data.level = level
-            
-            # Note: content_type is pre-populated by DataFactory based on adapted/translated presence
-            # 4.5 SCREENS TABLE - For DESCRIPTION only
             if cosmos_lang_id:
-                trans_key = f"key-learning-point:{key}"
-                translated_desc = self._get_screen_translation(trans_key, cosmos_lang_id)
+                version_types = ["translated", "adapted"]
+                created_versions = []
+                for v_type in version_types:
+                    resource_data = DataFactory.create_resource_data(
+                        klp_doc, 
+                        "key-learning-points", 
+                        language_id=cosmos_lang_id,
+                        global_doc=identity_doc,
+                        force_version_type=v_type
+                    )
+                    resource_data.language_id = lme_lang_id or ""
+                    resource_data.region = region
+                    resource_data.level = level
+                    
+                    if cosmos_lang_id:
+                        trans_key = f"key-learning-point:{key}"
+                        translated_desc = self._get_screen_translation(trans_key, cosmos_lang_id)
+                        if translated_desc:
+                            resource_data.description = translated_desc
+
+                    questions = getattr(resource_data, 'questions', []) or []
+                    # Check if there are actually any questions for this version
+                    has_valid_questions = any(q.get("question") or q.get("answers") for q in questions)
+                    
+                    if has_valid_questions:
+                        for q in questions:
+                            if "link" in q:
+                                if not q["link"] or not isinstance(q["link"], str):
+                                    del q["link"]
+                                    q["link_type"] = None
+                        
+                        self._queue_klp_post(
+                            slug=slug,
+                            title=resource_data.title,
+                            description=resource_data.description or "",
+                            level=level,
+                            content_type=v_type, # explicitly set
+                            language_id=lme_lang_id or "",
+                            region=region,
+                            created_by=resource_data.created_by or "System",
+                            cosmos_language_id=cosmos_lang_id,
+                            questions=questions,
+                            derived_from_id=getattr(resource_data, "derived_from_id", None),
+                        )
+                        created_versions.append(v_type)
                 
-                if translated_desc:
-                    print(f"  ✓ Screens translation for KLP description: '{translated_desc[:50]}...'")
-                    resource_data.description = translated_desc
+                if created_versions:
+                    slugs.append(slug)
                 else:
-                    print(f"  ℹ️  No screens translation found for '{trans_key}'")
+                    print(f"  ⚠ SKIP: No valid questions found in {cosmos_lang_id} for KLP '{key}'.")
+            else:
+                resource_data = DataFactory.create_resource_data(
+                    klp_doc, 
+                    "key-learning-points", 
+                    language_id="",
+                    global_doc=identity_doc
+                )
+                
+                resource_data.language_id = lme_lang_id or ""
+                resource_data.region = region
+                resource_data.level = level
+                
+                questions = getattr(resource_data, 'questions', []) or []
+                for q in questions:
+                    if "link" in q:
+                        if not q["link"] or not isinstance(q["link"], str):
+                            del q["link"]
+                            q["link_type"] = None
 
-            # 5. Queue KLP Payload to klps.csv (separate from resources)
-            # Extract questions from resource_data
-            questions = resource_data.questions if hasattr(resource_data, 'questions') and resource_data.questions else []
-            
-            # We no longer pre-convert links to slugs here. Save raw links (e.g., 'video:/path') to CSV.
-            # They will be resolved during the POST step using _resolve_link_ref, which handles candidates.
-            for q in questions:
-                # Basic validation: ensure link is a string, otherwise clear it/link_type.
-                if "link" in q:
-                    if not q["link"] or not isinstance(q["link"], str):
-                        del q["link"]
-                        q["link_type"] = None   # ← null both together
-
-            
-
-            
-            self._queue_klp_post(
-                slug=slug,
-                title=resource_data.title,
-                description=resource_data.description or "",
-                level=level,
-                content_type=resource_data.content_type,
-                language_id=lme_lang_id or "",
-                region=region,
-                created_by=resource_data.created_by or "System",
-                cosmos_language_id=cosmos_lang_id,
-                questions=questions,
-                derived_from_id=getattr(resource_data, "derived_from_id", None),
-            )
-            slugs.append(slug)
+                self._queue_klp_post(
+                    slug=slug,
+                    title=resource_data.title,
+                    description=resource_data.description or "",
+                    level=level,
+                    content_type="original",
+                    language_id=lme_lang_id or "",
+                    region=region,
+                    created_by=resource_data.created_by or "System",
+                    cosmos_language_id=cosmos_lang_id,
+                    questions=questions,
+                    derived_from_id=getattr(resource_data, "derived_from_id", None),
+                )
+                slugs.append(slug)
 
         return slugs
 
@@ -2071,8 +2103,8 @@ class ResourceMigrator:
                 
                 request_payload = {k: v for k, v in payload.items() if k not in excluded_fields}
                 
-                # Double check content_type and enforce "translated" if language_id is present
-                if request_payload.get("language_id"):
+                # Only override to "translated" if content_type is not already "adapted"
+                if request_payload.get("language_id") and request_payload.get("content_type") != "adapted":
                      request_payload["content_type"] = "translated"
             else:
                 api_url = POST_KLP
@@ -2137,8 +2169,19 @@ class ResourceMigrator:
                 # First try versions array (contains only the newly created version)
                 versions = data.get("versions", [])
                 if versions and isinstance(versions, list) and len(versions) > 0:
-                    version_id = versions[0].get("klp_version_id")
+                    best = max(versions, key=lambda v: float(v.get("version", 0)) if isinstance(v, dict) else 0)
+                    version_id = best.get("klp_version_id") if isinstance(best, dict) else None
                 
+                # Check draft adapted/translated versions
+                if not version_id:
+                    for draft_key in ("draft_translated_versions", "draft_adapted_versions"):
+                        drafts = data.get(draft_key)
+                        if drafts and isinstance(drafts, list) and len(drafts) > 0:
+                            best_draft = max(drafts, key=lambda v: float(v.get("version", 0)) if isinstance(v, dict) else 0)
+                            version_id = best_draft.get("klp_version_id") if isinstance(best_draft, dict) else None
+                            if version_id:
+                                break
+
                 # Fallback to other locations
                 if not version_id:
                     version_id = (

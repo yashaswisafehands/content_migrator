@@ -30,6 +30,7 @@ class DataFactory:
     # Asset caching to avoid duplicate uploads
     _asset_cache: Dict[str, Tuple[Optional[str], str]] = {}
     _asset_mapping_path = get_mappings_file("asset_mapping.csv")
+    _mapping_loaded: bool = False
 
     @classmethod
     def _load_asset_mapping(cls) -> None:
@@ -293,6 +294,11 @@ class DataFactory:
         # Use source_url as key if available, else local_path
         asset_key = source_url if source_url else local_path
 
+        # Load persistent asset mapping on first use
+        if not cls._mapping_loaded:
+            cls._load_asset_mapping()
+            cls._mapping_loaded = True
+
         # Check in-memory cache
         if asset_key in cls._asset_cache:
             # _asset_cache stores (asset_id, asset_type) or just asset_id in some versions? 
@@ -362,7 +368,24 @@ class DataFactory:
             # Factories expects tuple (id, type)
             # We can infer type from media_type or just store generic
             cls._asset_cache[asset_key] = (new_asset_id, media_type)
-            # cls._save_asset_mapping() # Optional persistence
+            
+            # Append to persistent mapping file
+            ensure_parent_dir(cls._asset_mapping_path)
+            need_header = (
+                not cls._asset_mapping_path.exists()
+                or cls._asset_mapping_path.stat().st_size == 0
+            )
+            try:
+                with cls._asset_mapping_path.open(
+                    "a", newline="", encoding="utf-8"
+                ) as f:
+                    writer = csv.writer(f)
+                    if need_header:
+                        writer.writerow(["asset_url", "asset_id", "asset_type"])
+                    writer.writerow([asset_key, new_asset_id, media_type])
+            except Exception as e:
+                print(f"Warning: Could not save to asset_mapping file: {e}")
+                
             print(f"CACHED: Saved new asset_id '{new_asset_id}' for path '{asset_key}'")
             return response_json
         
@@ -637,7 +660,7 @@ class DataFactory:
             return None
 
         # Load persistent asset mapping on first use
-        if not hasattr(cls, "_mapping_loaded"):
+        if not cls._mapping_loaded:
             cls._load_asset_mapping()
             cls._mapping_loaded = True
 
@@ -782,33 +805,45 @@ class DataFactory:
         )
 
     @classmethod
-    def _extract_questions_for_klp(cls, cosmos_doc: Dict, language_id: str) -> List[Dict]:
+    def _extract_questions_for_klp(
+        cls, cosmos_doc: Dict, language_id: str, version_preference: Optional[str] = None
+    ) -> List[Dict]:
         """Extract questions from KLP document and map to LME payload structure.
         
-        Prioritizes embedded translations (translated > adapted > content).
+        Prioritizes version_preference if specified, otherwise embedded translations (translated > adapted > content).
         """
         questions_payload = []
         raw_questions = cosmos_doc.get("questions", [])
 
         for idx, q in enumerate(raw_questions):
             # 1. Resolve Question Text
-            # Priority: question.translated -> question.adapted -> question.content
+            # Priority: version_preference -> translated -> adapted -> content
             q_obj = q.get("question", {})
             
-            q_content = (
-                q.get("translated", {}).get("content") or
-                q.get("question", {}).get("translated") or
-                q.get("adapted", {}).get("content") or
-                q.get("question", {}).get("content") or 
-                ""
-            )
+            q_content = ""
+            if version_preference:
+                 q_content = q.get(version_preference, {}).get("content") or q.get("question", {}).get(version_preference) or ""
+            
+            if not q_content:
+                 q_content = (
+                     q.get("translated", {}).get("content") or
+                     q.get("question", {}).get("translated") or
+                     q.get("adapted", {}).get("content") or
+                     q.get("question", {}).get("content") or 
+                     ""
+                 )
 
             # 2. Resolve Description
-            q_desc = (
-                 q.get("description", {}).get("translated") or
-                 q.get("description", {}).get("content") or
-                 ""
-            )
+            q_desc = ""
+            if version_preference:
+                 q_desc = q.get("description", {}).get(version_preference) or ""
+            
+            if not q_desc:
+                 q_desc = (
+                      q.get("description", {}).get("translated") or
+                      q.get("description", {}).get("content") or
+                      ""
+                 )
             
             icon_path = q.get("image") or q.get("icon")
             icon_asset_id = None
@@ -823,15 +858,20 @@ class DataFactory:
             raw_answers = q.get("answers", [])
             for a_idx, ans in enumerate(raw_answers):
                 # 3. Resolve Answer Value
-                # Priority: value.translated -> value.adapted -> value.content
+                # Priority: value.<version_preference> -> value.translated -> value.adapted -> value.content
                 val_obj = ans.get("value", {})
                 
-                val_str = (
-                    val_obj.get("translated") or 
-                    val_obj.get("adapted") or 
-                    val_obj.get("content") or
-                    (str(val_obj) if not isinstance(val_obj, dict) else "")
-                )
+                val_str = ""
+                if version_preference:
+                     val_str = val_obj.get(version_preference) or ""
+                
+                if not val_str:
+                     val_str = (
+                         val_obj.get("translated") or 
+                         val_obj.get("adapted") or 
+                         val_obj.get("content") or
+                         (str(val_obj) if not isinstance(val_obj, dict) else "")
+                     )
 
                 if not val_str.strip():
                     continue
@@ -869,7 +909,8 @@ class DataFactory:
         cls, cosmos_doc: Dict, table_type: str, language_id: str = "",
         global_doc: Optional[Dict] = None,
         module_icon_asset_id: Optional[str] = None,  # NEW: Accept module icon
-        translated_title: Optional[str] = None       # NEW: Accept translated title override
+        translated_title: Optional[str] = None,      # NEW: Accept translated title override
+        force_version_type: Optional[str] = None     # NEW: Explicitly force 'adapted' or 'translated'
     ) -> ResourcePostRequestData:
         """Create ResourcePostRequestData from Cosmos DB resource document.
         
@@ -956,7 +997,9 @@ class DataFactory:
         questions = None
         
         if table_type in ("key-learning-points", "keyLearningPoints"):
-            questions = cls._extract_questions_for_klp(cosmos_doc, language_id)
+            questions = cls._extract_questions_for_klp(
+                cosmos_doc, language_id, version_preference=force_version_type
+            )
             content = None  # Ensure content is None for KLP
             
         elif table_type in ("drugs", "procedures"):
@@ -1002,7 +1045,9 @@ class DataFactory:
             if not cards and ("content" in cosmos_doc or "translated" in cosmos_doc or "adapted" in cosmos_doc):
                 cards = [cosmos_doc]
 
-            if language_id:
+            if force_version_type in ("translated", "adapted"):
+                resolved_content_type = force_version_type
+            elif language_id:
                 has_translated = any(c.get("translated") and isinstance(c.get("translated"), dict) and c["translated"].get("blocks") for c in cards)
                 has_adapted = any(c.get("adapted") and isinstance(c.get("adapted"), dict) and c["adapted"].get("blocks") for c in cards)
                 if has_translated:
@@ -1023,8 +1068,16 @@ class DataFactory:
                 # But safer is to check allowed_versions from caller
                 
                 version_key = "content"
-                # Heuristic: if doc has language_id, prefer translated
-                if language_id and card.get("translated") and card["translated"].get("blocks"):
+                if force_version_type in ("translated", "adapted"):
+                     if card.get(force_version_type) and card[force_version_type].get("blocks"):
+                          version_key = force_version_type
+                     # Fallback gracefully if forced version doesn't exist
+                     elif force_version_type == "translated" and card.get("adapted") and card["adapted"].get("blocks"):
+                          version_key = "adapted"
+                     elif force_version_type == "adapted" and card.get("translated") and card["translated"].get("blocks"):
+                          version_key = "translated"
+                # Heuristic fallback: if doc has language_id, prefer translated
+                elif language_id and card.get("translated") and card["translated"].get("blocks"):
                      version_key = "translated"
                 elif language_id and card.get("adapted") and card["adapted"].get("blocks"):
                      version_key = "adapted"
