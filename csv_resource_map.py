@@ -34,6 +34,8 @@ def load_module_resource_map(csv_path: str = None) -> Dict[str, Dict[str, List[s
 
         print(f"[csv_resource_map] Loaded {len(resource_map)} modules from CSV resource map.")
     except Exception as e:
+        from error_logger import log_error
+        log_error("Captured Exception", exc=e)
         print(f"[csv_resource_map] ERROR: Failed to parse CSV '{csv_path}': {e}")
         return {}
 

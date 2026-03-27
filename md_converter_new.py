@@ -4,7 +4,7 @@ import html as html_module
 import urllib.parse
 from html.parser import HTMLParser
 from typing import Dict, List, Optional
-from configs import ASSETS_BASE_URL, POST_ASSET
+from configs import _get_assets_base_url, POST_ASSET
 # DataFactory is imported inside functions to avoid circular import
 
 
@@ -224,19 +224,26 @@ class _HTMLToMarkdownParser(HTMLParser):
         if self._in_code:
             text = f"`{text}`"
             
-        # Do not apply bold/italic if inside blockquote (frontend parser doesn't support nested styles here)
-        if not self._in_blockquote:
-            if self._in_bold:
-                stripped = text.strip()
-                if stripped:
-                    text = text.replace(stripped, f"**{stripped}**")
-            if self._in_italic:
-                stripped = text.strip()
-                if stripped:
-                    text = text.replace(stripped, f"*{stripped}*")
+        # Apply standard inline styles
+        if self._in_bold:
+            stripped = text.strip()
+            if stripped:
+                text = text.replace(stripped, f"**{stripped}**")
+        if self._in_italic:
+            stripped = text.strip()
+            if stripped:
+                text = text.replace(stripped, f"*{stripped}*")
                     
+        # Replace blockquote grey bar styling with specific #CF0048 bold pink text
         if self._in_blockquote:
-            text = "> " + text
+            stripped = text.strip()
+            # If the text was already made bold above, we don't need to double-bold it, 
+            # but usually it isn't. To be safe, we just wrap whatever text in the pink color.
+            # And we add bold if it wasn't already wrapped in **.
+            if stripped and not stripped.startswith("**"):
+                text = text.replace(stripped, f'<font color="#CF0048">**{stripped}**</font>')
+            elif stripped:
+                text = text.replace(stripped, f'<font color="#CF0048">{stripped}</font>')
 
         self._inline_buf += text
 
@@ -352,7 +359,7 @@ def apply_styles(text: str, style_ranges: list) -> str:
         end = min(offset + length, text_len)
         text = (
             text[:offset]
-            + f'<color style="{color_name}">'
+            + f'<color style="#b5093f">'
             + text[offset:end]
             + "</color>"
             + text[end:]
@@ -367,8 +374,7 @@ def apply_styles(text: str, style_ranges: list) -> str:
         if r.get("style", "") in _COLOR_STYLES:
             ofs = r.get("offset", 0)
             ln = r.get("length", 0)
-            color_name = r.get("style", "").lower()
-            open_tag_len = len(f'<color style="{color_name}">')
+            open_tag_len = len('<color style="#b5093f">')
             close_tag_len = len("</color>")
             _color_insertions.append((ofs, open_tag_len, ofs + ln, close_tag_len))
 
@@ -452,7 +458,7 @@ def process_embedded_images(markdown: str, language_id: str = "global") -> str:
         
         # Construct full URL for the image
         clean_path = image_path.lstrip("/")
-        base_url = ASSETS_BASE_URL.rstrip("/")
+        base_url = _get_assets_base_url().rstrip("/")
         
         # Add .png extension if missing
         if not clean_path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
@@ -482,6 +488,8 @@ def process_embedded_images(markdown: str, language_id: str = "global") -> str:
     try:
         return re.sub(pattern, replace_image, markdown)
     except Exception as e:
+        from error_logger import log_error
+        log_error("Captured Exception", exc=e)
         print(f"Error processing embedded images: {e}")
         return markdown
 
@@ -527,7 +535,7 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
             path_parts = [p for p in [asset_version, raw_src] if p]
             joined_path = "/".join(path_parts)
             
-            base_url = ASSETS_BASE_URL.rstrip("/")
+            base_url = _get_assets_base_url().rstrip("/")
             img_src = f"{base_url}/images/{joined_path}.png"
             file_path = f"media_storage/{extract_filename_from_path(img_src)}"
 
@@ -581,6 +589,8 @@ def save_markdown_file(path: str, parts: list, language_id: str = "global"):
             f.write(final)
         print(f"Saved Markdown: {path}")
     except Exception as e:
+        from error_logger import log_error
+        log_error("Captured Exception", exc=e)
         print(f"Failed to save Markdown: {e}")
 
 
@@ -754,25 +764,48 @@ def convert_action_card_to_markdown_files(
 
     # For translated: use translated_title if found, otherwise skip header
     # (the first header card will naturally be processed and included)
+    has_chapters_init = bool(chapters)
     versions: Dict[str, List[str]] = {
-        "original": [f"# {title}"],  # CRITICAL: Header first!
-        "adapted": [f"# {title}"],
-        "translated": [f"# {translated_title}"] if translated_title else [],  # Use translated or empty
+        "original": [f"# {title}"] if (title and not has_chapters_init) else [],
+        "adapted": [f"# {title}"] if (title and not has_chapters_init) else [],
+        "translated": ([f"# {translated_title}"] if (translated_title and not has_chapters_init) else []),
     }
 
     asset_version = region or ""
 
     for chapter in chapters:
-        chap_title = chapter.get("description")
-        if chap_title:
-            for v in versions.values():
-                v.append(f"## {chap_title}")
-        
         cards = chapter.get("cards", [])
         if not cards and ("content" in chapter or "adapted" in chapter or "translated" in chapter):
             cards = [chapter]
-            
-        for card in cards:
+
+        # ── Bug 2.1/2.2/2.3 fix: Extract chapter title from first header card
+        # per version (localised), use '# Chapter:' heading, and skip header
+        # card from the card loop to avoid rendering it twice. ──
+        cards_to_process = cards
+        if cards:
+            first_card = cards[0]
+            if first_card.get("type") == "header":
+                version_key_map = {
+                    "original": "content",
+                    "adapted": "adapted",
+                    "translated": "translated",
+                }
+                for v_name, vk in version_key_map.items():
+                    header_block = first_card.get(vk) or first_card.get("content")
+                    header_text = parse_rich_text_block(header_block) if isinstance(header_block, dict) else ""
+                    if not header_text:
+                        header_text = chapter.get("description", "")
+                    if header_text:
+                        versions[v_name].append(f"# Chapter: {header_text}")
+                cards_to_process = cards[1:]  # skip first header card
+            else:
+                # No header card — fall back to description (English) for all versions
+                chap_title = chapter.get("description")
+                if chap_title:
+                    for v in versions.values():
+                        v.append(f"# Chapter: {chap_title}")
+
+        for card in cards_to_process:
             # Process each version
             content_card = process_card(card, "content", asset_version)
             if content_card["md_text"]:
@@ -819,9 +852,16 @@ def convert_action_card_to_markdown_files(
         effective_title = title
         if version_name == "translated" and translated_title:
             effective_title = translated_title
-            
-        formatted_text = format_mobile_markdown(effective_title, final_text)
-        
+
+        # Bug 2.4 fix: Skip format_mobile_markdown for multi-chapter docs
+        # — they already have '# Chapter:' structure and wrapping would
+        # insert a redundant outer title header.
+        has_chapters = bool(chapters and len(chapters) > 0)
+        if has_chapters:
+            formatted_text = final_text
+        else:
+            formatted_text = format_mobile_markdown(effective_title, final_text)
+
         save_markdown_file(path, [formatted_text])
         out_paths[version_name] = path
 

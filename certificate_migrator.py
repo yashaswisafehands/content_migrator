@@ -72,6 +72,8 @@ class CertificateMigrator:
                         self.local_mapping_cache[cid] = lid
             print(f"  📂 Loaded {len(self.local_mapping_cache)} local certificate mappings.")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  ⚠️ Error loading local mapping: {e}")
 
     def _save_mapping(self, cosmos_id: str, lme_id: str, title: str):
@@ -90,6 +92,8 @@ class CertificateMigrator:
                     writer.writerow(["cosmos_id", "lme_id", "title"])
                 writer.writerow([cosmos_id, lme_id, title])
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  ⚠️ Error saving mapping: {e}")
 
     def _load_all_certificates(self):
@@ -122,6 +126,8 @@ class CertificateMigrator:
             else:
                 print(f"  ⚠️ Failed to fetch certificates: {resp.status_code}")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  ⚠️ Error fetching certificates: {e}")
         
     # =========================================================================
@@ -362,6 +368,8 @@ class CertificateMigrator:
 
             
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  ⚠️ Error searching for existing certificate: {e}")
             import traceback
             traceback.print_exc()
@@ -888,6 +896,8 @@ class CertificateMigrator:
                 return None
                 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  ❌ Request Error: {e}")
             print(f"     URL: {url}")
             print(f"     Title: {payload.get('title')}")
@@ -939,6 +949,9 @@ class CertificateMigrator:
         return None
 
     def _activate_version(self, version_id: str) -> bool:
+        if os.environ.get("MIGRATE_ENV") == "devcontent":
+            print(f"  → Skipping certificate activation for devcontent.")
+            return True
         """Activate the certificate version."""
         if not version_id:
             return False
@@ -960,6 +973,8 @@ class CertificateMigrator:
                 print(f"  ⚠️ Failed to activate version: {resp.status_code} {resp.text}")
                 return False
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  ⚠️ Error activating version: {e}")
             return False
 

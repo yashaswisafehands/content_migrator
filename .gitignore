@@ -1,7 +1,8 @@
 .DS_Store
-temp_data
+content_migrator/data/temp_data
 media_storage
 venv
 .venv
 __pycache__
 __pycache__/
+data/temp_data/

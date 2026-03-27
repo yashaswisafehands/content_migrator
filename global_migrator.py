@@ -39,21 +39,23 @@ class GlobalContentMigrator:
 
         # 2. Migrate Global Resources (Independent Scan)
         
-        # --- FIX: ACTION CARDS (Add the CamelCase check) ---
-        self._migrate_global_table("action-cards", "action-card")
-        self._migrate_global_table("actionCards", "action-card")  # <--- NEW LINE: Catch 'actionCards'
-        
-        # --- FIX: PROCEDURES (Add the CamelCase check) ---
-        self._migrate_global_table("procedures", "procedure")
-        self._migrate_global_table("practical-procedures", "procedure") # <--- NEW LINE: Catch 'practical-procedures'
-        self._migrate_global_table("practicalProcedures", "procedure")  # Added camelCase just in case
-        
-        # Drugs (Usually 'drugs' is consistent, but adding both doesn't hurt)
+        # Action cards — query both naming conventions in one Cosmos round-trip
+        self._migrate_global_table_multi(
+            ["action-cards", "actionCards"], "action-card"
+        )
+
+        # Procedures — query all three naming conventions in one round-trip
+        self._migrate_global_table_multi(
+            ["procedures", "practical-procedures", "practicalProcedures"], "procedure"
+        )
+
+        # Drugs — single consistent table name
         self._migrate_global_table("drugs", "drug")
-        
-        # KLPs (This was already working because it had both!)
-        self._migrate_global_table("key-learning-points", "key-learning-point")
-        self._migrate_global_table("keyLearningPoints", "key-learning-point")
+
+        # KLPs — query both naming conventions in one round-trip
+        self._migrate_global_table_multi(
+            ["key-learning-points", "keyLearningPoints"], "key-learning-point"
+        )
 
         # 3. Post-process: populate modules.csv resource columns using key→slug mapping
         self._populate_global_module_resources()
@@ -180,10 +182,14 @@ class GlobalContentMigrator:
                     self.module_migrator._migrate_single_module(mod)
                     migrated_count += 1
                 except Exception as e:
+                    from error_logger import log_error
+                    log_error("Captured Exception", exc=e)
                     print(f"Error migrating global module {mod.get('id')}: {e}")
                     
             print(f"Successfully queued {migrated_count}/{len(results)} global modules.")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error querying global modules from Cosmos: {e}")
 
     def _migrate_global_table(self, table_name: str, resource_tag: str) -> None:
@@ -197,6 +203,44 @@ class GlobalContentMigrator:
             try:
                 self._process_single_global_resource(doc, resource_tag, table_name)
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
+                print(f"Error migrating global {resource_tag} {doc.get('id')}: {e}")
+
+    def _migrate_global_table_multi(self, table_names: list, resource_tag: str) -> None:
+        """Query multiple table name variants in a single Cosmos IN query.
+
+        Prevents duplicate resources when the same logical resource type uses
+        different _table values (e.g. 'action-cards' vs 'actionCards').
+        Uses a document-level dedup on 'id' to guard against any Cosmos oddities.
+        """
+        names_csv = ", ".join(f"'{n}'" for n in table_names)
+        label = "/".join(table_names)
+        print(f"Scanning global {label}...")
+        query = (
+            f"SELECT * FROM c WHERE c._table IN ({names_csv}) "
+            "AND (NOT IS_DEFINED(c.langId) OR c.langId = '')"
+        )
+        raw_items = list(self.container.query_items(query=query, enable_cross_partition_query=True))
+
+        # Deduplicate by document id in case a document somehow matched multiple
+        seen_ids: set = set()
+        items = []
+        for doc in raw_items:
+            doc_id = doc.get("id")
+            if doc_id not in seen_ids:
+                seen_ids.add(doc_id)
+                items.append(doc)
+
+        print(f"Found {len(items)} global {label} (deduplicated from {len(raw_items)} raw results).")
+
+        for doc in items:
+            table_name = doc.get("_table", table_names[0])
+            try:
+                self._process_single_global_resource(doc, resource_tag, table_name)
+            except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"Error migrating global {resource_tag} {doc.get('id')}: {e}")
 
     def _process_single_global_resource(self, doc: Dict[str, Any], tag: str, table_name: str) -> None:

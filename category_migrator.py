@@ -83,6 +83,8 @@ class CategoryMigrator:
                     if slug and mid:
                         self.module_mapping[slug] = mid
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error loading module mapping: {e}")
 
     def _find_module_id(self, module_name: str) -> Optional[str]:
@@ -133,8 +135,7 @@ class CategoryMigrator:
             if category_id:
                 processed_category_ids.append(category_id)
 
-        if processed_category_ids:
-            self._link_categories_to_language(language_id, processed_category_ids)
+        print(f"Category migration complete. {len(processed_category_ids)} categories processed.")
 
     def _get_category_id_by_slug(self, slug: str) -> Optional[str]:
         url = f"{LME_BASE_URL}/categories/"
@@ -150,11 +151,17 @@ class CategoryMigrator:
                     if c.get("slug") == slug:
                         return c.get("id") or c.get("category_id")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  Error fetching category by slug '{slug}': {e}")
         return None
 
     def _activate_latest_version(self, category_data: dict) -> None:
         """Extract latest version from LME response and activate via universal endpoint."""
+        if os.environ.get("MIGRATE_ENV") == "devcontent":
+            print(f"  → Skipping activation for devcontent.")
+            return
+
         versions = category_data.get("versions", [])
         if not versions:
             # Fallback for older API versions that might not return 'versions' list
@@ -171,6 +178,8 @@ class CategoryMigrator:
                 resp.raise_for_status()
                 print(f"  ✓ Activated category version: {version_id} (Universal)")
             except Exception as e:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=e)
                 print(f"  ⚠️ Failed to activate category version {version_id}: {e}")
 
     def _create_category(self, title: str, slug: str, module_ids: List[str], icon: Optional[str]) -> Optional[str]:
@@ -209,6 +218,8 @@ class CategoryMigrator:
                 self._activate_latest_version(data)
             return cat_id
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"  Failed to create category: {e}")
             return None
 
@@ -221,6 +232,8 @@ class CategoryMigrator:
             if get_resp.ok:
                 current_modules = get_resp.json().get("modules", [])
         except Exception:
+            from error_logger import log_error
+            log_error("Captured Exception")
             pass
             
         # 2. Merge
@@ -238,15 +251,11 @@ class CategoryMigrator:
             self._activate_latest_version(resp.json())
                 
         except Exception as e:
-             print(f"  Failed to patch category: {e}")
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
+            print(f"  Failed to patch category: {e}")
 
-    def _link_categories_to_language(self, language_id: str, category_ids: List[str]):
-        url = f"{LME_BASE_URL}/languages/{language_id}/link/categories"
-        try:
-            requests.patch(url, json=category_ids, headers=self._headers(), timeout=15).raise_for_status()
-            print(f"Successfully linked {len(category_ids)} categories to language {language_id}")
-        except Exception as e:
-            print(f"Error linking categories: {e}")
+
 
     def _headers(self) -> Dict[str, str]:
         check = {}

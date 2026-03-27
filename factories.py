@@ -7,7 +7,7 @@ import uuid
 
 import requests
 
-from configs import ASSETS_BASE_URL, POST_ASSET, JWT_TOKEN
+from configs import _get_assets_base_url, POST_ASSET, JWT_TOKEN
 from text_utils import clean_and_resolve_title, clean_metadata_text, format_mobile_markdown
 from data_models import LanguageData, ModuleData, ResourcePostRequestData
 from md_converter_new import convert_action_card_to_markdown_files
@@ -30,6 +30,7 @@ class DataFactory:
     # Asset caching to avoid duplicate uploads
     _asset_cache: Dict[str, Tuple[Optional[str], str]] = {}
     _asset_mapping_path = get_mappings_file("asset_mapping.csv")
+    _mapping_loaded: bool = False
 
     @classmethod
     def _load_asset_mapping(cls) -> None:
@@ -53,6 +54,8 @@ class DataFactory:
                         cls._asset_cache[asset_url] = (asset_id, asset_type)
             print(f"Loaded {len(cls._asset_cache)} asset mappings from file")
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Warning: Could not load asset mapping file: {e}")
 
     @classmethod
@@ -204,9 +207,12 @@ class DataFactory:
                 for row in reader:
                     cid = row.get("cosmos_id")
                     if cid == language_id:
-                        # Grab prefixes if available
-                        img = row.get("image_prefix")
-                        vid = row.get("video_prefix")
+                        # Grab prefixes if available, falling back to 'region' column
+                        img = (row.get("image_prefix") or "").strip()
+                        if not img:
+                            img = (row.get("region") or "").strip()
+                            
+                        vid = (row.get("video_prefix") or "").strip()
 
                         if img:
                             image_prefix = img
@@ -220,6 +226,8 @@ class DataFactory:
                         cls._media_config_cache[language_id] = result
                         return result
         except Exception:
+            from error_logger import log_error
+            log_error("Captured Exception")
             pass
 
         # 2. Try language_mapping.csv (fallback, likely only region)
@@ -238,6 +246,8 @@ class DataFactory:
                         cls._media_config_cache[language_id] = result
                         return result
         except Exception:
+            from error_logger import log_error
+            log_error("Captured Exception")
             pass
 
         result = (image_prefix, video_prefix)
@@ -283,6 +293,11 @@ class DataFactory:
         """Check cache, download if needed, upload, and update cache."""
         # Use source_url as key if available, else local_path
         asset_key = source_url if source_url else local_path
+
+        # Load persistent asset mapping on first use
+        if not cls._mapping_loaded:
+            cls._load_asset_mapping()
+            cls._mapping_loaded = True
 
         # Check in-memory cache
         if asset_key in cls._asset_cache:
@@ -342,6 +357,8 @@ class DataFactory:
                 response.raise_for_status()
                 response_json = response.json()
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Upload failed for {local_path}: {e}")
             return None
 
@@ -351,7 +368,24 @@ class DataFactory:
             # Factories expects tuple (id, type)
             # We can infer type from media_type or just store generic
             cls._asset_cache[asset_key] = (new_asset_id, media_type)
-            # cls._save_asset_mapping() # Optional persistence
+            
+            # Append to persistent mapping file
+            ensure_parent_dir(cls._asset_mapping_path)
+            need_header = (
+                not cls._asset_mapping_path.exists()
+                or cls._asset_mapping_path.stat().st_size == 0
+            )
+            try:
+                with cls._asset_mapping_path.open(
+                    "a", newline="", encoding="utf-8"
+                ) as f:
+                    writer = csv.writer(f)
+                    if need_header:
+                        writer.writerow(["asset_url", "asset_id", "asset_type"])
+                    writer.writerow([asset_key, new_asset_id, media_type])
+            except Exception as e:
+                print(f"Warning: Could not save to asset_mapping file: {e}")
+                
             print(f"CACHED: Saved new asset_id '{new_asset_id}' for path '{asset_key}'")
             return response_json
         
@@ -376,6 +410,9 @@ class DataFactory:
         cls, asset_path: str, language_id: str = "global", asset_type: str = "icon", use_prefix: bool = True
     ) -> str:
         """Construct the full authenticated URL for an asset matching utility behavior."""
+        if asset_path and (asset_path.lower().startswith("http://") or asset_path.lower().startswith("https://")):
+            return asset_path
+
         from urllib.parse import quote
         
         if not language_id:
@@ -418,7 +455,7 @@ class DataFactory:
         if asset_type == "video":
             if not use_prefix:
                 path_no_ext = os.path.splitext(clean_path)[0]
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
                 return f"{base_url}/videos/{safe_path}.mp4"
             else:
@@ -429,15 +466,14 @@ class DataFactory:
                 path_enc = "/".join(quote(p) for p in path_no_ext.split("/"))
                 parts = [p for p in [prefix_enc, path_enc] if p]
                 middle = "/".join(parts)
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 return f"{base_url}/videos/{middle}.mp4"
 
         elif asset_type == "video_icon":
             if not use_prefix:
                 path_no_ext = os.path.splitext(clean_path)[0]
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 safe_path = "/".join(quote(s) for s in path_no_ext.split("/"))
-                print(f"Video icon URL: {safe_path}")
                 return f"{base_url}/videos/{safe_path}.png"
             else:
                 prefix = video_prefix or ""
@@ -447,8 +483,7 @@ class DataFactory:
                 path_enc = "/".join(quote(p) for p in path_no_ext.split("/"))
                 parts = [p for p in [prefix_enc, path_enc] if p]
                 middle = "/".join(parts)
-                print(f"Video icon URL: {middle}")
-                base_url = ASSETS_BASE_URL.rstrip("/")
+                base_url = _get_assets_base_url().rstrip("/")
                 return f"{base_url}/videos/{middle}.png"
 
         else:
@@ -460,7 +495,7 @@ class DataFactory:
             path_enc = "/".join(quote(p) for p in path_no_ext.split("/"))
             parts = [p for p in [prefix_enc, path_enc] if p]
             middle = "/".join(parts)
-            base_url = ASSETS_BASE_URL.rstrip("/")
+            base_url = _get_assets_base_url().rstrip("/")
             return f"{base_url}/images/{middle}.png"
 
     @classmethod
@@ -503,6 +538,8 @@ class DataFactory:
             return temp_path
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error downloading {asset_type} asset {asset_url}: {e}")
             return None
 
@@ -539,6 +576,8 @@ class DataFactory:
             return asset_id
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error uploading markdown as asset {filename}: {e}")
             return None
         finally:
@@ -547,6 +586,8 @@ class DataFactory:
                 if temp_path.exists():
                     temp_path.unlink()
             except Exception as cleanup_error:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=cleanup_error)
                 print(f"Cleanup failed for {temp_path}: {cleanup_error}")
 
     @classmethod
@@ -605,6 +646,8 @@ class DataFactory:
             return asset_id
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error uploading asset {file_path}: {e}")
             return None
 
@@ -617,7 +660,7 @@ class DataFactory:
             return None
 
         # Load persistent asset mapping on first use
-        if not hasattr(cls, "_mapping_loaded"):
+        if not cls._mapping_loaded:
             cls._load_asset_mapping()
             cls._mapping_loaded = True
 
@@ -696,12 +739,16 @@ class DataFactory:
                 return None
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error processing asset {asset_path}: {e}")
             # Clean up temp file on error
             try:
                 if temp_path and os.path.exists(temp_path):
                     os.remove(temp_path)
             except Exception as cleanup_error:
+                from error_logger import log_error
+                log_error("Captured Exception", exc=cleanup_error)
                 print(f"Cleanup failed for {temp_path}: {cleanup_error}")
             cls._asset_cache[asset_url] = (None, asset_type)
             return None
@@ -758,33 +805,45 @@ class DataFactory:
         )
 
     @classmethod
-    def _extract_questions_for_klp(cls, cosmos_doc: Dict, language_id: str) -> List[Dict]:
+    def _extract_questions_for_klp(
+        cls, cosmos_doc: Dict, language_id: str, version_preference: Optional[str] = None
+    ) -> List[Dict]:
         """Extract questions from KLP document and map to LME payload structure.
         
-        Prioritizes embedded translations (translated > adapted > content).
+        Prioritizes version_preference if specified, otherwise embedded translations (translated > adapted > content).
         """
         questions_payload = []
         raw_questions = cosmos_doc.get("questions", [])
 
         for idx, q in enumerate(raw_questions):
             # 1. Resolve Question Text
-            # Priority: question.translated -> question.adapted -> question.content
+            # Priority: version_preference -> translated -> adapted -> content
             q_obj = q.get("question", {})
             
-            q_content = (
-                q.get("translated", {}).get("content") or
-                q.get("question", {}).get("translated") or
-                q.get("adapted", {}).get("content") or
-                q.get("question", {}).get("content") or 
-                ""
-            )
+            q_content = ""
+            if version_preference:
+                 q_content = q.get(version_preference, {}).get("content") or q.get("question", {}).get(version_preference) or ""
+            
+            if not q_content:
+                 q_content = (
+                     q.get("translated", {}).get("content") or
+                     q.get("question", {}).get("translated") or
+                     q.get("adapted", {}).get("content") or
+                     q.get("question", {}).get("content") or 
+                     ""
+                 )
 
             # 2. Resolve Description
-            q_desc = (
-                 q.get("description", {}).get("translated") or
-                 q.get("description", {}).get("content") or
-                 ""
-            )
+            q_desc = ""
+            if version_preference:
+                 q_desc = q.get("description", {}).get(version_preference) or ""
+            
+            if not q_desc:
+                 q_desc = (
+                      q.get("description", {}).get("translated") or
+                      q.get("description", {}).get("content") or
+                      ""
+                 )
             
             icon_path = q.get("image") or q.get("icon")
             icon_asset_id = None
@@ -799,15 +858,20 @@ class DataFactory:
             raw_answers = q.get("answers", [])
             for a_idx, ans in enumerate(raw_answers):
                 # 3. Resolve Answer Value
-                # Priority: value.translated -> value.adapted -> value.content
+                # Priority: value.<version_preference> -> value.translated -> value.adapted -> value.content
                 val_obj = ans.get("value", {})
                 
-                val_str = (
-                    val_obj.get("translated") or 
-                    val_obj.get("adapted") or 
-                    val_obj.get("content") or
-                    (str(val_obj) if not isinstance(val_obj, dict) else "")
-                )
+                val_str = ""
+                if version_preference:
+                     val_str = val_obj.get(version_preference) or ""
+                
+                if not val_str:
+                     val_str = (
+                         val_obj.get("translated") or 
+                         val_obj.get("adapted") or 
+                         val_obj.get("content") or
+                         (str(val_obj) if not isinstance(val_obj, dict) else "")
+                     )
 
                 if not val_str.strip():
                     continue
@@ -845,7 +909,8 @@ class DataFactory:
         cls, cosmos_doc: Dict, table_type: str, language_id: str = "",
         global_doc: Optional[Dict] = None,
         module_icon_asset_id: Optional[str] = None,  # NEW: Accept module icon
-        translated_title: Optional[str] = None       # NEW: Accept translated title override
+        translated_title: Optional[str] = None,      # NEW: Accept translated title override
+        force_version_type: Optional[str] = None     # NEW: Explicitly force 'adapted' or 'translated'
     ) -> ResourcePostRequestData:
         """Create ResourcePostRequestData from Cosmos DB resource document.
         
@@ -876,7 +941,7 @@ class DataFactory:
         # Extract derived_from_id (source LME ID for adaptations)
         derived_from_id = cosmos_doc.get("derived_from_id") or cosmos_doc.get("derivedFromId")
 
-        # Determine content type based on table type
+        # Determine tag based on table type
         content_type_mapping = {
             "videos": "video",
             "actionCards": "action-card",
@@ -885,7 +950,7 @@ class DataFactory:
             "key-learning-points": "key-learning-point",
             "keyLearningPoints": "key-learning-point",
         }
-        content_type = content_type_mapping.get(table_type, "unknown")
+        tag_name = content_type_mapping.get(table_type, "unknown")
 
         # Get language_id and region from language mapping if available
         # CRITICAL FIX: If caller explicitly passes language_id="" (global content),
@@ -926,11 +991,15 @@ class DataFactory:
                 cls._download_and_upload_icon(icon_path, language_id) if icon_path else None
             )
 
+        resolved_content_type = "translated" if language_id else "original"
+
         # For text-based resources (drugs/procedures/KLPs), handle accordingly
         questions = None
         
         if table_type in ("key-learning-points", "keyLearningPoints"):
-            questions = cls._extract_questions_for_klp(cosmos_doc, language_id)
+            questions = cls._extract_questions_for_klp(
+                cosmos_doc, language_id, version_preference=force_version_type
+            )
             content = None  # Ensure content is None for KLP
             
         elif table_type in ("drugs", "procedures"):
@@ -976,6 +1045,16 @@ class DataFactory:
             if not cards and ("content" in cosmos_doc or "translated" in cosmos_doc or "adapted" in cosmos_doc):
                 cards = [cosmos_doc]
 
+            if force_version_type in ("translated", "adapted"):
+                resolved_content_type = force_version_type
+            elif language_id:
+                has_translated = any(c.get("translated") and isinstance(c.get("translated"), dict) and c["translated"].get("blocks") for c in cards)
+                has_adapted = any(c.get("adapted") and isinstance(c.get("adapted"), dict) and c["adapted"].get("blocks") for c in cards)
+                if has_translated:
+                    resolved_content_type = "translated"
+                elif has_adapted:
+                    resolved_content_type = "adapted"
+
             for card in cards:
                 # Determine which version to process
                 # If we're targeting a localized doc (e.g. drugs table with langId), the content is usually in 'translated' block
@@ -989,8 +1068,16 @@ class DataFactory:
                 # But safer is to check allowed_versions from caller
                 
                 version_key = "content"
-                # Heuristic: if doc has language_id, prefer translated
-                if language_id and card.get("translated") and card["translated"].get("blocks"):
+                if force_version_type in ("translated", "adapted"):
+                     if card.get(force_version_type) and card[force_version_type].get("blocks"):
+                          version_key = force_version_type
+                     # Fallback gracefully if forced version doesn't exist
+                     elif force_version_type == "translated" and card.get("adapted") and card["adapted"].get("blocks"):
+                          version_key = "adapted"
+                     elif force_version_type == "adapted" and card.get("translated") and card["translated"].get("blocks"):
+                          version_key = "translated"
+                # Heuristic fallback: if doc has language_id, prefer translated
+                elif language_id and card.get("translated") and card["translated"].get("blocks"):
                      version_key = "translated"
                 elif language_id and card.get("adapted") and card["adapted"].get("blocks"):
                      version_key = "adapted"
@@ -1010,8 +1097,8 @@ class DataFactory:
             # DISTINCT ASSET FILENAME LOGIC
             safe_base = slugify(title_candidate) or table_type
             asset_filename = f"{table_type}-{safe_base}"
-            if content_type != "original":
-                asset_filename += f"-{content_type}"
+            if resolved_content_type != "original":
+                asset_filename += f"-{resolved_content_type}"
             
             asset_id = cls._upload_markdown_as_asset(text_content, asset_filename)
             
@@ -1027,7 +1114,7 @@ class DataFactory:
             content=content,
             language_id=language_id,
             region=region,
-            content_type=content_type,
+            content_type=resolved_content_type,
             created_by=cosmos_doc.get("LastUpdatedBy", "System"),
             questions=questions,
             derived_from_id=derived_from_id,
@@ -1087,6 +1174,8 @@ class DataFactory:
                 return None
 
         except Exception as e:
+            from error_logger import log_error
+            log_error("Captured Exception", exc=e)
             print(f"Error fetching action-card with key '{action_card_key}': {e}")
             return None
 
