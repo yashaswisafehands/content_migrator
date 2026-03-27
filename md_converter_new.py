@@ -359,7 +359,7 @@ def apply_styles(text: str, style_ranges: list) -> str:
         end = min(offset + length, text_len)
         text = (
             text[:offset]
-            + f'<color style="{color_name}">'
+            + f'<color style="#b5093f">'
             + text[offset:end]
             + "</color>"
             + text[end:]
@@ -374,8 +374,7 @@ def apply_styles(text: str, style_ranges: list) -> str:
         if r.get("style", "") in _COLOR_STYLES:
             ofs = r.get("offset", 0)
             ln = r.get("length", 0)
-            color_name = r.get("style", "").lower()
-            open_tag_len = len(f'<color style="{color_name}">')
+            open_tag_len = len('<color style="#b5093f">')
             close_tag_len = len("</color>")
             _color_insertions.append((ofs, open_tag_len, ofs + ln, close_tag_len))
 
