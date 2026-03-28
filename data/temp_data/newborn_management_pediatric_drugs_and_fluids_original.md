@@ -4,7 +4,7 @@
 
 Drug dose of common drugs for newborns below one month of age. See drug list for indications and side effects.
 
-<color style="blue">**Ampicillin**</color>
+<color style="#b5093f">**Ampicillin**</color>
 
 Age: Under 7 days
 
@@ -18,7 +18,7 @@ Administration: IM/IV
 
 Dose: **50 mg/kg/dose x 3**
 
-<color style="blue">**Amoxicillin**</color>
+<color style="#b5093f">**Amoxicillin**</color>
 
 Age: 0-28 days
 
@@ -26,7 +26,7 @@ Administration: Orally
 
 Dose: **40 mg/kg/dose x 2**
 
-<color style="blue">**Caffeine citrate**</color>
+<color style="#b5093f">**Caffeine citrate**</color>
 
 **Loading dose**
 
@@ -42,7 +42,7 @@ Dose: **5 mg/kg**
 
 Maintenance dose can be increased by **5 mg/kg** every 24 hours to a maximum of **20 mg/kg/day**, unless side-effects develop. Continue 4-5 days after cessation of apnoea.
 
-<color style="blue">**Cefotaxime**</color>
+<color style="#b5093f">**Cefotaxime**</color>
 
 Weight: below 2.5 kg
 
@@ -60,7 +60,7 @@ Administration: IV
 
 Dose: **50 mg/kg/dose x 4**
 
-<color style="blue">**Ceftriaxone**</color>
+<color style="#b5093f">**Ceftriaxone**</color>
 
 Administration: IM/IV
 
@@ -70,7 +70,7 @@ OR
 
 **100 mg/kg/dose x 1**(both IM and IV)
 
-<color style="blue">**Cloxacillin**</color>
+<color style="#b5093f">**Cloxacillin**</color>
 
 Age: under 7 days
 
@@ -84,7 +84,7 @@ Administration: IM/IV
 
 Dose: **25-50 mg/kg/dose x 3**
 
-<color style="blue">**Gentamicin**</color>
+<color style="#b5093f">**Gentamicin**</color>
 
 Age: Under 7 days
 
@@ -106,7 +106,7 @@ Age: Above 7 days
 
 Dose: **7.5 mg/kg/dose x 1**
 
-<color style="blue">**Penicillin**</color>
+<color style="#b5093f">**Penicillin**</color>
 
 Administration: IV
 
@@ -118,7 +118,7 @@ Administration: IV
 
 Dose: **50.000 IU/kg/dose x 4**
 
-<color style="blue">**Phenobarbital**</color>
+<color style="#b5093f">**Phenobarbital**</color>
 
 **Loading Dose**
 
@@ -154,7 +154,7 @@ The reference weight is the birthweight until the birth weight is exceeded.
 
 Total daily fluid requirements in ml/kg/day (accumulated oral, nasogastric tube, IV)
 
-![Image](7cb79927df81441d9f5df2fbe777390b)
+![Image](e1f1297790da4f7191dafe90322cbdf4)
 
 If very low birth weight or not able to tolerate oral feeds give IV **10% glucose solution**.
 

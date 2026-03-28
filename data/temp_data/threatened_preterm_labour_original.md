@@ -10,7 +10,7 @@ Antenatal Corticosteroid Therapy (ACT) is recommended for women with a high like
 - Able to recognise and safely manage preterm labour and birth. 
 - Preterm newborn can receive adequate care including resuscitation, kangaroo mother care, thermal care, feeding support, infection treatment and respiratory support including continuous positive airway pressure as needed.
 
-![Image](c0fb3869bd734691a1f1b29131aeb841)
+![Image](5807e4e8609f4af5a1913c4c299ed0b8)
 
 Women with preterm membrane rupture without preterm labour, spontaneous preterm labour with intact membranes, or planned preterm birth by induction or caesarean section are given ACT to reduce neonatal death, respiratory distress syndrome and systemic infections in preterm newborns by maturing their lungs.
 
@@ -31,7 +31,7 @@ For women with preterm prelabour rupture of membranes (PPROM) and no clinical si
 
 ### Tocolytics
 
-![Image](e22775531a1e43e697b669b4db41089a)
+![Image](c480698232df4adb8ba979a9470fabe2)
 
 Nifedipine is recommended for acute and maintenance tocolytic therapy for women with a high likelihood of preterm birth to improve newborn outcomes, **but only if**:
 

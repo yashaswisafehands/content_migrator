@@ -18,7 +18,7 @@ Below 15 points means any kind of affected cerebral condition.
 
 1 point: No response
 
-![Image](24f7f94dd8e147ee925382721a9c8902)
+![Image](1d48d41693044f559daf3d46d508e4cb)
 
 ### Verbal response
 
@@ -32,7 +32,7 @@ Below 15 points means any kind of affected cerebral condition.
 
 1 point: No response
 
-![Image](d89192e346a64d318f5f669e535aed53)
+![Image](bb154c00bb624b0d81789edee0c1098f)
 
 ### Motor response
 
@@ -48,9 +48,9 @@ Below 15 points means any kind of affected cerebral condition.
 
 1 point: No response
 
-![Image](9c26c6cfb81d4075b4d997555f4930a6)
+![Image](4c72c89060984a63845aa0e5b101bcb5)
 
-<color style="blue">Put the numbers in every category together:</color>
+<color style="#b5093f">Put the numbers in every category together:</color>
 
 If the total amount of points is below 15 it counts as one of the two mandatory parameters in the diagnosis of a sepsis.
 

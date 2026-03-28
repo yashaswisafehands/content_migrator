@@ -12,15 +12,15 @@ Each dose: Tetanus toxoid-containing vaccine 0.5 ml IM
 
 **Not been immunized previously or immunization status is unknown**
 
-<color style="blue">**TTCV 1**</color> - At first contact or as early in pregnancy as possible 
+<color style="#b5093f">**TTCV 1**</color> - At first contact or as early in pregnancy as possible 
 
-<color style="blue">**TTCV 2</color>**- At least 4 weeks after TTCV1 (at the latest 2 weeks prior to birth) 
+<color style="#b5093f">**TTCV 2</color>**- At least 4 weeks after TTCV1 (at the latest 2 weeks prior to birth) 
 
-<color style="blue">**TTCV 3**</color> - At least 6 months after TTCV2, or during a subsequent pregnancy 
+<color style="#b5093f">**TTCV 3**</color> - At least 6 months after TTCV2, or during a subsequent pregnancy 
 
-<color style="blue">**TTCV 4**</color> - At least 1 year after TTCV3, or during a subsequent pregnancy 
+<color style="#b5093f">**TTCV 4**</color> - At least 1 year after TTCV3, or during a subsequent pregnancy 
 
-<color style="blue">**TTCV 5** </color>- At least 1 year after TTCV4, or during a subsequent pregnancy 
+<color style="#b5093f">**TTCV 5** </color>- At least 1 year after TTCV4, or during a subsequent pregnancy 
 
 Women previously immunized with e.g. 1-4 TTCV doses: 1 dose of TTCV in subsequent pregnancies to maintain protection.
 

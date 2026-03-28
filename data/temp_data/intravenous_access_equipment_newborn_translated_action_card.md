@@ -22,7 +22,7 @@ Equipment for intravenous access should be available in the delivery room, and a
 
 When inserting an intravenous cannula in the neonate, locate a suitable vein to insert a 21 or 23 gauge cannula or butterfly needle.
 
-![Image](2a43d977a87f4ad4b0fc59042c22ebb8)
+![Image](09aa31392e994f09a7c0979ff73a0547)
 
 ## Peripheral vein:
 
@@ -30,7 +30,7 @@ When inserting an intravenous cannula in the neonate, locate a suitable vein to 
 - An assistant should hold the limb steady and act as a tourniquet by obstructing the venous return with their fingers lightly closed around the limb. Alternatively, use a tourniquet above the insertion site.
 - Clean the surrounding skin with an antiseptic solution (such as spirit, iodine, isopropyl alcohol or 70 % alcohol solution), then insert and advance the cannula into the vein. Fix the cannula securely with tape. Apply a splint, ensuring the limb is in an appropriate position (e.g. elbow extended, wrist slightly flexed).
 
-![Image](20ecc4db62fe4e688f6fa4c8aa04c7bf)
+![Image](d1c718ad4f714fa78806c9886341846e)
 
 ## Scalp vein:
 

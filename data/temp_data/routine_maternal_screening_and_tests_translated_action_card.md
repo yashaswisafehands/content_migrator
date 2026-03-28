@@ -4,7 +4,7 @@
 
 Anaemia is blood haemoglobin (Hb) concentration below 110g/L in the first trimester and below 105g/L in the second trimester which increases the risk of obstetric complications. Look for palmar and conjunctival pallor.
 
-![Image](223156b32baf475f83c140e56a9b8631)
+![Image](4dbe7ed6bdb14417bd17948c5dacbf44)
 
 **Diagnostic methods** (from most to least accurate)
 
@@ -40,7 +40,7 @@ Presence of bacteria in a properly collected urine specimen with no signs or sym
 - Gram stain test
 - Urine dipstick tests
 
-![Image](be8c0cda18064eb5823842fdd740c2e0)
+![Image](d5f0086c13b443ad9dd0ab13ef9d295b)
 
 **Suggested gestations for screening:**
 Week <12, 26 and 34
@@ -61,7 +61,7 @@ Gestational Diabetes Mellitus (GDM) is hyperglycaemia first detected in pregnanc
 
 Women with diabetes in pregnancy have more severe hyperglycaemia which does not resolve after pregnancy as it does with GDM.
 
-![Image](355a8497c5094cd9bbeb0547911ece07)
+![Image](ccf836cc9b854fab9d5f5a43f1b1caeb)
 
 **Diagnostic methods**
 
@@ -82,13 +82,13 @@ Follow your local screening strategy. Some settings determine the need for oral 
 
 ### HIV and syphilis
 
-![Image](92e7f1969f524f2a90ac983c34d0f86e)
+![Image](16707e0fa20945448e6e9cbbd67622a7)
 
 Where relevant, provider-initiated testing and counselling (PITC) for HIV should be considered a routine part of antenatal care to eliminate mother-to-child HIV transmission. ART should be initiated in all pregnant women diagnosed with HIV at any CD4 count and continued for her lifetime.
 
 Integrate HIV testing with syphilis, viral hepatitis or other key tests relevant to your setting. Counsel on safer sex.
 
-![Image](1f5e7932892d4ebead0c8c564459128b)
+![Image](0ce466db6a4e477bae395e22f032ef7f)
 
 If HIV or Syphilis positive, refer for specialised care.
 
@@ -100,6 +100,6 @@ If HIV or Syphilis positive, refer for specialised care.
 
 In settings where tuberculosis (TB) prevalence in the general population is 1 in 1000 or higher, systematic screening for active TB should be considered for pregnant women as part of antenatal care.
 
-![Image](f771269bbfde47a699753a1a8c9f5b8a)
+![Image](9c51c096efd748b1a4f787f6ef851643)
 
 ---

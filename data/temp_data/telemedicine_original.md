@@ -8,6 +8,6 @@ The interaction may take place in real time (e.g., by telephone or video link) o
 
 Telemedicine can allow health workers to assess eligibility for a medical abortion, provide counselling and/or directions related to the abortion process and drug administrations, and carry out follow-up post-abortion care.
 
-![Image](7884a834e345488babf1527f1331f33f)
+![Image](4d87ae0a24be4d7b8ced79b6d84e6397)
 
 ---

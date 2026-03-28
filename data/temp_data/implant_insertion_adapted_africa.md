@@ -40,7 +40,7 @@ Implants can also be provided immediately after birth, miscarriage, or abortion 
 11. Apply pressure with gauze and wrap with a bandage. Stitches are not needed.
 12. Advise the woman to keep the incision area dry for 4 days.
 
-![Image](4510bdecbfa34b1082e00c6bb9e30c6b)
+![Image](5739c435ed3243f59f35e7c6b5b85e04)
 
 ## Documentation
 

@@ -1,6 +1,6 @@
 ## Indication and Usage
 
-**Recommended:**<color style="blue"> </color>
+**Recommended:**<color style="#b5093f"> </color>
 
 For pregnant women living in endemic areas (areas where the prevalence of hookworm and/or whipworm infection is 20% or more).
 

@@ -81,7 +81,7 @@ Share your experiences with other birth attendants so you can learn from one ano
 
 # Case 1
 
-![Image](d886f67ea91541218f3dd582a12863c1)
+![Image](efcb44a72e2e41bb95d1a7108bc67c7b)
 
 - Dry thoroughly
 
@@ -103,7 +103,7 @@ Share your experiences with other birth attendants so you can learn from one ano
 
 # Case 2
 
-![Image](956f3a94573e498aae8c9b7d7bab32ab)
+![Image](1e374de251c1456bbae77e949e328718)
 
 - Dry thoroughly
 
@@ -126,7 +126,7 @@ Share your experiences with other birth attendants so you can learn from one ano
 
 # Case 3
 
-![Image](c4643544ce5d45dbb82469bf7c342963)
+![Image](061bd5852979441e93917bc73957b4fd)
 
 - Dry thoroughly
 
@@ -153,7 +153,7 @@ Share your experiences with other birth attendants so you can learn from one ano
 
 # Case 4
 
-![Image](c59ed319ee544ec1af743627c75ad56c)
+![Image](46c503946f7e4973b97e3355e9872e8e)
 
 - Dry thoroughly
 
@@ -185,7 +185,7 @@ Share your experiences with other birth attendants so you can learn from one ano
 
 # Case 5
 
-![Image](f1e62728bffe47888de4dd737fcc2d17)
+![Image](dc8642aac59a4dde999bf164584310c8)
 
 - Dry thoroughly
 
@@ -223,7 +223,7 @@ Share your experiences with other birth attendants so you can learn from one ano
 
 # Case 6
 
-![Image](c55c827351d045d5a2e095620f302afd)
+![Image](d1d005fc3c9b48d6be3568c86c1e74ff)
 
 - Dry thoroughly
 

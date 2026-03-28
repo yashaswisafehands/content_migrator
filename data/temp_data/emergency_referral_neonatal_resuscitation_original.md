@@ -44,7 +44,7 @@ Referral note.
 
 ### During Transport
 
-![Image](e18bf99b9b1d4c1f9b58327e9cff054b)
+![Image](c9cc0b48ecfe4a51ac8c94e1435c2247)
 
 Continue ventilation and stimulating the newborn.
 

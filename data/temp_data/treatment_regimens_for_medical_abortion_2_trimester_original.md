@@ -5,7 +5,7 @@
 - **First:**Mifepristone 200 mg orally, single dose 1-2 days before misoprostol administration. 
 - **Second:**Misoprostol 400 mcg sublingually every 3 hours.
 
-![Image](cc01a61bdd11431f9a0162282be9d319)
+![Image](905b99e5334546f68aa18c0f1b62749c)
 
 ## Misoprostol only:
 
@@ -13,6 +13,6 @@
 
 The dose of misoprostol should be reduced in the 2nd trimester due to the greater uterine sensitivity to prostaglandins.
 
-![Image](1599a715b600467f83e00c0a3c79c5be)
+![Image](4280abc2a3c44d8d8928ddb67e98801a)
 
 ---

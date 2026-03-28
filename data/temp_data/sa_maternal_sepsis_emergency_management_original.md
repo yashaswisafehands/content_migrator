@@ -6,7 +6,7 @@ Call a **CAB**
 
 Insert 2 wide bore IV cannulas.
 
-Give at least 2L fluids IV,<color style="blue">**</color>normal sa**li**ne or Ringer’s lactate<**color style="blue"> </color>in the first hour.
+Give at least 2L fluids IV,<color style="#b5093f">**</color>normal sa**li**ne or Ringer’s lactate<**color style="#b5093f"> </color>in the first hour.
 
 Insert indwelling urine catheter to monitor in- and output.
 

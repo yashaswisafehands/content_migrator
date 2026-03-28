@@ -12,7 +12,7 @@ A helper positioned by the arms should:
 
 **Caution:** Excessive IV fluid administration can cause pulmonary oedema in women with preeclampsia.
 
-<color style="blue">**Administer drugs:**</color>
+<color style="#b5093f">**Administer drugs:**</color>
 
 Initial treatment with drugs:
 

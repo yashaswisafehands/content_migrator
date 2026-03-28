@@ -21,6 +21,6 @@ Gently insert two fingers into vagina to check:
 
 Remove your gloves, wash your hands and note down your findings.
 
-![Image](c886733b66214929968015a5774d2394)
+![Image](7a780639ef61444d8dd72b9a291cc5f0)
 
 ---

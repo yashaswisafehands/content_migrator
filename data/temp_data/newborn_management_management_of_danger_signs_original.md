@@ -23,7 +23,7 @@ If signs of shock give **normal saline 10 ml/kg**IV.
 If the newborn is drowsy, unconscious or convulsing:
 
 1. Measure blood glucose. If you cannot measure, assume low blood sugar and treat.
-2. If blood glucose is below 2.2 mmol/L, give **glucose 10% 2 ml/kg** IV<color style="blue">.</color>
+2. If blood glucose is below 2.2 mmol/L, give **glucose 10% 2 ml/kg** IV<color style="#b5093f">.</color>
 3. Alternatively give expressed breast milk 10 ml/kg by nasogastric tube.
 4. If convulsions last longer than 3 minutes or are brief serial seizures, give **phenobarbital 20 mg/kg** IM/IV. Consider antibiotics for meningitis.
 

@@ -26,7 +26,7 @@ The general steps to be taken before referring the woman to an FRU, are as follo
 
 ## During Transport
 
-![Image](ea14ee24dfbe42d88955d554842d2cfc)
+![Image](53112c4797ef4bdd8a22f99feb648cdf)
 
 - Observe vital signs, bleeding and level of consciousness.
 - In case of excessive vaginal bleeding apply aortic compression.

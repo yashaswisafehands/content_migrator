@@ -25,35 +25,35 @@ WHO-recommended handrub formulations.
 
 ## Materials required
 
-![Image](105dcedac8194b3eaa738fb57e2c03b0)
+![Image](2b20bff2a0ab4593ac5f59acaafd43be)
 
 - 10-litre glass or plastic bottles with screw-threaded stoppers, **OR**
 
-![Image](13fc71528f8a49fbba056e74ff9f1f34)
+![Image](3379a842c2b64ce3b864b5b2cd192fdb)
 
 - 50-litre plastic tanks (preferably in polypropylene or high-density polyethylene, translucent to see the liquid level), **OR**
 
-![Image](45f5846d26894d368d27cb0749563db9)
+![Image](ec93b2ba49744fbd847cb854946fb029)
 
 - Stainless steel tanks with a capacity of 80-100 litres (for mixing without overflowing)
 
-![Image](0148641bba0348159cc09ae8de668a85)
+![Image](e7b4c691896244159701a2a5acbf53a2)
 
 - Wooden, plastic or metal paddles for mixing
 
-![Image](a037c7db9ee64036a9cce3724dfa2f6c)
+![Image](76136dd9bc6a455db194c6c0e0283f53)
 
-![Image](2593a052f4d444e5b3fa885189d8d774)
+![Image](0eca003bb5dd442bbe064eb2a77e0023)
 
 - Measuring cylinders and measuring jugs
 - Plastic or metal funnel
 
-![Image](b44d349c469245e59e98843cdd07c4d3)
+![Image](0fed7ffdb47e46f59994ba33216d321c)
 
 - 100 ml plastic bottles with leak-proof tops, **OR**
 - 500 ml glass or plastic bottles with screw tops.
 
-![Image](d180b5ecc162496caf24c5ab737cab27)
+![Image](38d5e7d5b0284edfbcc3467ec5993cf9)
 
 - An alcoholmeter: the temperature scale is at the bottom and the **ethanol** concentration (percentage v/v) at the top.
 
@@ -86,14 +86,14 @@ Recommended amounts of products:
 - **96% ethanol**: 8333 ml
 - **3% hydrogen peroxide**: 417 ml
 - **98% glycerol**: 145 ml
-- **Sterile distilled**<color style="blue"> </color>or<color style=**"blue"> </color>boiled cold water**: 1105 ml
+- **Sterile distilled**<color style="#b5093f"> </color>or<color style="#b**5093f"> </color>boiled cold water**: 1105 ml
 
 ## Formulation 2
 
 - **99% isopropyl alcohol**: 7515 ml
 - **3% hydrogen peroxide**: 417 ml
 - **98% glycerol**: 145 ml
-- **Sterile distilled**<color style="blue"> </c**olor>or boiled cold water**: 1923 ml
+- **Sterile distilled**<color style="#b5093f"> </c**olor>or boiled cold water**: 1923 ml
 
 Final products:
 
@@ -115,35 +115,35 @@ Final concentrations:
 
 ### Step-by-step preparation:
 
-**1.<**color style="blue"> </color>The a**lcohol (eth**an**ol or isopropyl**) for the formula to be used is poured into the large bottle or tank up to the graduated mark.
+**1.<**color style="#b5093f"> </color>The a**lcohol (eth**an**ol or isopropyl**) for the formula to be used is poured into the large bottle or tank up to the graduated mark.
 
-![Image](f6e93945d76b48d6a4f3cd3472f7a7a4)
+![Image](6c3f67e645d942caa89e214a278d7cda)
 
-**2.<color style="blue"> </col**or>Hydrogen peroxide is added using a measuring cylinder.
+**2.<color style="#b5093f"> </**color>Hydrogen peroxide is added using a measuring cylinder.
 
-![Image](909a1d870afb40169d51b302f6b55e70)
+![Image](ce8e5efba4b94aba9f86d143b014d85e)
 
 **3. Glycerol** is added using a measuring cylinder.
 
 As **glycerol** is very viscous and sticks to the wall of the measuring cylinder, which should be diluted with some sterile distilled or cold boiled water and then emptied into the bottle/tank.
 
-![Image](fb4a152905c1419a997d0d7dbf7202a3)
+![Image](19dbecb664694c61a8af27e9d38a1589)
 
 **4.**The bottle/tank is then topped up to the 10-litre mark with sterile distilled or cold boiled water.
 
 **5.**The lid or the screw cap is placed on the tank/bottle as soon as possible after preparation, to prevent evaporation.
 
-![Image](808020345b784c6ba4152522ecd70838)
+![Image](1cdb4a0adf25477b8b20839f21a6797e)
 
 **6.**The solution is mixed by shaking gently where appropriate or by using a paddle.
 
-![Image](c817a2f7a7874ae3bbaa110365b48404)
+![Image](496f198c160a4570bd40459069ff6c03)
 
 **7.**Immediately divide up the solution into its final containers (e.g. 500 or 100 ml plastic bottles) and place the bottles in quarantine for 72 hours before use.
 
 This allows time for any spores present in the alcohol or the new/re-used bottles to be destroyed.
 
-![Image](dc973aaa5498498db514d84a98e22740)
+![Image](9763d77a81cd42f08aca31c643136036)
 
 ---
 
@@ -155,9 +155,9 @@ This allows time for any spores present in the alcohol or the new/re-used bottle
 
 Verify the alcohol concentration with an alcoholmeter and adjust the volumes in the preparation formulation to obtain the recommended final concentration.
 
-![Image](99fdc782d2d4454b9ab4818754dbc34a)
+![Image](3be20b92be7c4641b4771d4fdf4b921c)
 
-![Image](5fcf2579d7094a3ebfd89b777fabd84e)
+![Image](9a481c1157594e0881dd1c762e5ef93d)
 
 **2.** Post-production analysis is mandatory when either **ethanol** or an **isopropanol solution** is used.
 
@@ -165,7 +165,7 @@ Use the alcoholmeter to control the alcohol  concentration of the final solution
 
 The accepted limits should be fixed to **± 5%** of the target concentration (**75%–85% for ethanol**).
 
-![Image](5c154ce11bfd4d73bb7f6311a1ffb96e)
+![Image](4be1c5b77ce740a9a770cee8ff69f06f)
 
 **3.** The alcoholmeter shown in the image above is for use with **ethanol**; if used to  control an **isopropanol solution**, a **75%** solution will show **77% (± 1%)** on the scale at 25°C.
 

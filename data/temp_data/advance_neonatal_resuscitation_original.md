@@ -10,7 +10,7 @@
 - For every 3 compressions, deliver 1 breath. 
 - 90 Chest Compressions: 30 Breaths per minute.
 
-![Image](e20c516769de4523b08ab5b4f0850d4c)
+![Image](17811a96f2a64fc18ddffebf97ef45f6)
 
 ## Techniques for Chest Compressions:
 
@@ -29,6 +29,6 @@
 
 # Chapter: Drug used in newborn resuscitation
 
-![Image](c72549655bd74bd5868a42c82dcbcbf4)
+![Image](247a31a4902d498fb5df3156feeca366)
 
 ---

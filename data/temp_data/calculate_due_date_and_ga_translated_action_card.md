@@ -14,6 +14,6 @@ Ask the woman for the first day of her last menstrual period (LMP) and if possib
 - Count how many weeks there are from today to the due date, and subtract this from 40.
 - Example: Today is 17th November. Her estimated due date is 8th December. There are 3 weeks between today and the estimated due date. 40 - 3 = 37. Her gestational age is 37+0.
 
-![Image](607e73f4f8cc4dd8be7588ff62b99789)
+![Image](54b02545e92d4970b348032efcd2b11e)
 
 ---

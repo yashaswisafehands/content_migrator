@@ -6,14 +6,14 @@ She should lay comfortably on her back.
 
 Look for scars from previous caesarean sections or other operations.
 
-![Image](a707227f839049a6b3e39d0ddc6d00ca)
+![Image](303e2654ceb74ec0a0a4ff5db278f3f3)
 
 - Measure the symphysis-fundal height (SFH) (from 24 weeks). 
 - Gently palpate the woman's abdomen with one hand to determine the height of the fundus of the uterus.
 - Hold one end of the tape measure at the top of the symphysis pubis and measure the distance from the symphysis pubis and the top of the fundus (in centimetres). 
 - For foetuses growing normally, the SFH should correspond to the number of weeks of gestation, with an allowance of a 2-cm difference either way.
 
-![Image](efe416b5b48146ee94447d53023e51d4)
+![Image](9ab3b1c4582445efa21cefacb7a1dc7b)
 
 ---
 
@@ -25,25 +25,25 @@ There are four steps for palpating the foetus. These should be performed systema
 
 This may be longitudinal, transverse or oblique. Place both hands on the woman's abdomen and glide them across the uterus to determine the foetal lie.
 
-![Image](c381125a65e34cbd9e6746c33b5fccd5)
+![Image](2ee32ce926c548858410a007f14ce2b7)
 
 ## 2. Which part is present at the uterine fundus?
 
 Use your fingers on both hands to palpate what part of the foetus is present at the fundus(breech or head). The head is hard and round, and moves and ballots easily. The breech is softer, triangular and continuous with the body.
 
-![Image](0d126f4f6c404146ae67864273d5bee7)
+![Image](2c2ce53c5e38437a967d779658bf95f2)
 
 ## 3. The position of the back:
 
 Place your hands flat on either side of her abdomen. With one hand, gently palpate the uterus with small pushes, while the other hand provides counterpressure. Use this technique to locate the foetal back and work out which way the foetus facing.
 
-![Image](b1a8fbb241444627b667c1b83c539bb6)
+![Image](2b574536b84b4008a2258feec0f8d36f)
 
 ## 4. The presenting part:
 
 Gently use both hands flat either side of the lower abdomen, just above the symphysis pubis, to feel the presenting part. Assess whether the presenting part is fixed in the pelvis or is loose.
 
-![Image](f8035cfc38f94c27aa95a937e4fbd296)
+![Image](d62e36d2ae3f496ba1248d66ece4f47a)
 
 As you are palpating assess the size of the foetus itself. Does the foetus have the size you would expect for the size and the gestation?
 
@@ -57,7 +57,7 @@ Ask the woman if her baby's movements are following their usual pattern.
 
 You should note down frequency, duration and intensity of the contractions as well as how the woman is coping.
 
-![Image](5fa20fde51e04e25aa64bb0d946bfa71)
+![Image](02aef8d0489d416abefe926493d4663c)
 
 1. Place a hand on the abdomen to feel when the contractions start and end. Take the time at the beginning and end of the contractions. 
 2. Note down the length, frequency and intensity of the contractions that occur in a period of 10 minutes.

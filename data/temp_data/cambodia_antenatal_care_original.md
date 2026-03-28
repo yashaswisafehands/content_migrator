@@ -34,7 +34,7 @@ Maternity care providers need to perform hand hygiene:
 - After cleaning surfaces between every patient contact   
 - After coughing or sneezing
 
-![Image](3cc65d3c6aa74c7995354fc8d64ca9ae)
+![Image](683ce2a35d6b4879951b36dc5ac6ad9b)
 
 ## ANC schedule
 
@@ -65,7 +65,7 @@ ALL contacts regarding of method should include Respectful Maternity Care:
 3. Freedom from discrimination  
 4.  Supporting women’s right to information and informed autonomous decision making
 
-![Image](7884a834e345488babf1527f1331f33f)
+![Image](4d87ae0a24be4d7b8ced79b6d84e6397)
 
 ## Suggested actions at every contact
 
@@ -97,7 +97,7 @@ In addition to the standard first AN contact, assessments/activities (Comprehens
 - Ensure the woman has a contact number for midwife/practitioner providing remote AN contact or hospital/health service contact  
 - Ensure woman enough iron, folic acid, calcium etc. to help avoid facility based AN contact just to obtain supplies .
 
-![Image](2cc91759e4ba4ae384234a0170efbc01)
+![Image](f67461643aab4c88ba4efded71538dcb)
 
 ---
 
@@ -105,7 +105,7 @@ In addition to the standard first AN contact, assessments/activities (Comprehens
 
 ## Remote Contacts 2
 
-![Image](7884a834e345488babf1527f1331f33f)
+![Image](4d87ae0a24be4d7b8ced79b6d84e6397)
 
 1. Introduce self and friendly greeting 
 2. How are you feeling today?  
@@ -142,7 +142,7 @@ Implement the same to the 2nd ANC visit through telephone, and add some followin
 - Discuss about rupture of membrane and how to seek for support
 - Discuss the benefit of companion in labour. Who will be your companion in labour?
 
-![Image](7884a834e345488babf1527f1331f33f)
+![Image](4d87ae0a24be4d7b8ced79b6d84e6397)
 
 ---
 
@@ -150,7 +150,7 @@ Implement the same to the 2nd ANC visit through telephone, and add some followin
 
 ## Face-to-face Contact 4
 
-![Image](7889e6e65595417582bb13ccf724edea)
+![Image](43e24d3c5cb24ab5a488fc02866a9b57)
 
 - Weighing, compare this time and previous time weights to find out nutrition problem
 - Take vital sign (take blood pressure, pulse, fever, respiratory rate) and compare with previous record 

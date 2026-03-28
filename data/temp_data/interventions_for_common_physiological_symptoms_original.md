@@ -2,7 +2,7 @@
 
 ### Lower back and pelvic pain
 
-![Image](4bc8b465fb1248c08882d3011f0a012e)
+![Image](ef6c8fcb84e648a0919dae3661a98a38)
 
 - Regular exercise may help to prevent back and pelvic pain.
 - Teach body posture and keeping her back straight while sitting and lifting objects.
@@ -19,7 +19,7 @@
 - Adjust the iron dose and schedule.
 - If that does not help, try wheat bran or other fibre supplements.
 
-![Image](da0a476acb7941039912f29884f84475)
+![Image](c46a732d46ae4b1d8d0da303de0f83e5)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Heartburn
 
-![Image](218fb922f60c4bffb200ef4ece58b8d0)
+![Image](b113b1be64364aceb32ade167269800d)
 
 - Avoid smoking and drinks containing caffeine.
 - Diet – avoid large, fatty, spicy meals.
@@ -39,7 +39,7 @@
 
 ### Nausea and vomiting
 
-![Image](4e2a77ad978a4adb82f739a99fb019e5)
+![Image](d1f982cb1be24f0482a23b778b2bf224)
 
 - Recommend ginger, chamomile and/or vitamin B6.
 - Small and more frequent meals. 
@@ -51,7 +51,7 @@
 
 ### Varicose veins and oedema
 
-![Image](9f6b6abc69d143caa5ee381540b597a5)
+![Image](7f9e14cb521f415bba01564c2e5bedae)
 
 - Avoid standing for long periods and sitting with the legs crossed.
 - Elevate her legs while sitting and lying down. 

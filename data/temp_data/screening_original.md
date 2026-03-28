@@ -1,6 +1,6 @@
 # Chapter: Screening
 
-![Image](5a3f161c8e8d444cb7a84e6661af698e)
+![Image](7406850200774fee99940c09747029a5)
 
 ## During the first contact in pregnancy and the postnatal period you should:
 

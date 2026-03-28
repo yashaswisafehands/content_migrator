@@ -2,7 +2,7 @@
 
 ### Bio-Medical Waste are segregated as follows:
 
-![Image](76167c578e274b1bbbe6a3f020ddd852)
+![Image](e7a5ee84f0c44a5a9bdf829e6c07b7ef)
 
 > All the plastic bags should be properly sealed when 3/4th full, labelled and recorded before disposal.
 

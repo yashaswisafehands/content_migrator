@@ -11,12 +11,12 @@ This may be appropriate following an individual risk assessment and can be used 
 The schedule suggests which contacts could be undertaken face-to-face and which might suit a remote contact.
 
 - **12 weeks:** Face-to-face   
-- **20 weeks:** <color style="blue">Remote contact </color> 
-- **26 weeks:**<color style="blue">Remote contact </color> 
+- **20 weeks:** <color style="#b5093f">Remote contact </color> 
+- **26 weeks:**<color style="#b5093f">Remote contact </color> 
 - **30 weeks:** Face-to-face   
-- **34 weeks:**<color style="blue">Remote contact</color>  
+- **34 weeks:**<color style="#b5093f">Remote contact</color>  
 - **36 weeks:** Face-to-face  
-- **38 weeks:** <color style="blue">Remote contact</color>  
+- **38 weeks:** <color style="#b5093f">Remote contact</color>  
 - **40 weeks:** Face-to-face
 
 ---
@@ -38,7 +38,7 @@ The schedule below suggests which contacts could be undertaken face-to-face and 
 Initial face-to-face contact.  
 Assess infection risk and wear recommended PPE.
 
-**Day 3 (48-72 hours):** <color style="blue">Remote</color>
+**Day 3 (48-72 hours):** <color style="#b5093f">Remote</color>
 
 Includes ongoing risk assessment for the mother and the newborn.
 
@@ -47,7 +47,7 @@ Includes ongoing risk assessment for the mother and the newborn.
 Face-to-face.  
 Assess infection risk and wear recommended PPE.
 
-**Week 6 (≈ 42 days):** <color style="blue">Remote</color>
+**Week 6 (≈ 42 days):** <color style="#b5093f">Remote</color>
 
 Includes ongoing risk assessment of the mother and the newborn. 
 

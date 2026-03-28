@@ -11,7 +11,7 @@ Strategies to identify these include:
 - **Active, reflective listening** (where you repeat back in your own words what has been said).
 - **Motivational interviewing**(where you, in a supportive manner, encourage the woman to talk about her need for change and reasons for wanting to change).
 
-![Image](91af0d2bf90e4726b515522b19fa2427)
+![Image](29fc8cc74030433e9d1dbfa207a0c2a1)
 
 ---
 
@@ -38,7 +38,7 @@ Increased knowledge enables women to cope with their conditions and take posit
 
 Where possible, psychoeducation should include partners and family members.
 
-![Image](5298b7345d4c4330bd21cbb7b535585c)
+![Image](b065b429c6b44543b5a047114d16500c)
 
 Education involves not only information about the condition, but useful strategies such as improving sleep , alleviating stress and nutrition, alleviating stress and interacting in relationships in constructive ways.
 

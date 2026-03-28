@@ -28,6 +28,6 @@ Equipments and Supplies:
 7. Compare the yellow-coloured protein reagent part with the albumin results chart on the bottle and record the findings.
 8. Explain results to the woman and record on case sheet or MCP card.
 
-![Image](1e4a317c3a6141f99159fd22325d74e5)
+![Image](01e8fc9525cc46d5b718e145c251ce07)
 
 ---

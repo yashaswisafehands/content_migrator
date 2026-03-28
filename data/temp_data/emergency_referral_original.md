@@ -24,13 +24,13 @@ Referral note.
 
 Essential emergency drugs:
 
-- **Oxytocin<**color style="blue"> </co**lor>and Ergometrine<**color style="blue"> </color**>(alternatively Misoprostol**) for treatment of postpartum haemorrhage
+- **Oxytocin<**color style="#b5093f"> </co**lor>and Ergometrine<**color style="#b5093f"> </color**>(alternatively Misoprostol**) for treatment of postpartum haemorrhage
 - **Oxytocin**for IM injection immediately postpartum
 - **Hydralazine**for IV treatment of elevated blood pressure
-- **Magnesium Sulphate<**color style="blue"> </color>for eclampsia
+- **Magnesium Sulphate<**color style="#b5093f"> </color>for eclampsia
 - **Calcium Gluconate** for intoxication with **Magnesium Sulphate**
 - **Ampicillin** for infections
-- **Diazepam<**color style="blue"> </color>for pain relief
+- **Diazepam<**color style="#b5093f"> </color>for pain relief
 - **Phenobarbital** for the newborn in case of convulsions
 - **Adrenaline** for the newborn in case of cardiac arrest
 

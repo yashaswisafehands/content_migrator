@@ -6,7 +6,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Anaemia
 
-![Image](223156b32baf475f83c140e56a9b8631)
+![Image](4dbe7ed6bdb14417bd17948c5dacbf44)
 
 - Paleness inside conjunctiva/eyelids and palms
 - Dizziness
@@ -27,7 +27,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Antepartum Haemorrhage
 
-![Image](dabda84ebc8045368562d91a5ffa6ca7)
+![Image](31201202f35a4030aa03f6ee38586518)
 
 - Vaginal bleeding 
 - Abdominal pain
@@ -46,7 +46,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Gestational Diabetes
 
-![Image](5d1e65c5c8304d8e95b83516d538941d)
+![Image](1aede3b75a344ae0b5488a8a29dbbcdf)
 
 - Increased thirst 
 - Increased urination need 
@@ -63,7 +63,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Urinary Tract Infection
 
-![Image](e7505652b71b49de96c22145bcd9a6db)
+![Image](aacc50304daf48e0a1a27aa56f30cc42)
 
 - Burning sensation when passing urine
 - Frequent urination
@@ -83,7 +83,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Premature/Prolonged rupture of membranes
 
-![Image](020cf5bb1d764846ac56b02144313c61)
+![Image](2ae2532e1f334a35a3a8ed1a00c2f200)
 
 - Leakage or sudden gush of fluid from the vagina
 - Fever 
@@ -101,7 +101,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Pre-eclampsia
 
-![Image](7c7416d0d1eb4cbcb3d9536de87d9919)
+![Image](ebe25f9fe2844743bf11d4b9fb709d6d)
 
 - Headache
 - Visual disturbances
@@ -121,7 +121,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Venous Thromboembolism
 
-![Image](a2fffd6c57664dd49dbfddf5afa91bd4)
+![Image](5928095a9c2441fa9b58cf7d71756954)
 
 - Pain, swelling and tenderness in one leg (usually in the calf)  
 - Pain worsens when walking 
@@ -137,7 +137,7 @@ If any significant antenatal symptoms are identified, offer referral or treatmen
 
 ## Preterm Labour
 
-![Image](b8c546c0d2ba41cbbb12320b1195d418)
+![Image](a4b899efed32409dbeaa6c5bccf5130f)
 
 - Regular contractions before 37 weeks
 - Gush or trickle of fluid from vagina

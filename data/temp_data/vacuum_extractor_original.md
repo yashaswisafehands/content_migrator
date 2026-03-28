@@ -39,7 +39,7 @@ Metal and plastic cups are half as likely to “pop off” when compared to soft
 
 Before applying suction, center the cup on the foetal head's "flexion point", which is 3 cm anterior to the posterior fontanelle and aligned with the sagittal suture.
 
-![Image](0c75a73b26b64a99ae2a756e1c1a7edf)
+![Image](93d4b3843fb643cfaa8d66d7719ecf30)
 
 The flexion point enables maximizes traction and minimizes "pop-offs".
 

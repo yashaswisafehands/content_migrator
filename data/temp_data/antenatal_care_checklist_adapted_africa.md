@@ -4,7 +4,7 @@
 
 Regular antenatal care throughout the antenatal period improves health outcomes for both women and newborns.
 
-![Image](6b0b2a01c5994774bd769c8e94c5e471)
+![Image](b51aa86d20ff4a73ab5e1440eff1eef3)
 
 A minimum of 8 antenatal care contacts is recommended to prevent and identify complications and take appropriate action.
 
@@ -26,7 +26,7 @@ Women, who have not given birth by their expected due date, should return for an
 - Ask about exposure to tobacco, second-hand smoke, use of alcohol or other substances.and depression)..
 - In privacy, ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card on Violence against women).
 
-![Image](17a1684a1d794a9b8484383b73b34c87)
+![Image](f1b40db2c3074bf09a47106cb85a9f0c)
 
 **Examine**
 
@@ -35,15 +35,15 @@ Women, who have not given birth by their expected due date, should return for an
 
 **Screen or Test**
 
-<color style="blue">Urine </color>
+<color style="#b5093f">Urine </color>
 
 - Proteinuria
 - Glucosuria
 - Bacteriuria
 
-![Image](321cac7b6ca74a1c841ddfd99083c9b1)
+![Image](e70fcba3f5e44f10bffc23608bf6c50a)
 
-<color style="blue">Blood </color>
+<color style="#b5093f">Blood </color>
 
 - Haemoglobin
 - Blood group and Rh status
@@ -51,7 +51,7 @@ Women, who have not given birth by their expected due date, should return for an
 - Syphilis 
 - Tuberculosis (if relevant)
 
-![Image](5209fef383c647b4be8d464864732cf6)
+![Image](1c44d38ce4a74f039a78bbda5a8cf072)
 
 **Treat/Refer**
 Follow local guidelines for referral and management of any abnormal findings.
@@ -63,9 +63,9 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Covid-19 vaccination 
 - Tetanus toxoid vaccination
 
-![Image](e8d9fe7714a04eccbabd8aa1def851c0)
+![Image](94a72370419f44ddbf4f04511beddb81)
 
-<color style="blue">Context specific:</color>
+<color style="#b5093f">Context specific:</color>
 
 - Vitamin A
 - Calcium  
@@ -103,14 +103,14 @@ See 'Normal Labour & Birth' practical procedures for calculation of EDD and gest
 - Exposure to tobacco, second-hand smoke, and use of alcohol and other substances.
 - Ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card 'Violence against women' for further information).
 
-![Image](17a1684a1d794a9b8484383b73b34c87)
+![Image](f1b40db2c3074bf09a47106cb85a9f0c)
 
 ## Examine
 
 - Blood pressure
 - Weight
 
-<color style="blue">Assess for signs of: </color>
+<color style="#b5093f">Assess for signs of: </color>
 
 - Anaemia
 - Pre-eclampsia
@@ -120,31 +120,31 @@ See 'Normal Labour & Birth' practical procedures for calculation of EDD and gest
 - Miscarriage/Stillbirth
 - Gestational diabetes
 
-![Image](9d35db01c2444bdf927f003e3c3b26d1)
+![Image](8b6bba67c19f40828ab12dc56fd6f71d)
 
-<color style="blue">Foetal examination:</color>
+<color style="#b5093f">Foetal examination:</color>
 
 - Listen to and count foetal heart rate
 - Measure symphysial-fundal height (from week 24)
 - Ask about foetal movements (from week 28)
 
-![Image](31cb4ded188e4b9bb363b040cd48787b)
+![Image](8bc155373b67434981ed7ea00bd14518)
 
 ## Screen or Test
 
-<color style="blue">Urine </color>
+<color style="#b5093f">Urine </color>
 
 - Proteinuria
 - Glucosuria
 - Bacteriuria
 
-![Image](321cac7b6ca74a1c841ddfd99083c9b1)
+![Image](e70fcba3f5e44f10bffc23608bf6c50a)
 
-<color style="blue">Blood </color>
+<color style="#b5093f">Blood </color>
 
 - Haemoglobin (week 26)
 
-![Image](5209fef383c647b4be8d464864732cf6)
+![Image](1c44d38ce4a74f039a78bbda5a8cf072)
 
 **Treat/Refer**
 Follow local guidelines for referral and management of any abnormal findings.
@@ -161,14 +161,14 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Exposure to tobacco, second-hand smoke, and use of alcohol and other substances.
 - Ask if the woman has experienced gender-based violence or intimate partner violence (See Action Card 'Violence against women' for further information).
 
-![Image](f2d9a94283914565979337c073ba738c)
+![Image](d75a77aab92f4d1786d4e35c2a195b2f)
 
 ## Examine
 
 - Blood pressure 
 - Weight
 
-<color style="blue">Assess for significant symptoms of: </color>
+<color style="#b5093f">Assess for significant symptoms of: </color>
 
 - Anaemia
 - Pre-eclampsia
@@ -186,19 +186,19 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Palpate for multiple pregnancy 
 - Palpate for malposition (from week 34)
 
-![Image](83b699fbe4634e498cee44569d10c9af)
+![Image](78506f06f67349349628646c7b06e845)
 
-![Image](aca266cfc3eb47928eb0ff5d9c2dbdf1)
+![Image](00fdcc24edbd4b8eb11b91a05f7ea2ea)
 
 ## Screen/Test
 
-<color style="blue">Urine </color>
+<color style="#b5093f">Urine </color>
 
 - Proteinuria 
 - Glucosuria
 - Bacteriuria (week 34)
 
-<color style="blue">Blood </color>
+<color style="#b5093f">Blood </color>
 
 - Haemoglobin (week 36)
 
@@ -210,7 +210,7 @@ Follow local guidelines for referral and management of any abnormal findings.
 - Iron and folic acid. 
 - Antibiotics for women with asymptomatic bacteriuria (from week 34).
 
-<color style="blue">Context specific</color>
+<color style="#b5093f">Context specific</color>
 
 - Vitamin A 
 - Calcium 

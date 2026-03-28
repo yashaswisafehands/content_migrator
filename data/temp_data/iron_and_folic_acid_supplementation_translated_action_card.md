@@ -12,10 +12,10 @@ All pregnant adolescents and adult women are recommended to take iron and folic 
 **Poor toleration of daily iron and settings with antenatal anaemia prevalence of < 20%:**
 1 x 120mg elemental iron + 1 x 2.8 mg folic acid (orally) / week
 
-**Settings with antenatal anaemia prevalence of ≥ 40%:**<color style="blue"> </color>
+**Settings with antenatal anaemia prevalence of ≥ 40%:**<color style="#b5093f"> </color>
 1 x 60 mg elemental iron + 1 x 0.4 mg folic acid (orally) / day
 
-**Diagnosed antenatal anaemia (<110g/L):**<color style="blue"> </color>
+**Diagnosed antenatal anaemia (<110g/L):**<color style="#b5093f"> </color>
 1 x 120 mg elemental iron + 1 x 0.4 folic acid (orally) / day until haemoglobin returns to normal (Hb 110 g/L or higher), then resume the standard antenatal dose.
 
 ## Contraindications

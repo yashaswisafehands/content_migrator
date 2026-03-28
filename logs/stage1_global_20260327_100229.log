@@ -1,0 +1,262 @@
+🌍 MODE: Global Data Migration
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+  📂 Loaded 1 local certificate mappings.
+  🔄 Fetching all existing certificates from LME for caching...
+  ✅ Cached 1 existing certificates from API.
+2026-03-27 10:02:29,844 - INFO - Loaded 1 screen data mappings from CSV
+🚀 Starting GLOBAL content migration (queue stage)...
+Scanning global modules...
+Found 21 active global modules in Cosmos DB.
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'infection-prevention_1487676001934' using CSV.
+  actionCards: 5 keys overridden from CSV
+  procedures: 8 keys overridden from CSV
+  drugs: 11 keys overridden from CSV
+  keyLearningPoints: 72 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 5 action cards for module
+Mapping language:   
+Loaded 33 asset mappings from file
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/three_mothers_mask.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/three_mothers_mask.png: 93e26dfde3fb42b9b5714b237da6e298
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/respiratory_infections_original.md
+Created action-card resource: title='Respiratory infections' description='Respiratory infections' icon='93e26dfde3fb42b9b5714b237da6e298' content='3d63411e3b1546e8a91bfa0506650088' language_id='' region='africa' content_type='original' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+Queuing action-card: res-action-card-respiratory-infections (Source: 'Respiratory infections')
+Mapping language:   
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/antibiotic_regimen_for_ASB.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/antibiotic_regimen_for_ASB.png: 5df4dba36d704e37bc9917867c4b89c1
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/antibiotic_prophylaxis_original.md
+Created action-card resource: title='Antibiotic Prophylaxis' description='Antibiotic Prophylaxis' icon='5df4dba36d704e37bc9917867c4b89c1' content='959d6a2dcdc740b1ad03b880bd1395b4' language_id='' region='africa' content_type='original' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+Queuing action-card: res-action-card-antibiotic-prophylaxis (Source: 'Antibiotic Prophylaxis')
+Mapping language:   
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/Bio_Medical_waste_management.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/Bio_Medical_waste_management.png: 3aaa4c61a6f64573acdc91102c67db5b
+CACHED: Saved new asset_id 'cdf717975e2b48a79aef6526d499571f' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/BMW_table.png'
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/biomedical_waste_management_original.md
+  📎 Linking 1 embedded asset(s) to markdown upload
+Created action-card resource: title='Bio–Medical Waste Management' description='Bio–Medical Waste Management' icon='3aaa4c61a6f64573acdc91102c67db5b' content='314e6b2a13694922b1f397a28c0914bd' language_id='' region='africa' content_type='original' created_by='neelam@maternity.dk' level=None questions=None derived_from_id=None
+Queuing action-card: res-action-card-biomedical-waste-management (Source: 'Bio–Medical Waste Management')
+Mapping language:   
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/amount_of_handrub.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/amount_of_handrub.png: d6b1d85c32f7475a9b4cef32d18615a4
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/five_key_moments_for_hand_hygiene_original.md
+Created action-card resource: title='Five key moments for hand hygiene' description='Five key moments for hand hygiene' icon='d6b1d85c32f7475a9b4cef32d18615a4' content='b058b24638544da4bc8fb3400eb8c138' language_id='' region='africa' content_type='original' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+Queuing action-card: res-action-card-five-key-moments-for-hand-hygiene (Source: 'Five key moments for hand hygiene')
+Mapping language:   
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/mobile_phone.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/mobile_phone.png: 8d4b95386038435c8889954ec62535be
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/remote_anc_pnc_contacts_original.md
+Created action-card resource: title='Remote ANC/PNC contacts' description='Remote ANC/PNC contacts' icon='8d4b95386038435c8889954ec62535be' content='5a91f0a9612e4b1a845317abb6faa6da' language_id='' region='africa' content_type='original' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+Queuing action-card: res-action-card-remote-anc-pnc-contacts (Source: 'Remote ANC/PNC contacts')
+Mapping language:   
+  → Migrating 8 procedures for module
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_cleaning_3.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_cleaning_3.png: 16264e3cf2dc422ba444975c6b37ca20
+CACHED: Saved new asset_id '3f169122c826489caccc2274240786cd' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/cleaning_equipment.png'
+CACHED: Saved new asset_id '598edcb641df4e549e7ec701b3d72411' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/organize_cleaning_order_2.png'
+CACHED: Saved new asset_id 'a5eea2df138c4086a265f6b465b3c405' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/cleaning_with_alcohol.png'
+CACHED: Saved new asset_id 'e451b0c12c4649e1917b9af369250db9' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/cleaning_surfaces.png'
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/cleaning_storage_and_housekeeping_original.md
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/cleaning_storage_and_housekeeping_adapted_africa.md
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/cleaning_storage_and_housekeeping_translated_action_card.md
+  📎 Linking 4 embedded asset(s) to markdown upload
+Created action-card resource: title='Cleaning, Storage and Housekeeping' description='Cleaning, Storage and Housekeeping' icon='16264e3cf2dc422ba444975c6b37ca20' content='afe44e9c13b549388fb3513788d7a43e' language_id='' region='africa' content_type='original' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+  📎 Linking 4 embedded asset(s) to markdown upload
+Created action-card resource: title='Cleaning, Storage and Housekeeping' description='Cleaning, Storage and Housekeeping' icon='16264e3cf2dc422ba444975c6b37ca20' content='e25822235f44442d8eda1b0760b8608a' language_id='' region='africa' content_type='adapted' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+  📎 Linking 4 embedded asset(s) to markdown upload
+Created action-card resource: title='Cleaning, Storage and Housekeeping' description='Cleaning, Storage and Housekeeping' icon='16264e3cf2dc422ba444975c6b37ca20' content='8664e88eed674eeba6593917d6985ea5' language_id='' region='africa' content_type='translated' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+Queuing procedure: res-procedure-cleaning-storage-and-housekeeping (Source: 'Cleaning, Storage and Housekeeping')
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/handrub.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/handrub.png: c345f37b901e448099cc64075c73b616
+CACHED: Saved new asset_id '0f66d993a7284087b3233197a1de6e42' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_1.png'
+CACHED: Saved new asset_id '2f77d946b45a446c815e44a028dc2f00' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_2.png'
+CACHED: Saved new asset_id 'e9caa469170045f88af26d8d24ebd4f7' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_3.png'
+CACHED: Saved new asset_id 'ccf1c1f56ae74a85bfe7f20e002abf5c' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_4.png'
+CACHED: Saved new asset_id '3dd22b900155417eb6502ddb72a80af5' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_5.png'
+CACHED: Saved new asset_id '259dce5c32454acdba8635129355c707' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_6.png'
+CACHED: Saved new asset_id 'baec0e9b5cb64494b6b762d68d1c14a9' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_7.png'
+CACHED: Saved new asset_id 'eb433cf5bd9c4c4e99f38f9572c84c2f' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_practical_8.png'
+CACHED: Saved new asset_id 'd18ad66f835747e7b2c6d57f85253cd3' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_method_1.png'
+CACHED: Saved new asset_id 'af641e7d385f410aa63b7ec7b63e7726' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_method_2.png'
+CACHED: Saved new asset_id '9a548211428946d6b7a316b624321821' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_method_3.png'
+CACHED: Saved new asset_id 'b6cfb51ac37d4429bb7252e910c798de' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_method_4.png'
+CACHED: Saved new asset_id 'f0acebfd93e2444c9cd3a2001624c05c' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_method_5.png'
+CACHED: Saved new asset_id '261b6f5635234939acecf94f588ae4b7' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_method_6.png'
+CACHED: Saved new asset_id '6e893dc6d48a4537aec77cc4cdf14f58' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_quality_1.png'
+CACHED: Saved new asset_id '5792863566e249bd9933e42d2ac2dd37' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_quality_2.png'
+CACHED: Saved new asset_id '4b41be183202497b9cf0fe8babbe50f1' for path 'https://sdacms.blob.core.windows.net/content/assets/images/africa/richtext/pp_mixing_handrub_quality_3.png'
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/mixing_alcohol_based_handrub_original.md
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/mixing_alcohol_based_handrub_adapted_africa.md
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/mixing_alcohol_based_handrub_translated_action_card.md
+  📎 Linking 17 embedded asset(s) to markdown upload
+Created action-card resource: title='Mixing alcohol-based handrub' description='Mixing alcohol-based handrub' icon='c345f37b901e448099cc64075c73b616' content='f5f1276631a3496eb23a61a858c0fcc4' language_id='' region='africa' content_type='original' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+  📎 Linking 17 embedded asset(s) to markdown upload
+Created action-card resource: title='Mixing alcohol-based handrub' description='Mixing alcohol-based handrub' icon='c345f37b901e448099cc64075c73b616' content='085dbc31377045549e329231e171a94e' language_id='' region='africa' content_type='adapted' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+  📎 Linking 17 embedded asset(s) to markdown upload
+Created action-card resource: title='Mixing alcohol-based handrub' description='Mixing alcohol-based handrub' icon='c345f37b901e448099cc64075c73b616' content='2c513ce7135c4ddc999158cd1228469d' language_id='' region='africa' content_type='translated' created_by='natalia@maternity.dk' level=None questions=None derived_from_id=None
+Queuing procedure: res-procedure-mixing-alcohol-based-handrub (Source: 'Mixing alcohol-based handrub')
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/chlorine.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/procedure/chlorine.png: e84417f72c234a31b543d58d868f38bb
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/mixing_chlorine_solution_original.md
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/mixing_chlorine_solution_adapted_africa.md
+Saved Markdown: /home/azureuser/test/content_migrator/data/temp_data/mixing_chlorine_solution_translated_action_card.md
+Created action-card resource: title='Mixing chlorine solution' description='Mixing chlorine solution' icon='e84417f72c234a31b543d58d868f38bb' content='bcbef27f44fd4c80a80d3677fec5f909' language_id='' region='africa' content_type='original' created_by='catalin@maternity.dk' level=None questions=None derived_from_id=None
+Created action-card resource: title='Mixing chlorine solution' description='Mixing chlorine solution' icon='e84417f72c234a31b543d58d868f38bb' content='2725b77d55554685a629891997e57677' language_id='' region='africa' content_type='adapted' created_by='catalin@maternity.dk' level=None questions=None derived_from_id=None
+Created action-card resource: title='Mixing chlorine solution' description='Mixing chlorine solution' icon='e84417f72c234a31b543d58d868f38bb' content='82dc170397694b89bc536a15c37814c2' language_id='' region='africa' content_type='translated' created_by='catalin@maternity.dk' level=None questions=None derived_from_id=None
+Queuing procedure: res-procedure-mixing-chlorine-solution (Source: 'Mixing chlorine solution')
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/main.py", line 331, in <module>
+    main()
+  File "/home/azureuser/test/content_migrator/main.py", line 315, in main
+    global_migrator.migrate_all_global_content()
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 38, in migrate_all_global_content
+    self._migrate_global_modules()
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 284, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 329, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 493, in _migrate_procedure_resources
+    global_doc = self._fetch_table_doc("procedures", key, "")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1125, in _fetch_table_doc
+    results = list(
+              ^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/paging.py", line 136, in __next__
+    return next(self._page_iterator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/paging.py", line 82, in __next__
+    self._response = self._get_next(self.continuation_token)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_query_iterable.py", line 116, in _fetch_next
+    block = self._ex_context.fetch_next_block()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/execution_dispatcher.py", line 142, in fetch_next_block
+    return self._execution_context.fetch_next_block()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 81, in fetch_next_block
+    self._ensure()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 66, in _ensure
+    results = self._fetch_next_block()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 220, in _fetch_next_block
+    return self._fetch_items_helper_with_retries(self._fetch_function)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 163, in _fetch_items_helper_with_retries
+    return execute_fetch()
+           ^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 144, in execute_fetch
+    return _retry_utility.Execute(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 132, in Execute
+    result = ExecuteFunction(function, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 279, in ExecuteFunction
+    return function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 142, in callback
+    return self._fetch_items_helper_no_retries(fetch_function)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 123, in _fetch_items_helper_no_retries
+    (fetched_items, response_headers) = fetch_function(new_options)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_cosmos_client_connection.py", line 1166, in fetch_fn
+    return self.__QueryFeed(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_cosmos_client_connection.py", line 3333, in __QueryFeed
+    result, last_response_headers = self.__Post(path, request_params, query, req_headers, **kwargs)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_cosmos_client_connection.py", line 3010, in __Post
+    return synchronized_request.SynchronizedRequest(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_synchronized_request.py", line 236, in SynchronizedRequest
+    return _retry_utility.Execute(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 129, in Execute
+    result = ExecuteFunction(function, global_endpoint_manager, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 279, in ExecuteFunction
+    return function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_synchronized_request.py", line 150, in _Request
+    response = _PipelineRunFunction(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_synchronized_request.py", line 205, in _PipelineRunFunction
+    return pipeline_client._pipeline.run(request, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 242, in run
+    return first_node.send(pipeline_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  [Previous line repeated 1 more time]
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 369, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  [Previous line repeated 1 more time]
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 130, in send
+    self._sender.send(request.http_request, **request.context.options),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/transport/_requests_basic.py", line 375, in send
+    response = self.session.request(  # type: ignore
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 1448, in getresponse
+    response.begin()
+  File "/usr/lib/python3.12/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 1252, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 1104, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

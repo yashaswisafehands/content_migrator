@@ -26,7 +26,7 @@ A consent form should be signed by the woman.
 - Bowl with antiseptic solution
 - IUD/IUS pack
 
-![Image](ad454c44c24d4c95b6475d1d4b4728d3)
+![Image](f50823b3584543a7af3475cd25a8dbf1)
 
 ## Non-sterile equipment
 
@@ -92,7 +92,7 @@ An IUD/IUS can be inserted within 48 hours following birth (including caesarean 
 - Bowl with cotton balls
 - IUD/IUS pack (including the device and inserter)
 
-![Image](a7f1dd724603413381f456b5687bc1b8)
+![Image](c5d05c1e07e84715a5b13eeedbba1fa6)
 
 ## Non-sterile equipment
 
@@ -117,9 +117,9 @@ An IUD/IUS can be inserted within 48 hours following birth (including caesarean 
 14. Withdraw the insertion tube to leave the IUD/IUS in the uterine cavity.
 15. Cut strings on the IUD/IUS, leaving about 3 cm hanging out of the cervix.
 
-![Image](41fe9237dc4842bba6e0dc042a0800aa)
+![Image](bf45e284170145b097472cba397cdfb6)
 
-![Image](305e311e4a3c4fb0909c153048c96f09)
+![Image](e66b08fff73e49dcb7ef3abdc7c4149a)
 
 ---
 
@@ -150,6 +150,6 @@ During IUD/IUS insertion, a non-touch technique means not letting the loaded ins
 - Being careful not to touch the vaginal wall or speculum blades with the uterine sound or loaded inserter.
 - Passing the uterine sound and loaded inserter only once each through the cervical canal.
 
-![Image](be75532ec1224616a4eaf5f0ccfc7b95)
+![Image](d7ecb205954844f2a0c8544c92f98a21)
 
 ---

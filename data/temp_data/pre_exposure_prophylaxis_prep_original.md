@@ -16,7 +16,7 @@ PrEP can be started or continued throughout pregnancy and breastfeeding
 
 ## Dosage and Administration
 
-**Tenofovir disoproxil fumarate (TDF):**<color style="blue"> </color>
+**Tenofovir disoproxil fumarate (TDF):**<color style="#b5093f"> </color>
 TDF 300 mg orally (equivalent to 245 mg of tenofovir disoproxil) once daily
 
 ## Contraindications

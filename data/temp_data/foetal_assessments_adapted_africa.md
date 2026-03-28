@@ -2,7 +2,7 @@
 
 ### Before performing abdominal examinations
 
-![Image](1c746825ed304d92ad8e9a62bda2f534)
+![Image](96ee28da3fa64da99ec8208ddae2e12d)
 
 - Gain verbal consent
 - Allow the woman to empty her bladder
@@ -17,7 +17,7 @@
 
 ### Listen to foetal heart rate (FHR) (from 20 weeks)
 
-![Image](cf6ed131e919476a856060b39495de0f)
+![Image](84334afd53764314aa16b340f9db22cf)
 
 **Count the FHR for 1 full minute:**
 
@@ -30,7 +30,7 @@
 
 ### Foetal movements (FM) (from 28 weeks)
 
-![Image](05b69eb413a14ec6acc7034ce2d10f12)
+![Image](c956dabe918f4ddd916e847b87c18898)
 
 - Ask about maternal perception of FM at each contact after 28 weeks
 - FM can indicate foetal wellbeing
@@ -42,7 +42,7 @@
 
 ### Feel for number of foetuses (from 30 weeks)
 
-![Image](aca266cfc3eb47928eb0ff5d9c2dbdf1)
+![Image](00fdcc24edbd4b8eb11b91a05f7ea2ea)
 
 - Gently palpate the abdomen to identify multiple pregnancies.
 - Consider a multiple pregnancy if:
@@ -57,9 +57,9 @@
 
 ### Feel for malpresentation (from 34 weeks)
 
-![Image](c381125a65e34cbd9e6746c33b5fccd5)
+![Image](2ee32ce926c548858410a007f14ce2b7)
 
-![Image](f8035cfc38f94c27aa95a937e4fbd296)
+![Image](d62e36d2ae3f496ba1248d66ece4f47a)
 
 **Identify foetal:**
 
@@ -70,7 +70,7 @@
 
 If the foetus is not cephalic, consult referral hospital for management, inform the woman and prepare an emergency birth plan.
 
-![Image](2bf45c0cda314494b9c806632f68b8a6)
+![Image](f3357f939ad14032b9f15acfd99aab9c)
 
 If the foetus is cephalic and not engaged, inform the woman on the risk of cord prolapse, encourage to attend/contact hospital immediately in the event of ruptured membranes or signs of labour.
 
@@ -80,7 +80,7 @@ If the foetus is cephalic and not engaged, inform the woman on the risk of cord 
 
 # Chapter: Measure symphysial-fundal height (SFH) (from 24 weeks)
 
-![Image](a707227f839049a6b3e39d0ddc6d00ca)
+![Image](303e2654ceb74ec0a0a4ff5db278f3f3)
 
 - Use both hands to determine the location of the fundus and stabilize it with one hand.
 - Measure the distance in cm between the symphysis pubis and the top of the fundus using a measuring tape.
@@ -93,6 +93,6 @@ Normal SFH measurements = pregnancy week (+/- 2cm):
 
 You may also use a foetal growth monitoring chart to assess growth:
 
-![Image](efe416b5b48146ee94447d53023e51d4)
+![Image](9ab3b1c4582445efa21cefacb7a1dc7b)
 
 ---

@@ -7,7 +7,7 @@ By the end of their first minute of life, every newborn should either be:
 - Breathing on their own **- OR**
 - Ventilated with a bag and mask.
 
-![Image](8b8d01756d0c451399d2be00bf258275)
+![Image](aa6bc559a5fb4b5585a26093f8f67d99)
 
 **Immediate steps after birth:**
 

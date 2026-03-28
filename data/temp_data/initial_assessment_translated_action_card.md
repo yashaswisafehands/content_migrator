@@ -14,7 +14,7 @@ Examine for danger signs such as:
 - Severe abdominal pain 
 - Premature rupture of membranes
 
-![Image](06c30f9db39c46358cad67a84bd01863)
+![Image](2ac54a3153894be3bf70eb7cc2b3e391)
 
 ## Check vital signs
 
@@ -25,7 +25,7 @@ Check that vital signs are within normal range:
 - Systolic BP: 90-139 mmHg 
 - Diastolic BP: 60-89 mmHg
 
-![Image](1c829342071a4f54800d9b52b0ee6393)
+![Image](4481d7c4e25d4bf1ab8ea1f8b5b8a774)
 
 ## Look for signs of anaemia and dehydration:
 
@@ -33,14 +33,14 @@ Check that vital signs are within normal range:
 
 - Paleness inside the conjunctiva/eyelids and palms
 
-![Image](223156b32baf475f83c140e56a9b8631)
+![Image](4dbe7ed6bdb14417bd17948c5dacbf44)
 
 **Dehydration:**
 
 - Sunken eyes and dry mouth 
 - Pinch the skin on her forearm to see if it goes back quickly
 
-![Image](db39b8af1c6a430ab5cc17234f251546)
+![Image](0692050596b04b11aed046187d644039)
 
 ## Review medical records
 
@@ -51,6 +51,6 @@ Check for conditions, which require special conditions during labour and birth, 
 - Ask about her medical history 
 - Ask about past and current pregnancies
 
-![Image](89763ac0adba4e74a0822c4c1d33c04c)
+![Image](ac460b472c5045ab9eebaf8e45464f7b)
 
 ---

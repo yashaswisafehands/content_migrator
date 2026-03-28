@@ -42,7 +42,7 @@
 
 ## Start AB
 
-- **Ampicillin**<color style="blue"> **</color>2g IV/6 hours**
+- **Ampicillin**<color style="#b5093f"> **</color>2g IV/6 hours**
 - **Gentamicin 240 mg** stat IMI, repeat after 24 hours and if renal that is adequate
 - **Metronidazole 500 mg IV/ 8 hours**
 

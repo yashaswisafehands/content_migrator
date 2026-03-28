@@ -8,7 +8,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after removal: **No delay**
 
-![Image](a8e2f9c4ff5d4e1babc94cf0f16f703f)
+![Image](088b5ff78770435cb90d250cedf9e21b)
 
 ## Insertion
 
@@ -16,13 +16,13 @@ An implant is ideally inserted in the first five days of the menstrual cycle but
 
 A trained provider performs a minor surgical procedure to place one or 2 rods under the skin on the inside of a woman’s upper arm.
 
-![Image](28ddc664a8374efd8b086bad1c3d87b9)
+![Image](f66b40459d8f45719a2100748de263e8)
 
 ## Removal
 
 A trained provider performs a minor surgical procedure to remove the implant(s).
 
-![Image](4de55a4226f841dc9c18c70b8b702ff4)
+![Image](e04be7c720c74cdab24311454d57116b)
 
 ## Women with HIV
 
@@ -75,7 +75,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after removal: **No delay**
 
-![Image](8c1be1ae85ca432d92ea20303914ea03)
+![Image](59b2083c89d84dc687f4e7a4fe2d05e8)
 
 ## Insertion
 
@@ -134,7 +134,7 @@ Protection against sexually transmitted infections (STIs): **None**
 
 Return of fertility after removal: **No delay**
 
-![Image](8c1be1ae85ca432d92ea20303914ea03)
+![Image](59b2083c89d84dc687f4e7a4fe2d05e8)
 
 # Insertion
 

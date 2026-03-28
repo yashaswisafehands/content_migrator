@@ -7,10 +7,10 @@ If available, do following test:
 - HIV testing/counselling 
 - STD screening
 
-![Image](be8c0cda18064eb5823842fdd740c2e0)
+![Image](d5f0086c13b443ad9dd0ab13ef9d295b)
 
 Lack of access to laboratory tests should not prevent the woman from getting an abortion.
 
-![Image](8d48d1fdeff843a3aaddd88730b3c363)
+![Image](9a6d511e02eb4bf2ad52446b9215ad19)
 
 ---

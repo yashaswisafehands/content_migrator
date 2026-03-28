@@ -1,11 +1,11 @@
 # Chapter: BABC - Action Plan 1
 
-![Image](93be83e7e19f41fbb003b9c45833221f)
+![Image](567d2ee018ce44a8a199baec82dab16d)
 
 ---
 
 # Chapter: BABC - Action Plan 2
 
-![Image](3466177eb0574d6a88dc716db4cc062a)
+![Image](32492d0a1a6948868a555326be66b74c)
 
 ---

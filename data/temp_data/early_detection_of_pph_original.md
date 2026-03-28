@@ -6,11 +6,11 @@ To improve detection and treatment of postpartum haemorrhage, **ALL women giving
 
 Use a **calibrated drape,** if available:****
 
-![Image](38f1321a824341fb8e974822a008e6b7)
+![Image](9b02c5abc31840a08c91a442405e807b)
 
 Or by **weighing** the blood loss on a scale:
 
-![Image](4a5860c87f8b417c82b5b68fe4e4623d)
+![Image](25aa1271f9664f898b6e31e7bd8eed85)
 
 Remember to subtract the weight of the material used to collect the blood.
 

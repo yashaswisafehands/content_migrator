@@ -5,13 +5,13 @@
 - **First:** mifepristone 200 mg orally, single dose 1-2 days before misoprostol administration. 
 - **Second:** misoprostol 800 mcg sublingually.
 
-![Image](86b091e1a1ae4797860f7e0882caf299)
+![Image](d44ae10902324bda9cc4a338e62f9384)
 
 ## Misoprostol only:
 
 - 800 mcg sublingually every 3-12 hours.
 
-![Image](e6525267a6d64243acca4145403166b4)
+![Image](9cfeade1ac654d29b1d7a2721773e548)
 
 ## <12 weeks:
 
@@ -25,7 +25,7 @@ Symptoms may include pain and bleeding. Some do not experience any symptoms at a
 
 If available, an ultrasound scan can indicate/diagnose a missed abortion by showing an embryo or foetus without cardiac activity, or what appears to be an early developing pregnancy with only a fluid-filled sac being visible within the uterus.
 
-![Image](e64def3b25904f6aa0ac38d573223177)
+![Image](ca835923ebc44e70879427359714d83d)
 
 Medical surgical (vacuum aspiration) and expectant management are all options for management of missed abortion.
 
@@ -41,7 +41,7 @@ Misoprostol 800 mcg sublingually.
 
 ## Self-management approaches for medical abortion
 
-![Image](bbe76b01e4aa47a79261f246efe08fb6)
+![Image](1ff402726a4d4bf0a655f67b50bea589)
 
 Women may self-manage parts or all of the abortion process for a variety of reasons related to individual circumstances and preferences.
 
@@ -51,6 +51,6 @@ For medical abortion in the 1st trimester, women should be offered to self-manag
 2. Self-administration of abortion medicines outside of a health-care facility and without the direct supervision of a trained health worker, and management of the abortion process. 
 3. Self-assessment of the success of the abortion.
 
-![Image](1599a715b600467f83e00c0a3c79c5be)
+![Image](4280abc2a3c44d8d8928ddb67e98801a)
 
 ---

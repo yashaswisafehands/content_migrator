@@ -1,0 +1,256 @@
+🌍 MODE: Global Data Migration
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+  🔄 Fetching all existing certificates from LME for caching...
+  ✅ Cached 0 existing certificates from API.
+🌍 Global Stage 2: Posting from 'languages' onwards...
+Posting global resources...
+Fetching existing resources from API to prevent duplication...
+Loaded 0 existing resource mappings from API.
+No resources.csv found to post.
+Posting global KLPs...
+Fetching existing KLPs from API...
+Fetched 0 existing KLPs from API
+No klps.csv found to post.
+Posting global modules...
+No modules.csv found to post.
+Posting global certificates...
+
+🚀 Starting CERTIFICATE migration...
+  Found 159 certificate documents in Cosmos.
+  Filtered to 45 unique latest certificates.
+  Grouped into 1 certificate families.
+
+================================================================================
+Processing Certificate Group 1/1: certificate-2017_1503996242450
+================================================================================
+
+📜 Migrating GLOBAL certificate for key: certificate-2017_1503996242450
+  → Searching API for certificate: 'Certificate 2017'
+     Trying: http://135.225.105.160:8004/certificates?title=Certificate 2017&content_type=original
+     Response is list with 0 items
+     ✗ No candidates found in response
+     Trying: http://135.225.105.160:8004/certificates?slug=certificate-2017
+     Response is list with 0 items
+     ✗ No candidates found in response
+     Trying: http://135.225.105.160:8004/certificates?slug=cert-certificate-2017
+     Response is list with 0 items
+     ✗ No candidates found in response
+  → Certificate not found via any search strategy
+
+📜 Processing GLOBAL Certificate: 'Certificate 2017'
+  ✅ Content uploaded: 3350dee5f30543beaef2...
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/two_midwifes.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/two_midwifes.png: 29f8795b7bce40a0aaf6bb2cc44f2d3d
+Using cached asset_id: 29f8795b7bce40a0aaf6bb2cc44f2d3d
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/strong_bleeding.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/strong_bleeding.png: 1edaaf3385b84be3a596989e5b66d374
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/midwife_calling_for_help.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/midwife_calling_for_help.png: 9277e6cc36f74de8932fca27bb26e5e7
+Using cached asset_id: 9277e6cc36f74de8932fca27bb26e5e7
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/head_down_position.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/head_down_position.png: dc9bb73711334bacaa02904542afaae3
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/General/drug_picture.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/General/drug_picture.png: 929b1aa3358a42debc6dc5d40573df02
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/3_persons_bleeding.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/3_persons_bleeding.png: 3809cc76d3ff4d4a9d339067f6937ffa
+Using cached asset_id: 3809cc76d3ff4d4a9d339067f6937ffa
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/cold%2C-sweaty-woman.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20partum%20hemorrage/cold%2C-sweaty-woman.png: efabef133cb54e18847523fa6fe4f2fa
+Using cached asset_id: efabef133cb54e18847523fa6fe4f2fa
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/counselling.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/counselling.png: 3c5eb5626cc440789972ba8e325a3cda
+Using cached asset_id: 3c5eb5626cc440789972ba8e325a3cda
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/blood_pressure_measurement.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/blood_pressure_measurement.png: b0d17e06afb64b4196ead355bfbd0631
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/blood-pressure.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/blood-pressure.png: daa9e45bbd574c36b728afb01c2488b1
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/preeclampsia.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/preeclampsia.png: 5f79e0a8833f4dcf88a3e06edffe3939
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/seizures.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/seizures.png: 79aefe0804164764b1de8c7de7bad232
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Maternal%20sepsis/pregnant_woman_in_pain.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Maternal%20sepsis/pregnant_woman_in_pain.png: 5de82ec343c04a73817c4c1c4e4e60cb
+Using cached asset_id: 5de82ec343c04a73817c4c1c4e4e60cb
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/woman_in_pain.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/woman_in_pain.png: 12c080ddb245494a9ee51db8ab59f632
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/lower_back_massage.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/lower_back_massage.png: 1b46ee3d5d744f82aad7cc4b295df374
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/prolonged_labour.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/prolonged_labour.png: f10d2b07796b43e6a518ac46aceade5b
+Using cached asset_id: 12c080ddb245494a9ee51db8ab59f632
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/ve_shown_to_woman.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/ve_shown_to_woman.png: f01131ec9ece4859a8d123763f059de7
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/vacuum_extractor.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/vacuum_extractor.png: 2c633c3e90964ba791d7ab1ee2f22574
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Maternal%20sepsis/mosquito.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Maternal%20sepsis/mosquito.png: 295f24e26a93478893f15f32ac139d3a
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/urine-pregnancy-test.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/urine-pregnancy-test.png: 6eb0ec511ea64574a533ad22d75d4264
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/iv-fluids.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/iv-fluids.png: b1299abd22694d7a98a63ef4153cc15d
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/oliguria.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Hypertension/oliguria.png: e5cbd36946654252ad09c07876217f81
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/septic-abortion.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/septic-abortion.png: 650d8f463ca44bfabca3f6e2fef4f7b6
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Manual%20removal%20of%20placenta/long_gloves.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Manual%20removal%20of%20placenta/long_gloves.png: b6f412339a48479fb55420bd987fadee
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/action-for-mva.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Post%20abortion%20care/action-for-mva.png: d8a49ca6af6949a589da6fee3bd0948a
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/heart_rate.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/heart_rate.png: 4219d04617594f3b95562a4234b0a8e7
+Using cached asset_id: 4219d04617594f3b95562a4234b0a8e7
+Using cached asset_id: 5de82ec343c04a73817c4c1c4e4e60cb
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/brand_new_baby.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/brand_new_baby.png: 57f806e2a9ab4c07b96d3c20aa29b93d
+Using cached asset_id: 57f806e2a9ab4c07b96d3c20aa29b93d
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/newborn_blue_lips.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/newborn_blue_lips.png: 64578b5c33b74571ad1bbfb1a4094bcf
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/blue_newborn.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/blue_newborn.png: 7e0f44ff58db45c8a48a163cde483410
+Using cached asset_id: 7e0f44ff58db45c8a48a163cde483410
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/mask_of_the_newborn.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/mask_of_the_newborn.png: c9999618edb345ba9d555c0ca56521d7
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/assessment_of_newborn_during_resus.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/assessment_of_newborn_during_resus.png: ff231bd8a2be4e12a54b4b61ceedf7b9
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/newborn_chest.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/newborn_chest.png: d9aa305b7c984edc9060302cfb594550
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/normal_newborn.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Neonatal%20resuscitation/normal_newborn.png: e8b35cdf89894120b46dc60a1d2e54eb
+  ⚠️ Case 'a-25-year-old-second-gravida-comes-to-the-health-facility-after-she-passed-plenty-of-clear-amniotic-fluid-at-home-there-is-no-bleeding-and-no-contractions-her-gestational-age-is-32-weeks-according-to-her-last-menstrual-period-that-she-is-certain-about_1504539931583' not found. Skipping case.
+  ⚠️ Case 'you-are-delivering-a-21-year-old-primigravida-with-spontaneous-onset-of-labor-she-was-fully-dilated-after-eight-hours-of-active-labour-and-there-was-clear-amniotic-fluid-at-birth-there-were-no-signs-of-fetal-distress-during-delivery_1504540433476' not found. Skipping case.
+  ⚠️ Case 'a-primigravida-is-in-labor-she-is-at-term-with-no-complications-during-pregnancy-the-delivery-has-progressed-normally-and-fetal-heart-rate-has-been-within-normal-range-at-auscultations-but-at-delivery-the-newborn-is-covered-in-thick-meconium-and-it-does-not-scream-or-breathe-_1504540859833' not found. Skipping case.
+  ⚠️ Case 'you-are-at-work-in-your-health-facility-a-monday-morning-after-a-very-busy-weekend-there-has-not-been-running-water-in-the-tap-for-a-long-time-and-you-find-that-there-is-no-more-alcohol-based-handrub-_1504541527324' not found. Skipping case.
+  ⚠️ Case 'at-your-facility-there-are-two-women-in-delivery-at-the-same-time-and-you-are-the-only-skilled-birth-attendant-on-duty-but-you-have-two-assistants-to-help-the-first-woman-in-labour-is-a-primigravida-at-term-with-spontaneous-onset-of-labour-and-normal-progress-of-first-stage-the-second-is-a-multigravida-3rd-birth-at-term-also-with-spontaneous-onset-of-labour-and-normal-progress-of-first-stage_1504541731914' not found. Skipping case.
+  ⚠️ Case 'there-were-no-danger-signs-and-after-12-hours-you-discharged-the-mother-and-newborn-after-two-days-the-mother-comes-back-with-the-newborn-and-tells-you-that-it-is-not-feeding-well-and-sleeps-a-lot-on-examination-you-notice-that-the-newborn-has-a-free-airway-but-is-breathing-very-rapid-with-cyanosis-chest-indrawings-and-a-respiratory-rate-of-more-than-65-how-do-you-continue-_1505294073471' not found. Skipping case.
+  ⚠️ Case 'you-suspect-puerperal-sepsis-post-partum-endometritis-you-treat-with-iv-antibiotics-for-24-hours-she-is-still-not-doing-well-blood-pressure-is-9050-mmhg-pulse-110-bpm-urine-output-600-ml-the-last-24-hours-respiratory-frequency-25-per-minute-her-lower-abdomen-is-tender-no-rebound-tenderness-there-is-foul-smelling-discharge-_1505295557176' not found. Skipping case.
+  ⚠️ Case 'she-is-hiv-negative-and-had-her-tetanus-vaccination-she-gives-birth-spontaneously-next-day-at-11-am-she-had-a-vacuum-extraction-performed-because-of-prolonged-second-stage-a-post-partum-haemorrhage-of-900-ml-is-controlled-by-uterus-massage-oxytocin-and-misoprostol-she-has-a-perineal-laceration-that-is-repaired-the-baby-is-not-breastfeeding-well_1505312738040' not found. Skipping case.
+  → Creating NEW certificate via POST http://135.225.105.160:8004/certificates
+  ✅ Certificate created successfully
+     Cosmos ID: 0b30977e-a7f0-4854-a72d-8fc1f79d35be
+     LME ID: 90b896a0a45c4dae905d59eb7ad1ddce
+  → Activating version 07e43dbd52d742d2a6dc3c6998e039da via PATCH http://135.225.105.160:8004/certificates/versions/07e43dbd52d742d2a6dc3c6998e039da/status
+  ✅ Version activated successfully.
+  ⚠️ Skipping translation for langId '039159a0-4ade-4125-ceaa-b0d8df3e6516': Not in languages.csv
+  ⚠️ Skipping translation for langId 'aa8c18d3-f053-d7f3-e8be-6a023cda1234': Not in languages.csv
+  ⚠️ Skipping translation for langId '51cf0b46-59a8-e6d8-61b2-607afffa54e7': Not in languages.csv
+  ⚠️ Skipping translation for langId '82b95239-ab14-8010-e1bd-8451f831148a': Not in languages.csv
+  ⚠️ Skipping translation for langId '57153e33-dd43-63d8-337b-ce55028fddb6': Not in languages.csv
+  ⚠️ Skipping translation for langId '31ac7e6e-0a21-6d65-7c65-528baae911ca': Not in languages.csv
+  ⚠️ Skipping translation for langId '5f06426b-f7f4-ced1-66e3-d8ab3d0881bd': Not in languages.csv
+  ⚠️ Skipping translation for langId '48a750e1-e772-975f-3632-1854b5b4501b': Not in languages.csv
+  ⚠️ Skipping translation for langId '9d3b9b64-a68a-e704-7243-61a41f3972ff': Not in languages.csv
+  ⚠️ Skipping translation for langId '27e7c925-c74b-9e3c-39c5-4d5bf5de63f2': Not in languages.csv
+  ⚠️ Skipping translation for langId 'f2546fdb-9ef6-62e0-3ade-ed94cd3f1156': Not in languages.csv
+  ⚠️ Skipping translation for langId 'b9d76a25-dbf4-4e26-e4e5-2957ba00eef7': Not in languages.csv
+  ⚠️ Skipping translation for langId 'a0be8909-b77e-79b0-ef7c-c145b7b702b5': Not in languages.csv
+  ⚠️ Skipping translation for langId 'a5cf01c8-aee8-1f48-bac8-b887483595ca': Not in languages.csv
+  ⚠️ Skipping translation for langId 'b7a76509-da16-2796-4851-7ded7456350e': Not in languages.csv
+  ⚠️ Skipping translation for langId '3602753e-8e6a-3b05-094b-caf78b37ae26': Not in languages.csv
+  ⚠️ Skipping translation for langId '49bc07fa-9ad4-816c-17db-e693a28dd40f': Not in languages.csv
+  ⚠️ Skipping translation for langId '7ec65d25-3edc-dde4-c066-dfe92c798404': Not in languages.csv
+  ⚠️ Skipping translation for langId 'ba2b6912-0bf8-d0ed-5c57-22ba41da24af': Not in languages.csv
+  ⚠️ Skipping translation for langId '9f9139fa-8d00-28b8-13b9-34ce26df08cd': Not in languages.csv
+  ⚠️ Skipping translation for langId '130685a4-db88-3933-1026-f4ac14c4a95a': Not in languages.csv
+  ⚠️ Skipping translation for langId 'd7fee124-6f53-1672-57c7-1b29038bfa35': Not in languages.csv
+  ⚠️ Skipping translation for langId 'b1df240d-17a7-a114-6e95-50bcde2b81df': Not in languages.csv
+  ⚠️ Skipping translation for langId '00bfd564-7d6f-59b6-b00d-df89bddfaabe': Not in languages.csv
+  ⚠️ Skipping translation for langId '34167545-4a28-61c7-8f78-af899807d40e': Not in languages.csv
+  ⚠️ Skipping translation for langId 'd43337f5-be53-293d-4dc2-751621a70125': Not in languages.csv
+  ⚠️ Skipping translation for langId 'd8873ed0-de3a-da5d-9e10-a4cdced24b1b': Not in languages.csv
+  ⚠️ Skipping translation for langId '6d8fa9f3-88cd-348a-01be-0851a662bd6d': Not in languages.csv
+  ⚠️ Skipping translation for langId '6a146956-9f21-206a-98cf-55db7b0a8301': Not in languages.csv
+  ⚠️ Skipping translation for langId 'bba50fa5-52ca-8773-6f0f-257c96ade5be': Not in languages.csv
+  ⚠️ Skipping translation for langId 'f3bb22c9-d64b-26e3-cbf9-e5418e905fb1': Not in languages.csv
+  ⚠️ Skipping translation for langId 'ca483533-44b4-e792-f941-b8f809c50bfd': Not in languages.csv
+  ⚠️ Skipping translation for langId '7c507a77-f40c-944d-d832-9925cce38b77': Not in languages.csv
+  ⚠️ Skipping translation for langId 'a5a16d2a-c5c4-c605-f944-1e559dfe7bdf': Not in languages.csv
+  ⚠️ Skipping translation for langId '32c2c9f8-5afe-6746-2a79-9966e7987446': Not in languages.csv
+  ⚠️ Skipping translation for langId '67431a5f-a328-a334-3a79-125866630feb': Not in languages.csv
+  ⚠️ Skipping translation for langId '57de429d-e031-f1e6-d355-c0c8f9b53424': Not in languages.csv
+  ⚠️ Skipping translation for langId '791bb5cb-192d-9a45-a03a-c4a0805caf23': Not in languages.csv
+  ⚠️ Skipping translation for langId 'c212e9db-06b3-2282-a07d-d3c0c9fe12ea': Not in languages.csv
+  ⚠️ Skipping translation for langId '7a3f367b-99df-9bca-0b1f-100dcc14ae95': Not in languages.csv
+  ⚠️ Skipping translation for langId '52510488-1303-5e36-6616-cc66413a73f1': Not in languages.csv
+  ⚠️ Skipping translation for langId 'cca954e8-6c14-6924-6990-010cd19c7919': Not in languages.csv
+  ⚠️ Skipping translation for langId '3163c8ae-e97e-2ad3-986d-82868e1b342b': Not in languages.csv
+  ⚠️ Skipping translation for langId 'dca15fb5-81b8-eeaa-c971-d08a7e5c7570': Not in languages.csv
+
+  ℹ️ No valid translations to migrate for this certificate.
+
+================================================================================
+Certificate migration completed!
+================================================================================
+Posting global settings screens (About)...
+2026-03-27 09:25:48,682 - INFO - ============================================================
+2026-03-27 09:25:48,682 - INFO - Starting Global About Screen Migration
+2026-03-27 09:25:48,682 - INFO - ============================================================
+2026-03-27 09:25:48,782 - INFO - Found 12 unique global about sections
+2026-03-27 09:25:48,782 - INFO -    Processing section: lp-introduction
+2026-03-27 09:25:48,895 - INFO -    ✅ lp-introduction: content=3467515c5e2443a3b183140b2bcb7e44, icon=None
+2026-03-27 09:25:48,896 - INFO -    Processing section: introduction
+2026-03-27 09:25:49,028 - INFO -    ✅ introduction: content=57d5c9da5833489ca23d93bef0dd76a8, icon=None
+2026-03-27 09:25:49,028 - INFO -    Processing section: thankyou
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/logos/MSD for Mothers.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading icon asset https://sdacms.blob.core.windows.net/content/assets/images/logos/MSD for Mothers.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/logos/MSD%20for%20Mothers.png
+2026-03-27 09:25:49,327 - INFO -    ✅ thankyou: content=6aef64a0e6c145c6ba6603f27633510d, icon=None
+2026-03-27 09:25:49,327 - INFO -    Processing section: feedback-and-troubleshooting
+2026-03-27 09:25:49,449 - INFO -    ✅ feedback-and-troubleshooting: content=9344c8ea560e4fb0a9a90b686f5390ed, icon=None
+2026-03-27 09:25:49,449 - INFO -    Processing section: background-survey
+2026-03-27 09:25:49,559 - INFO -    ✅ background-survey: content=00f14773c7734331b91109c1bb1889ea, icon=None
+2026-03-27 09:25:49,559 - INFO -    Processing section: disclaimer
+2026-03-27 09:25:49,674 - INFO -    ✅ disclaimer: content=6db6eeb42095497389cca35082667fd5, icon=None
+2026-03-27 09:25:49,675 - INFO -    Processing section: comingsoon
+2026-03-27 09:25:49,788 - INFO -    ✅ comingsoon: content=c816aa3daa7a46988cd14f2501fb8b5d, icon=None
+2026-03-27 09:25:49,788 - INFO -    Processing section: developers
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/logos/Developer logos.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading icon asset https://sdacms.blob.core.windows.net/content/assets/images/logos/Developer logos.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/logos/Developer%20logos.png
+2026-03-27 09:25:50,082 - INFO -    ✅ developers: content=a9ecf4edf10d4e0ba0e56dcba36a60ff, icon=None
+2026-03-27 09:25:50,082 - INFO -    Processing section: welcome
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/icon/module/active_management_of_third_stage_labour_alt.png
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error downloading icon asset https://sdacms.blob.core.windows.net/content/assets/images/icon/module/active_management_of_third_stage_labour_alt.png: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/icon/module/active_management_of_third_stage_labour_alt.png
+2026-03-27 09:25:50,413 - INFO -    ✅ welcome: content=31201449b7ae4e299f998aed7382d528, icon=None
+2026-03-27 09:25:50,414 - INFO -    Processing section: upq-introduction
+2026-03-27 09:25:50,579 - INFO -    ✅ upq-introduction: content=dae8a505926041688aa8780e453c9057, icon=None
+2026-03-27 09:25:50,579 - INFO -    Processing section: copyright
+2026-03-27 09:25:50,755 - INFO -    ✅ copyright: content=de39fe74e9504de8b900259535896caf, icon=None
+2026-03-27 09:25:50,755 - INFO -    Processing section: upq-thankyou
+2026-03-27 09:25:50,924 - INFO -    ✅ upq-thankyou: content=0ceb9fc295424300beb9ddfd89fb4b14, icon=None
+2026-03-27 09:25:50,990 - INFO - POSTing original screen data to http://135.225.105.160:8004/settings-screens/
+2026-03-27 09:25:51,260 - INFO - ✅ Created original screen data: data_id=53b1d7b107334acd96df1e2230a99cd6
+2026-03-27 09:25:51,261 - INFO - Saved screen data mapping: GLOBAL -> 53b1d7b107334acd96df1e2230a99cd6
+2026-03-27 09:25:51,374 - INFO -    ✓ Activated screen data version: 05ec49ff82d241719861b53babb9e58d
+2026-03-27 09:25:51,374 - INFO - ✅ Global about screens migrated successfully: data_id=53b1d7b107334acd96df1e2230a99cd6
+2026-03-27 09:25:51,374 - INFO - ============================================================
+2026-03-27 09:25:51,374 - INFO - Global About Screen Migration Complete!
+2026-03-27 09:25:51,374 - INFO - ============================================================
+
+=== Posting Global Onboarding Flow ===
+
+=== Onboarding: Migrating Global (Original) ===
+  ⬇  Downloading bundle: https://sdacms.blob.core.windows.net/content/en/content-bundle.json
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/main.py", line 331, in <module>
+    main()
+  File "/home/azureuser/test/content_migrator/main.py", line 318, in main
+    global_migrator.post_global_content(start_from=args.start_from)
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 383, in post_global_content
+    flow_id = onboarding_mig.migrate_global()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/onboarding_migrator.py", line 471, in migrate_global
+    bundle = self._get_bundle(ENGLISH_COSMOS_LANG_ID, local_bundle_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/onboarding_migrator.py", line 356, in _get_bundle
+    return _download_bundle(cosmos_lang_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/onboarding_migrator.py", line 219, in _download_bundle
+    resp.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/en/content-bundle.json

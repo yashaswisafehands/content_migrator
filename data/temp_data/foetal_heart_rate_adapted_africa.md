@@ -2,7 +2,7 @@
 
 ### Foetal heart rate (FHR) - usage
 
-![Image](45508d70706d40e5823774c329ec0698)
+![Image](80d359af2a23462ebcd157664311431a)
 
 Measurement of the FHR during labour is indicated:
 
@@ -34,7 +34,7 @@ A heart rate above 180 bpm indicates foetal asphyxia and immediate delivery is n
 
 The foetal heart is best heard by placing the fetoscope over the back of the foetus. Therefore, establish foetal lie and position before assessing FHR.
 
-![Image](b1a8fbb241444627b667c1b83c539bb6)
+![Image](2b574536b84b4008a2258feec0f8d36f)
 
 Always auscultate the foetal heart rate for at least one minute starting during a contraction and continuing for at least 30 seconds after (you will need a watch).
 

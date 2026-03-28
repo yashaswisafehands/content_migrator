@@ -40,6 +40,6 @@ Basic equipment includes:
 
 - If oxygen therapy by nasopharyngeal catheter is required at the same time, pass both tubes down the same nostril and keep the other nostril patent by wiping away crusts and secretions, or pass the feeding tube through the mouth.
 
-![Image](19a518c1bc9648d6901b62f3b3fe3fdb)
+![Image](0144fd1f40874792af95987836ed5df9)
 
 ---

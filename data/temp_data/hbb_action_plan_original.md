@@ -1,5 +1,5 @@
 # Chapter: HBB - Action Plan
 
-![Image](b725e54c74b14fc3af3ac4d59dcd358b)
+![Image](56b76f2b9fac49dd997aae213ea07609)
 
 ---

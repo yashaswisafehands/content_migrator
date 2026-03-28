@@ -1,17 +1,17 @@
 # Chapter: Moderate elevated blood pressure: ≥140/90 and ≤ 160/110
 
-![Image](4a19d9762a0e4320aa14e87b4c95d155)
+![Image](6cc47d7cd3bf45e5a3211b3bda964721)
 
 ---
 
 # Chapter: Severely elevated blood pressure: ≥ 160/110
 
-![Image](0ce4b84e2b8f45fd96b851418ddf8468)
+![Image](93f7d58f4e094e738ecdef91bd7ecc9a)
 
 ---
 
 # Chapter: Prevention and treatment of eclampsia
 
-![Image](625ee99ce0c14fd899eb933ad173ff65)
+![Image](0053baa2f2774ea287a62ad4e497cb95)
 
 ---

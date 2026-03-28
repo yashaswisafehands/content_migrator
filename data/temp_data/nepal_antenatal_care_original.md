@@ -28,7 +28,7 @@ Maternity care providers need to perform hand hygiene:
 - After cleaning surfaces between every patient contact 
 - After coughing or sneezing
 
-![Image](3cc65d3c6aa74c7995354fc8d64ca9ae)
+![Image](683ce2a35d6b4879951b36dc5ac6ad9b)
 
 ## ANC schedule
 
@@ -47,7 +47,7 @@ This may be appropriate for some women after risk assessment and can be used for
 3. Freedom from discrimination 
 4. Supporting women’s right to information and informed autonomous decision making
 
-![Image](7884a834e345488babf1527f1331f33f)
+![Image](4d87ae0a24be4d7b8ced79b6d84e6397)
 
 **Suggested actions at every contact:**
 

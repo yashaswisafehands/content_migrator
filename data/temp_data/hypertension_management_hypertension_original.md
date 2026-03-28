@@ -62,6 +62,6 @@ See drug list for more details.
 
 >
 
-![Image](6d5490bae42241df989a3d49799a1fb9)
+![Image](8aacc5999d3540569ff5097f3cd49262)
 
 ---

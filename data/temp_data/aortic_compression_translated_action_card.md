@@ -25,7 +25,7 @@ With the other hand, palpate the femoral pulse.
 - **Pulse palpable → Compression is inadequate**
 - **Pulse not palpable → Compression is adequate**
 
-![Image](d36087791cc34ba99ef812b27afc0b73)
+![Image](951b6189c0c0457fa169702f19431fb7)
 
 Continue compression until bleeding is controlled or definitive management is initiated.
 
