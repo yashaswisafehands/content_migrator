@@ -89,6 +89,14 @@ class ModuleMigrator:
         for cid in target_ids:
             label = "global" if cid == "global" else cid
             
+            # --- Set global log prefix for this language block ---
+            from error_logger import set_log_prefix
+            lang_name = label
+            if hasattr(self, "language_mapping") and isinstance(self.language_mapping, dict) and cid in self.language_mapping:
+                lang_name = self.language_mapping[cid].get("name", label)
+            set_log_prefix(f"Stage 1 - {lang_name}")
+            # -----------------------------------------------------
+
             if cid == "global" or cid == "en":
                 # For global/English modules, use Cosmos DB and module_resource_summary.csv
                 modules = self._get_modules_for_language(cid)
@@ -692,15 +700,19 @@ class ModuleMigrator:
                 lme_lang_id = None
                 region = "africa"
 
+                # --- Set Log Prefix for Stage 2 ---
+                from error_logger import set_log_prefix
+                lang_name_s2 = csv_cosmos_id
                 if csv_cosmos_id and csv_cosmos_id != "global":
                     if csv_cosmos_id in self.language_mapping:
                         entry = self.language_mapping[csv_cosmos_id]
                         lme_lang_id = entry.get("lme_language_id")
                         region = entry.get("region", region)
+                        lang_name_s2 = entry.get("name", csv_cosmos_id)
                     else:
-                        # Try fallback to lookup language by simple ID? Or just skip?
-                        # If we don't have mapping, we can't translate correctly.
                         pass
+                set_log_prefix(f"Stage 2 - {lang_name_s2}")
+                # ----------------------------------
 
                 def _split(val: str) -> List[str]:
                     if not val:

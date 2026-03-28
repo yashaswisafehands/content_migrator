@@ -668,11 +668,55 @@ def analyze_and_migrate_json(data, resource, output_base_path: str, asset_versio
             # Standard markdown is safer since LME renders it. I'll drop the :: unless requested.
         
         for chapter in chapters:
-            chap_title = chapter.get("description") or "Untitled Chapter"
-            for v in versions.values():
-                v.append(f"## {chap_title}") # Utility had # Chapter: {chap_title}::
+            cards = chapter.get("cards", [])
+            default_title = chapter.get("description") or "Untitled Chapter"
+            
+            # Extract localized chapter title from the first header card
+            chap_versions = {
+                "master": default_title,
+                "adapted": default_title,
+                "translated": default_title,
+            }
+            cards_to_process = cards
+            
+            if cards:
+                from text_utils import parse_rich_text_block
+                first_card = cards[0]
+                if first_card.get("type") in ("header", "subheader", "alphabetical"):
+                    version_key_map = {
+                        "master": "content",
+                        "adapted": "adapted",
+                        "translated": "translated"
+                    }
+                    for v_name, vk in version_key_map.items():
+                        header_block = first_card.get(vk)
+                        # Semantic check skipping empty blocks
+                        if isinstance(header_block, dict):
+                            hb_blocks = header_block.get("blocks", [])
+                            if not any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict)):
+                                header_block = None
+                                
+                        # Fallback for translated: adapted -> content
+                        if not header_block and vk == "translated":
+                            header_block = first_card.get("adapted")
+                            if isinstance(header_block, dict) and not any(b.get("text", "").strip() for b in header_block.get("blocks", []) if isinstance(b, dict)):
+                                header_block = None
+                                
+                        if not header_block:
+                            header_block = first_card.get("content")
+                            
+                        header_text = parse_rich_text_block(header_block) if isinstance(header_block, dict) else ""
+                        if header_text and header_text.strip():
+                            chap_versions[v_name] = header_text.strip()
+                            
+                    # Skip the first card since we used it as the header
+                    cards_to_process = cards[1:]
 
-            for card in chapter.get("cards", []):
+            versions["master"].append(f"## {chap_versions['master']}")
+            versions["adapted"].append(f"## {chap_versions['adapted']}")
+            versions["translated"].append(f"## {chap_versions['translated']}")
+
+            for card in cards_to_process:
                 master = process_card(card, "content", asset_version)
                 adapted = process_card(card, "adapted", asset_version)
                 translated = process_card(card, "translated", asset_version)
