@@ -359,9 +359,9 @@ def apply_styles(text: str, style_ranges: list) -> str:
         end = min(offset + length, text_len)
         text = (
             text[:offset]
-            + f'<color style="#b5093f">'
+            + f'<color style="#b5093f">**'
             + text[offset:end]
-            + "</color>"
+            + '**</color>'
             + text[end:]
         )
 
@@ -374,8 +374,8 @@ def apply_styles(text: str, style_ranges: list) -> str:
         if r.get("style", "") in _COLOR_STYLES:
             ofs = r.get("offset", 0)
             ln = r.get("length", 0)
-            open_tag_len = len('<color style="#b5093f">')
-            close_tag_len = len("</color>")
+            open_tag_len = len('<color style="#b5093f">**')
+            close_tag_len = len("**</color>")
             _color_insertions.append((ofs, open_tag_len, ofs + ln, close_tag_len))
 
     bold_ranges.sort(
@@ -498,7 +498,16 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
     from factories import DataFactory  # Avoid circular import
 
     card_type = card.get("type")
-    content = card.get(version_key) or card.get("content")
+    content = card.get(version_key)
+    # Check semantic emptiness: a dict with empty/blank blocks is useless
+    if isinstance(content, dict):
+        blocks = content.get("blocks", [])
+        has_text = any(b.get("text", "").strip() for b in blocks if isinstance(b, dict))
+        if not has_text and not content.get("html") and not content.get("src"):
+            content = None
+    # Fallback to English content as last resort
+    if not content:
+        content = card.get("content")
 
     if not content:
         return {"md_text": "", "asset_id": None}
@@ -571,6 +580,10 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
         lines = [line for line in md_text.splitlines() if line.strip()]
         md_text = "\n".join([f"{i+1}. {line}" for i, line in enumerate(lines)])
         prefix = ""
+
+    # Don't return bare prefix markers (e.g. "##") when card text is empty
+    if not md_text and prefix:
+        return {"md_text": "", "asset_id": None}
 
     return {"md_text": f"{prefix}{md_text}".strip(), "asset_id": None}
 
@@ -791,7 +804,33 @@ def convert_action_card_to_markdown_files(
                     "translated": "translated",
                 }
                 for v_name, vk in version_key_map.items():
-                    header_block = first_card.get(vk) or first_card.get("content")
+                    header_block = first_card.get(vk)
+                    # Semantic check: skip empty translated dicts
+                    if isinstance(header_block, dict):
+                        hb_blocks = header_block.get("blocks", [])
+                        hb_has_text = any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict))
+                        if not hb_has_text:
+                            header_block = None
+                    # Fallback chain: adapted → scan next header cards → English content
+                    if not header_block and vk == "translated":
+                        header_block = first_card.get("adapted")
+                        if isinstance(header_block, dict):
+                            hb_blocks = header_block.get("blocks", [])
+                            if not any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict)):
+                                header_block = None
+                    # Scan remaining cards for a translated header/subheader
+                    if not header_block and vk in ("translated", "adapted"):
+                        for scan_card in cards[1:]:
+                            if scan_card.get("type") in ("header", "subheader", "alphabetical"):
+                                candidate = scan_card.get(vk)
+                                if isinstance(candidate, dict) and any(
+                                    b.get("text", "").strip() for b in candidate.get("blocks", []) if isinstance(b, dict)
+                                ):
+                                    header_block = candidate
+                                    break
+                    # Final fallback: English content (keeps heading, avoids "Untitled")
+                    if not header_block:
+                        header_block = first_card.get("content")
                     header_text = parse_rich_text_block(header_block) if isinstance(header_block, dict) else ""
                     if not header_text:
                         header_text = chapter.get("description", "")
@@ -819,6 +858,7 @@ def convert_action_card_to_markdown_files(
 
             translated_card = process_card(card, "translated", asset_version)
             if not translated_card["md_text"]:
+                # Fallback: adapted → English content (keep English as last resort)
                 translated_card = adapted_card if adapted_card["md_text"] else content_card
             if translated_card["md_text"]:
                 versions["translated"].append(translated_card["md_text"])
