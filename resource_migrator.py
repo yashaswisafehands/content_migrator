@@ -1960,8 +1960,9 @@ class ResourceMigrator:
         """Read processed klps.csv and POST to /klps/ API, updating mapping."""
         path = self._klp_queue_path
         
-        # Fetch existing KLPs first to avoid duplicates
-        self._fetch_existing_klps()
+        # Disable eager fetching to speed up Stage 2.
+        # Idempotency is preserved natively via local CSV map & HTTP 409 Conflict catching.
+        # self._fetch_existing_klps()
         
         if not path.exists():
             print("No klps.csv found to post.")
@@ -2234,8 +2235,9 @@ class ResourceMigrator:
         """Read processed resources.csv and POST to API, updating mapping."""
         path = self._resource_queue_path
         
-        # Populate mapping from API first to avoid duplicates
-        self._fetch_existing_resources()
+        # Disable eager fetching to speed up Stage 2. 
+        # API fetches are now done lazily only upon 409 Conflicts.
+        # self._fetch_existing_resources()
 
         if not path.exists():
             print("No resources.csv found to post.")
