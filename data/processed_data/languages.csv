@@ -1,4 +1,3 @@
 cosmos_id,language_name,autonym_script,learning_platform,country_code,country,region,latitude,longitude,created_by,icon,image_prefix,video_prefix
-49bc07fa-9ad4-816c-17db-e693a28dd40f,India - Hindi,India - Hindi,TRUE,IN,IN,india,20.593684,78.96288,neelam@maternity.dk,,india,India
-49bc07fa-9ad4-816c-17db-e693a28dd40f,India - Hindi,India - Hindi,True,IN,IN,india,india,,20.593684,78.96288,neelam@maternity.dk,
-49bc07fa-9ad4-816c-17db-e693a28dd40f,India - Hindi,India - Hindi,True,IN,IN,india,india,,20.593684,78.96288,neelam@maternity.dk,
+f3bb22c9-d64b-26e3-cbf9-e5418e905fb1,Ethiopia - Amharic,Ethiopia - Amharic,TRUE,ET,ET,africa,9.145,40.489673,natalia@maternity.dk,,africa,ethiopia amharic
+f3bb22c9-d64b-26e3-cbf9-e5418e905fb1,Ethiopia - Amharic,Ethiopia - Amharic,True,ET,ET,africa,africa,,9.145,40.489673,natalia@maternity.dk,
