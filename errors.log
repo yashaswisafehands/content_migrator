@@ -19255,3 +19255,21 @@ Traceback (most recent call last):
 requests.exceptions.HTTPError: 404 Client Error: The specified blob does not exist. for url: https://sdacms.blob.core.windows.net/content/assets/images/africa/key%20learning%20points/Prolonged%20labour/4_cm_dilated.png
 
 ==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/prod/sdp_dms/factories.py", line 641, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8005/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/prod/sdp_dms/factories.py", line 641, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8005/assets/action-card/upload
+
+==================================================
