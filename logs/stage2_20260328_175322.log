@@ -1,0 +1,64 @@
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+Starting Stage 2 (posting from CSVs), starting from: languages...
+Loaded 5 existing language mappings
+Loaded 298 queued resource slugs
+Loaded 1176 existing resource mappings
+Loaded 608 queued KLP slugs
+Loaded 886 existing KLP mappings
+Loaded 17 queued module slugs
+
+=== STEP 1: Post Languages ===
+Skipping cosmos_id 49bc07fa-9ad4-816c-17db-e693a28dd40f; mapping already exists
+Skipping cosmos_id 49bc07fa-9ad4-816c-17db-e693a28dd40f; mapping already exists
+Skipping cosmos_id 49bc07fa-9ad4-816c-17db-e693a28dd40f; mapping already exists
+
+=== STEP 2: Post Resources ===
+Ensuring linked resources exist (creating placeholders)...
+Fetching existing resources from API to prevent duplication...
+Traceback (most recent call last):
+  File "/home/azureuser/prod/sdp_dms/main.py", line 331, in <module>
+    main()
+  File "/home/azureuser/prod/sdp_dms/main.py", line 323, in main
+    orchestrator.migrate_all_content(
+  File "/home/azureuser/prod/sdp_dms/main.py", line 147, in migrate_all_content
+    self.module_migrator.resource_migrator.post_resources_from_csv()
+  File "/home/azureuser/prod/sdp_dms/resource_migrator.py", line 2238, in post_resources_from_csv
+    self._fetch_existing_resources()
+  File "/home/azureuser/prod/sdp_dms/resource_migrator.py", line 2571, in _fetch_existing_resources
+    for item in self._get_all_items_paginated(url, limit=1000):
+  File "/home/azureuser/prod/sdp_dms/resource_migrator.py", line 2537, in _get_all_items_paginated
+    resp = self.session.get(url, params=params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 1448, in getresponse
+    response.begin()
+  File "/usr/lib/python3.12/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

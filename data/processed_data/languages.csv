@@ -1,3 +1,4 @@
 cosmos_id,language_name,autonym_script,learning_platform,country_code,country,region,latitude,longitude,created_by,icon,image_prefix,video_prefix
-2d9ef8a4-5277-6f3f-7f88-3db2cfb9c610,Arabic-MSF,Arabic-MSF,TRUE,JO,JO,mena,30.585164,36.238414,sonel@afidigitalservices.com,,mena,mena - arabic
-2d9ef8a4-5277-6f3f-7f88-3db2cfb9c610,Arabic-MSF,Arabic-MSF,True,JO,JO,mena,mena,,30.585164,36.238414,sonel@afidigitalservices.com,
+49bc07fa-9ad4-816c-17db-e693a28dd40f,India - Hindi,India - Hindi,TRUE,IN,IN,india,20.593684,78.96288,neelam@maternity.dk,,india,India
+49bc07fa-9ad4-816c-17db-e693a28dd40f,India - Hindi,India - Hindi,True,IN,IN,india,india,,20.593684,78.96288,neelam@maternity.dk,
+49bc07fa-9ad4-816c-17db-e693a28dd40f,India - Hindi,India - Hindi,True,IN,IN,india,india,,20.593684,78.96288,neelam@maternity.dk,

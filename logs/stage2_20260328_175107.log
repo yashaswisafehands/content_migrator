@@ -1,0 +1,17 @@
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+Starting Stage 2 (posting from CSVs), starting from: languages...
+Loaded 5 existing language mappings
+Loaded 298 queued resource slugs
+Loaded 1176 existing resource mappings
+Loaded 608 queued KLP slugs
+Loaded 886 existing KLP mappings
+Loaded 17 queued module slugs
+
+=== STEP 1: Post Languages ===
+Skipping cosmos_id 49bc07fa-9ad4-816c-17db-e693a28dd40f; mapping already exists
+Skipping cosmos_id 49bc07fa-9ad4-816c-17db-e693a28dd40f; mapping already exists
+Skipping cosmos_id 49bc07fa-9ad4-816c-17db-e693a28dd40f; mapping already exists
+
+=== STEP 2: Post Resources ===
+Ensuring linked resources exist (creating placeholders)...
+Fetching existing resources from API to prevent duplication...
