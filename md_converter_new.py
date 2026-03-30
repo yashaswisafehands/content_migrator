@@ -323,6 +323,7 @@ def extract_filename_from_path(path: str) -> str:
 
 _COLOR_STYLES = {
     "BLUE", "RED", "GREEN", "ORANGE", "YELLOW", "PURPLE", "PINK", "BROWN",
+    "GREY", "GRAY",
 }
 
 
@@ -494,7 +495,7 @@ def process_embedded_images(markdown: str, language_id: str = "global") -> str:
         return markdown
 
 
-def process_card(card: dict, version_key: str, asset_version: str) -> dict:
+def process_card(card: dict, version_key: str, asset_version: str, strict_fallback: bool = False) -> dict:
     from factories import DataFactory  # Avoid circular import
 
     card_type = card.get("type")
@@ -505,9 +506,31 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
         has_text = any(b.get("text", "").strip() for b in blocks if isinstance(b, dict))
         if not has_text and not content.get("html") and not content.get("src"):
             content = None
-    # Fallback to English content as last resort
+    # Fallback chain: translated → adapted → content (English)
+    if not content and version_key == "translated":
+        content = card.get("adapted")
+        # Re-check semantic emptiness for adapted fallback
+        if isinstance(content, dict):
+            blocks = content.get("blocks", [])
+            has_text = any(b.get("text", "").strip() for b in blocks if isinstance(b, dict))
+            if not has_text and not content.get("html") and not content.get("src"):
+                content = None
+    # English original as absolute last resort — but ONLY for non-text cards
+    # (images, dividers, HTML tables). Text cards must never fall back to
+    # English; missing translated text is preferable to wrong-language text.
     if not content:
-        content = card.get("content")
+        if card_type in ("image", "divider", "divider_noline"):
+            content = card.get("content")
+        elif not strict_fallback and version_key != "translated":
+            # For original/adapted pipelines, English fallback is fine
+            content = card.get("content")
+        else:
+            # Check if content has HTML (tables are structural, not language-specific)
+            eng_content = card.get("content")
+            if isinstance(eng_content, dict) and "html" in eng_content:
+                content = eng_content
+            elif isinstance(eng_content, dict) and eng_content.get("src"):
+                content = eng_content  # Image src in dict form
 
     if not content:
         return {"md_text": "", "asset_id": None}
@@ -530,6 +553,11 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
         return {"md_text": md_text, "asset_id": None}
 
     md_text = parse_rich_text_block(content)
+
+    # Strip redundant bold from heading-type cards — the ### / #### prefix
+    # already implies emphasis; wrapping in ** creates double-bold markers.
+    if card_type in ("header", "subheader", "alphabetical") and md_text:
+        md_text = re.sub(r'^\*\*(.+?)\*\*$', r'\1', md_text.strip())
 
     if not md_text and card_type in ("divider", "divider_noline", "image"):
         if card_type in ("divider", "divider_noline"):
@@ -571,7 +599,7 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
     elif card_type == "header":
         prefix = "### "
     elif card_type == "subheader":
-        prefix = "#### "
+        prefix = "## "
     elif card_type == "ul":
         lines = [line for line in md_text.splitlines() if line.strip()]
         md_text = "\n".join([f"- {line}" for line in lines])
@@ -650,118 +678,6 @@ def convert_about_to_md_versions(about_doc):
         "translated": "\n\n".join(versions["translated"]) if versions["translated"] else "\n\n".join(versions["content"])
     }
 
-def analyze_and_migrate_json(data, resource, output_base_path: str, asset_version: str):
-    versions = {"master": [], "adapted": [], "translated": []}
-    assets = {"master": [], "adapted": [], "translated": []}
-    generated_paths = {}
-
-    doc_title = data.get("description") or "Untitled Document"
-
-    # Handle structured content (action-cards, procedures) vs simple cards
-    if resource in ("action-cards", "procedures"):
-        chapters = data.get("chapters", [])
-        for v in versions.values():
-            v.append(f"# {doc_title}")  # Removed :: suffix from utility version to be cleaner? utility had ::
-            # Utility version: v.append(f"# {doc_title}::") -> why ::? 
-            # I will keep utility behavior if uncertain, but :: looks like a bug or specific marker.
-            # actually utility had ::. I will stick to what utility had to be safe, or just standard markdown.
-            # Standard markdown is safer since LME renders it. I'll drop the :: unless requested.
-        
-        for chapter in chapters:
-            cards = chapter.get("cards", [])
-            default_title = chapter.get("description") or "Untitled Chapter"
-            
-            # Extract localized chapter title from the first header card
-            chap_versions = {
-                "master": default_title,
-                "adapted": default_title,
-                "translated": default_title,
-            }
-            cards_to_process = cards
-            
-            if cards:
-                from text_utils import parse_rich_text_block
-                first_card = cards[0]
-                if first_card.get("type") in ("header", "subheader", "alphabetical"):
-                    version_key_map = {
-                        "master": "content",
-                        "adapted": "adapted",
-                        "translated": "translated"
-                    }
-                    for v_name, vk in version_key_map.items():
-                        header_block = first_card.get(vk)
-                        # Semantic check skipping empty blocks
-                        if isinstance(header_block, dict):
-                            hb_blocks = header_block.get("blocks", [])
-                            if not any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict)):
-                                header_block = None
-                                
-                        # Fallback for translated: adapted -> content
-                        if not header_block and vk == "translated":
-                            header_block = first_card.get("adapted")
-                            if isinstance(header_block, dict) and not any(b.get("text", "").strip() for b in header_block.get("blocks", []) if isinstance(b, dict)):
-                                header_block = None
-                                
-                        if not header_block:
-                            header_block = first_card.get("content")
-                            
-                        header_text = parse_rich_text_block(header_block) if isinstance(header_block, dict) else ""
-                        if header_text and header_text.strip():
-                            chap_versions[v_name] = header_text.strip()
-                            
-                    # Skip the first card since we used it as the header
-                    cards_to_process = cards[1:]
-
-            versions["master"].append(f"## {chap_versions['master']}")
-            versions["adapted"].append(f"## {chap_versions['adapted']}")
-            versions["translated"].append(f"## {chap_versions['translated']}")
-
-            for card in cards_to_process:
-                master = process_card(card, "content", asset_version)
-                adapted = process_card(card, "adapted", asset_version)
-                translated = process_card(card, "translated", asset_version)
-
-                if master["md_text"]: versions["master"].append(master["md_text"])
-                if adapted["md_text"]: versions["adapted"].append(adapted["md_text"])
-                if translated["md_text"]: versions["translated"].append(translated["md_text"])
-
-                if master.get("asset_id"): assets["master"].append(master["asset_id"]) 
-                if adapted.get("asset_id"): assets["adapted"].append(adapted["asset_id"]) 
-                if translated.get("asset_id"): assets["translated"].append(translated["asset_id"]) 
-
-            for v in versions.values():
-                v.append("---")
-    else:
-        # Flat structure
-        for card in data.get("cards", []):
-            master = process_card(card, "content", asset_version)
-            adapted = process_card(card, "adapted", asset_version)
-            translated = process_card(card, "translated", asset_version)
-
-            versions["master"].append(master["md_text"])
-            versions["adapted"].append(adapted["md_text"])
-            versions["translated"].append(translated["md_text"])
-
-            if master.get("asset_id"): assets["master"].append(master["asset_id"])
-            if adapted.get("asset_id"): assets["adapted"].append(adapted["asset_id"])
-            if translated.get("asset_id"): assets["translated"].append(translated["asset_id"])
-
-    # Save files
-    master_path = f"{output_base_path}_master.md"
-    save_markdown_file(master_path, versions["master"])
-    generated_paths["master"] = master_path
-
-    if any(versions["adapted"]):
-        adapted_path = f"{output_base_path}_adapted.md"
-        save_markdown_file(adapted_path, versions["adapted"])
-        generated_paths["adapted"] = adapted_path
-
-    if any(versions["translated"]):
-        translated_path = f"{output_base_path}_translated.md"
-        save_markdown_file(translated_path, versions["translated"])
-        generated_paths["translated"] = translated_path
-
-    return {"assets": assets, "paths": generated_paths}
 
 
 def convert_action_card_to_markdown_files(
@@ -914,16 +830,21 @@ def convert_action_card_to_markdown_files(
             if content_card["md_text"]:
                 versions["original"].append(content_card["md_text"])
 
+            # Get genuine adapted text (no English fallback) so translated can safely fallback to it
+            raw_adapted_card = process_card(card, "adapted", asset_version, strict_fallback=True)
+            
             adapted_card = process_card(card, "adapted", asset_version)
             if not adapted_card["md_text"]:
                 adapted_card = content_card
             if adapted_card["md_text"]:
                 versions["adapted"].append(adapted_card["md_text"])
 
-            translated_card = process_card(card, "translated", asset_version)
+            translated_card = process_card(card, "translated", asset_version, strict_fallback=True)
             if not translated_card["md_text"]:
-                # Fallback: adapted → English content (keep English as last resort)
-                translated_card = adapted_card if adapted_card["md_text"] else content_card
+                # Fallback to REAL adapted only — never English content_card.
+                # raw_adapted_card is the result before adapted's own English fallback.
+                if raw_adapted_card["md_text"]:
+                    translated_card = raw_adapted_card
             if translated_card["md_text"]:
                 versions["translated"].append(translated_card["md_text"])
 
