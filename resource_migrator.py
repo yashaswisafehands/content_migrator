@@ -14,7 +14,8 @@ from azure.cosmos import CosmosClient
 from configs import (
     POST_RESOURCE, UPDATE_RESOURCE, ACTIVATE_RESOURCE_VERSION,
     JWT_TOKEN, LME_BASE_URL,
-    POST_KLP, UPDATE_KLP, ACTIVATE_KLP_VERSION
+    POST_KLP, UPDATE_KLP, ACTIVATE_KLP_VERSION,
+    DATABASE_NAME
 )
 from data_models import ResourcePostRequestData
 from factories import DataFactory
@@ -1348,7 +1349,7 @@ class ResourceMigrator:
                     language_id=cosmos_lang_id,
                     allowed_versions=(["original"] if is_global_module else None),
                     resource_type="action-card",
-                    screens_container=self.db.get_container_client("screens")
+                    screens_container=self.cosmos_client.get_database_client(DATABASE_NAME).get_container_client("screens")
                 )
 
                 valid_resources = self._select_valid_resource_versions(
