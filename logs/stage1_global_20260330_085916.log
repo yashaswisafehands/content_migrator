@@ -1,0 +1,327 @@
+🌍 MODE: Global Data Migration
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+  🔄 Fetching all existing certificates from LME for caching...
+  ✅ Cached 0 existing certificates from API.
+🚀 Starting GLOBAL content migration (queue stage)...
+Scanning global modules...
+Found 21 active global modules in Cosmos DB.
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'infection-prevention_1487676001934' using CSV.
+  actionCards: 5 keys overridden from CSV
+  procedures: 8 keys overridden from CSV
+  drugs: 11 keys overridden from CSV
+  keyLearningPoints: 72 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 5 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 03205fe6-f8d5-df0f-46f2-2e52afc11632: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'post-abortion-care_1487676484604' using CSV.
+  actionCards: 8 keys overridden from CSV
+  procedures: 6 keys overridden from CSV
+  drugs: 16 keys overridden from CSV
+  keyLearningPoints: 37 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 8 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 66d5fc29-e846-5e4f-b0d3-ae1ebe8ff510: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'hypertension_1487677992452' using CSV.
+  actionCards: 16 keys overridden from CSV
+  procedures: 7 keys overridden from CSV
+  drugs: 10 keys overridden from CSV
+  keyLearningPoints: 47 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 16 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module f82e5ca7-4622-de36-54de-60cd4164dd75: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'active-management-of-third-stage-labour_1487678773861' using CSV.
+  actionCards: 7 keys overridden from CSV
+  procedures: 4 keys overridden from CSV
+  drugs: 9 keys overridden from CSV
+  keyLearningPoints: 40 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 7 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 1ab86ea0-59d5-050e-2519-34232841f22f: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'prolonged-labour_1487678855904' using CSV.
+  actionCards: 7 keys overridden from CSV
+  procedures: 7 keys overridden from CSV
+  drugs: 2 keys overridden from CSV
+  keyLearningPoints: 56 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 7 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module b1ce4dc8-ebeb-f334-38d5-911a002e71c7: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'post-partum-hemorrhage_1487678905876' using CSV.
+  actionCards: 13 keys overridden from CSV
+  procedures: 11 keys overridden from CSV
+  drugs: 19 keys overridden from CSV
+  keyLearningPoints: 88 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 13 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module a77e74b2-03f5-fb35-e176-83ec8101dc86: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'manual-removal-of-placenta_1487678949720' using CSV.
+  actionCards: 3 keys overridden from CSV
+  procedures: 8 keys overridden from CSV
+  drugs: 16 keys overridden from CSV
+  keyLearningPoints: 64 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 3 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module c47cceb0-fe1c-fd20-afd2-9c3a0424b00d: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'maternal-sepsis_1487679043550' using CSV.
+  actionCards: 10 keys overridden from CSV
+  procedures: 5 keys overridden from CSV
+  drugs: 14 keys overridden from CSV
+  keyLearningPoints: 43 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 10 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 50753df5-9a8b-cc66-66e9-131e3fe39537: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'neonatal-resuscitation_1487679104279' using CSV.
+  actionCards: 18 keys overridden from CSV
+  procedures: 0 keys overridden from CSV
+  drugs: 5 keys overridden from CSV
+  keyLearningPoints: 37 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 18 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 6cd27a58-302e-4d40-25bd-f3df753b77a5: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'newborn-management_1487679126990' using CSV.
+  actionCards: 18 keys overridden from CSV
+  procedures: 6 keys overridden from CSV
+  drugs: 10 keys overridden from CSV
+  keyLearningPoints: 46 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 18 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 3ece6b55-e036-9dfb-9253-be96d043a7ab: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'female-genital-mutilation_1494414132178' using CSV.
+  actionCards: 2 keys overridden from CSV
+  procedures: 2 keys overridden from CSV
+  drugs: 4 keys overridden from CSV
+  keyLearningPoints: 36 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 2 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module db1e52e2-cca1-ea7f-6c08-cceb962c70cd: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'low-birth-weight_1536047907931' using CSV.
+  actionCards: 18 keys overridden from CSV
+  procedures: 9 keys overridden from CSV
+  drugs: 17 keys overridden from CSV
+  keyLearningPoints: 40 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 18 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 64e9e2a3-8004-877b-89f5-1a2aef47936d: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'covid-19_1585220085931' using CSV.
+  actionCards: 11 keys overridden from CSV
+  procedures: 12 keys overridden from CSV
+  drugs: 0 keys overridden from CSV
+  keyLearningPoints: 39 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 11 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 06e71510-0815-0efc-e882-560c53c1efc7: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'normal-labour-and-birth_1591261731571' using CSV.
+  actionCards: 2 keys overridden from CSV
+  procedures: 17 keys overridden from CSV
+  drugs: 3 keys overridden from CSV
+  keyLearningPoints: 39 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 2 action cards for module
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/main.py", line 331, in <module>
+    main()
+  File "/home/azureuser/test/content_migrator/main.py", line 315, in main
+    global_migrator.migrate_all_global_content()
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 38, in migrate_all_global_content
+    self._migrate_global_modules()
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1326, in _migrate_action_card_resources
+    global_doc = self._fetch_table_doc("action-cards", action_card_key, "")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1127, in _fetch_table_doc
+    results = list(
+              ^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/paging.py", line 136, in __next__
+    return next(self._page_iterator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/paging.py", line 82, in __next__
+    self._response = self._get_next(self.continuation_token)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_query_iterable.py", line 116, in _fetch_next
+    block = self._ex_context.fetch_next_block()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/execution_dispatcher.py", line 142, in fetch_next_block
+    return self._execution_context.fetch_next_block()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 81, in fetch_next_block
+    self._ensure()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 66, in _ensure
+    results = self._fetch_next_block()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 220, in _fetch_next_block
+    return self._fetch_items_helper_with_retries(self._fetch_function)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 163, in _fetch_items_helper_with_retries
+    return execute_fetch()
+           ^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 144, in execute_fetch
+    return _retry_utility.Execute(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 132, in Execute
+    result = ExecuteFunction(function, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 279, in ExecuteFunction
+    return function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 142, in callback
+    return self._fetch_items_helper_no_retries(fetch_function)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_execution_context/base_execution_context.py", line 123, in _fetch_items_helper_no_retries
+    (fetched_items, response_headers) = fetch_function(new_options)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_cosmos_client_connection.py", line 1166, in fetch_fn
+    return self.__QueryFeed(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_cosmos_client_connection.py", line 3333, in __QueryFeed
+    result, last_response_headers = self.__Post(path, request_params, query, req_headers, **kwargs)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_cosmos_client_connection.py", line 3010, in __Post
+    return synchronized_request.SynchronizedRequest(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_synchronized_request.py", line 236, in SynchronizedRequest
+    return _retry_utility.Execute(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 129, in Execute
+    result = ExecuteFunction(function, global_endpoint_manager, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 279, in ExecuteFunction
+    return function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_synchronized_request.py", line 150, in _Request
+    response = _PipelineRunFunction(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_synchronized_request.py", line 205, in _PipelineRunFunction
+    return pipeline_client._pipeline.run(request, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 242, in run
+    return first_node.send(pipeline_request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  [Previous line repeated 1 more time]
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/cosmos/_retry_utility.py", line 369, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 98, in send
+    response = self.next.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  [Previous line repeated 1 more time]
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/_base.py", line 130, in send
+    self._sender.send(request.http_request, **request.context.options),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/azure/core/pipeline/transport/_requests_basic.py", line 375, in send
+    response = self.session.request(  # type: ignore
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 1448, in getresponse
+    response.begin()
+  File "/usr/lib/python3.12/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 1252, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 1104, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

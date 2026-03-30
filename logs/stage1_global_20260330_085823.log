@@ -1,0 +1,338 @@
+🌍 MODE: Global Data Migration
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+No existing resource slug mapping found, starting fresh
+No existing KLP slug mapping found, starting fresh
+[csv_resource_map] Loaded 21 modules from CSV resource map.
+  🔄 Fetching all existing certificates from LME for caching...
+  ✅ Cached 0 existing certificates from API.
+🚀 Starting GLOBAL content migration (queue stage)...
+Scanning global modules...
+Found 21 active global modules in Cosmos DB.
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'infection-prevention_1487676001934' using CSV.
+  actionCards: 5 keys overridden from CSV
+  procedures: 8 keys overridden from CSV
+  drugs: 11 keys overridden from CSV
+  keyLearningPoints: 72 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 5 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 03205fe6-f8d5-df0f-46f2-2e52afc11632: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'post-abortion-care_1487676484604' using CSV.
+  actionCards: 8 keys overridden from CSV
+  procedures: 6 keys overridden from CSV
+  drugs: 16 keys overridden from CSV
+  keyLearningPoints: 37 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 8 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 66d5fc29-e846-5e4f-b0d3-ae1ebe8ff510: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'hypertension_1487677992452' using CSV.
+  actionCards: 16 keys overridden from CSV
+  procedures: 7 keys overridden from CSV
+  drugs: 10 keys overridden from CSV
+  keyLearningPoints: 47 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 16 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module f82e5ca7-4622-de36-54de-60cd4164dd75: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'active-management-of-third-stage-labour_1487678773861' using CSV.
+  actionCards: 7 keys overridden from CSV
+  procedures: 4 keys overridden from CSV
+  drugs: 9 keys overridden from CSV
+  keyLearningPoints: 40 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 7 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 1ab86ea0-59d5-050e-2519-34232841f22f: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'prolonged-labour_1487678855904' using CSV.
+  actionCards: 7 keys overridden from CSV
+  procedures: 7 keys overridden from CSV
+  drugs: 2 keys overridden from CSV
+  keyLearningPoints: 56 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 7 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module b1ce4dc8-ebeb-f334-38d5-911a002e71c7: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'post-partum-hemorrhage_1487678905876' using CSV.
+  actionCards: 13 keys overridden from CSV
+  procedures: 11 keys overridden from CSV
+  drugs: 19 keys overridden from CSV
+  keyLearningPoints: 88 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 13 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module a77e74b2-03f5-fb35-e176-83ec8101dc86: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'manual-removal-of-placenta_1487678949720' using CSV.
+  actionCards: 3 keys overridden from CSV
+  procedures: 8 keys overridden from CSV
+  drugs: 16 keys overridden from CSV
+  keyLearningPoints: 64 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 3 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module c47cceb0-fe1c-fd20-afd2-9c3a0424b00d: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'maternal-sepsis_1487679043550' using CSV.
+  actionCards: 10 keys overridden from CSV
+  procedures: 5 keys overridden from CSV
+  drugs: 14 keys overridden from CSV
+  keyLearningPoints: 43 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 10 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 50753df5-9a8b-cc66-66e9-131e3fe39537: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'neonatal-resuscitation_1487679104279' using CSV.
+  actionCards: 18 keys overridden from CSV
+  procedures: 0 keys overridden from CSV
+  drugs: 5 keys overridden from CSV
+  keyLearningPoints: 37 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 18 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 6cd27a58-302e-4d40-25bd-f3df753b77a5: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'newborn-management_1487679126990' using CSV.
+  actionCards: 18 keys overridden from CSV
+  procedures: 6 keys overridden from CSV
+  drugs: 10 keys overridden from CSV
+  keyLearningPoints: 46 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 18 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 3ece6b55-e036-9dfb-9253-be96d043a7ab: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'female-genital-mutilation_1494414132178' using CSV.
+  actionCards: 2 keys overridden from CSV
+  procedures: 2 keys overridden from CSV
+  drugs: 4 keys overridden from CSV
+  keyLearningPoints: 36 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 2 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module db1e52e2-cca1-ea7f-6c08-cceb962c70cd: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'low-birth-weight_1536047907931' using CSV.
+  actionCards: 18 keys overridden from CSV
+  procedures: 9 keys overridden from CSV
+  drugs: 17 keys overridden from CSV
+  keyLearningPoints: 40 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 18 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 64e9e2a3-8004-877b-89f5-1a2aef47936d: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'covid-19_1585220085931' using CSV.
+  actionCards: 11 keys overridden from CSV
+  procedures: 12 keys overridden from CSV
+  drugs: 0 keys overridden from CSV
+  keyLearningPoints: 39 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 11 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 06e71510-0815-0efc-e882-560c53c1efc7: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'normal-labour-and-birth_1591261731571' using CSV.
+  actionCards: 2 keys overridden from CSV
+  procedures: 17 keys overridden from CSV
+  drugs: 3 keys overridden from CSV
+  keyLearningPoints: 39 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 2 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 16c37cc0-78ce-1e48-1bbd-c81ba2d37259: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'care-of-the-sick-newborn_1603184625690' using CSV.
+  actionCards: 11 keys overridden from CSV
+  procedures: 7 keys overridden from CSV
+  drugs: 12 keys overridden from CSV
+  keyLearningPoints: 38 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 11 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 98b507fc-97aa-97fe-ca54-3effd1cbec1d: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'safe-abortion_1644479689460' using CSV.
+  actionCards: 12 keys overridden from CSV
+  procedures: 5 keys overridden from CSV
+  drugs: 14 keys overridden from CSV
+  keyLearningPoints: 36 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 12 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module a1325bd5-8433-f20d-f232-1fdfbdb3cab9: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'perinatal-mental-health_1669629618366' using CSV.
+  actionCards: 5 keys overridden from CSV
+  procedures: 5 keys overridden from CSV
+  drugs: 0 keys overridden from CSV
+  keyLearningPoints: 39 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 5 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module b3b0875e-2607-76f0-91f0-56da53aa0e12: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'modern-contraception_1676540153643' using CSV.
+  actionCards: 11 keys overridden from CSV
+  procedures: 5 keys overridden from CSV
+  drugs: 18 keys overridden from CSV
+  keyLearningPoints: 57 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 11 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 6408fb81-ea23-18ae-da5d-b83472ab2a64: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'antenatal-care_1681981997823' using CSV.
+  actionCards: 7 keys overridden from CSV
+  procedures: 9 keys overridden from CSV
+  drugs: 27 keys overridden from CSV
+  keyLearningPoints: 38 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 7 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 3c79ba4b-2a31-412e-0a7b-4eebb4e0786d: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'postnatal-care_1708335696684' using CSV.
+  actionCards: 3 keys overridden from CSV
+  procedures: 2 keys overridden from CSV
+  drugs: 20 keys overridden from CSV
+  keyLearningPoints: 46 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 3 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module 1889cdca-2fc1-e371-244b-a6be13045972: 'ResourceMigrator' object has no attribute 'db'
+[ModuleMigrator] Overriding Cosmos structure for GLOBAL module 'gestational-diabetes-mellitus_1710222725035' using CSV.
+  actionCards: 10 keys overridden from CSV
+  procedures: 6 keys overridden from CSV
+  drugs: 3 keys overridden from CSV
+  keyLearningPoints: 36 keys overridden from CSV
+  Step 1: Preparing module resources (queue)...
+No existing resource slug mapping found, starting fresh
+  ℹ️  Skipping videos for global module (no global video originals)
+  → Migrating 10 action cards for module
+Mapping language:   
+⚠ ERROR: Captured Exception (See errors.log for details)
+Error migrating global module e27930ed-394e-9dd3-2005-6bd4291aa293: 'ResourceMigrator' object has no attribute 'db'
+Successfully queued 0/21 global modules.
+Scanning global action-cards/actionCards...
+Found 167 global action-cards/actionCards (deduplicated from 167 raw results).
+Downloading icon asset from https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/newborn_management_pediatric_drugs_and_fluids.png
+Cached and saved asset_id for https://sdacms.blob.core.windows.net/content/assets/images/africa/icon/actioncard/newborn_management_pediatric_drugs_and_fluids.png: 30204bf4f1e245699b42d07714d9cd1f
+Downloading: daily_fluid_requirements.png
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/main.py", line 331, in <module>
+    main()
+  File "/home/azureuser/test/content_migrator/main.py", line 315, in main
+    global_migrator.migrate_all_global_content()
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 43, in migrate_all_global_content
+    self._migrate_global_table_multi(
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 240, in _migrate_global_table_multi
+    self._process_single_global_resource(doc, resource_tag, table_name)
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 260, in _process_single_global_resource
+    resources = DataFactory.create_action_card_resources(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/factories.py", line 1290, in create_action_card_resources
+    md_files = convert_action_card_to_markdown_files(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/md_converter_new.py", line 913, in convert_action_card_to_markdown_files
+    content_card = process_card(card, "content", asset_version)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/md_converter_new.py", line 553, in process_card
+    image_upload = DataFactory.get_or_upload_asset_with_local_cache(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/factories.py", line 316, in get_or_upload_asset_with_local_cache
+    if not cls.download_media(source_url, local_path):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/factories.py", line 270, in download_media
+    response = requests.get(url, stream=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/.local/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 1042, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.12/ssl.py", line 1320, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt

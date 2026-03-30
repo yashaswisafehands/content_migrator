@@ -53768,3 +53768,1033 @@ Traceback (most recent call last):
 requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8005/assets/action-card/upload
 
 ==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 325, in migrate_module_resources
+    action_card_ids = self._migrate_action_card_resources(module_doc)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 1351, in _migrate_action_card_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 356, in migrate_module_resources
+    drug_ids = self._migrate_drug_resources(module_doc, module_icon_asset_id)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 632, in _migrate_drug_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/global_migrator.py", line 182, in _migrate_global_modules
+    self.module_migrator._migrate_single_module(mod)
+  File "/home/azureuser/test/content_migrator/module_migrator.py", line 292, in _migrate_single_module
+    resource_slugs = self.resource_migrator.migrate_module_resources(resource_source_doc, global_module_title=slug_source_title)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 330, in migrate_module_resources
+    procedure_ids = self._migrate_procedure_resources(module_doc)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/azureuser/test/content_migrator/resource_migrator.py", line 508, in _migrate_procedure_resources
+    screens_container=self.db.get_container_client("screens")
+                      ^^^^^^^
+AttributeError: 'ResourceMigrator' object has no attribute 'db'
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/action-card/upload
+
+==================================================
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+Captured Exception
+Traceback (most recent call last):
+  File "/home/azureuser/test/content_migrator/factories.py", line 644, in _upload_asset
+    upload_response.raise_for_status()
+  File "/home/azureuser/.local/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://135.225.105.160:8004/assets/procedure/upload
+
+==================================================
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
+⚠ WARNING: 404 Missing Resource: Captured Exception (Skipped stacktrace for clarity)
