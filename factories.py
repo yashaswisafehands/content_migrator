@@ -1271,7 +1271,12 @@ class DataFactory:
                 if chapter_key:
                     screen_key = f"chapter:{chapter_key}"
                     try:
-                        query = "SELECT * FROM c WHERE c._table = 'screens' AND c.key = @key AND c.langId = @langId"
+                        query = (
+                            "SELECT TOP 1 * FROM c WHERE c._table = 'screens' "
+                            "AND c.langId = @langId "
+                            "AND STARTSWITH(c.key, @key) "
+                            "ORDER BY c._ts DESC"
+                        )
                         parameters = [
                             {"name": "@key", "value": screen_key},
                             {"name": "@langId", "value": lang_id}
@@ -1284,7 +1289,11 @@ class DataFactory:
                             chapter["screen_translated_title"] = screen_doc.get("translated")
                             chapter["screen_adapted_title"] = screen_doc.get("adapted")
                             chapter["screen_content_title"] = screen_doc.get("content")
+                        else:
+                            print(f"  ℹ️  No screen found for chapter key prefix: {screen_key}")
                     except Exception as e:
+                        from error_logger import log_error
+                        log_error(f"Failed to fetch screen for chapter {chapter_key}", exc=e)
                         print(f"  ⚠ Failed to fetch screen for chapter {chapter_key}: {e}")
 
         md_files = convert_action_card_to_markdown_files(

@@ -505,7 +505,7 @@ class ResourceMigrator:
                 global_doc=identity_doc,
                 language_id=cosmos_lang_id, 
                 resource_type="procedure",
-                screens_container=self.cosmos_client.get_database_client(DATABASE_NAME).get_container_client("screens")
+                screens_container=self.container
             )
             
             valid_resources = self._select_valid_resource_versions(resources, cosmos_lang_id)
@@ -629,7 +629,7 @@ class ResourceMigrator:
                 language_id=cosmos_lang_id, 
                 resource_type="drug",
                 module_icon_asset_id=module_icon_asset_id,  # PASS MODULE ICON
-                screens_container=self.cosmos_client.get_database_client(DATABASE_NAME).get_container_client("screens")
+                screens_container=self.container
             )
             
             valid_resources = self._select_valid_resource_versions(resources, cosmos_lang_id)
@@ -1349,7 +1349,7 @@ class ResourceMigrator:
                     language_id=cosmos_lang_id,
                     allowed_versions=(["original"] if is_global_module else None),
                     resource_type="action-card",
-                    screens_container=self.cosmos_client.get_database_client(DATABASE_NAME).get_container_client("screens")
+                    screens_container=self.container
                 )
 
                 valid_resources = self._select_valid_resource_versions(
