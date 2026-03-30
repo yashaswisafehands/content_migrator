@@ -569,9 +569,9 @@ def process_card(card: dict, version_key: str, asset_version: str) -> dict:
     elif card_type == "important_text":
         prefix = "> "
     elif card_type == "header":
-        prefix = "# "
+        prefix = "### "
     elif card_type == "subheader":
-        prefix = "## "
+        prefix = "#### "
     elif card_type == "ul":
         lines = [line for line in md_text.splitlines() if line.strip()]
         md_text = "\n".join([f"- {line}" for line in lines])
@@ -835,60 +835,80 @@ def convert_action_card_to_markdown_files(
         if not cards and ("content" in chapter or "adapted" in chapter or "translated" in chapter):
             cards = [chapter]
 
-        # ── Bug 2.1/2.2/2.3 fix: Extract chapter title from first header card
-        # per version (localised), use '# Chapter:' heading, and skip header
-        # card from the card loop to avoid rendering it twice. ──
-        cards_to_process = cards
-        if cards:
-            first_card = cards[0]
-            if first_card.get("type") == "header":
-                version_key_map = {
-                    "original": "content",
-                    "adapted": "adapted",
-                    "translated": "translated",
-                }
-                for v_name, vk in version_key_map.items():
-                    header_block = first_card.get(vk)
-                    # Semantic check: skip empty translated dicts
+        # ── Chapter heading resolution ──
+        # PRIORITY: Use translated chapter headings from the Cosmos DB `screens`
+        # table (injected into chapter dict by factories.py as
+        # screen_translated_title / screen_adapted_title / screen_content_title).
+        # FALLBACK: Extract from the first header card's Draft.js blocks.
+        # LAST RESORT: chapter.description (English).
+        #
+        # When the first card is a heading-type card (header/subheader/alphabetical)
+        # and it was used as the chapter title source OR screens data is present,
+        # we skip it from the body loop to avoid rendering the title twice.
+
+        version_key_map = {
+            "original": "content",
+            "adapted": "adapted",
+            "translated": "translated",
+        }
+
+        # Determine if the first card is a heading-type card
+        first_card_is_heading = (
+            cards
+            and cards[0].get("type") in ("header", "subheader", "alphabetical")
+        )
+        # Track whether we successfully obtained a chapter title (any version)
+        got_chapter_title = False
+
+        for v_name, vk in version_key_map.items():
+            # 1. Screens table data (best source for localised titles)
+            screen_key_map = {
+                "original": "screen_content_title",
+                "adapted": "screen_adapted_title",
+                "translated": "screen_translated_title",
+            }
+            chapter_title = chapter.get(screen_key_map[v_name])
+
+            # Fallback for translated: adapted → content
+            if not chapter_title and v_name == "translated":
+                chapter_title = chapter.get("screen_adapted_title")
+            if not chapter_title and v_name in ("translated", "adapted"):
+                chapter_title = chapter.get("screen_content_title")
+
+            # 2. First header card fallback (used when screens data absent)
+            if not chapter_title and first_card_is_heading:
+                first_card = cards[0]
+                header_block = first_card.get(vk)
+                # Semantic check: skip empty translated dicts
+                if isinstance(header_block, dict):
+                    hb_blocks = header_block.get("blocks", [])
+                    hb_has_text = any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict))
+                    if not hb_has_text:
+                        header_block = None
+                # Translated fallback: adapted → content
+                if not header_block and vk == "translated":
+                    header_block = first_card.get("adapted")
                     if isinstance(header_block, dict):
                         hb_blocks = header_block.get("blocks", [])
-                        hb_has_text = any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict))
-                        if not hb_has_text:
+                        if not any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict)):
                             header_block = None
-                    # Fallback chain: adapted → scan next header cards → English content
-                    if not header_block and vk == "translated":
-                        header_block = first_card.get("adapted")
-                        if isinstance(header_block, dict):
-                            hb_blocks = header_block.get("blocks", [])
-                            if not any(b.get("text", "").strip() for b in hb_blocks if isinstance(b, dict)):
-                                header_block = None
-                    # Scan remaining cards for a translated header/subheader
-                    if not header_block and vk in ("translated", "adapted"):
-                        for scan_card in cards[1:]:
-                            if scan_card.get("type") in ("header", "subheader", "alphabetical"):
-                                candidate = scan_card.get(vk)
-                                if isinstance(candidate, dict) and any(
-                                    b.get("text", "").strip() for b in candidate.get("blocks", []) if isinstance(b, dict)
-                                ):
-                                    header_block = candidate
-                                    break
-                    # Final fallback: English content (keeps heading, avoids "Untitled")
-                    if not header_block:
-                        header_block = first_card.get("content")
-                    header_text = parse_rich_text_block(header_block) if isinstance(header_block, dict) else ""
-                    if not header_text:
-                        header_text = chapter.get("description", "")
-                    if header_text:
-                        versions[v_name].append(f"# Chapter: {header_text}")
-                cards_to_process = cards[1:]  # skip first header card
-            else:
-                # No header card — fall back to description (English) for all versions
-                chap_title = chapter.get("description")
-                if chap_title:
-                    for v in versions.values():
-                        v.append(f"# Chapter: {chap_title}")
+                if not header_block:
+                    header_block = first_card.get("content")
+                header_text = parse_rich_text_block(header_block) if isinstance(header_block, dict) else ""
+                if header_text and header_text.strip():
+                    chapter_title = header_text.strip()
 
-        for card in cards_to_process:
+            # 3. Last resort: English description
+            if not chapter_title:
+                chapter_title = chapter.get("description", "")
+
+            if chapter_title:
+                versions[v_name].append(f"# Chapter: {chapter_title}")
+
+        # Process ALL cards — the chapter heading is an external metadata
+        # wrapper sourced from screens/description; first card is ALWAYS
+        # a body card (rendered as ### by process_card) and must not be skipped.
+        for card in cards:
             # Process each version
             content_card = process_card(card, "content", asset_version)
             if content_card["md_text"]:
@@ -928,10 +948,30 @@ def convert_action_card_to_markdown_files(
         suffix = "_".join([bit for bit in suffix_bits if bit])
         
         path = os.path.join(output_dir, f"{safe_title}_{suffix}.md")
-        # Join with double newlines
+        # Join with double newlines (one blank line between card blocks)
         final_text = "\n\n".join(parts)
-        
-        # Apply strict mobile formatting
+
+        # ── List compaction ─────────────────────────────────────────────
+        # DraftJS stores every step as a separate unstyled card, so the
+        # card loop injects \n\n between them.  When consecutive cards are
+        # numbered/lettered/bulleted plain-text items (e.g. "1.\tStep"),
+        # those double newlines cause Markdown parsers to split them into
+        # independent <p> elements rather than a single <ol>/<ul>.
+        # This pass collapses the gap between adjacent list-like lines so
+        # the renderer sees one continuous block.
+        #
+        # Pattern matches a line that starts with a list marker FOLLOWED
+        # immediately by \n\n and THEN another list marker line.
+        # We replace \n\n with \n (single newline) to merge them.
+        _LIST_MARKER = r"[ \t]*(?:\d+[.)]|[a-zA-Z][.)\]]|[*\-•])[\t ]+"
+        final_text = re.sub(
+            r"(" + _LIST_MARKER + r"[^\n]+)\n\n(?=" + _LIST_MARKER + r")",
+            r"\1\n",
+            final_text,
+            flags=re.MULTILINE,
+        )
+        # ────────────────────────────────────────────────────────────────
+
         # Determine effective title
         effective_title = title
         if version_name == "translated" and translated_title:

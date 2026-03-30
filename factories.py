@@ -525,10 +525,13 @@ class DataFactory:
                     ext = ".png"
 
             # Save temporarily
+            base_name = os.path.basename(asset_path)
+            name_without_ext = os.path.splitext(base_name)[0]
+            
             if asset_name_prefix:
                 temp_filename = f"{asset_name_prefix}{ext}"
             else:
-                temp_filename = f"temp_asset_{os.path.basename(asset_path)}{ext}"
+                temp_filename = f"{name_without_ext}{ext}"
                 
             # clean filename
             temp_path = temp_filename.replace("/", "_").replace("\\", "_").replace(" ", "_").replace(":", "_")
@@ -1188,7 +1191,8 @@ class DataFactory:
         language_id: str = "",
         allowed_versions: Optional[List[str]] = None,
         resource_type: str = "action-card",
-        module_icon_asset_id: Optional[str] = None  # NEW: Accept module icon
+        module_icon_asset_id: Optional[str] = None,  # NEW: Accept module icon
+        screens_container = None  # NEW: Pass cosmos DB screens container to fetch translated headings
     ) -> list:
         """Create resource data from action-card document (or similar structured docs like drugs/procedures).
 
@@ -1258,6 +1262,31 @@ class DataFactory:
         # CONTENT RULE: Use Local Doc for Markdown Generation
         temp_dir = get_temp_directory()
         temp_dir.mkdir(parents=True, exist_ok=True)
+
+        # FETCH CHAPTER HEADINGS FROM SCREENS TABLE
+        if screens_container and lang_id:
+            chapters = action_card_doc.get("chapters", [])
+            for chapter in chapters:
+                chapter_key = chapter.get("key")
+                if chapter_key:
+                    screen_key = f"chapter:{chapter_key}"
+                    try:
+                        query = "SELECT * FROM c WHERE c._table = 'screens' AND c.key = @key AND c.langId = @langId"
+                        parameters = [
+                            {"name": "@key", "value": screen_key},
+                            {"name": "@langId", "value": lang_id}
+                        ]
+                        screens = list(screens_container.query_items(
+                            query=query, parameters=parameters, enable_cross_partition_query=True
+                        ))
+                        if screens:
+                            screen_doc = screens[0]
+                            chapter["screen_translated_title"] = screen_doc.get("translated")
+                            chapter["screen_adapted_title"] = screen_doc.get("adapted")
+                            chapter["screen_content_title"] = screen_doc.get("content")
+                    except Exception as e:
+                        print(f"  ⚠ Failed to fetch screen for chapter {chapter_key}: {e}")
+
         md_files = convert_action_card_to_markdown_files(
             action_card_doc,
             output_dir=str(temp_dir),
