@@ -139,6 +139,13 @@ class _HTMLToMarkdownParser(HTMLParser):
             self._current_cell = ""
             if tag == "th":
                 self._cell_is_header = True
+            
+            # Keep track of colspan so we can automatically align markdown pipes later
+            colspan = attrs_dict.get("colspan")
+            if colspan and colspan.isdigit():
+                self._current_colspan = int(colspan)
+            else:
+                self._current_colspan = 1
 
         # Silently skip wrapper/semantic tags
         # (handled via _skip_tags in end-tag or by doing nothing here)
@@ -194,8 +201,15 @@ class _HTMLToMarkdownParser(HTMLParser):
             if self._cell_is_header:
                 self._current_row_has_header = True
             self._current_row.append(cell_text)
+            
+            # Automatically insert empty padding cells to compensate for HTML colspans!
+            # This ensures that smaller body rows don't cascade misaligned underneath the header.
+            for _ in range(getattr(self, "_current_colspan", 1) - 1):
+                self._current_row.append("")
+                
             self._current_cell = ""
             self._cell_is_header = False
+            self._current_colspan = 1
         elif tag == "tr":
             if self._current_row:
                 # Detect header row via the flag set when <th> cells were found
@@ -349,35 +363,43 @@ def apply_styles(text: str, style_ranges: list) -> str:
     color_ranges.sort(
         key=lambda r: r.get("offset", 0) + r.get("length", 0), reverse=True
     )
+    
+    _color_insertions = []
+    
     for r in color_ranges:
         offset = r.get("offset", 0)
         length = r.get("length", 0)
         style = r.get("style", "")
-        color_name = style.lower()
+        
+        # Explicitly map GREY text to the Brand Pink Hex, but preserve original 
+        # CMS colors (e.g., Red, Pink, Blue) exactly as the authors requested.
+        if style.upper() in ("GREY", "GRAY"):
+            mapped_color = "#b5093f"
+        else:
+            mapped_color = style.lower()
+            
         text_len = len(text)
         if offset < 0 or offset > text_len:
             continue
         end = min(offset + length, text_len)
+        
+        open_tag = f'<color style="{mapped_color}">'
+        close_tag = '</color>'
+        
         text = (
             text[:offset]
-            + f'<color style="#b5093f">**'
+            + open_tag
             + text[offset:end]
-            + '**</color>'
+            + close_tag
             + text[end:]
         )
+        
+        # Record insertions for BOLD shift adjustment in Pass 2
+        _color_insertions.append((offset, len(open_tag), end, len(close_tag)))
 
     # --- Pass 2: BOLD (right-to-left, after color tags are inserted) ---
     # Recalculate offsets: for each bold range, count how many color-tag
     # characters were inserted before it and shift accordingly.
-    # We need to adjust bold offsets because color tags were inserted.
-    _color_insertions = []
-    for r in style_ranges:
-        if r.get("style", "") in _COLOR_STYLES:
-            ofs = r.get("offset", 0)
-            ln = r.get("length", 0)
-            open_tag_len = len('<color style="#b5093f">**')
-            close_tag_len = len("**</color>")
-            _color_insertions.append((ofs, open_tag_len, ofs + ln, close_tag_len))
 
     bold_ranges.sort(
         key=lambda r: r.get("offset", 0) + r.get("length", 0), reverse=True
@@ -595,7 +617,12 @@ def process_card(card: dict, version_key: str, asset_version: str, strict_fallba
     if card_type == "alphabetical":
         prefix = "### "
     elif card_type == "important_text":
-        prefix = "> "
+        prefix = ""
+        if md_text:
+            # Drop the '> ' blockquote prefix entirely to avoid the native grey pipe.
+            # Instead, force the text block into our brand's bold pink format.
+            cleaned_text = re.sub(r'^\*\*(.*?)\*\*$', r'\1', md_text.strip(), flags=re.DOTALL)
+            md_text = f'<color style="#b5093f">**{cleaned_text}**</color>'
     elif card_type == "header":
         prefix = "### "
     elif card_type == "subheader":
