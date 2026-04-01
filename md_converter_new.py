@@ -32,6 +32,7 @@ class _HTMLToMarkdownParser(HTMLParser):
         self._in_italic: bool = False
         self._in_code: bool = False
         self._in_blockquote: bool = False
+        self._current_link_href: Optional[str] = None  # href of the innermost <a>
         self._heading_level: int = 0         # 0 = not in heading
         # Table state
         self._in_table: bool = False
@@ -102,6 +103,10 @@ class _HTMLToMarkdownParser(HTMLParser):
         # ------- Blockquote -------
         elif tag == "blockquote":
             self._in_blockquote = True
+
+        # ------- Links -------
+        elif tag == "a":
+            self._current_link_href = attrs_dict.get("href", "") or ""
 
         # ------- Inline emphasis -------
         elif tag in ("strong", "b"):
@@ -186,6 +191,17 @@ class _HTMLToMarkdownParser(HTMLParser):
         # ------- Blockquote -------
         elif tag == "blockquote":
             self._in_blockquote = False
+
+        # ------- Links -------
+        elif tag == "a":
+            href = self._current_link_href
+            link_text = self._inline_buf
+            self._inline_buf = ""
+            self._current_link_href = None
+            if href:
+                self._inline_buf += f"[{link_text.strip()}]({href})"
+            else:
+                self._inline_buf += link_text
 
         # ------- Inline emphasis -------
         elif tag in ("strong", "b"):
@@ -446,7 +462,27 @@ def parse_rich_text_block(content_block: dict) -> str:
             styles = [s for s in styles if s.get("style") not in ("BOLD", "ITALIC")]
             
         styled = apply_styles(text, styles)
-        
+
+        # Auto-link bare URLs: wrap http(s)://... in <url> unless already inside
+        # a markdown link [text](url), image ![](url), or angle-bracket <url>.
+        def _autolink_urls(s: str) -> str:
+            def _wrap(m: re.Match) -> str:
+                url = m.group(0)
+                # Strip trailing sentence punctuation (.,;:!?) that isn't part
+                # of the URL itself (e.g. "...pdf." → <...pdf>.)
+                trailing = ""
+                while url and url[-1] in ".,;:!?)":
+                    trailing = url[-1] + trailing
+                    url = url[:-1]
+                return f"<{url}>{trailing}" if url else m.group(0)
+            return re.sub(
+                r'(?<![(<\[!])(?<!\]\()https?://[^\s)\]>]+',
+                _wrap,
+                s,
+            )
+        styled = _autolink_urls(styled)
+
+
         if block_type == "blockquote":
             styled = f"> {styled}"
             
